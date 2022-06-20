@@ -1,6 +1,6 @@
 # vim-plugin-list
 This is a list of plugins.
-TODO: categorize and document
+_TODO: categorize and document_
 
 * 0styx0/abbreinder.nvim
 * 0styx0/abbremand.nvim
