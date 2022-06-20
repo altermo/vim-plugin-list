@@ -1,6 +1,6 @@
-# n.vim-plugin-list
+# vim-plugin-list
 This is a list of plugins.
-TODO: sort and document
+TODO: categorize and document
 
 * 0styx0/abbreinder.nvim
 * 0styx0/abbremand.nvim
