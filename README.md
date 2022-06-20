@@ -187,6 +187,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * mzlogin/vim-markdown-toc
 * nathanaelkane/vim-indent-guides
 * navarasu/onedark.nvim
+* neoclide/coc.nvim
 * neovim/nvim-lspconfig
 * nightsense/cosmic_latte
 * nikvdp/neomux
