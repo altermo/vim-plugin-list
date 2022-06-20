@@ -2,7 +2,7 @@
 This is a list of plugins.
 _TODO: categorize and document_
 
-_NOTE: this list may contain github mirrors_
+_NOTE: this list may contain  mirrors._
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
