@@ -10,23 +10,21 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 ## Coding
 ### highlighting
   * ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-    * Tags: highlighting, [treesitter](#treesitter)
+    * Tags: [treesitter](#treesitter), highlighting
     * Requirements: neovim 7.0 or more
     * Adds treesitter for neovim
-
 ## Command
 ### Explorer
-  * ###### [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-    * Tags: [lua](#lua), [FZF](#FZF)
+  * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+    * Tags: [lua](#lua), FZF
     * Requiers: [nvim-lua/plenary.nvim](#nvim-lua/plenary.nvim)
     * Requirements: neovim 7.0 or more
     * Lua based fuzzy finder
   * [preservim/nerdtree](https://github.com/preservim/nerdtree)
-    * Tags: [tree](#tree)
-    * A popular sidebar explorer
+    * Tags: tree
     * Optional/extensions: [ryanoasis/vim-devicons](#ryanoasis/vim-devicons)
-
-# Other
+    * A popular sidebar explorer
+# Non-documented-list
 * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
 * [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim)
 * [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
@@ -302,7 +300,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [numirias/semshi](https://github.com/numirias/semshi)
 * [numtostr/comment.nvim](https://github.com/numtostr/comment.nvim)
 * [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-* [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
+* ###### [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 * [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim)
 * [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 * [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
@@ -366,7 +364,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [rrethy/vim-illuminate](https://github.com/rrethy/vim-illuminate)
 * [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim)
 * [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim)
-* [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
+* ###### [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
 * [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame)
 * [s1n7ax/nvim-lazy-inner-block](https://github.com/s1n7ax/nvim-lazy-inner-block)
 * [s1n7ax/nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace)
@@ -522,7 +520,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [zgpio/brew.nvim](https://github.com/zgpio/brew.nvim)
 * [zgpio/tree.nvim](https://github.com/zgpio/tree.nvim)
 * [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim)
-
 # Tags
 * ###### treesitter
 related to [nvim-treesitter](#nvim-treesitternvim-treesitter)

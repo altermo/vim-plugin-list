@@ -1,4 +1,5 @@
 {
+    "forcelink":["nvim-treesitter/nvim-treesitter"],
     "tags":{
         "treesitter":"related to [nvim-treesitter](#nvim-treesitternvim-treesitter)",
         "lua":"is writen primarily in lua insted of vim-script"
@@ -6,13 +7,13 @@
     "plugins":{
         "Coding":{
             "highlighting":{
-                "nvim-treesitter/nvim-treesitter":{"linktags":["treesitter"],"tags":["highlighting"],"docs":"Adds treesitter for neovim","requirements":["neovim 7.0 or more"],"islinked":true,"last-update":"2022/06/21"}
+                "nvim-treesitter/nvim-treesitter":{"tags":["treesitter","highlighting"],"docs":"Adds treesitter for neovim","requirements":["neovim 7.0 or more"],"last-update":"2022/06/21"}
             }
         },
         "Command":{
             "Explorer":{
-                "nvim-telescope/telescope.nvim":{"linktags":["lua","FZF"],"docs":"Lua based fuzzy finder","requirements":["neovim 7.0 or more"],"requiers":["nvim-lua/plenary.nvim"],"islinked":true,"comment":"optinal TODO","last-update":"2022/06/21"},
-                "preservim/nerdtree":{"linktags":["tree"],"docs":"A popular sidebar explorer","optional":{"ryanoasis/vim-devicons":"adds icons"},"last-update":"2022/06/21"
+                "nvim-telescope/telescope.nvim":{"tags":["lua","FZF"],"docs":"Lua based fuzzy finder","requirements":["neovim 7.0 or more"],"requiers":["nvim-lua/plenary.nvim"],"comment":"optinal TODO","last-update":"2022/06/21"},
+                "preservim/nerdtree":{"tags":["tree"],"docs":"A popular sidebar explorer","optional":{"ryanoasis/vim-devicons":"adds icons"},"last-update":"2022/06/21"
                 }
             }
         }
