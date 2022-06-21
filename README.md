@@ -8,7 +8,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
 # Code-specific
 * ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-  * Tags: highlighting[treesitter](treesitter)
+  * Tags: highlighting, [treesitter](treesitter)
   * Requirements: neovim 7.0 or more
   * Adds treesitter to neovim
 
