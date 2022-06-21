@@ -45,6 +45,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
 '''
     #TODO: add jump list
+    out+=f'# Documented-list\n'
     for i,subplugdict in data.get('plugins',{}).items():
         out+=f'## {i}\n'
         for j,plugs in subplugdict.items():
