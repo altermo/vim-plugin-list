@@ -6,6 +6,11 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
+# syntax* ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+  * Tags: highlighting[treesitter](treesitter)
+  * Requirements: neovim 7.0 or more
+  * Adds treesitter to neovim
+
 * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
 * [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim)
 * [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
@@ -292,7 +297,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim)
 * [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim)
 * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-* [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 * [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor)
 * [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 * [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)
