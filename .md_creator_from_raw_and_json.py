@@ -47,9 +47,9 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
     #TODO: add tag list
     #TODO: add jump list
     for i,subplugdict in data.get('plugins',{}).items():
-        out+=f'# {i}\n'
+        out+=f'## {i}\n'
         for j,plugs in subplugdict.items():
-            out+=f'## {j}\n'
+            out+=f'### {j}\n'
             for k,plugdata in plugs.items():
                 rawlist.remove(k)
                 out+=doc_from_plug(plugdata,k)
