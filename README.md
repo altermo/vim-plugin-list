@@ -20,7 +20,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
     * Requiers: [nvim-lua/plenary.nvim](#nvim-lua/plenary.nvim)
     * Requirements: neovim 7.0 or more
     * Lua based fuzzy finder
-    * Optional/extensions: [TODO...](#TODO...)
   * [preservim/nerdtree](https://github.com/preservim/nerdtree)
     * Tags: [tree](#tree)
     * A popular sidebar explorer
