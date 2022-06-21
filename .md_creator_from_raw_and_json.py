@@ -44,6 +44,8 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
 '''
+    #TODO: add tag list
+    #TODO: add jump list
     for i,subplugdict in data.get('plugins',{}).items():
         out+=f'# {i}\n'
         for j,plugs in subplugdict.items():
