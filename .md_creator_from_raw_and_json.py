@@ -10,6 +10,7 @@ def doc_from_plug(plugdata:dict,plug:str)->str:
     if tags or linktags:
         doc+='  * Tags: '
         doc+=', '.join(tags)
+        if tags and linktags:docs+=', '
         doc+=', '.join(f'[{i}]({i})' for i in linktags)
         doc+='\n'
     if plugdata.get('requiers',[]):
