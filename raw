@@ -302,6 +302,8 @@ paulocesar/neovim-db
 pechorin/any-jump.vim
 pgdouyon/vim-accio
 phaazon/hop.nvim
+philrunninger/nerdtree-buffer-ops
+philrunninger/nerdtree-visual-selection
 pianocomposer321/project-templates.nvim
 potatoesmaster/i3-vim-syntax
 powerman/vim-plugin-ansiesc
@@ -351,6 +353,7 @@ savq/paq-nvim
 sbdchd/neoformat
 scrooloose/nerdcommenter
 scrooloose/nerdtree
+scrooloose/nerdtree-project-plugin
 scrooloose/syntastic
 severin-lemaignan/vim-minimap
 sgur/vim-editorconfig
@@ -479,6 +482,7 @@ wsdjeg/flygrep.vim
 wsdjeg/vim-cheat
 xolox/vim-misc
 xolox/vim-session
+xuyuanp/nerdtree-git-plugin
 yegappan/mru
 yehuohan/popc
 yggdroot/indentline
