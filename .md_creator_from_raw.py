@@ -3,9 +3,11 @@ def main():
         text=f.read()
     pre=r'''# vim-plugin-list
 This is a list of plugins.
-_TODO: categorize and document_
+_TODO: categorize, document and remove not plugins_
 
-_NOTE: this list may contain  mirrors._
+_NOTE: this list may contain mirrors._
+
+_NOTE: this list may contain:extensions to plugins, links that are not working and other things that are not related to vim plugins._
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 '''
