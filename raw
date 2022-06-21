@@ -320,6 +320,7 @@ raimondi/delimitmate
 ray-x/cmp-treesitter
 ray-x/lsp_signature.nvim
 rbgrouleff/bclose.vim
+rcarriga/nvim-notify
 rhysd/clever-f.vim
 rhysd/git-messenger.vim
 ripxorip/aerojump.nvim
@@ -340,6 +341,7 @@ rust-lang/rust.vim
 ryanoasis/vim-devicons
 s1n7ax/nvim-comment-frame
 s1n7ax/nvim-lazy-inner-block
+s1n7ax/nvim-search-and-replace
 s1n7ax/nvim-terminal
 s1n7ax/nvim-window-picker
 saadparwaiz1/cmp_luasnip
@@ -428,6 +430,7 @@ tpope/vim-unimpaired
 tpope/vim-vinegar
 tracyone/neomake-multiprocess
 tversteeg/registers.nvim
+tversteeg/registers.đvim
 tyru/open-browser.vim
 tzachar/cmp-tabnine
 unblevable/quick-scope
