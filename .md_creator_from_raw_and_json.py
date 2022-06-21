@@ -11,7 +11,7 @@ def doc_from_plug(plugdata:dict,plug:str)->str:
         doc+='  * Tags: '
         doc+=', '.join(tags)
         if tags and linktags:doc+=', '
-        doc+=', '.join(f'[{i}]({i})' for i in linktags)
+        doc+=', '.join(f'[{i}](#{i})' for i in linktags)
         doc+='\n'
     if plugdata.get('requiers',[]):
         doc+='  * Requiers: '
@@ -44,6 +44,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
             rawlist.remove(j)
             out+=doc_from_plug(plugins.get(i,{}).get(j,{}),j)
         out+='\n'
+    out+=f'# Other\n'
     out+='\n'.join(f'* [{i}](https://github.com/{i})' for i in rawlist)
     with open('README.md','w') as f:
         f.write(out)
