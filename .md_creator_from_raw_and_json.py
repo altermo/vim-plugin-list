@@ -56,7 +56,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
     out+=f'# Other\n'
     out+='\n'.join(f'* [{i}](https://github.com/{i})' for i in rawlist)
 
-    out+='\n\n'
+    out+='\n\n# Tags\n'
     for name,tagdata in data.get('tags').items():
         out+=(f'* ###### {name}\n{tagdata}\n')
     with open('README.md','w') as f:

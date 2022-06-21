@@ -522,6 +522,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [zgpio/tree.nvim](https://github.com/zgpio/tree.nvim)
 * [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim)
 
+# Tags
 * ###### treesitter
 related to [nvim-treesitter](#nvim-treesitternvim-treesitter)
 * ###### lua
