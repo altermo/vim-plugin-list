@@ -17,7 +17,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 ### Explorer
   * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
     * Tags: [lua](#lua), FZF
-    * Requiers: [nvim-lua/plenary.nvim](#nvim-luaplenary.nvim)
+    * Requiers: [nvim-lua/plenary.nvim](#nvim-luaplenarynvim)
     * Requirements: neovim 7.0 or more
     * Lua based fuzzy finder
   * [preservim/nerdtree](https://github.com/preservim/nerdtree)
