@@ -37,12 +37,13 @@ class Assembler:
                 for name,plugdata in subcategory.items():
                     self.raw.remove(name)
                     self.doc_from_plug(name,plugdata)
-    def doc_from_plug(self,name:str,plugdata:dict)->None:
-        doc=''
+    def pluglinkweb(self,name:str)->str:
         if name in self.linkplugs:
-            doc+=f'{self.ind1} ###### [{name}](https://github.com/{name})\n'
+            return f'{self.ind1} ###### [{name}](https://github.com/{name})\n'
         else:
-            doc+=f'{self.ind1} [{name}](https://github.com/{name})\n'
+            return f'{self.ind1} [{name}](https://github.com/{name})\n'
+    def doc_from_plug(self,name:str,plugdata:dict)->None:
+        doc=self.pluglinkweb(name)
         if (tags:=plugdata.get('tags',[])):
             doc+=f'{self.ind2} Tags: '+', '.join(self.tolink(i) if i in self.linktags else i for i in tags)+'\n'
         doc+=self.list2str(f'{self.ind2} Requiers',[self.plugtolink(i) for i in plugdata.get('requiers',[])])
@@ -63,7 +64,7 @@ class Assembler:
         else:return ''
     def create_raw(self)->None:
         self.text+='# Non-documented-list\n'
-        self.text+='\n'.join(f'* ###### [{i}](https://github.com/{i})' if i in self.linkplugs else f'* [{i}](https://github.com/{i})' for i in self.raw)+'\n'
+        self.text+='\n'.join(self.pluglinkweb(i) for i in self.raw)+'\n'
     def create_tags(self)->None:
         self.text+='# Tags\n'
         self.text+='\n'.join(f'* ###### {name}\n{tagdata}' for name,tagdata in self.tags.items())
