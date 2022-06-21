@@ -1,4 +1,9 @@
 import json
+def list2str(title:str,x:list)->str:
+    if len(x):return title+': '+', '.join(x)+'\n'
+    else:return ''
+def list_link(x:list)->list:
+    return [f'[{i}](#{i})' for i in x]
 def doc_from_plug(plugdata:dict,plug:str,level=1)->str:
     ind1='  '*level+'*'
     ind2='  '+'  '*level+'*'
@@ -15,20 +20,11 @@ def doc_from_plug(plugdata:dict,plug:str,level=1)->str:
         if tags and linktags:doc+=', '
         doc+=', '.join(f'[{i}](#{i})' for i in linktags)
         doc+='\n'
-    if plugdata.get('requiers',[]):
-        doc+=f'{ind2} Requiers: '
-        doc+=', '.join(f'[{i}](#{i})' for i in plugdata.get('requiers',[]))
-        doc+='\n'
-    if plugdata.get('requirements',[]):
-        doc+=f'{ind2} Requirements: '
-        doc+=', '.join(plugdata.get('requirements',[]))
-        doc+='\n'
-    if plugdata.get('docs',''):
-        doc+=f'{ind2} '+plugdata.get('docs','')+'\n'
-    if plugdata.get('optional',[]):
-        doc+=f'{ind2} Optional/extensions: ' #TODO: add small doc of what they extends
-        doc+=', '.join(f'[{i}](#{i})' for i in plugdata.get('optional',[]))
-        doc+='\n'
+    doc+=list2str(f'{ind2} Requiers',list_link(plugdata.get('requiers',[])))
+    doc+=list2str(f'{ind2} Requirements',plugdata.get('requirements',[]))
+    if plugdata.get('docs',''):doc+=f'{ind2} '+plugdata.get('docs','')+'\n'
+    doc+=list2str(f'{ind2} Optional/extensions',list_link(plugdata.get('optional',[])))
+     #TODO: add small doc of what they extends
     return doc
 def main():
     with open('raw') as f:
