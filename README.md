@@ -6,6 +6,7 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
+# Documented-list
 ## Coding
 ### highlighting
   * ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
