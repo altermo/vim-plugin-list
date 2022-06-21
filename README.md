@@ -6,15 +6,15 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
-# Coding
-## highlighting
+## Coding
+### highlighting
   * ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
     * Tags: highlighting, [treesitter](#treesitter)
     * Requirements: neovim 7.0 or more
     * Adds treesitter for neovim
 
-# Command
-## Explorer
+## Command
+### Explorer
   * ###### [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
     * Tags: [lua](#lua), [FZF](#FZF)
     * Requiers: [nvim-lua/plenary.nvim](#nvim-lua/plenary.nvim)
