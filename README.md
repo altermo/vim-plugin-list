@@ -7,10 +7,24 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
 # Coding
-* ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-  * Tags: highlighting, [treesitter](#treesitter)
-  * Requirements: neovim 7.0 or more
-  * Adds treesitter to neovim
+## highlighting
+  * ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+    * Tags: highlighting, [treesitter](#treesitter)
+    * Requirements: neovim 7.0 or more
+    * Adds treesitter for neovim
+
+# Command
+## Explorer
+  * ###### [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+    * Tags: [lua](#lua), [FZF](#FZF)
+    * Requiers: [nvim-lua/plenary.nvim](#nvim-lua/plenary.nvim)
+    * Requirements: neovim 7.0 or more
+    * Lua based fuzzy finder
+    * Optional/extensions: [TODO...](#TODO...)
+  * [preservim/nerdtree](https://github.com/preservim/nerdtree)
+    * Tags: [tree](#tree)
+    * A popular sidebar explorer
+    * Optional/extensions: [ryanoasis/vim-devicons](#ryanoasis/vim-devicons)
 
 # Other
 * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
@@ -298,7 +312,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)
 * [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim)
 * [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim)
-* [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 * [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor)
 * [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 * [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground)
@@ -320,7 +333,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [potatoesmaster/i3-vim-syntax](https://github.com/potatoesmaster/i3-vim-syntax)
 * [powerman/vim-plugin-ansiesc](https://github.com/powerman/vim-plugin-ansiesc)
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter)
-* [preservim/nerdtree](https://github.com/preservim/nerdtree)
 * [preservim/tagbar](https://github.com/preservim/tagbar)
 * [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie)
 * [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer)

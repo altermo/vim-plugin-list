@@ -1,28 +1,34 @@
 import json
-def doc_from_plug(plugdata:dict,plug:str)->str:
+def doc_from_plug(plugdata:dict,plug:str,level=1)->str:
+    ind1='  '*level+'*'
+    ind2='  '+'  '*level+'*'
     doc=''
-    if plugdata.get('islinked',False):
-        doc+=f'* ###### [{plug}](https://github.com/{plug})\n'
+    if plugdata.get('islinked',False): #TODO: auto is linked detector
+        doc+=f'{ind1} ###### [{plug}](https://github.com/{plug})\n'
     else:
-        doc+=f'* [{plug}](https://github.com/{plug})\n'
+        doc+=f'{ind1} [{plug}](https://github.com/{plug})\n'
     linktags=plugdata.get('linktags',[])
     tags=plugdata.get('tags',[])
     if tags or linktags:
-        doc+='  * Tags: '
+        doc+=f'{ind2} Tags: '
         doc+=', '.join(tags)
         if tags and linktags:doc+=', '
         doc+=', '.join(f'[{i}](#{i})' for i in linktags)
         doc+='\n'
     if plugdata.get('requiers',[]):
-        doc+='  * Requiers: '
-        doc+=', '.join(plugdata.get('requiers',[]))
+        doc+=f'{ind2} Requiers: '
+        doc+=', '.join(f'[{i}](#{i})' for i in plugdata.get('requiers',[]))
         doc+='\n'
     if plugdata.get('requirements',[]):
-        doc+='  * Requirements: '
+        doc+=f'{ind2} Requirements: '
         doc+=', '.join(plugdata.get('requirements',[]))
         doc+='\n'
     if plugdata.get('docs',''):
-        doc+='  * '+plugdata.get('docs','')+'\n'
+        doc+=f'{ind2} '+plugdata.get('docs','')+'\n'
+    if plugdata.get('optional',[]):
+        doc+=f'{ind2} Optional/extensions: ' #TODO: add small doc of what they extends
+        doc+=', '.join(f'[{i}](#{i})' for i in plugdata.get('optional',[]))
+        doc+='\n'
     return doc
 def main():
     with open('raw') as f:
@@ -38,11 +44,13 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
 '''
-    for i in (plugins:=data.get('plugins',{})):
+    for i,subplugdict in data.get('plugins',{}).items():
         out+=f'# {i}\n'
-        for j in plugins.get(i,{}):
-            rawlist.remove(j)
-            out+=doc_from_plug(plugins.get(i,{}).get(j,{}),j)
+        for j,plugs in subplugdict.items():
+            out+=f'## {j}\n'
+            for k,plugdata in plugs.items():
+                rawlist.remove(k)
+                out+=doc_from_plug(plugdata,k)
         out+='\n'
     out+=f'# Other\n'
     out+='\n'.join(f'* [{i}](https://github.com/{i})' for i in rawlist)

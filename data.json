@@ -1,10 +1,20 @@
 {
     "tags":{
-        "treesitter":"related to [nvim-treesitter](#nvim-treesitternvim-treesitter)"
+        "treesitter":"related to [nvim-treesitter](#nvim-treesitternvim-treesitter)",
+        "lua":"is writen primarily in lua insted of vim"
     },
     "plugins":{
         "Coding":{
-            "nvim-treesitter/nvim-treesitter":{"linktags":["treesitter"],"tags":["highlighting"],"docs":"Adds treesitter to neovim","requiers":[],"requirements":["neovim 7.0 or more"],"islinked":true,"comment":"this is a test"}
+            "highlighting":{
+                "nvim-treesitter/nvim-treesitter":{"linktags":["treesitter"],"tags":["highlighting"],"docs":"Adds treesitter for neovim","requirements":["neovim 7.0 or more"],"islinked":true}
+            }
+        },
+        "Command":{
+            "Explorer":{
+                "nvim-telescope/telescope.nvim":{"linktags":["lua","FZF"],"docs":"Lua based fuzzy finder","requirements":["neovim 7.0 or more"],"requiers":["nvim-lua/plenary.nvim"],"islinked":true,"optional":["TODO..."]},
+                "preservim/nerdtree":{"linktags":["tree"],"docs":"A popular sidebar explorer","optional":{"ryanoasis/vim-devicons":"adds icons"}
+                }
+            }
         }
     }
 }
