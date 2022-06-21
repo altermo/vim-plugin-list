@@ -1,0 +1,8 @@
+{
+    "tags":{
+        "treesitter":"related to [nvim-treesitter](#nvim-treesitternvim-treesitter)"
+    },
+    "plugins":{
+        "nvim-treesitter/nvim-treesitter":{"tags":["highlighting","treesitter"],"docs":"Is neovims main treesitter parser","requiers":[],"reqierments":["neovim 7.0 or more"],"islinked":true,"type":"syntax","comment":"this is a test"}
+    }
+}
