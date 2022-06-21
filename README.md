@@ -521,3 +521,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * [zgpio/brew.nvim](https://github.com/zgpio/brew.nvim)
 * [zgpio/tree.nvim](https://github.com/zgpio/tree.nvim)
 * [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim)
+
+* ###### treesitter
+related to [nvim-treesitter](#nvim-treesitternvim-treesitter)
+* ###### lua
+is writen primarily in lua insted of vim-script

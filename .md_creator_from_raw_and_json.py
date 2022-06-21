@@ -44,7 +44,6 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
 '''
-    #TODO: add tag list
     #TODO: add jump list
     for i,subplugdict in data.get('plugins',{}).items():
         out+=f'## {i}\n'
@@ -56,6 +55,10 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
         out+='\n'
     out+=f'# Other\n'
     out+='\n'.join(f'* [{i}](https://github.com/{i})' for i in rawlist)
+
+    out+='\n\n'
+    for name,tagdata in data.get('tags').items():
+        out+=(f'* ###### {name}\n{tagdata}\n')
     with open('README.md','w') as f:
         f.write(out)
 if __name__ == "__main__":
