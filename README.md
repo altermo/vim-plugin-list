@@ -7,23 +7,31 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
 # Documented-list
-## Coding
+## Code
 ### highlighting
+  * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
+    * Tags: highlighting, syntax, integration, LSP, NodeJS
+    * Requirements: neovim>=4.0 or vim>=8.0.1453, node>=12.12
+    * Adds ways to install LSP from vim via NodeJS and a few other things
+    * Readmore: [list-of-coc-apps](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
   * ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-    * Tags: [treesitter](#treesitter), highlighting, [neovim](#neovim)
-    * Requirements: neovim 7.0 or more
+    * Tags: [treesitter](#treesitter), highlighting, [neovim](#neovim), integration
+    * Requirements: neovim>=7.0
     * Adds treesitter support and treesitter highlighting to neovim
     * Readmore: [extensions](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins)
+  * [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
+    * Tags: highlighting
+    * A highlighting plugin collection which supports 99% of file types
 ## Command
 ### Explorer
   * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-    * Tags: [lua](#lua), FZF, [neovim](#neovim)
+    * Tags: [lua](#lua), FZF, [neovim](#neovim), explorer
     * Requiers: [nvim-lua/plenary.nvim](#nvim-luaplenarynvim)
-    * Requirements: neovim 7.0 or more
+    * Requirements: neovim>=7.0
     * Lua based fuzzy finder
     * Readmore: [optional](https://github.com/nvim-telescope/telescope.nvim#optional-dependencies), [extensions](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration)
   * [preservim/nerdtree](https://github.com/preservim/nerdtree)
-    * Tags: tree
+    * Tags: tree, explorer
     * A popular sidebar explorer
     * Readmore: [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
 # Non-documented-list
@@ -547,8 +555,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [ncm2/ncm2](https://github.com/ncm2/ncm2)
 
-  * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
-
   * [neomake/neomake](https://github.com/neomake/neomake)
 
   * [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
@@ -740,8 +746,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [sgur/vim-editorconfig](https://github.com/sgur/vim-editorconfig)
 
   * [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)
-
-  * [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
 
   * [shougo/defx.nvim](https://github.com/shougo/defx.nvim)
 

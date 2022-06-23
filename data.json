@@ -6,15 +6,17 @@
         "neovim":"only works with neovim and not vim"
     },
     "plugins":{
-        "Coding":{
+        "Code":{
             "highlighting":{
-                "nvim-treesitter/nvim-treesitter":{"tags":["treesitter","highlighting","neovim"],"docs":"Adds treesitter support and treesitter highlighting to neovim","requirements":["neovim 7.0 or more"],"last-update":"2022/06/23","readmore":{"extensions":"https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins"}}
+                "nvim-treesitter/nvim-treesitter":{"tags":["treesitter","highlighting","neovim","integration"],"docs":"Adds treesitter support and treesitter highlighting to neovim","requirements":["neovim>=7.0"],"last-update":"2022/06/23","readmore":{"extensions":"https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins"}},
+                "neoclide/coc.nvim":{"tags":["highlighting","syntax","integration","LSP","NodeJS"],"docs":"Adds ways to install LSP from vim via NodeJS and a few other things","last-update":"2022/06/23","readmore":{"list-of-coc-apps":"https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions"},"requirements":["neovim>=4.0 or vim>=8.0.1453","node>=12.12"]},
+                "sheerun/vim-polyglot":{"tags":["highlighting"],"docs":"A highlighting plugin collection which supports 99% of file types","last-update":"2022/06/23"}
             }
         },
         "Command":{
             "Explorer":{
-                "nvim-telescope/telescope.nvim":{"tags":["lua","FZF","neovim"],"docs":"Lua based fuzzy finder","requirements":["neovim 7.0 or more"],"requiers":["nvim-lua/plenary.nvim"],"last-update":"2022/06/23","readmore":{"optional":"https://github.com/nvim-telescope/telescope.nvim#optional-dependencies","extensions":"https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration"}},
-                "preservim/nerdtree":{"tags":["tree"],"docs":"A popular sidebar explorer","last-update":"2022/06/23","readmore":{"optional":"https://github.com/preservim/nerdtree#nerdtree-plugins"}
+                "nvim-telescope/telescope.nvim":{"tags":["lua","FZF","neovim","explorer"],"docs":"Lua based fuzzy finder","requirements":["neovim>=7.0"],"requiers":["nvim-lua/plenary.nvim"],"last-update":"2022/06/23","readmore":{"optional":"https://github.com/nvim-telescope/telescope.nvim#optional-dependencies","extensions":"https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration"}},
+                "preservim/nerdtree":{"tags":["tree","explorer"],"docs":"A popular sidebar explorer","last-update":"2022/06/23","readmore":{"optional":"https://github.com/preservim/nerdtree#nerdtree-plugins"}
                 }
             }
         }
