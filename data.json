@@ -1,4 +1,5 @@
 {
+    "recommend":{"for vim":{"file manager":"preservim/nerdtree","highlighting":"sheerun/vim-polyglot","syntax":"vim-syntastic/syntastic","undotree":"mbbill/undotree","FZF":"junegunn/fzf.vim","statusline":"vim-airline/vim-airline","statusline+tabline":"itchyny/lightline.vim","colorscheme1":"itchyny/lightline.vim","colorscheme2":"NTBBloodbath/doom-one.nvim","colorscheme3":"rafamadriz/neon","autocomplete":"neoclide/coc.nvim"},"for vim (non coders)":{"autocomplete":"skywind3000/vim-auto-popmenu"}},
     "forcelink":["nvim-treesitter/nvim-treesitter"],
     "tags":{
         "treesitter":"related to [nvim-treesitter](#nvim-treesitternvim-treesitter)",

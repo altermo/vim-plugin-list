@@ -13,6 +13,7 @@ class Assembler:
         self.init_tags()
         self.init_plugs()
         self.create_jumplist()
+        self.create_recommend()
         self.create_docs()
         self.create_raw()
         self.create_tags()
@@ -26,7 +27,11 @@ class Assembler:
                 for plugdata in subcategory.values():
                     self.linkplugs|=set(i for i in plugdata.get('requiers',[]))
                     self.linkplugs|=set(i for i in plugdata.get('optional',[]))
+        for recommend in self.data.get('recommend',{}).values():
+            self.linkplugs|=set(recommend.values())
     def create_jumplist(self)->None:
+        pass #TODO
+    def create_recommend(self)->None:
         pass #TODO
     def create_docs(self)->None:
         self.text+='# Documented-list\n'

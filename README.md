@@ -9,7 +9,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 # Documented-list
 ## Code
 ### highlighting
-  * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
+  * ###### [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
     * Tags: highlighting, syntax, integration, LSP, NodeJS
     * Requirements: neovim>=4.0 or vim>=8.0.1453, node>=12.12
     * Adds ways to install LSP from vim via NodeJS and a few other things
@@ -19,12 +19,12 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
     * Requirements: neovim>=7.0
     * Adds treesitter support and treesitter highlighting to neovim
     * Readmore: [extensions](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins), [supported-languages](https://github.com/nvim-treesitter/nvim-treesitter#supported-languages)
-  * [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
+  * ###### [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
     * Tags: highlighting
     * A highlighting plugin collection which supports 99% of file types
 ## Command
 ### Explorer
-  * [preservim/nerdtree](https://github.com/preservim/nerdtree)
+  * ###### [preservim/nerdtree](https://github.com/preservim/nerdtree)
     * Tags: tree, explorer
     * A popular sidebar explorer
     * Readmore: [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
@@ -383,7 +383,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [iron-e/nvim-libmodal](https://github.com/iron-e/nvim-libmodal)
 
-  * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
+  * ###### [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
 
   * [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
 
@@ -417,7 +417,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [junegunn/fzf](https://github.com/junegunn/fzf)
 
-  * [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
+  * ###### [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 
   * [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim)
 
@@ -565,7 +565,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [maxst/flatcolor](https://github.com/maxst/flatcolor)
 
-  * [mbbill/undotree](https://github.com/mbbill/undotree)
+  * ###### [mbbill/undotree](https://github.com/mbbill/undotree)
 
   * [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim)
 
@@ -759,7 +759,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
 
-  * [rafamadriz/neon](https://github.com/rafamadriz/neon)
+  * ###### [rafamadriz/neon](https://github.com/rafamadriz/neon)
 
   * [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad)
 
@@ -891,7 +891,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)
 
-  * [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
+  * ###### [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
 
   * [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui)
 
@@ -1025,7 +1025,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [vifm/vifm.vim](https://github.com/vifm/vifm.vim)
 
-  * [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
+  * ###### [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
 
   * [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 
@@ -1055,7 +1055,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [vim-scripts/sessionman.vim](https://github.com/vim-scripts/sessionman.vim)
 
-  * [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic)
+  * ###### [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic)
 
   * [vim-test/vim-test](https://github.com/vim-test/vim-test)
 
