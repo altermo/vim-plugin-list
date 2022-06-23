@@ -1,8 +1,9 @@
 import json
 class Assembler:
-    def __init__(self,rawlist:list,data:dict,pre:str)->None:
+    def __init__(self,rawlist:list,data:dict,pre:str,qdocs:list)->None:
         self.text=pre
         self.data=data
+        self.qdocs=qdocs
         self.raw=rawlist
         self.tags=self.data.get('tags',{})
         self.plugs=self.data.get('plugins',{})
@@ -15,6 +16,7 @@ class Assembler:
         self.create_jumplist()
         self.create_recommend()
         self.create_docs()
+        self.create_qdocs()
         self.create_raw()
         self.create_tags()
         return self.text
@@ -49,6 +51,12 @@ class Assembler:
                     self.raw.remove(name)
                     self.chech_plug(name,plugdata)
                     self.doc_from_plug(name,plugdata)
+    def create_qdocs(self)->None:
+        self.text+='# Quick-documented-list\n'
+        for i in self.qdocs:
+            name=i.split(':')[0].removesuffix(' ')
+            self.raw.remove(name)
+            self.text+='* '+i+'\n'
     def chech_plug(self,name:str,plugdata:dict)->None:
         if 'last-update' not in plugdata:
             raise Exception(f'{name} has no last-update')
@@ -95,6 +103,9 @@ def main():
         rawlist=f.read().split('\n')
     with open('data.json') as f:
         data=json.load(f)
+    with open('quick-data.txt') as f:
+        qdocs=f.read().split('\n')
+        if '' in qdocs:qdocs.remove('')
     pre=r'''# vim-plugin-list
 This is a list of plugins.
 _TODO: categorize, document and remove not plugins_
@@ -107,6 +118,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
 '''
     with open('README.md','w') as f:
-        f.write(Assembler(rawlist,data,pre).create())
+        f.write(Assembler(rawlist,data,pre,qdocs).create())
 if __name__=="__main__":
     main()
