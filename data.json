@@ -2,18 +2,19 @@
     "forcelink":["nvim-treesitter/nvim-treesitter"],
     "tags":{
         "treesitter":"related to [nvim-treesitter](#nvim-treesitternvim-treesitter)",
-        "lua":"is writen primarily in lua insted of vim-script"
+        "lua":"is writen primarily in lua insted of vim-script",
+        "neovim":"only works with neovim and not vim"
     },
     "plugins":{
         "Coding":{
             "highlighting":{
-                "nvim-treesitter/nvim-treesitter":{"tags":["treesitter","highlighting"],"docs":"Adds treesitter for neovim","requirements":["neovim 7.0 or more"],"last-update":"2022/06/21"}
+                "nvim-treesitter/nvim-treesitter":{"tags":["treesitter","highlighting","neovim"],"docs":"Adds treesitter support and treesitter highlighting to neovim","requirements":["neovim 7.0 or more"],"last-update":"2022/06/21","optional":{"extensions":"https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins"}}
             }
         },
         "Command":{
             "Explorer":{
-                "nvim-telescope/telescope.nvim":{"tags":["lua","FZF"],"docs":"Lua based fuzzy finder","requirements":["neovim 7.0 or more"],"requiers":["nvim-lua/plenary.nvim"],"comment":"optinal TODO","last-update":"2022/06/21"},
-                "preservim/nerdtree":{"tags":["tree"],"docs":"A popular sidebar explorer","optional":{"ryanoasis/vim-devicons":"adds icons"},"last-update":"2022/06/21"
+                "nvim-telescope/telescope.nvim":{"tags":["lua","FZF","neovim"],"docs":"Lua based fuzzy finder","requirements":["neovim 7.0 or more"],"requiers":["nvim-lua/plenary.nvim"],"last-update":"2022/06/23","optional":{"optional":"https://github.com/nvim-telescope/telescope.nvim#optional-dependencies","extensions":"https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration"}},
+                "preservim/nerdtree":{"tags":["tree"],"docs":"A popular sidebar explorer","last-update":"2022/06/23","optional":{"plugins":"https://github.com/preservim/nerdtree#nerdtree-plugins"}
                 }
             }
         }

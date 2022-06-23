@@ -1,5 +1,4 @@
 import json
-from typing import Iterable
 class Assembler:
     def __init__(self,rawlist:list,data:dict,pre:str)->None:
         self.text=pre
@@ -7,8 +6,9 @@ class Assembler:
         self.raw=rawlist
         self.tags=self.data.get('tags',{})
         self.plugs=self.data.get('plugins',{})
-        self.ind1='  '*1+'*'
-        self.ind2='  '*2+'*'
+        self.level=1
+        self.ind1='  '*self.level+'*'
+        self.ind2='  '*(self.level+1)+'*'
     def create(self)->str:
         self.init_tags()
         self.init_plugs()
@@ -34,7 +34,7 @@ class Assembler:
             self.text+=f'## {name}\n'
             for name,subcategory in maincategory.items():
                 self.text+=f'### {name}\n'
-                for name,plugdata in subcategory.items():
+                for name,plugdata in sorted(subcategory.items()):
                     self.raw.remove(name)
                     self.doc_from_plug(name,plugdata)
     def pluglinkweb(self,name:str)->str:
@@ -46,9 +46,12 @@ class Assembler:
         doc=self.pluglinkweb(name)
         if (tags:=plugdata.get('tags',[])):
             doc+=f'{self.ind2} Tags: '+', '.join(self.tolink(i) if i in self.linktags else i for i in tags)+'\n'
-        doc+=self.list2str(f'{self.ind2} Requiers',[self.plugtolink(i) for i in plugdata.get('requiers',[])])
-        doc+=self.list2str(f'{self.ind2} Requirements',plugdata.get('requirements',[]))
-        doc+=self.list2str(f'{self.ind2} Optional/extensions',[self.plugtolink(i) for i in plugdata.get('optional',[])])
+        doc+=self.list2str(f'{self.ind2} Requiers: ',[self.plugtolink(i) for i in plugdata.get('requiers',[])])
+        doc+=self.list2str(f'{self.ind2} Requirements: ',plugdata.get('requirements',[]))
+        if (optional:=plugdata.get('optional',{})):
+            doc+=f'{self.ind2} Optional/extensions: '
+            doc+=', '.join(f'[{k}]({v})' for k,v in optional.items())
+            doc+='\n'
         if (docs:=plugdata.get('docs','')):
             doc+=f'{self.ind2} '+docs+'\n'
         self.text+=doc
@@ -60,7 +63,7 @@ class Assembler:
         return f'[{x}](#{x.replace("/","").replace(".","")})'
     @staticmethod
     def list2str(title:str,x:list)->str:
-        if len(x):return title+': '+', '.join(x)+'\n'
+        if len(x):return title+', '.join(x)+'\n'
         else:return ''
     def create_raw(self)->None:
         self.text+='# Non-documented-list\n'
