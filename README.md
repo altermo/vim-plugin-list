@@ -2,6 +2,8 @@
 This is a list of plugins.
 _TODO: categorize, document and remove not plugins_
 
+_Pleas teal me if non main links should take you to its place in list or to its website?_
+
 _NOTE: this list may contain: mirrors, extensions to plugins, links that are not working and other things that are not related to vim plugins._
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
