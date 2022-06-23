@@ -9,33 +9,21 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 # recommended
 <details><summary>for vim</summary>
 
-* file manager : [preservim/nerdtree](#preservim/nerdtree)
-
-* highlighting : [sheerun/vim-polyglot](#sheerun/vim-polyglot)
-
-* syntax : [vim-syntastic/syntastic](#vim-syntastic/syntastic)
-
-* undotree : [mbbill/undotree](#mbbill/undotree)
-
-* FZF : [junegunn/fzf.vim](#junegunn/fzf.vim)
-
-* statusline : [vim-airline/vim-airline](#vim-airline/vim-airline)
-
-* statusline+tabline : [itchyny/lightline.vim](#itchyny/lightline.vim)
-
-* colorscheme1 : [itchyny/lightline.vim](#itchyny/lightline.vim)
-
-* colorscheme2 : [NTBBloodbath/doom-one.nvim](#NTBBloodbath/doom-one.nvim)
-
-* colorscheme3 : [rafamadriz/neon](#rafamadriz/neon)
-
-* autocomplete : [neoclide/coc.nvim](#neoclide/coc.nvim)
-
+* file manager : [preservim/nerdtree](#preservimnerdtree)
+* highlighting : [sheerun/vim-polyglot](#sheerunvim-polyglot)
+* syntax : [vim-syntastic/syntastic](#vim-syntasticsyntastic)
+* undotree : [mbbill/undotree](#mbbillundotree)
+* FZF : [junegunn/fzf.vim](#junegunnfzfvim)
+* statusline : [vim-airline/vim-airline](#vim-airlinevim-airline)
+* statusline+tabline : [itchyny/lightline.vim](#itchynylightlinevim)
+* colorscheme1 : [itchyny/lightline.vim](#itchynylightlinevim)
+* colorscheme2 : [NTBBloodbath/doom-one.nvim](#NTBBloodbathdoom-onenvim)
+* colorscheme3 : [rafamadriz/neon](#rafamadrizneon)
+* autocomplete : [neoclide/coc.nvim](#neoclidecocnvim)
 </details>
 <details><summary>for vim (non coders)</summary>
 
-* autocomplete : [skywind3000/vim-auto-popmenu](#skywind3000/vim-auto-popmenu)
-
+* autocomplete : [skywind3000/vim-auto-popmenu](#skywind3000vim-auto-popmenu)
 </details>
 
 # Documented-list

@@ -35,7 +35,7 @@ class Assembler:
         doc='# recommended\n'
         for name,recommend in self.data.get('recommend',{}).items():
             doc+=f'<details><summary>{name}</summary>\n\n'
-            doc+=''.join(f'* {typ} : [{name}](#{name})\n\n' for typ,name in recommend.items())
+            doc+=''.join(f'* {typ} : {self.plugtolink(name)}\n' for typ,name in recommend.items())
             doc+=f'</details>\n'
         doc+='\n'
         self.text+=doc
