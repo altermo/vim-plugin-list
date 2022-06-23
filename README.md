@@ -8,40 +8,12 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
-# recommended
-<details><summary>for vim</summary>
-
-* file manager : [preservim/nerdtree](#preservimnerdtree)
-* highlighting : [sheerun/vim-polyglot](#sheerunvim-polyglot)
-* syntax : [vim-syntastic/syntastic](#vim-syntasticsyntastic)
-* undotree : [mbbill/undotree](#mbbillundotree)
-* FZF : [junegunn/fzf.vim](#junegunnfzfvim)
-* statusline : [vim-airline/vim-airline](#vim-airlinevim-airline)
-* statusline+tabline : [itchyny/lightline.vim](#itchynylightlinevim)
-* colorscheme1 : [mjlbach/onedark.nvim](#mjlbachonedarknvim)
-* colorscheme2 : [NTBBloodbath/doom-one.nvim](#NTBBloodbathdoom-onenvim)
-* colorscheme3 : [rafamadriz/neon](#rafamadrizneon)
-* autocomplete : [neoclide/coc.nvim](#neoclidecocnvim)
-</details>
-<details><summary>other interesting</summary>
-
-* autocomplete : [skywind3000/vim-auto-popmenu](#skywind3000vim-auto-popmenu)
-* minimap : [severin-lemaignan/vim-minimap](#severin-lemaignanvim-minimap)
-* neorg : [nvim-neorg/neorg](#nvim-neorgneorg)
-* firefox integration : [glacambre/firenvim](#glacambrefirenvim)
-* cursor word : [itchyny/vim-cursorword](#itchynyvim-cursorword)
-* align text : [tommcdo/vim-lion](#tommcdovim-lion)
-* yankstack : [bfredl/nvim-miniyank](#bfredlnvim-miniyank)
-* sh commands in vimscript : [tpope/vim-eunuch](#tpopevim-eunuch)
-* translator : [voldikss/vim-translator](#voldikssvim-translator)
-* dirbuf : [elihunter173/dirbuf.nvim](#elihunter173dirbufnvim)
-* fastfold : [Konfekt/FastFold](#KonfektFastFold)
-</details>
+# Lists
 
 # Documented-list
 ## Code
 ### highlighting
-  * ###### [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
+  * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
     * Tags: highlighting, syntax, integration, LSP, NodeJS
     * Requirements: neovim>=4.0 or vim>=8.0.1453, node>=12.12
     * Adds ways to install LSP from vim via NodeJS and a few other things
@@ -51,12 +23,12 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
     * Requirements: neovim>=7.0
     * Adds treesitter support and treesitter highlighting to neovim
     * Readmore: [extensions](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins), [supported-languages](https://github.com/nvim-treesitter/nvim-treesitter#supported-languages)
-  * ###### [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
+  * [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
     * Tags: highlighting
     * A highlighting plugin collection which supports 99% of file types
 ## Command
 ### Explorer
-  * ###### [preservim/nerdtree](https://github.com/preservim/nerdtree)
+  * [preservim/nerdtree](https://github.com/preservim/nerdtree)
     * Tags: tree, explorer
     * A popular sidebar explorer
     * Readmore: [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
@@ -137,7 +109,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev)
 
-  * ###### [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank)
+  * [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank)
 
   * [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview)
 
@@ -263,7 +235,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [edolphin-ydf/goimpl.nvim](https://github.com/edolphin-ydf/goimpl.nvim)
 
-  * ###### [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
+  * [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
 
   * [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
 
@@ -335,7 +307,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim)
 
-  * ###### [glacambre/firenvim](https://github.com/glacambre/firenvim)
+  * [glacambre/firenvim](https://github.com/glacambre/firenvim)
 
   * [glench/vim-jinja2-syntax](https://github.com/glench/vim-jinja2-syntax)
 
@@ -419,9 +391,9 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [iron-e/nvim-libmodal](https://github.com/iron-e/nvim-libmodal)
 
-  * ###### [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
+  * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
 
-  * ###### [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
+  * [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
 
   * [jalvesaq/nvim-r](https://github.com/jalvesaq/nvim-r)
 
@@ -453,7 +425,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [junegunn/fzf](https://github.com/junegunn/fzf)
 
-  * ###### [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
+  * [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 
   * [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim)
 
@@ -601,7 +573,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [maxst/flatcolor](https://github.com/maxst/flatcolor)
 
-  * ###### [mbbill/undotree](https://github.com/mbbill/undotree)
+  * [mbbill/undotree](https://github.com/mbbill/undotree)
 
   * [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim)
 
@@ -633,7 +605,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [mjbrownie/vim-htmldjango_omnicomplete](https://github.com/mjbrownie/vim-htmldjango_omnicomplete)
 
-  * ###### [mjlbach/onedark.nvim](https://github.com/mjlbach/onedark.nvim)
+  * [mjlbach/onedark.nvim](https://github.com/mjlbach/onedark.nvim)
 
   * [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim)
 
@@ -695,7 +667,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
 
-  * ###### [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+  * [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 
   * [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope)
 
@@ -795,7 +767,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
 
-  * ###### [rafamadriz/neon](https://github.com/rafamadriz/neon)
+  * [rafamadriz/neon](https://github.com/rafamadriz/neon)
 
   * [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad)
 
@@ -879,7 +851,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [scrooloose/syntastic](https://github.com/scrooloose/syntastic)
 
-  * ###### [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap)
+  * [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap)
 
   * [sgur/vim-editorconfig](https://github.com/sgur/vim-editorconfig)
 
@@ -929,7 +901,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)
 
-  * ###### [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
+  * [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
 
   * [skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)
 
@@ -1005,7 +977,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [tomlion/vim-solidity](https://github.com/tomlion/vim-solidity)
 
-  * ###### [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion)
+  * [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion)
 
   * [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim)
 
@@ -1023,7 +995,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [tpope/vim-endwise](https://github.com/tpope/vim-endwise)
 
-  * ###### [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)
+  * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)
 
   * [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace)
 
@@ -1069,7 +1041,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [vifm/vifm.vim](https://github.com/vifm/vifm.vim)
 
-  * ###### [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
+  * [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
 
   * [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 
@@ -1099,7 +1071,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [vim-scripts/sessionman.vim](https://github.com/vim-scripts/sessionman.vim)
 
-  * ###### [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic)
+  * [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic)
 
   * [vim-test/vim-test](https://github.com/vim-test/vim-test)
 
@@ -1109,7 +1081,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm)
 
-  * ###### [voldikss/vim-translator](https://github.com/voldikss/vim-translator)
+  * [voldikss/vim-translator](https://github.com/voldikss/vim-translator)
 
   * [w0rp/ale](https://github.com/w0rp/ale)
 
