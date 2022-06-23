@@ -32,7 +32,13 @@ class Assembler:
     def create_jumplist(self)->None:
         pass #TODO
     def create_recommend(self)->None:
-        pass #TODO
+        doc='# recommended\n'
+        for name,recommend in self.data.get('recommend',{}).items():
+            doc+=f'<details><summary>{name}</summary>\n\n'
+            doc+=''.join(f'* {typ} : [{name}](#{name})\n\n' for typ,name in recommend.items())
+            doc+=f'</details>\n'
+        doc+='\n'
+        self.text+=doc
     def create_docs(self)->None:
         self.text+='# Documented-list\n'
         for name,maincategory in self.plugs.items():

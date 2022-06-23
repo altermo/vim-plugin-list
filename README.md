@@ -6,6 +6,38 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
+# recommended
+<details><summary>for vim</summary>
+
+* file manager : [preservim/nerdtree](#preservim/nerdtree)
+
+* highlighting : [sheerun/vim-polyglot](#sheerun/vim-polyglot)
+
+* syntax : [vim-syntastic/syntastic](#vim-syntastic/syntastic)
+
+* undotree : [mbbill/undotree](#mbbill/undotree)
+
+* FZF : [junegunn/fzf.vim](#junegunn/fzf.vim)
+
+* statusline : [vim-airline/vim-airline](#vim-airline/vim-airline)
+
+* statusline+tabline : [itchyny/lightline.vim](#itchyny/lightline.vim)
+
+* colorscheme1 : [itchyny/lightline.vim](#itchyny/lightline.vim)
+
+* colorscheme2 : [NTBBloodbath/doom-one.nvim](#NTBBloodbath/doom-one.nvim)
+
+* colorscheme3 : [rafamadriz/neon](#rafamadriz/neon)
+
+* autocomplete : [neoclide/coc.nvim](#neoclide/coc.nvim)
+
+</details>
+<details><summary>for vim (non coders)</summary>
+
+* autocomplete : [skywind3000/vim-auto-popmenu](#skywind3000/vim-auto-popmenu)
+
+</details>
+
 # Documented-list
 ## Code
 ### highlighting
