@@ -12,20 +12,20 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * ###### [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
     * Tags: [treesitter](#treesitter), highlighting, [neovim](#neovim)
     * Requirements: neovim 7.0 or more
-    * Optional/extensions: [extensions](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins)
     * Adds treesitter support and treesitter highlighting to neovim
+    * Readmore: [extensions](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins)
 ## Command
 ### Explorer
   * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
     * Tags: [lua](#lua), FZF, [neovim](#neovim)
     * Requiers: [nvim-lua/plenary.nvim](#nvim-luaplenarynvim)
     * Requirements: neovim 7.0 or more
-    * Optional/extensions: [optional](https://github.com/nvim-telescope/telescope.nvim#optional-dependencies), [extensions](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration)
     * Lua based fuzzy finder
+    * Readmore: [optional](https://github.com/nvim-telescope/telescope.nvim#optional-dependencies), [extensions](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration)
   * [preservim/nerdtree](https://github.com/preservim/nerdtree)
     * Tags: tree
-    * Optional/extensions: [plugins](https://github.com/preservim/nerdtree#nerdtree-plugins)
     * A popular sidebar explorer
+    * Readmore: [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
 # Non-documented-list
   * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
 

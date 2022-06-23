@@ -48,12 +48,12 @@ class Assembler:
             doc+=f'{self.ind2} Tags: '+', '.join(self.tolink(i) if i in self.linktags else i for i in tags)+'\n'
         doc+=self.list2str(f'{self.ind2} Requiers: ',[self.plugtolink(i) for i in plugdata.get('requiers',[])])
         doc+=self.list2str(f'{self.ind2} Requirements: ',plugdata.get('requirements',[]))
-        if (optional:=plugdata.get('optional',{})):
-            doc+=f'{self.ind2} Optional/extensions: '
-            doc+=', '.join(f'[{k}]({v})' for k,v in optional.items())
-            doc+='\n'
         if (docs:=plugdata.get('docs','')):
             doc+=f'{self.ind2} '+docs+'\n'
+        if (readmore:=plugdata.get('readmore',{})):
+            doc+=f'{self.ind2} Readmore: '
+            doc+=', '.join(f'[{k}]({v})' for k,v in readmore.items())
+            doc+='\n'
         self.text+=doc
     @staticmethod
     def tolink(x:str)->str:
