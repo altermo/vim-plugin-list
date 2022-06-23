@@ -9,6 +9,34 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins)_
 
 # Lists
+<details><summary>I recommend for vim</summary>
+
+* file manager : [preservim/nerdtree](#preservimnerdtree)
+* highlighting : [sheerun/vim-polyglot](#sheerunvim-polyglot)
+* syntax : [vim-syntastic/syntastic](#vim-syntasticsyntastic)
+* undotree : [mbbill/undotree](#mbbillundotree)
+* FZF : [junegunn/fzf.vim](#junegunnfzfvim)
+* statusline : [vim-airline/vim-airline](#vim-airlinevim-airline)
+* statusline+tabline : [itchyny/lightline.vim](#itchynylightlinevim)
+* colorscheme1 : [mjlbach/onedark.nvim](#mjlbachonedarknvim)
+* colorscheme2 : [NTBBloodbath/doom-one.nvim](#NTBBloodbathdoom-onenvim)
+* colorscheme3 : [rafamadriz/neon](#rafamadrizneon)
+* autocomplete : [neoclide/coc.nvim](#neoclidecocnvim)
+</details>
+<details><summary>other interesting</summary>
+
+* autocomplete : [skywind3000/vim-auto-popmenu](#skywind3000vim-auto-popmenu)
+* minimap : [severin-lemaignan/vim-minimap](#severin-lemaignanvim-minimap)
+* neorg : [nvim-neorg/neorg](#nvim-neorgneorg)
+* firefox integration : [glacambre/firenvim](#glacambrefirenvim)
+* cursor word : [itchyny/vim-cursorword](#itchynyvim-cursorword)
+* align text : [tommcdo/vim-lion](#tommcdovim-lion)
+* yankstack : [bfredl/nvim-miniyank](#bfredlnvim-miniyank)
+* sh commands in vimscript : [tpope/vim-eunuch](#tpopevim-eunuch)
+* translator : [voldikss/vim-translator](#voldikssvim-translator)
+* dirbuf : [elihunter173/dirbuf.nvim](#elihunter173dirbufnvim)
+* fastfold : [Konfekt/FastFold](#KonfektFastFold)
+</details>
 
 # Documented-list
 ## Code
