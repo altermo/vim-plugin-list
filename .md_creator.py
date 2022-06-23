@@ -56,7 +56,7 @@ class Assembler:
         for i in self.qdocs:
             name=i.split(':')[0].removesuffix(' ')
             self.raw.remove(name)
-            self.text+='* '+self.pluglinkweb(name)+' :'+i.split(':',1)[1]+'\n'
+            self.text+=self.pluglinkweb(name)+' :'+i.split(':',1)[1]+'\n'
     def chech_plug(self,name:str,plugdata:dict)->None:
         if 'last-update' not in plugdata:
             raise Exception(f'{name} has no last-update')
