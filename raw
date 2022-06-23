@@ -100,6 +100,7 @@ elihunter173/dirbuf.nvim
 ellisonleao/gruvbox.nvim
 elvessousa/sobrio
 equalsraf/neovim-gui-shim
+ervandew/supertab
 euclidianace/betterlua.vim
 euclio/vim-markdown-composer
 eugen0329/vim-esearch
@@ -169,6 +170,7 @@ hrsh7th/nvim-cmp
 huawenyu/neogdb.vim
 iamcco/markdown-preview.nvim
 icymind/neosolarized
+inkarkat/vim-patterncomplete
 ipod825/vim-netranger
 iron-e/nvim-highlite
 iron-e/nvim-libmodal
@@ -416,6 +418,7 @@ shougo/dein.vim
 shougo/denite.nvim
 shougo/deoplete.nvim
 shougo/neobundle.vim
+shougo/neocomplcache.vim
 shougo/neocomplete.vim
 shougo/neosnippet-snippets
 shougo/neosnippet.vim
@@ -432,6 +435,7 @@ sjl/gundo.vim
 skywind3000/asyncrun.vim
 skywind3000/asynctasks.vim
 skywind3000/vim-auto-popmenu
+skywind3000/vim-dict
 skywind3000/vim-quickui
 slashmili/alchemist.vim
 slim-template/vim-slim
@@ -451,6 +455,7 @@ tc72/telescope-tele-tabby.nvim
 tek/proteome.nvim
 tek256/simple-dark
 tenfyzhong/completeparameter.vim
+ternjs/tern_for_vim
 terrortylor/nvim-comment
 terryma/vim-expand-region
 terryma/vim-multiple-cursors
@@ -470,6 +475,7 @@ tomlion/vim-solidity
 tommcdo/vim-lion
 tomtom/tcomment_vim
 tomtom/tlib_vim
+townk/vim-autoclose
 tpope/vim-abolish
 tpope/vim-bundler
 tpope/vim-commentary
@@ -542,6 +548,7 @@ xiyaowong/telescope-emoji.nvim
 xolox/vim-misc
 xolox/vim-session
 xuyuanp/nerdtree-git-plugin
+ycm-core/youcompleteme
 yegappan/mru
 yehuohan/popc
 yggdroot/indentline

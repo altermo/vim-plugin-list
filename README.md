@@ -239,6 +239,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [equalsraf/neovim-gui-shim](https://github.com/equalsraf/neovim-gui-shim)
 
+  * [ervandew/supertab](https://github.com/ervandew/supertab)
+
   * [euclidianace/betterlua.vim](https://github.com/euclidianace/betterlua.vim)
 
   * [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer)
@@ -376,6 +378,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
 
   * [icymind/neosolarized](https://github.com/icymind/neosolarized)
+
+  * [inkarkat/vim-patterncomplete](https://github.com/inkarkat/vim-patterncomplete)
 
   * [ipod825/vim-netranger](https://github.com/ipod825/vim-netranger)
 
@@ -861,6 +865,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [shougo/neobundle.vim](https://github.com/shougo/neobundle.vim)
 
+  * [shougo/neocomplcache.vim](https://github.com/shougo/neocomplcache.vim)
+
   * [shougo/neocomplete.vim](https://github.com/shougo/neocomplete.vim)
 
   * [shougo/neosnippet-snippets](https://github.com/shougo/neosnippet-snippets)
@@ -892,6 +898,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)
 
   * ###### [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
+
+  * [skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)
 
   * [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui)
 
@@ -931,6 +939,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [tenfyzhong/completeparameter.vim](https://github.com/tenfyzhong/completeparameter.vim)
 
+  * [ternjs/tern_for_vim](https://github.com/ternjs/tern_for_vim)
+
   * [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment)
 
   * [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region)
@@ -968,6 +978,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim)
 
   * [tomtom/tlib_vim](https://github.com/tomtom/tlib_vim)
+
+  * [townk/vim-autoclose](https://github.com/townk/vim-autoclose)
 
   * [tpope/vim-abolish](https://github.com/tpope/vim-abolish)
 
@@ -1112,6 +1124,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [xolox/vim-session](https://github.com/xolox/vim-session)
 
   * [xuyuanp/nerdtree-git-plugin](https://github.com/xuyuanp/nerdtree-git-plugin)
+
+  * [ycm-core/youcompleteme](https://github.com/ycm-core/youcompleteme)
 
   * [yegappan/mru](https://github.com/yegappan/mru)
 
