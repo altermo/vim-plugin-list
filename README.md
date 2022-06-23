@@ -16,7 +16,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * FZF : [junegunn/fzf.vim](#junegunnfzfvim)
 * statusline : [vim-airline/vim-airline](#vim-airlinevim-airline)
 * statusline+tabline : [itchyny/lightline.vim](#itchynylightlinevim)
-* colorscheme1 : [itchyny/lightline.vim](#itchynylightlinevim)
+* colorscheme1 : [mjlbach/onedark.nvim](#mjlbachonedarknvim)
 * colorscheme2 : [NTBBloodbath/doom-one.nvim](#NTBBloodbathdoom-onenvim)
 * colorscheme3 : [rafamadriz/neon](#rafamadrizneon)
 * autocomplete : [neoclide/coc.nvim](#neoclidecocnvim)
@@ -621,7 +621,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [mjbrownie/vim-htmldjango_omnicomplete](https://github.com/mjbrownie/vim-htmldjango_omnicomplete)
 
-  * [mjlbach/onedark.nvim](https://github.com/mjlbach/onedark.nvim)
+  * ###### [mjlbach/onedark.nvim](https://github.com/mjlbach/onedark.nvim)
 
   * [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim)
 
