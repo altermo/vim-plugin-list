@@ -1,0 +1,31 @@
+0styx0/abbreinder.nvim : remember abbreviations
+0styx0/abbremand.nvim : lib for {0styx0/abbreinder.nvim}
+acksld/nvim-neoclip.lua : see yank history
+adelarsq/neoline.vim : statusline and tabline
+airblade/vim-gitgutter : git diff
+airblade/vim-rooter : go to projects root
+airodactyl/neovim-ranger : ranger for neovim
+akinsho/nvim-toggleterm.lua : link to {akinsho/toggleterm}
+akinsho/toggleterm.nvim : persist and toggle multiple terminals
+akz92/vim-ionic2 : ionic2 syntax highlighting
+alaviss/nim.nvim : nim language plugin
+alessandroyorba/despacio : colorscheme
+aloussase/telescope-gradle.nvim : telescope extension to run gradle tasks
+aloussase/telescope-maven-search : telescope extension to search dependencies in MavenCentral
+altercation/vim-colors-solarized : colorscheme
+alvan/vim-closetag : Auto close (X)HTML tags
+amix/open_file_under_cursor.vim : open file under cursor (what did you expect)
+amix/vim-2048 : 2048 game
+amix/vim-commentary : fork from {tpope/vim-commentary}
+amix/vim-zenroom2 : emulates iA Writer environment
+andrewradev/splitjoin.vim : switching between a single-line statement and a multi-line one
+andrewradev/switch.vim : swich segments of text with predefined replacements 
+angkeith/telescope-terraform-doc.nvim : telescope extension to search and browse terraform providers docs
+antoinemadec/fixcursorhold.nvim : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
+ap/vim-css-color : preview colours in source code while editing
+arakashic/chromatica.nvim : Clang based syntax highlighting for Neovim [depreciated]
+arp242/jumpy.vim : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
+artur-shaik/vim-javacomplete2 : depreciated, use {artur-shaik/jc.nvim} instead
+asheq/close-buffers.vim : quickly close (bdelete) several buffers at once
+autozimu/languageclient-neovim : LSP support
+azabiong/vim-highlighter : highlight words and expressions
