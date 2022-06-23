@@ -33,7 +33,7 @@ class Assembler:
         pass #TODO
     def create_recommend(self)->None:
         doc='# Lists\n'
-        for name,recommend in self.data.get('list',{}).items():
+        for name,recommend in self.data.get('lists',{}).items():
             doc+=f'<details><summary>{name}</summary>\n\n'
             doc+=''.join(f'* {typ} : {self.plugtolink(name)}\n' for typ,name in recommend.items())
             doc+=f'</details>\n'
