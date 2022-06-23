@@ -27,7 +27,7 @@ class Assembler:
                 for plugdata in subcategory.values():
                     self.linkplugs|=set(i for i in plugdata.get('requiers',[]))
                     self.linkplugs|=set(i for i in plugdata.get('optional',[]))
-        for recommend in self.data.get('list',{}).values():
+        for recommend in self.data.get('lists',{}).values():
             self.linkplugs|=set(recommend.values())
     def create_jumplist(self)->None:
         pass #TODO
