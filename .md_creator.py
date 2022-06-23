@@ -34,21 +34,23 @@ class Assembler:
             self.text+=f'## {name}\n'
             for name,subcategory in maincategory.items():
                 self.text+=f'### {name}\n'
-                for name,plugdata in sorted(subcategory.items()):
+                for name,plugdata in sorted(subcategory.items(),key=lambda x:x[0].split('/')[1]):
                     self.raw.remove(name)
+                    self.chech_plug(name,plugdata)
                     self.doc_from_plug(name,plugdata)
-    def pluglinkweb(self,name:str)->str:
-        if name in self.linkplugs:
-            return f'{self.ind1} ###### [{name}](https://github.com/{name})\n'
-        else:
-            return f'{self.ind1} [{name}](https://github.com/{name})\n'
-    def doc_from_plug(self,name:str,plugdata:dict)->None:
+    def chech_plug(self,name:str,plugdata:dict)->None:
         if 'last-update' not in plugdata:
             raise Exception(f'{name} has no last-update')
         if 'tags' not in plugdata:
             raise Warning(f'{name} has no tags')
         if 'docs' not in plugdata:
             raise Warning(f'{name} has no docs')
+    def pluglinkweb(self,name:str)->str:
+        if name in self.linkplugs:
+            return f'{self.ind1} ###### [{name}](https://github.com/{name})\n'
+        else:
+            return f'{self.ind1} [{name}](https://github.com/{name})\n'
+    def doc_from_plug(self,name:str,plugdata:dict)->None:
         doc=self.pluglinkweb(name)
         if (tags:=plugdata.get('tags',[])):
             doc+=f'{self.ind2} Tags: '+', '.join(self.tolink(i) if i in self.linktags else i for i in tags)+'\n'
