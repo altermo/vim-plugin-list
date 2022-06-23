@@ -21,7 +21,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 * colorscheme3 : [rafamadriz/neon](#rafamadrizneon)
 * autocomplete : [neoclide/coc.nvim](#neoclidecocnvim)
 </details>
-<details><summary>for vim (non coders)</summary>
+<details><summary>other interesting</summary>
 
 * autocomplete : [skywind3000/vim-auto-popmenu](#skywind3000vim-auto-popmenu)
 </details>
