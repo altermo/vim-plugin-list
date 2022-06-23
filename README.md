@@ -24,6 +24,16 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 <details><summary>other interesting</summary>
 
 * autocomplete : [skywind3000/vim-auto-popmenu](#skywind3000vim-auto-popmenu)
+* minimap : [severin-lemaignan/vim-minimap](#severin-lemaignanvim-minimap)
+* neorg : [nvim-neorg/neorg](#nvim-neorgneorg)
+* firefox integration : [glacambre/firenvim](#glacambrefirenvim)
+* cursor word : [itchyny/vim-cursorword](#itchynyvim-cursorword)
+* align text : [tommcdo/vim-lion](#tommcdovim-lion)
+* yankstack : [bfredl/nvim-miniyank](#bfredlnvim-miniyank)
+* sh commands in vimscript : [tpope/vim-eunuch](#tpopevim-eunuch)
+* translator : [voldikss/vim-translator](#voldikssvim-translator)
+* dirbuf : [elihunter173/dirbuf.nvim](#elihunter173dirbufnvim)
+* fastfold : [Konfekt/FastFold](#KonfektFastFold)
 </details>
 
 # Documented-list
@@ -125,7 +135,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev)
 
-  * [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank)
+  * ###### [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank)
 
   * [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview)
 
@@ -251,7 +261,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [edolphin-ydf/goimpl.nvim](https://github.com/edolphin-ydf/goimpl.nvim)
 
-  * [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
+  * ###### [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
 
   * [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
 
@@ -323,7 +333,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim)
 
-  * [glacambre/firenvim](https://github.com/glacambre/firenvim)
+  * ###### [glacambre/firenvim](https://github.com/glacambre/firenvim)
 
   * [glench/vim-jinja2-syntax](https://github.com/glench/vim-jinja2-syntax)
 
@@ -409,7 +419,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * ###### [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
 
-  * [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
+  * ###### [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
 
   * [jalvesaq/nvim-r](https://github.com/jalvesaq/nvim-r)
 
@@ -683,7 +693,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
 
-  * [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+  * ###### [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 
   * [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope)
 
@@ -867,7 +877,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [scrooloose/syntastic](https://github.com/scrooloose/syntastic)
 
-  * [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap)
+  * ###### [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap)
 
   * [sgur/vim-editorconfig](https://github.com/sgur/vim-editorconfig)
 
@@ -993,7 +1003,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [tomlion/vim-solidity](https://github.com/tomlion/vim-solidity)
 
-  * [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion)
+  * ###### [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion)
 
   * [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim)
 
@@ -1011,7 +1021,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [tpope/vim-endwise](https://github.com/tpope/vim-endwise)
 
-  * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)
+  * ###### [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)
 
   * [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace)
 
@@ -1097,7 +1107,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm)
 
-  * [voldikss/vim-translator](https://github.com/voldikss/vim-translator)
+  * ###### [voldikss/vim-translator](https://github.com/voldikss/vim-translator)
 
   * [w0rp/ale](https://github.com/w0rp/ale)
 
