@@ -1,4 +1,4 @@
-0styx0/abbreinder.nvim : remember abbreviations
+0styx0/abbreinder.nvim : shows abbreviations if the whole thing is typed
 0styx0/abbremand.nvim : lib for {0styx0/abbreinder.nvim}
 acksld/nvim-neoclip.lua : see yank history
 adelarsq/neoline.vim : statusline and tabline
@@ -19,13 +19,32 @@ amix/vim-2048 : 2048 game
 amix/vim-commentary : fork from {tpope/vim-commentary}
 amix/vim-zenroom2 : emulates iA Writer environment
 andrewradev/splitjoin.vim : switching between a single-line statement and a multi-line one
-andrewradev/switch.vim : swich segments of text with predefined replacements 
+andrewradev/switch.vim : swich segments of text with predefined replacements
 angkeith/telescope-terraform-doc.nvim : telescope extension to search and browse terraform providers docs
 antoinemadec/fixcursorhold.nvim : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
 ap/vim-css-color : preview colours in source code while editing
 arakashic/chromatica.nvim : Clang based syntax highlighting for Neovim [depreciated]
 arp242/jumpy.vim : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
+artur-shaik/jc.nvim : jc LSP (can be used with nvim-cmp)
 artur-shaik/vim-javacomplete2 : depreciated, use {artur-shaik/jc.nvim} instead
 asheq/close-buffers.vim : quickly close (bdelete) several buffers at once
 autozimu/languageclient-neovim : LSP support
 azabiong/vim-highlighter : highlight words and expressions
+beauwilliams/focus.nvim : Splits/Window Management Enhancements for Neovim
+benfowler/telescope-luasnip.nvim : telescope extension to list luasnip snippets
+bfredl/nvim-ipy : ipython integration for nvim
+bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
+bfredl/nvim-miniyank : The killring-alike plugin with no default mappings.
+bfrg/vim-qf-preview : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
+bi0ha2ard/telescope-ros.nvim : telescope extension to select ROS(2) package
+bling/vim-airline : link to {vim-airline/vim-airline}
+blueshirts/darcula : colorscheme
+blueyed/vim-diminactive : dim inactive windows
+brandoncc/telescope-harpoon.nvim : telescope extension to harpoon [depreciated]
+brettanomyces/nvim-editcommand : Edit your current shell command inside a scratch buffer
+brettanomyces/nvim-terminus : Edit your current command in a scratch buffer
+brglng/vim-im-select : Improve Vim/Neovim experience with input methods
+bronzehedwick/vim-primary-terminal : Simple terminal management for Neovim.
+brooth/far.vim : replace text through multiple files
+bruno-/vim-man : link to {vim-utils/vim-man}
+burntsushi/ripgrep : recursively searches the current directory for a regex pattern
