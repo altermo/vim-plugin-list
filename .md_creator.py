@@ -10,6 +10,7 @@ class Assembler:
         self.level=1
         self.ind1='  '*self.level+'*'
         self.ind2='  '*(self.level+1)+'*'
+        self.alredy_removed=set()
     def create(self)->str:
         self.init_tags()
         self.init_plugs()
@@ -51,11 +52,13 @@ class Assembler:
                     self.raw.remove(name)
                     self.chech_plug(name,plugdata)
                     self.doc_from_plug(name,plugdata)
+                    self.alredy_removed.add(name)
     def create_qdocs(self)->None:
         self.text+='# Quick-documented-list\n'
         for i in self.qdocs:
             name=i.split(':')[0].removesuffix(' ')
-            self.raw.remove(name)
+            if name not in self.alredy_removed:
+                self.raw.remove(name)
             self.text+=self.pluglinkweb(name)+' :'+i.split(':',1)[1]+'\n'
     def chech_plug(self,name:str,plugdata:dict)->None:
         if 'last-update' not in plugdata:

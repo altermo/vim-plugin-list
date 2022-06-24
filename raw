@@ -25,6 +25,7 @@ antoinemadec/fixcursorhold.nvim
 ap/vim-css-color
 arakashic/chromatica.nvim
 arp242/jumpy.vim
+artur-shaik/jc.nvim
 artur-shaik/vim-javacomplete2
 asheq/close-buffers.vim
 autozimu/languageclient-neovim
@@ -54,6 +55,7 @@ camspiers/snap
 catppuccin/nvim
 ccchapman/watson.nvim
 cdelledonne/vim-cmake
+cdown/clipmenu
 cespare/vim-toml
 challenger-deep-theme/vim
 chip/telescope-code-fence.nvim
@@ -451,6 +453,7 @@ svermeulen/vim-extended-ft
 svermeulen/vimpeccable
 szw/vim-maximizer
 tamago324/telescope-openbrowser.nvim
+tami5/sqlite.lua
 tc72/telescope-tele-tabby.nvim
 tek/proteome.nvim
 tek256/simple-dark
@@ -521,6 +524,7 @@ vim-scripts/replacewithregister
 vim-scripts/sessionman.vim
 vim-syntastic/syntastic
 vim-test/vim-test
+vim-utils/vim-man
 vimwiki/vimwiki
 voldikss/vim-browser-search
 voldikss/vim-floaterm
