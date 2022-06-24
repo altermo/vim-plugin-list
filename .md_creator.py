@@ -100,12 +100,11 @@ class Assembler:
         self.text+='\n'.join(f'* ###### {name}\n{tagdata}' for name,tagdata in self.tags.items())
 def main():
     with open('raw') as f:
-        rawlist=f.read().split('\n')
+        rawlist=f.read().splitlines()
     with open('data.json') as f:
         data=json.load(f)
     with open('quick-data.txt') as f:
-        qdocs=f.read().split('\n')
-        if '' in qdocs:qdocs.remove('')
+        qdocs=f.read().splitlines()
     pre=r'''# vim-plugin-list
 This is a list of plugins.
 _TODO: categorize, document and remove not plugins_
