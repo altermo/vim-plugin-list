@@ -68,6 +68,11 @@ class Assembler:
         if 'docs' not in plugdata:
             raise Warning(f'{name} has no docs')
     def pluglinkweb(self,name:str)->str:
+        if name.startswith('https://gitlab.com'):
+            if name in self.linkplugs:
+                return f'{self.ind1} ###### [{name}]({name})\n'
+            else:
+                return f'{self.ind1} [{name}]({name})\n'
         if name in self.linkplugs:
             return f'{self.ind1} ###### [{name}](https://github.com/{name})\n'
         else:

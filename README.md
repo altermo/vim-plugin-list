@@ -382,7 +382,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 
-  * [https://gitlab.com/yorickpeterse/nvim-window.git](https://github.com/https://gitlab.com/yorickpeterse/nvim-window.git)
+  * [https://gitlab.com/yorickpeterse/nvim-window.git](https://gitlab.com/yorickpeterse/nvim-window.git)
 
   * [huawenyu/neogdb.vim](https://github.com/huawenyu/neogdb.vim)
 
