@@ -20,6 +20,7 @@ amix/vim-commentary
 amix/vim-zenroom2
 andrewradev/splitjoin.vim
 andrewradev/switch.vim
+andymass/vim-matchup
 angkeith/telescope-terraform-doc.nvim
 antoinemadec/fixcursorhold.nvim
 ap/vim-css-color
@@ -90,6 +91,7 @@ doc/user/lsp.html
 donraphaco/neotex
 dpzmick/neovim-hackernews
 dracula/vim
+drybalka/tree-climber.nvim
 dstein64/nvim-scrollview
 dstein64/vim-startuptime
 duane9/nvim-rg
@@ -123,6 +125,7 @@ fmoralesc/worldslice
 folke/lsp-colors.nvim
 folke/tokyonight.nvim
 folke/trouble.nvim
+folke/twilight.nvim
 folke/which-key.nvim
 folke/zen-mode.nvim
 francoiscabrol/ranger.vim
@@ -187,6 +190,7 @@ jceb/vim-orgmode
 jgvw/telescope-arglist.nvim
 jiangmiao/auto-pairs
 jmcomets/vim-pony/
+joosepalviste/nvim-ts-context-commentstring
 jose-elias-alvarez/null-ls.nvim
 joshdick/onedark.vim
 jreybert/vimagit
@@ -242,6 +246,8 @@ lenovsky/nuake
 lervag/vimtex
 lewis6991/gitsigns.nvim
 lewis6991/impatient.nvim
+lewis6991/nvim-treesitter-context
+lewis6991/spellsitter.nvim
 linarcx/telescope-changes.nvim
 linarcx/telescope-command-palette.nvim
 linarcx/telescope-env.nvim
@@ -271,6 +277,7 @@ mbbill/undotree
 mcchrish/nnn.vim
 metakirby5/codi.vim
 mfussenegger/nvim-dap
+mfussenegger/nvim-ts-hint-textobject
 mg979/vim-visual-multi
 mhartington/nvim-typescript
 mhartington/oceanic-next
@@ -282,6 +289,7 @@ mhinz/vim-startify
 michaelb/sniprun
 michaeljsmith/vim-indent-object
 mileszs/ack.vim
+milisims/tree-sitter-org
 mjbrownie/vim-htmldjango_omnicomplete
 mjlbach/onedark.nvim
 monkoose/matchparen.nvim
@@ -336,6 +344,7 @@ nvim-telescope/telescope-vimspector.nvim
 nvim-telescope/telescope-z.nvim
 nvim-telescope/telescope.nvim
 nvim-treesitter/nvim-treesitter
+nvim-treesitter/nvim-treesitter-context
 nvim-treesitter/nvim-treesitter-refactor
 nvim-treesitter/nvim-treesitter-textobjects
 nvim-treesitter/playground
@@ -441,9 +450,11 @@ skywind3000/vim-dict
 skywind3000/vim-quickui
 slashmili/alchemist.vim
 slim-template/vim-slim
+smiteshp/nvim-gps
 softinio/scaladex.nvim
 solarnz/thrift.vim
 stevearc/dressing.nvim
+stsewd/sphinx.nvim
 suan/vim-instant-markdown
 sudormrfbin/cheatsheet.nvim
 sukima/xmledit/
@@ -462,6 +473,9 @@ ternjs/tern_for_vim
 terrortylor/nvim-comment
 terryma/vim-expand-region
 terryma/vim-multiple-cursors
+thehamsta/nvim-dap-virtual-text
+thehamsta/nvim-treesitter-commonlisp
+thehamsta/nvim-treesitter-pairs
 theprimeagen/harpoon
 theprimeagen/refactoring.nvim
 theprimeagen/vim-apm
