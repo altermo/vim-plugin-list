@@ -2,9 +2,11 @@
 0styx0/abbremand.nvim
 acksld/nvim-neoclip.lua
 adelarsq/neoline.vim
+ahmedkhalf/project.nvim
 airblade/vim-gitgutter
 airblade/vim-rooter
 airodactyl/neovim-ranger
+akinsho/nvim-bufferline.lua
 akinsho/nvim-toggleterm.lua
 akinsho/toggleterm.nvim
 akz92/vim-ionic2
@@ -97,8 +99,10 @@ dstein64/vim-startuptime
 duane9/nvim-rg
 dyng/ctrlsf.vim
 easymotion/vim-easymotion
+echasnovski/mini.nvim
 edeneast/nightfox.nvim
 editorconfig/editorconfig-vim
+edluffy/specs.nvim
 edolphin-ydf/goimpl.nvim
 elihunter173/dirbuf.nvim
 ellisonleao/gruvbox.nvim
@@ -108,7 +112,9 @@ ervandew/supertab
 euclidianace/betterlua.vim
 euclio/vim-markdown-composer
 eugen0329/vim-esearch
+f-person/git-blame.nvim
 f3fora/cmp-spell
+famiu/bufdelete.nvim
 fannheyward/telescope-coc.nvim
 farmergreg/vim-lastplace
 fatih/vim-go
@@ -123,6 +129,7 @@ floobits/floobits-neovim
 fmoralesc/nlanguagetool.nvim
 fmoralesc/worldslice
 folke/lsp-colors.nvim
+folke/todo-comments.nvim
 folke/tokyonight.nvim
 folke/trouble.nvim
 folke/twilight.nvim
@@ -136,6 +143,7 @@ garbas/vim-snipmate
 gbprod/yanky.nvim
 gbrlsnchs/telescope-lsp-handlers.nvim
 gfanto/fzf-lsp.nvim
+ggandor/lightspeed.nvim
 ghifarit53/tokyonight-vim
 glacambre/firenvim
 glench/vim-jinja2-syntax
@@ -172,6 +180,7 @@ hrsh7th/cmp-nvim-lsp-signature-help
 hrsh7th/cmp-nvim-lua
 hrsh7th/cmp-path
 hrsh7th/nvim-cmp
+https://gitlab.com/yorickpeterse/nvim-window.git
 huawenyu/neogdb.vim
 iamcco/markdown-preview.nvim
 icymind/neosolarized
@@ -179,8 +188,10 @@ inkarkat/vim-patterncomplete
 ipod825/vim-netranger
 iron-e/nvim-highlite
 iron-e/nvim-libmodal
+ironhouzi/starlite-nvim
 itchyny/lightline.vim
 itchyny/vim-cursorword
+j-hui/fidget.nvim
 jalvesaq/nvim-r
 jalvesaq/vimcmdline
 janko-m/vim-test
@@ -256,9 +267,11 @@ linarcx/telescope-scriptnames.nvim
 liuchengxu/vim-clap
 liuchengxu/vim-which-key
 luc-tielen/telescope_hoogle
+ludopinelli/comment-box.nvim
 ludovicchabant/vim-gutentags
 luisiacc/gruvbox-baby
 lukas-reineke/cmp-rg
+lukas-reineke/headlines.nvim
 lukas-reineke/indent-blankline.nvim
 luochen1990/rainbow
 machakann/vim-highlightedyank
@@ -318,6 +331,7 @@ ntbbloodbath/doom-one.nvim
 ntpeters/vim-better-whitespace
 numirias/semshi
 numtostr/comment.nvim
+numtostr/navigator.nvim
 nvim-lua/lsp_extensions.nvim
 nvim-lua/plenary.nvim
 nvim-lua/popup.nvim
@@ -340,6 +354,7 @@ nvim-telescope/telescope-node-modules.nvim
 nvim-telescope/telescope-packer.nvim
 nvim-telescope/telescope-project.nvim
 nvim-telescope/telescope-symbols.nvim
+nvim-telescope/telescope-ui-select.nvim
 nvim-telescope/telescope-vimspector.nvim
 nvim-telescope/telescope-z.nvim
 nvim-telescope/telescope.nvim
@@ -373,6 +388,7 @@ preservim/nerdcommenter
 preservim/nerdtree
 preservim/tagbar
 psliwka/vim-smoothie
+ptzz/lf.vim
 pwntester/octo.nvim
 qpkorr/vim-renamer
 quangnguyen30192/cmp-nvim-tags
@@ -383,11 +399,14 @@ rafi/awesome-vim-colorschemes
 raghur/vim-ghost
 raimondi/delimitmate
 ray-x/cmp-treesitter
+ray-x/go.nvim
 ray-x/lsp_signature.nvim
 rbgrouleff/bclose.vim
 rcarriga/nvim-notify
 rhysd/clever-f.vim
+rhysd/conflict-marker.vim
 rhysd/git-messenger.vim
+rhysd/vim-grammarous
 ripxorip/aerojump.nvim
 ripxorip/bolt.nvim
 rliang/termedit.nvim
@@ -401,6 +420,7 @@ rose-pine/neovim
 roxma/nvim-completion-manager
 roxma/vim-tmux-clipboard
 rraks/pyro
+rrethy/nvim-treesitter-endwise
 rrethy/vim-illuminate
 ruifm/gitlinker.nvim
 rust-lang/rust.vim
@@ -451,6 +471,7 @@ skywind3000/vim-quickui
 slashmili/alchemist.vim
 slim-template/vim-slim
 smiteshp/nvim-gps
+smiteshp/nvim-navic
 softinio/scaladex.nvim
 solarnz/thrift.vim
 stevearc/dressing.nvim
@@ -483,6 +504,7 @@ theprimeagen/vim-be-good
 therubymug/vim-pyte
 tiagofumo/vim-nerdtree-syntax-highlight
 timeyyy/orchestra.nvim
+timuntersberger/neogit
 tjdevries/nlua.nvim
 tobys/pdv
 tom-anders/telescope-vim-bookmarks.nvim
@@ -514,6 +536,7 @@ tpope/vim-vinegar
 tracyone/neomake-multiprocess
 tversteeg/registers.nvim
 tversteeg/registers.đvim
+tweekmonster/startuptime.vim
 tyru/open-browser.vim
 tzachar/cmp-tabnine
 unblevable/quick-scope
@@ -544,6 +567,7 @@ voldikss/vim-browser-search
 voldikss/vim-floaterm
 voldikss/vim-translator
 w0rp/ale
+waylonwalker/telegraph.nvim
 wbthomason/buildit.nvim
 wbthomason/lsp-status.nvim
 wbthomason/packer.nvim
