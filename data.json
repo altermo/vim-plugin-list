@@ -1,8 +1,4 @@
 {
-    "lists":{
-        "I recommend for vim":{"file manager":"preservim/nerdtree","highlighting":"sheerun/vim-polyglot","syntax":"vim-syntastic/syntastic","undotree":"mbbill/undotree","FZF":"junegunn/fzf.vim","statusline":"vim-airline/vim-airline","statusline+tabline":"itchyny/lightline.vim","colorscheme1":"mjlbach/onedark.nvim","colorscheme2":"NTBBloodbath/doom-one.nvim","colorscheme3":"rafamadriz/neon","autocomplete":"neoclide/coc.nvim"},
-        "other interesting":{"autocomplete":"skywind3000/vim-auto-popmenu","minimap":"severin-lemaignan/vim-minimap","neorg":"nvim-neorg/neorg","firefox integration":"glacambre/firenvim","cursor word":"itchyny/vim-cursorword","align text":"tommcdo/vim-lion","yankstack":"bfredl/nvim-miniyank","sh commands in vimscript":"tpope/vim-eunuch","translator":"voldikss/vim-translator","dirbuf":"elihunter173/dirbuf.nvim","fastfold":"Konfekt/FastFold","abbrev reminder":"0styx0/abbreinder.nvim"}
-    },
     "extensions":{
         "nvim-treesitter/nvim-treesitter":{"extensions":"https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins","supported-languages":"https://github.com/nvim-treesitter/nvim-treesitter#supported-languages"},
         "neoclide/coc.nvim":{"list-of-coc-apps":"https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions"},

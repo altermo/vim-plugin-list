@@ -6,37 +6,6 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 
 _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [awesome-nvim](https://github.com/rockerBOO/awesome-neovim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins), [vim-galore](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md)_
 
-# Lists
-<details><summary>I recommend for vim</summary>
-
-* file manager : [preservim/nerdtree](https://github.com/preservim/nerdtree)
-* highlighting : [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
-* syntax : [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic)
-* undotree : [mbbill/undotree](https://github.com/mbbill/undotree)
-* FZF : [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
-* statusline : [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
-* statusline+tabline : [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
-* colorscheme1 : [mjlbach/onedark.nvim](https://github.com/mjlbach/onedark.nvim)
-* colorscheme2 : [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim)
-* colorscheme3 : [rafamadriz/neon](https://github.com/rafamadriz/neon)
-* autocomplete : [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
-</details>
-<details><summary>other interesting</summary>
-
-* autocomplete : [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
-* minimap : [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap)
-* neorg : [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-* firefox integration : [glacambre/firenvim](https://github.com/glacambre/firenvim)
-* cursor word : [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
-* align text : [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion)
-* yankstack : [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank)
-* sh commands in vimscript : [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)
-* translator : [voldikss/vim-translator](https://github.com/voldikss/vim-translator)
-* dirbuf : [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
-* fastfold : [Konfekt/FastFold](https://github.com/Konfekt/FastFold)
-* abbrev reminder : [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
-</details>
-
 # Extensions/readmore/options/...
   * [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) : [extensions](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins), [supported-languages](https://github.com/nvim-treesitter/nvim-treesitter#supported-languages)
   * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) : [list-of-coc-apps](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)

@@ -7,7 +7,6 @@ class Assembler:
         self.raw=rawlist
     def create(self)->str:
         self.create_jumplist()
-        self.create_recommend()
         self.create_extdocs()
         self.create_qdocs()
         self.create_raw()
@@ -18,14 +17,6 @@ class Assembler:
         doc='# Extensions/readmore/options/...\n'
         for k,v in self.data.get('extensions',{}).items():
             doc+=f'  * {self.pluglinkweb(k)} : '+', '.join(f'[{name}]({link})' for name,link in v.items())+'\n'
-        self.text+=doc
-    def create_recommend(self)->None:
-        doc='# Lists\n'
-        for name,recommend in self.data.get('lists',{}).items():
-            doc+=f'<details><summary>{name}</summary>\n\n'
-            doc+=''.join(f'* {typ} : {self.pluglinkweb(name)}\n' for typ,name in recommend.items())
-            doc+=f'</details>\n'
-        doc+='\n'
         self.text+=doc
     def create_qdocs(self)->None:
         self.text+='# Quick-documented-list\n'
