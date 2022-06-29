@@ -71,9 +71,11 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) : lib for {0styx0/abbreinder.nvim}
   * [acksld/nvim-neoclip.lua](https://github.com/acksld/nvim-neoclip.lua) : see yank history
   * [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) : statusline and tabline
+  * [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) : provides superior project management
   * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) : git diff
   * [airblade/vim-rooter](https://github.com/airblade/vim-rooter) : go to projects root
   * [airodactyl/neovim-ranger](https://github.com/airodactyl/neovim-ranger) : ranger for neovim
+  * [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) : A snazzy buffer line
   * [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) : link to {akinsho/toggleterm}
   * [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) : persist and toggle multiple terminals
   * [akz92/vim-ionic2](https://github.com/akz92/vim-ionic2) : ionic2 syntax highlighting
@@ -89,6 +91,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [amix/vim-zenroom2](https://github.com/amix/vim-zenroom2) : emulates iA Writer environment
   * [andrewradev/splitjoin.vim](https://github.com/andrewradev/splitjoin.vim) : switching between a single-line statement and a multi-line one
   * [andrewradev/switch.vim](https://github.com/andrewradev/switch.vim) : swich segments of text with predefined replacements
+  * [andymass/vim-matchup](https://github.com/andymass/vim-matchup) : highlight, navigate, and operate on sets of matching text
   * [angkeith/telescope-terraform-doc.nvim](https://github.com/angkeith/telescope-terraform-doc.nvim) : telescope extension to search and browse terraform providers docs
   * [antoinemadec/fixcursorhold.nvim](https://github.com/antoinemadec/fixcursorhold.nvim) : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
   * [ap/vim-css-color](https://github.com/ap/vim-css-color) : preview colours in source code while editing
@@ -101,7 +104,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) : highlight words and expressions
   * [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) : Splits/Window Management Enhancements for Neovim
   * [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) : telescope extension to list luasnip snippets
-  * [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) : ipython integration for nvim
+  * [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) : ipython integration
   * [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) : REPL-like environment for developing lua plugins in Nvim
   * ###### [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) : The killring-alike plugin with no default mappings.
   * [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
@@ -117,74 +120,41 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [brooth/far.vim](https://github.com/brooth/far.vim) : replace text through multiple files
   * [bruno-/vim-man](https://github.com/bruno-/vim-man) : link to {vim-utils/vim-man}
   * [burntsushi/ripgrep](https://github.com/burntsushi/ripgrep) : recursively searches the current directory for a regex pattern
+  * [c0r73x/neotags.lua](https://github.com/c0r73x/neotags.lua) : generates and highlight ctags similar to easytags
+  * [c0r73x/neotags.nvim](https://github.com/c0r73x/neotags.nvim) : depreciated, use {c0r73x/neotags.lua} inside
+  * [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim) : telescope extension to fuzzy-finding over tmux targets
+  * [camspiers/snap](https://github.com/camspiers/snap) : fast finder system
+  * [catppuccin/nvim](https://github.com/catppuccin/nvim) : colorscheme
+  * [ccchapman/watson.nvim](https://github.com/ccchapman/watson.nvim) : watson integration
+  * [cdelledonne/vim-cmake](https://github.com/cdelledonne/vim-cmake) : building CMake projects inside of vim, with a nice visual feedback
+  * [cdown/clipmenu](https://github.com/cdown/clipmenu) : not a vim plugin
+  * [cespare/vim-toml](https://github.com/cespare/vim-toml) : syntax for toml
+  * [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) : colorscheme
+  * [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim) : telescope extension to fetch and parse text files from Github and provide a list of markdown code fences
+  * [chip/telescope-software-licenses.nvim](https://github.com/chip/telescope-software-licenses.nvim) : telescope extension to view common software licenses
+  * [chrboesch/vim-tabline](https://github.com/chrboesch/vim-tabline) : clear tab line
+  * [chrisbra/changesplugin](https://github.com/chrisbra/changesplugin) : visualize which lines have been changed since editing started
+  * [chrisbra/colorizer](https://github.com/chrisbra/colorizer) : color colornames and codes
+  * [chrisbra/dynamicsigns](https://github.com/chrisbra/dynamicsigns) : Using Signs for different things (visualy)
+  * [chrisbra/unicode.vim](https://github.com/chrisbra/unicode.vim) : handling unicode and digraphs characters
+  * [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) : colorscheme
+  * [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) : colorscheme [depreciated]
+  * [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
+  * [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) : telescope extension to jump to any repository in filesystem
+  * [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) : clojure development
+  * [coachshea/neo-pipe](https://github.com/coachshea/neo-pipe) : send text through an external command and display the output in the output buffer
+  * [codcodog/simplebuffer.vim](https://github.com/codcodog/simplebuffer.vim) : switching and deleting buffers easily
+  * [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) : makes operating on columns of code conceptually simpler and reduces keystrokes
+  * [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) : telescope extension to switch between document's headings
+  * [critiqjo/lldb.nvim](https://github.com/critiqjo/lldb.nvim) : fork from {dbgx/lldb.nvim}
+  * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) : fork from {kien/ctrlp.vim}
+  * [cyansprite/extract](https://github.com/cyansprite/extract) : puts and yanks to a list
 # Non-documented-list
-  * [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)
-
-  * [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua)
-
-  * [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
-
-  * [c0r73x/neotags.lua](https://github.com/c0r73x/neotags.lua)
-
-  * [c0r73x/neotags.nvim](https://github.com/c0r73x/neotags.nvim)
-
-  * [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim)
-
-  * [camspiers/snap](https://github.com/camspiers/snap)
-
-  * [catppuccin/nvim](https://github.com/catppuccin/nvim)
-
-  * [ccchapman/watson.nvim](https://github.com/ccchapman/watson.nvim)
-
-  * [cdelledonne/vim-cmake](https://github.com/cdelledonne/vim-cmake)
-
-  * [cdown/clipmenu](https://github.com/cdown/clipmenu)
-
-  * [cespare/vim-toml](https://github.com/cespare/vim-toml)
-
-  * [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim)
-
-  * [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim)
-
-  * [chip/telescope-software-licenses.nvim](https://github.com/chip/telescope-software-licenses.nvim)
-
-  * [chrboesch/vim-tabline](https://github.com/chrboesch/vim-tabline)
-
-  * [chrisbra/changesplugin](https://github.com/chrisbra/changesplugin)
-
-  * [chrisbra/colorizer](https://github.com/chrisbra/colorizer)
-
-  * [chrisbra/dynamicsigns](https://github.com/chrisbra/dynamicsigns)
-
-  * [chrisbra/unicode.vim](https://github.com/chrisbra/unicode.vim)
-
-  * [chriskempson/base16-vim/](https://github.com/chriskempson/base16-vim/)
-
-  * [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme)
-
-  * [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
-
-  * [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim)
-
-  * [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim)
-
-  * [coachshea/neo-pipe](https://github.com/coachshea/neo-pipe)
-
-  * [codcodog/simplebuffer.vim](https://github.com/codcodog/simplebuffer.vim)
-
-  * [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim)
-
-  * [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim)
-
-  * [critiqjo/lldb.nvim](https://github.com/critiqjo/lldb.nvim)
-
-  * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
-
-  * [cyansprite/extract](https://github.com/cyansprite/extract)
-
   * [dag/vim-fish](https://github.com/dag/vim-fish)
 
   * [danielpieper/telescope-tmuxinator.nvim](https://github.com/danielpieper/telescope-tmuxinator.nvim)
+
+  * [dbgx/lldb.nvim](https://github.com/dbgx/lldb.nvim)
 
   * [dense-analysis/ale](https://github.com/dense-analysis/ale)
 
@@ -404,6 +374,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * ###### [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
 
+  * [ixru/nvim-markdown](https://github.com/ixru/nvim-markdown)
+
   * [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
 
   * [jalvesaq/nvim-r](https://github.com/jalvesaq/nvim-r)
@@ -504,6 +476,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [kezhenxu94/vim-mysql-plugin](https://github.com/kezhenxu94/vim-mysql-plugin)
 
+  * [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
+
   * [killthemule/nvimpam](https://github.com/killthemule/nvimpam)
 
   * [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge)
@@ -601,6 +575,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim)
 
   * [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
+
+  * [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper)
 
   * [mfussenegger/nvim-ts-hint-textobject](https://github.com/mfussenegger/nvim-ts-hint-textobject)
 
@@ -780,6 +756,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [pianocomposer321/project-templates.nvim](https://github.com/pianocomposer321/project-templates.nvim)
 
+  * [pocco81/highstr.nvim](https://github.com/pocco81/highstr.nvim)
+
   * [potatoesmaster/i3-vim-syntax](https://github.com/potatoesmaster/i3-vim-syntax)
 
   * [powerman/vim-plugin-ansiesc](https://github.com/powerman/vim-plugin-ansiesc)
@@ -787,6 +765,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter)
 
   * [preservim/tagbar](https://github.com/preservim/tagbar)
+
+  * [preservim/vim-markdown](https://github.com/preservim/vim-markdown)
 
   * [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie)
 
@@ -1176,7 +1156,11 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
   * [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag)
 
+  * [winston0410/cmd-parser.nvim](https://github.com/winston0410/cmd-parser.nvim)
+
   * [winston0410/commented.nvim](https://github.com/winston0410/commented.nvim)
+
+  * [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim)
 
   * [wittyjudge/gruvbox-material.nvim](https://github.com/wittyjudge/gruvbox-material.nvim)
 

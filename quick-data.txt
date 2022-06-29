@@ -2,9 +2,11 @@
 0styx0/abbremand.nvim : lib for {0styx0/abbreinder.nvim}
 acksld/nvim-neoclip.lua : see yank history
 adelarsq/neoline.vim : statusline and tabline
+ahmedkhalf/project.nvim : provides superior project management
 airblade/vim-gitgutter : git diff
 airblade/vim-rooter : go to projects root
 airodactyl/neovim-ranger : ranger for neovim
+akinsho/nvim-bufferline.lua : A snazzy buffer line
 akinsho/nvim-toggleterm.lua : link to {akinsho/toggleterm}
 akinsho/toggleterm.nvim : persist and toggle multiple terminals
 akz92/vim-ionic2 : ionic2 syntax highlighting
@@ -20,6 +22,7 @@ amix/vim-commentary : fork from {tpope/vim-commentary}
 amix/vim-zenroom2 : emulates iA Writer environment
 andrewradev/splitjoin.vim : switching between a single-line statement and a multi-line one
 andrewradev/switch.vim : swich segments of text with predefined replacements
+andymass/vim-matchup : highlight, navigate, and operate on sets of matching text
 angkeith/telescope-terraform-doc.nvim : telescope extension to search and browse terraform providers docs
 antoinemadec/fixcursorhold.nvim : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
 ap/vim-css-color : preview colours in source code while editing
@@ -32,7 +35,7 @@ autozimu/languageclient-neovim : LSP support
 azabiong/vim-highlighter : highlight words and expressions
 beauwilliams/focus.nvim : Splits/Window Management Enhancements for Neovim
 benfowler/telescope-luasnip.nvim : telescope extension to list luasnip snippets
-bfredl/nvim-ipy : ipython integration for nvim
+bfredl/nvim-ipy : ipython integration
 bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
 bfredl/nvim-miniyank : The killring-alike plugin with no default mappings.
 bfrg/vim-qf-preview : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
@@ -48,3 +51,32 @@ bronzehedwick/vim-primary-terminal : Simple terminal management for Neovim.
 brooth/far.vim : replace text through multiple files
 bruno-/vim-man : link to {vim-utils/vim-man}
 burntsushi/ripgrep : recursively searches the current directory for a regex pattern
+c0r73x/neotags.lua : generates and highlight ctags similar to easytags
+c0r73x/neotags.nvim : depreciated, use {c0r73x/neotags.lua} inside
+camgraff/telescope-tmux.nvim : telescope extension to fuzzy-finding over tmux targets
+camspiers/snap : fast finder system
+catppuccin/nvim : colorscheme
+ccchapman/watson.nvim : watson integration
+cdelledonne/vim-cmake : building CMake projects inside of vim, with a nice visual feedback
+cdown/clipmenu : not a vim plugin
+cespare/vim-toml : syntax for toml
+challenger-deep-theme/vim : colorscheme
+chip/telescope-code-fence.nvim : telescope extension to fetch and parse text files from Github and provide a list of markdown code fences
+chip/telescope-software-licenses.nvim : telescope extension to view common software licenses
+chrboesch/vim-tabline : clear tab line
+chrisbra/changesplugin : visualize which lines have been changed since editing started
+chrisbra/colorizer : color colornames and codes
+chrisbra/dynamicsigns : Using Signs for different things (visualy)
+chrisbra/unicode.vim : handling unicode and digraphs characters
+chriskempson/base16-vim : colorscheme
+chriskempson/vim-tomorrow-theme : colorscheme [depreciated]
+christoomey/vim-tmux-navigator : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
+cljoly/telescope-repo.nvim : telescope extension to jump to any repository in filesystem
+clojure-vim/acid.nvim : clojure development
+coachshea/neo-pipe : send text through an external command and display the output in the output buffer
+codcodog/simplebuffer.vim : switching and deleting buffers easily
+coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
+crispgm/telescope-heading.nvim : telescope extension to switch between document's headings
+critiqjo/lldb.nvim : fork from {dbgx/lldb.nvim}
+ctrlpvim/ctrlp.vim : fork from {kien/ctrlp.vim}
+cyansprite/extract : puts and yanks to a list

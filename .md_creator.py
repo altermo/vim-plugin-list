@@ -58,6 +58,7 @@ class Assembler:
         for i in self.qdocs:
             name=i.split(':')[0].removesuffix(' ')
             if name not in self.alredy_removed:
+                print(name)
                 self.raw.remove(name)
             self.text+=self.pluglinkweb(name).removesuffix('\n')+' :'+i.split(':',1)[1]+'\n'
     def chech_plug(self,name:str,plugdata:dict)->None:

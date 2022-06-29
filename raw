@@ -68,7 +68,7 @@ chrisbra/changesplugin
 chrisbra/colorizer
 chrisbra/dynamicsigns
 chrisbra/unicode.vim
-chriskempson/base16-vim/
+chriskempson/base16-vim
 chriskempson/vim-tomorrow-theme
 christoomey/vim-tmux-navigator
 cljoly/telescope-repo.nvim
@@ -82,6 +82,7 @@ ctrlpvim/ctrlp.vim
 cyansprite/extract
 dag/vim-fish
 danielpieper/telescope-tmuxinator.nvim
+dbgx/lldb.nvim
 dense-analysis/ale
 derekwyatt/vim-scala
 devjoe/vim-codequery
@@ -191,6 +192,7 @@ iron-e/nvim-libmodal
 ironhouzi/starlite-nvim
 itchyny/lightline.vim
 itchyny/vim-cursorword
+ixru/nvim-markdown
 j-hui/fidget.nvim
 jalvesaq/nvim-r
 jalvesaq/vimcmdline
@@ -241,6 +243,7 @@ kevinhwang91/nvim-bqf
 kevinhwang91/nvim-hlslens
 kevinhwang91/rnvimr
 kezhenxu94/vim-mysql-plugin
+kien/ctrlp.vim
 killthemule/nvimpam
 kkoomen/vim-doge
 klen/python-mode
@@ -290,6 +293,7 @@ mbbill/undotree
 mcchrish/nnn.vim
 metakirby5/codi.vim
 mfussenegger/nvim-dap
+mfussenegger/nvim-treehopper
 mfussenegger/nvim-ts-hint-textobject
 mg979/vim-visual-multi
 mhartington/nvim-typescript
@@ -382,11 +386,13 @@ phaazon/hop.nvim
 philrunninger/nerdtree-buffer-ops
 philrunninger/nerdtree-visual-selection
 pianocomposer321/project-templates.nvim
+pocco81/highstr.nvim
 potatoesmaster/i3-vim-syntax
 powerman/vim-plugin-ansiesc
 preservim/nerdcommenter
 preservim/nerdtree
 preservim/tagbar
+preservim/vim-markdown
 psliwka/vim-smoothie
 ptzz/lf.vim
 pwntester/octo.nvim
@@ -582,7 +588,9 @@ wgibbs/vim-irblack
 williamboman/nvim-lsp-installer
 windwp/nvim-autopairs
 windwp/nvim-ts-autotag
+winston0410/cmd-parser.nvim
 winston0410/commented.nvim
+winston0410/range-highlight.nvim
 wittyjudge/gruvbox-material.nvim
 wsdjeg/flygrep.vim
 wsdjeg/vim-cheat
