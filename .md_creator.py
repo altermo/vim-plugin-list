@@ -17,7 +17,7 @@ class Assembler:
     def create_extdocs(self)->None:
         doc='# Extensions/readmore/options/...\n'
         for k,v in self.data.get('extensions',{}).items():
-            doc+=self.pluglinkweb(k)+' : '+', '.join(f'[{name}]({link})' for name,link in v.items())+'\n'
+            doc+=f'  * {self.pluglinkweb(k)} : '+', '.join(f'[{name}]({link})' for name,link in v.items())+'\n'
         self.text+=doc
     def create_recommend(self)->None:
         doc='# Lists\n'
