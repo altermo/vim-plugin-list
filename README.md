@@ -46,87 +46,169 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 [preservim/nerdtree](https://github.com/preservim/nerdtree) : [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
 # Quick-documented-list
 [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) : shows abbreviations if the whole thing is typed
+
 [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) : lib for {0styx0/abbreinder.nvim}
+
 [acksld/nvim-neoclip.lua](https://github.com/acksld/nvim-neoclip.lua) : see yank history
+
 [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) : statusline and tabline
+
 [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) : provides superior project management
+
 [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) : git diff
+
 [airblade/vim-rooter](https://github.com/airblade/vim-rooter) : go to projects root
+
 [airodactyl/neovim-ranger](https://github.com/airodactyl/neovim-ranger) : ranger for neovim
+
 [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) : A snazzy buffer line
+
 [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) : link to {akinsho/toggleterm}
+
 [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) : persist and toggle multiple terminals
+
 [akz92/vim-ionic2](https://github.com/akz92/vim-ionic2) : ionic2 syntax highlighting
+
 [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) : nim language plugin
+
 [alessandroyorba/despacio](https://github.com/alessandroyorba/despacio) : colorscheme
+
 [aloussase/telescope-gradle.nvim](https://github.com/aloussase/telescope-gradle.nvim) : telescope extension to run gradle tasks
+
 [aloussase/telescope-maven-search](https://github.com/aloussase/telescope-maven-search) : telescope extension to search dependencies in MavenCentral
+
 [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) : colorscheme
+
 [alvan/vim-closetag](https://github.com/alvan/vim-closetag) : Auto close (X)HTML tags
+
 [amix/open_file_under_cursor.vim](https://github.com/amix/open_file_under_cursor.vim) : open file under cursor (what did you expect)
+
 [amix/vim-2048](https://github.com/amix/vim-2048) : 2048 game
+
 [amix/vim-commentary](https://github.com/amix/vim-commentary) : fork from {tpope/vim-commentary}
+
 [amix/vim-zenroom2](https://github.com/amix/vim-zenroom2) : emulates iA Writer environment
+
 [andrewradev/splitjoin.vim](https://github.com/andrewradev/splitjoin.vim) : switching between a single-line statement and a multi-line one
+
 [andrewradev/switch.vim](https://github.com/andrewradev/switch.vim) : swich segments of text with predefined replacements
+
 [andymass/vim-matchup](https://github.com/andymass/vim-matchup) : highlight, navigate, and operate on sets of matching text
+
 [angkeith/telescope-terraform-doc.nvim](https://github.com/angkeith/telescope-terraform-doc.nvim) : telescope extension to search and browse terraform providers docs
+
 [antoinemadec/fixcursorhold.nvim](https://github.com/antoinemadec/fixcursorhold.nvim) : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
+
 [ap/vim-css-color](https://github.com/ap/vim-css-color) : preview colours in source code while editing
+
 [arakashic/chromatica.nvim](https://github.com/arakashic/chromatica.nvim) : Clang based syntax highlighting for Neovim [depreciated]
+
 [arp242/jumpy.vim](https://github.com/arp242/jumpy.vim) : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
+
 [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) : jc LSP (can be used with nvim-cmp)
+
 [artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) : depreciated, use {artur-shaik/jc.nvim} instead
+
 [asheq/close-buffers.vim](https://github.com/asheq/close-buffers.vim) : quickly close (bdelete) several buffers at once
+
 [autozimu/languageclient-neovim](https://github.com/autozimu/languageclient-neovim) : LSP support
+
 [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) : highlight words and expressions
+
 [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) : Splits/Window Management Enhancements for Neovim
+
 [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) : telescope extension to list luasnip snippets
+
 [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) : ipython integration
+
 [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) : REPL-like environment for developing lua plugins in Nvim
+
 [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) : The killring-alike plugin with no default mappings.
+
 [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
+
 [bi0ha2ard/telescope-ros.nvim](https://github.com/bi0ha2ard/telescope-ros.nvim) : telescope extension to select ROS(2) package
+
 [bling/vim-airline](https://github.com/bling/vim-airline) : link to {vim-airline/vim-airline}
+
 [blueshirts/darcula](https://github.com/blueshirts/darcula) : colorscheme
+
 [blueyed/vim-diminactive](https://github.com/blueyed/vim-diminactive) : dim inactive windows
+
 [brandoncc/telescope-harpoon.nvim](https://github.com/brandoncc/telescope-harpoon.nvim) : telescope extension to harpoon [depreciated]
+
 [brettanomyces/nvim-editcommand](https://github.com/brettanomyces/nvim-editcommand) : Edit your current shell command inside a scratch buffer
+
 [brettanomyces/nvim-terminus](https://github.com/brettanomyces/nvim-terminus) : Edit your current command in a scratch buffer
+
 [brglng/vim-im-select](https://github.com/brglng/vim-im-select) : Improve Vim/Neovim experience with input methods
+
 [bronzehedwick/vim-primary-terminal](https://github.com/bronzehedwick/vim-primary-terminal) : Simple terminal management for Neovim.
+
 [brooth/far.vim](https://github.com/brooth/far.vim) : replace text through multiple files
+
 [bruno-/vim-man](https://github.com/bruno-/vim-man) : link to {vim-utils/vim-man}
+
 [burntsushi/ripgrep](https://github.com/burntsushi/ripgrep) : recursively searches the current directory for a regex pattern
+
 [c0r73x/neotags.lua](https://github.com/c0r73x/neotags.lua) : generates and highlight ctags similar to easytags
+
 [c0r73x/neotags.nvim](https://github.com/c0r73x/neotags.nvim) : depreciated, use {c0r73x/neotags.lua} inside
+
 [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim) : telescope extension to fuzzy-finding over tmux targets
+
 [camspiers/snap](https://github.com/camspiers/snap) : fast finder system
+
 [catppuccin/nvim](https://github.com/catppuccin/nvim) : colorscheme
+
 [ccchapman/watson.nvim](https://github.com/ccchapman/watson.nvim) : watson integration
+
 [cdelledonne/vim-cmake](https://github.com/cdelledonne/vim-cmake) : building CMake projects inside of vim, with a nice visual feedback
+
 [cdown/clipmenu](https://github.com/cdown/clipmenu) : not a vim plugin
+
 [cespare/vim-toml](https://github.com/cespare/vim-toml) : syntax for toml
+
 [challenger-deep-theme/vim](https://github.com/challenger-deep-theme/vim) : colorscheme
+
 [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim) : telescope extension to fetch and parse text files from Github and provide a list of markdown code fences
+
 [chip/telescope-software-licenses.nvim](https://github.com/chip/telescope-software-licenses.nvim) : telescope extension to view common software licenses
+
 [chrboesch/vim-tabline](https://github.com/chrboesch/vim-tabline) : clear tab line
+
 [chrisbra/changesplugin](https://github.com/chrisbra/changesplugin) : visualize which lines have been changed since editing started
+
 [chrisbra/colorizer](https://github.com/chrisbra/colorizer) : color colornames and codes
+
 [chrisbra/dynamicsigns](https://github.com/chrisbra/dynamicsigns) : Using Signs for different things (visualy)
+
 [chrisbra/unicode.vim](https://github.com/chrisbra/unicode.vim) : handling unicode and digraphs characters
+
 [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) : colorscheme
+
 [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) : colorscheme [depreciated]
+
 [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
+
 [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) : telescope extension to jump to any repository in filesystem
+
 [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) : clojure development
+
 [coachshea/neo-pipe](https://github.com/coachshea/neo-pipe) : send text through an external command and display the output in the output buffer
+
 [codcodog/simplebuffer.vim](https://github.com/codcodog/simplebuffer.vim) : switching and deleting buffers easily
+
 [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) : makes operating on columns of code conceptually simpler and reduces keystrokes
+
 [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) : telescope extension to switch between document's headings
+
 [critiqjo/lldb.nvim](https://github.com/critiqjo/lldb.nvim) : fork from {dbgx/lldb.nvim}
+
 [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) : fork from {kien/ctrlp.vim}
+
 [cyansprite/extract](https://github.com/cyansprite/extract) : puts and yanks to a list
+
 # Non-documented-list
   * [dag/vim-fish](https://github.com/dag/vim-fish)
   * [danielpieper/telescope-tmuxinator.nvim](https://github.com/danielpieper/telescope-tmuxinator.nvim)

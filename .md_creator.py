@@ -32,7 +32,7 @@ class Assembler:
         for i in self.qdocs:
             name=i.split(':')[0].removesuffix(' ')
             self.raw.remove(name)
-            self.text+=self.pluglinkweb(name)+' :'+i.split(':',1)[1]+'\n'
+            self.text+=self.pluglinkweb(name)+' :'+i.split(':',1)[1]+'\n\n'
     def pluglinkweb(self,name:str)->str:
         if name.startswith('https://gitlab.com'):linkpre=''
         else:linkpre='https://github.com'
