@@ -1,5 +1,4 @@
 import json
-import re
 class Assembler:
     def __init__(self,rawlist:list,data:dict,pre:str,qdocs:list)->None:
         self.text=pre
@@ -7,18 +6,12 @@ class Assembler:
         self.qdocs=qdocs
         self.raw=rawlist
     def create(self)->str:
-        self.init_plugs()
         self.create_jumplist()
         self.create_recommend()
         self.create_extdocs()
         self.create_qdocs()
         self.create_raw()
         return self.text
-    def init_plugs(self)->None:
-        self.linkitplugs=set()
-        self.documented=set(re.findall(r'^(.*?) ',i)[0] for i in self.qdocs)
-        for recommend in self.data.get('lists',{}).values():
-            self.linkitplugs|=set(filter(lambda x:x in self.documented,recommend.values()))
     def create_jumplist(self)->None:
         pass #TODO
     def create_extdocs(self)->None:
@@ -44,13 +37,9 @@ class Assembler:
         if name.startswith('https://gitlab.com'):linkpre=''
         else:linkpre='https://github.com'
         pre='  *'
-        if name in self.linkitplugs:pre+=' ######'
         return f'{pre} [{name}]({linkpre}/{name})\n'
     def plugtolink(self,x:str)->str:
-        if x in self.linkitplugs:
-            return f'[{x}](#{x.replace("/","").replace(".","")})'
-        else:
-            return self.pluglinkweb(x)
+        return self.pluglinkweb(x)
     def create_raw(self)->None:
         self.text+='# Non-documented-list\n'
         self.text+='\n'.join(self.pluglinkweb(i) for i in self.raw)+'\n'

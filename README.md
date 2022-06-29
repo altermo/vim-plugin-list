@@ -48,7 +48,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
 * align text :   * [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion)
 
-* yankstack : [bfredl/nvim-miniyank](#bfredlnvim-miniyank)
+* yankstack :   * [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank)
+
 * sh commands in vimscript :   * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch)
 
 * translator :   * [voldikss/vim-translator](https://github.com/voldikss/vim-translator)
@@ -57,7 +58,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
 * fastfold :   * [Konfekt/FastFold](https://github.com/Konfekt/FastFold)
 
-* abbrev reminder : [0styx0/abbreinder.nvim](#0styx0abbreindernvim)
+* abbrev reminder :   * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
+
 </details>
 
 # Extensions/readmore/options/...
@@ -70,7 +72,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [preservim/nerdtree](https://github.com/preservim/nerdtree)
  : [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
 # Quick-documented-list
-  * ###### [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) : shows abbreviations if the whole thing is typed
+  * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) : shows abbreviations if the whole thing is typed
   * [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) : lib for {0styx0/abbreinder.nvim}
   * [acksld/nvim-neoclip.lua](https://github.com/acksld/nvim-neoclip.lua) : see yank history
   * [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) : statusline and tabline
@@ -109,7 +111,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) : telescope extension to list luasnip snippets
   * [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) : ipython integration
   * [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) : REPL-like environment for developing lua plugins in Nvim
-  * ###### [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) : The killring-alike plugin with no default mappings.
+  * [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) : The killring-alike plugin with no default mappings.
   * [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
   * [bi0ha2ard/telescope-ros.nvim](https://github.com/bi0ha2ard/telescope-ros.nvim) : telescope extension to select ROS(2) package
   * [bling/vim-airline](https://github.com/bling/vim-airline) : link to {vim-airline/vim-airline}
