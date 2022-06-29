@@ -17,13 +17,13 @@ class Assembler:
     def create_extdocs(self)->None:
         doc='# Extensions/readmore/options/...\n'
         for k,v in self.data.get('extensions',{}).items():
-            doc+=self.plugtolink(k)+' : '+', '.join(f'[{name}]({link})' for name,link in v.items())+'\n'
+            doc+=self.pluglinkweb(k)+' : '+', '.join(f'[{name}]({link})' for name,link in v.items())+'\n'
         self.text+=doc
     def create_recommend(self)->None:
         doc='# Lists\n'
         for name,recommend in self.data.get('lists',{}).items():
             doc+=f'<details><summary>{name}</summary>\n\n'
-            doc+=''.join(f'* {typ} : {self.plugtolink(name)}\n' for typ,name in recommend.items())
+            doc+=''.join(f'* {typ} : {self.pluglinkweb(name)}\n' for typ,name in recommend.items())
             doc+=f'</details>\n'
         doc+='\n'
         self.text+=doc
@@ -32,17 +32,14 @@ class Assembler:
         for i in self.qdocs:
             name=i.split(':')[0].removesuffix(' ')
             self.raw.remove(name)
-            self.text+=self.pluglinkweb(name).removesuffix('\n')+' :'+i.split(':',1)[1]+'\n'
+            self.text+=self.pluglinkweb(name)+' :'+i.split(':',1)[1]+'\n'
     def pluglinkweb(self,name:str)->str:
         if name.startswith('https://gitlab.com'):linkpre=''
         else:linkpre='https://github.com'
-        pre='  *'
-        return f'{pre} [{name}]({linkpre}/{name})\n'
-    def plugtolink(self,x:str)->str:
-        return self.pluglinkweb(x)
+        return f'[{name}]({linkpre}/{name})'
     def create_raw(self)->None:
         self.text+='# Non-documented-list\n'
-        self.text+='\n'.join(self.pluglinkweb(i) for i in self.raw)+'\n'
+        self.text+=''.join(f'  * {self.pluglinkweb(i)}\n' for i in self.raw)
 def main():
     with open('raw') as f:
         rawlist=f.read().splitlines()
