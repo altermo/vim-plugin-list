@@ -1,0 +1,1 @@
+0styx0/abbremand.nvim > 0styx0/abbreinder.nvim

@@ -1,0 +1,3 @@
+akinsho/nvim-toggleterm.lua > akinsho/toggleterm
+bling/vim-airline > vim-airline/vim-airline
+bruno-/vim-man > vim-utils/vim-man
