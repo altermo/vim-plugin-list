@@ -264,6 +264,7 @@ ggandor/leap.nvim
 ggandor/lightspeed.nvim
 ghifarit53/tokyonight-vim
 ghillb/cybu.nvim
+github.com/wbthomason
 github/copilot.vim
 gitlab.com/yorickpeterse
 glacambre/firenvim
@@ -481,6 +482,8 @@ lukas-reineke/cmp-under-comparator
 lukas-reineke/headlines.nvim
 lukas-reineke/indent-blankline.nvim
 lukas-reineke/lsp-format.nvim
+lunarvim/colorschemes
+lunarvim/darkplus.nvim
 lunarvim/lualine.nvim
 lunarvim/lunarvim
 lunarvim/onedarker.nvim
@@ -552,6 +555,7 @@ mjlbach/onedark.nvim
 mjswensen/themer
 mofiqul/dracula.nvim
 mofiqul/vscode.nvim
+moll/vim-bbye
 moll/vim-node
 monaqa/dial.nvim
 monkoose/matchparen.nvim
