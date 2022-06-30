@@ -1,0 +1,52 @@
+0styx0/abbreinder.nvim : shows abbreviations if the whole thing is typed
+acksld/nvim-neoclip.lua : see yank history
+adelarsq/neoline.vim : statusline and tabline
+ahmedkhalf/project.nvim : provides superior project management
+airblade/vim-gitgutter : git diff
+airblade/vim-rooter : go to projects root
+airodactyl/neovim-ranger : ranger for neovim
+akinsho/nvim-bufferline.lua : A snazzy buffer line
+akinsho/toggleterm.nvim : persist and toggle multiple terminals
+akz92/vim-ionic2 : ionic2 syntax highlighting
+alaviss/nim.nvim : nim language plugin
+alvan/vim-closetag : Auto close (X)HTML tags
+amix/open_file_under_cursor.vim : open file under cursor (what did you expect)
+amix/vim-2048 : 2048 game
+amix/vim-zenroom2 : emulates iA Writer environment
+andrewradev/splitjoin.vim : switching between a single-line statement and a multi-line one
+andrewradev/switch.vim : swich segments of text with predefined replacements
+andymass/vim-matchup : highlight, navigate, and operate on sets of matching text
+antoinemadec/fixcursorhold.nvim : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
+ap/vim-css-color : preview colours in source code while editing
+arp242/jumpy.vim : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
+artur-shaik/jc.nvim : jc LSP
+asheq/close-buffers.vim : quickly close (bdelete) several buffers at once
+autozimu/languageclient-neovim : LSP support
+azabiong/vim-highlighter : highlight words and expressions
+beauwilliams/focus.nvim : Splits/Window Management Enhancements for Neovim
+bfredl/nvim-ipy : ipython integration
+bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
+bfredl/nvim-miniyank : The killring-alike plugin with no default mappings.
+bfrg/vim-qf-preview : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
+blueyed/vim-diminactive : dim inactive windows
+brettanomyces/nvim-editcommand : Edit your current shell command inside a scratch buffer
+brettanomyces/nvim-terminus : Edit your current command in a scratch buffer
+brglng/vim-im-select : Improve Vim/Neovim experience with input methods
+bronzehedwick/vim-primary-terminal : Simple terminal management for Neovim.
+brooth/far.vim : replace text through multiple files
+c0r73x/neotags.lua : generates and highlight ctags similar to easytags
+camspiers/snap : fast finder system
+ccchapman/watson.nvim : watson integration
+cdelledonne/vim-cmake : building CMake projects inside of vim, with a nice visual feedback
+cespare/vim-toml : syntax for toml
+chrboesch/vim-tabline : clear tab line (technically not a plugin)
+chrisbra/changesplugin : visualize which lines have been changed since editing started
+chrisbra/colorizer : color colornames and codes
+chrisbra/dynamicsigns : Using Signs for different things (visualy)
+chrisbra/unicode.vim : handling unicode and digraphs characters
+christoomey/vim-tmux-navigator : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
+clojure-vim/acid.nvim : clojure development
+coachshea/neo-pipe : send text through an external command and display the output in the output buffer
+codcodog/simplebuffer.vim : switching and deleting buffers easily
+coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
+cyansprite/extract : puts and yanks to a list

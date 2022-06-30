@@ -61,6 +61,7 @@ arp242/jumpy.vim
 artart222/codeart
 artur-shaik/jc.nvim
 artur-shaik/vim-javacomplete2
+arzg/vim-substrata
 aserowy/tmux.nvim
 asheq/close-buffers.vim
 askfiy/nvim
@@ -189,6 +190,7 @@ duane9/nvim-rg
 dyng/ctrlsf.vim
 easymotion/vim-easymotion
 echasnovski/mini.nvim
+echasnovski/mini.nvim#plugin-colorscheme
 edeneast/nightfox.nvim
 editorconfig/editorconfig-vim
 edluffy/specs.nvim
@@ -459,6 +461,7 @@ lewis6991/spellsitter.nvim
 lifepillar/pgsql.vim
 lifepillar/vim-colortemplate
 lifepillar/vim-mucomplete
+lifepillar/vim-solarized8
 linarcx/telescope-changes.nvim
 linarcx/telescope-command-palette.nvim
 linarcx/telescope-env.nvim
@@ -766,6 +769,7 @@ robertmeta/nofrils
 rockerboo/boo-colorscheme-nvim
 rohit-px2/nvui
 romainl/apprentice
+romainl/flattened
 romainl/vim-qf
 romgrk/barbar.nvim
 romgrk/nvim-treesitter-context
@@ -778,6 +782,7 @@ rrethy/nvim-base16
 rrethy/nvim-treesitter-endwise
 rrethy/nvim-treesitter-textsubjects
 rrethy/vim-illuminate
+rsms/sublime-theme
 ruifm/gitlinker.nvim
 rust-lang/rust.vim
 ryanoasis/vim-devicons
@@ -795,6 +800,7 @@ sainnhe/everforest
 sainnhe/gruvbox-material
 sainnhe/sonokai
 sakhnik/nvim-gdb
+saurabhdaware/vscode-calvera-dark
 savq/melange
 savq/paq-nvim
 sbdchd/neoformat

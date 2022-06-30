@@ -1,5 +1,3 @@
-AlessandroYorba/Despacio
-NTBBloodbath/doom-one.nvim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
 alessandroyorba/despacio
@@ -14,7 +12,6 @@ bluz71/vim-nightfly-guicolors
 catppuccin/nvim
 challenger-deep-theme/vim
 chriskempson/base16-vim
-chriskempson/vim-tomorrow-theme
 christianchiarulli/nvcode-color-schemes.vim
 chrsm/paramount-ng.nvim
 cpea2506/one_monokai.nvim
