@@ -32,14 +32,18 @@ ap/vim-css-color : preview colours in source code while editing
 arakashic/chromatica.nvim : is not maineind/depreciated, use {jackguo380/vim-lsp-cxx-highlight} isntead
 arcticicestudio/nord-vim : colorscheme
 arp242/jumpy.vim : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
+arthurealike/vim-j : colorscheme
 artur-shaik/jc.nvim : jc LSP
 artur-shaik/vim-javacomplete2 : is not maineind/depreciated, use {artur-shaik/jc.nvim} isntead
 arzg/vim-substrata : colorscheme
 asheq/close-buffers.vim : quickly close (bdelete) several buffers at once
 autozimu/languageclient-neovim : LSP support
+axvr/photon.vim : colorscheme
+axvr/raider.vim : colorscheme
 azabiong/vim-highlighter : highlight words and expressions
 beauwilliams/focus.nvim : Splits/Window Management Enhancements for Neovim
 benfowler/telescope-luasnip.nvim : telescope extensions to list luasnip snippets
+benwr/tuftish : colorscheme
 bfredl/nvim-ipy : ipython integration
 bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
 bfredl/nvim-miniyank : The killring-alike plugin with no default mappings.
@@ -102,9 +106,12 @@ folke/tokyonight.nvim : colorscheme
 frenzyexists/aquarium-vim : colorscheme
 ghifarit53/tokyonight-vim : colorscheme
 glepnir/zephyr-nvim : colorscheme
+hardselius/warlock : colorscheme
+heraldofsolace/nisha-vim : colorscheme
 icymind/neosolarized : colorscheme
 ishan9299/modus-theme-vim : colorscheme
 ishan9299/nvim-solarized-lua : colorscheme
+jayhowie/crystal-cove : colorscheme
 jnurmine/zenburn : colorscheme
 jonathanfilip/vim-lucius : colorscheme
 joshdick/onedark.vim : colorscheme
@@ -117,6 +124,7 @@ kdheepak/monochrome.nvim : colorscheme
 kvrohit/rasmus.nvim : colorscheme
 kvrohit/substrata.nvim : colorscheme
 kyazdani42/blue-moon : colorscheme
+ladge/antarctic-vim/ : colorscheme
 lalitmee/cobalt2.nvim : colorscheme
 ldelossa/vimdark : colorscheme
 lifepillar/vim-solarized8 : colorscheme
@@ -124,6 +132,7 @@ lmburns/kimbox : colorscheme
 lourenci/github-colors : colorscheme
 luisiacc/gruvbox-baby : colorscheme
 mangeshrex/uwu.vim : colorscheme
+markeganfuller/vim-journeyman : colorscheme
 marko-cerovac/material.nvim : colorscheme
 maxst/flatcolor : colorscheme
 mcchrish/zenbones.nvim : colorscheme
@@ -154,9 +163,13 @@ rishabhrd/gruvy : colorscheme
 rishabhrd/nvim-rdark : colorscheme
 rmehri01/onenord.nvim : colorscheme
 robertmeta/nofrils : colorscheme
+roboron3042/cyberpunk-neon : colorscheme
 rockerboo/boo-colorscheme-nvim : colorscheme
 romainl/apprentice : colorscheme
 romainl/flattened : colorscheme
+romainl/vim-bruin : colorscheme
+romainl/vim-dichromatic : colorscheme
+romainl/vim-sweet16 : colorscheme
 rose-pine/neovim : colorscheme
 rrethy/nvim-base16 : colorscheme
 rsms/sublime-theme : colorscheme
@@ -169,7 +182,10 @@ savq/melange : colorscheme
 shaeinst/roshnivim-cs : colorscheme
 shaunsingh/moonlight.nvim : colorscheme
 shaunsingh/nord.nvim : colorscheme
+shrimpram/vim-stella : colorscheme
 sickill/vim-monokai : colorscheme
+softmotions/vim-dark-frost-theme : colorscheme
+swalladge/paper.vim : colorscheme
 tanvirtin/monokai.nvim : colorscheme
 tek256/simple-dark : colorscheme
 th3whit3wolf/one-nvim : colorscheme
@@ -183,6 +199,7 @@ tjdevries/gruvbuddy.nvim : colorscheme
 tomasiser/vim-code-dark : colorscheme
 tomasr/molokai : colorscheme
 tpope/vim-vividchalk : colorscheme
+u03c1/outrun-vim : colorscheme
 vim-conf-live/vimconflive2021-colorscheme : colorscheme
 vim-scripts/mayansmoke : colorscheme
 vim-scripts/peaksea : colorscheme

@@ -46,14 +46,18 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [arakashic/chromatica.nvim](https://github.com/arakashic/chromatica.nvim) : is not maineind/depreciated, use {jackguo380/vim-lsp-cxx-highlight} isntead
   * [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) : colorscheme
   * [arp242/jumpy.vim](https://github.com/arp242/jumpy.vim) : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
+  * [arthurealike/vim-j](https://github.com/arthurealike/vim-j) : colorscheme
   * [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) : jc LSP
   * [artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) : is not maineind/depreciated, use {artur-shaik/jc.nvim} isntead
   * [arzg/vim-substrata](https://github.com/arzg/vim-substrata) : colorscheme
   * [asheq/close-buffers.vim](https://github.com/asheq/close-buffers.vim) : quickly close (bdelete) several buffers at once
   * [autozimu/languageclient-neovim](https://github.com/autozimu/languageclient-neovim) : LSP support
+  * [axvr/photon.vim](https://github.com/axvr/photon.vim) : colorscheme
+  * [axvr/raider.vim](https://github.com/axvr/raider.vim) : colorscheme
   * [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) : highlight words and expressions
   * [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) : Splits/Window Management Enhancements for Neovim
   * [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) : telescope extensions to list luasnip snippets
+  * [benwr/tuftish](https://github.com/benwr/tuftish) : colorscheme
   * [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) : ipython integration
   * [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) : REPL-like environment for developing lua plugins in Nvim
   * [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) : The killring-alike plugin with no default mappings.
@@ -116,9 +120,12 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [frenzyexists/aquarium-vim](https://github.com/frenzyexists/aquarium-vim) : colorscheme
   * [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) : colorscheme
   * [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) : colorscheme
+  * [hardselius/warlock](https://github.com/hardselius/warlock) : colorscheme
+  * [heraldofsolace/nisha-vim](https://github.com/heraldofsolace/nisha-vim) : colorscheme
   * [icymind/neosolarized](https://github.com/icymind/neosolarized) : colorscheme
   * [ishan9299/modus-theme-vim](https://github.com/ishan9299/modus-theme-vim) : colorscheme
   * [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) : colorscheme
+  * [jayhowie/crystal-cove](https://github.com/jayhowie/crystal-cove) : colorscheme
   * [jnurmine/zenburn](https://github.com/jnurmine/zenburn) : colorscheme
   * [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius) : colorscheme
   * [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) : colorscheme
@@ -131,6 +138,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [kvrohit/rasmus.nvim](https://github.com/kvrohit/rasmus.nvim) : colorscheme
   * [kvrohit/substrata.nvim](https://github.com/kvrohit/substrata.nvim) : colorscheme
   * [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) : colorscheme
+  * [ladge/antarctic-vim/](https://github.com/ladge/antarctic-vim/) : colorscheme
   * [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) : colorscheme
   * [ldelossa/vimdark](https://github.com/ldelossa/vimdark) : colorscheme
   * [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) : colorscheme
@@ -138,6 +146,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [lourenci/github-colors](https://github.com/lourenci/github-colors) : colorscheme
   * [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) : colorscheme
   * [mangeshrex/uwu.vim](https://github.com/mangeshrex/uwu.vim) : colorscheme
+  * [markeganfuller/vim-journeyman](https://github.com/markeganfuller/vim-journeyman) : colorscheme
   * [marko-cerovac/material.nvim](https://github.com/marko-cerovac/material.nvim) : colorscheme
   * [maxst/flatcolor](https://github.com/maxst/flatcolor) : colorscheme
   * [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) : colorscheme
@@ -168,9 +177,13 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [rishabhrd/nvim-rdark](https://github.com/rishabhrd/nvim-rdark) : colorscheme
   * [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) : colorscheme
   * [robertmeta/nofrils](https://github.com/robertmeta/nofrils) : colorscheme
+  * [roboron3042/cyberpunk-neon](https://github.com/roboron3042/cyberpunk-neon) : colorscheme
   * [rockerboo/boo-colorscheme-nvim](https://github.com/rockerboo/boo-colorscheme-nvim) : colorscheme
   * [romainl/apprentice](https://github.com/romainl/apprentice) : colorscheme
   * [romainl/flattened](https://github.com/romainl/flattened) : colorscheme
+  * [romainl/vim-bruin](https://github.com/romainl/vim-bruin) : colorscheme
+  * [romainl/vim-dichromatic](https://github.com/romainl/vim-dichromatic) : colorscheme
+  * [romainl/vim-sweet16](https://github.com/romainl/vim-sweet16) : colorscheme
   * [rose-pine/neovim](https://github.com/rose-pine/neovim) : colorscheme
   * [rrethy/nvim-base16](https://github.com/rrethy/nvim-base16) : colorscheme
   * [rsms/sublime-theme](https://github.com/rsms/sublime-theme) : colorscheme
@@ -183,7 +196,10 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [shaeinst/roshnivim-cs](https://github.com/shaeinst/roshnivim-cs) : colorscheme
   * [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) : colorscheme
   * [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) : colorscheme
+  * [shrimpram/vim-stella](https://github.com/shrimpram/vim-stella) : colorscheme
   * [sickill/vim-monokai](https://github.com/sickill/vim-monokai) : colorscheme
+  * [softmotions/vim-dark-frost-theme](https://github.com/softmotions/vim-dark-frost-theme) : colorscheme
+  * [swalladge/paper.vim](https://github.com/swalladge/paper.vim) : colorscheme
   * [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) : colorscheme
   * [tek256/simple-dark](https://github.com/tek256/simple-dark) : colorscheme
   * [th3whit3wolf/one-nvim](https://github.com/th3whit3wolf/one-nvim) : colorscheme
@@ -197,6 +213,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) : colorscheme
   * [tomasr/molokai](https://github.com/tomasr/molokai) : colorscheme
   * [tpope/vim-vividchalk](https://github.com/tpope/vim-vividchalk) : colorscheme
+  * [u03c1/outrun-vim](https://github.com/u03c1/outrun-vim) : colorscheme
   * [vim-conf-live/vimconflive2021-colorscheme](https://github.com/vim-conf-live/vimconflive2021-colorscheme) : colorscheme
   * [vim-scripts/mayansmoke](https://github.com/vim-scripts/mayansmoke) : colorscheme
   * [vim-scripts/peaksea](https://github.com/vim-scripts/peaksea) : colorscheme
@@ -656,6 +673,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc)
   * [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim)
   * [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides)
+  * [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim)
   * [ncm2/ncm2](https://github.com/ncm2/ncm2)
   * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
   * [neomake/neomake](https://github.com/neomake/neomake)
