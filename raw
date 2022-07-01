@@ -327,7 +327,6 @@ hrsh7th/cmp-nvim-lua
 hrsh7th/cmp-path
 hrsh7th/nvim-cmp
 hrsh7th/vim-vsnip
-https://gitlab.com/yorickpeterse/nvim-window.git
 huawenyu/neogdb.vim
 iamcco/markdown-preview.nvim
 ibhagwan/fzf-lua
