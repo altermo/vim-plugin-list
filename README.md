@@ -238,6 +238,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [yong1le/darkplus.nvim](https://github.com/yong1le/darkplus.nvim) : colorscheme
   * [yonlu/omni.vim](https://github.com/yonlu/omni.vim) : colorscheme
   * [yuttie/hydrangea-vim](https://github.com/yuttie/hydrangea-vim) : colorscheme
+  * [yorickpeterse/nvim-window](https://gitlab.com/yorickpeterse/nvim-window) : quickly switching between windows
 # Non-documented-list
   * [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
   * [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view)
@@ -394,7 +395,6 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim)
   * [github.com/wbthomason](https://github.com/github.com/wbthomason)
   * [github/copilot.vim](https://github.com/github/copilot.vim)
-  * [gitlab.com/yorickpeterse](https://github.com/gitlab.com/yorickpeterse)
   * [glacambre/firenvim](https://github.com/glacambre/firenvim)
   * [glench/vim-jinja2-syntax](https://github.com/glench/vim-jinja2-syntax)
   * [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)

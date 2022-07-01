@@ -7,11 +7,20 @@ class Assembler:
         self.qdocs=qdocs
         self.raw=rawlist
     def create(self)->str:
+        self.test_raw()
         self.create_jumplist()
         self.create_extdocs()
         self.create_qdocs()
         self.create_raw()
         return self.text
+    def test_raw(self):
+        for i in re.findall(r'\{(.*?)\}',''.join(self.qdocs)):
+            if i not in self.raw:
+                raise Exception(f'{i} not in raw')
+        for i in re.findall(r'´(.*?)´',''.join(self.qdocs)):
+            i='https://gitlab.com/'+i
+            if i not in self.raw:
+                raise Exception(f'{i} not in raw')
     def create_jumplist(self)->None:
         pass #TODO
     def create_extdocs(self)->None:
@@ -22,11 +31,14 @@ class Assembler:
     def create_qdocs(self)->None:
         self.text+='# Quick-documented-list\n'
         for i in self.qdocs:
-            name=i.split(':')[0].removesuffix('} ').removeprefix('{')
+            name=i.split(':')[0].rstrip('} ').lstrip('{')
+            if '´' in name:
+                name='https://gitlab.com/'+name.rstrip('´').lstrip('´')
             self.raw.remove(name)
             self.text+=f'  * {self.formatplug(i)}\n'
     def formatplug(self,text:str)->str:
-        return re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
+        text=re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
+        return re.sub(r'´(.*?)´',r'[\1](https://gitlab.com/\1)',text)
     def pluglinkweb(self,name:str)->str:
         if name.startswith('https://gitlab.com'):linkpre=''
         else:linkpre='https://github.com'

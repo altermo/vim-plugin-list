@@ -224,3 +224,4 @@
 {yong1le/darkplus.nvim} : colorscheme
 {yonlu/omni.vim} : colorscheme
 {yuttie/hydrangea-vim} : colorscheme
+´yorickpeterse/nvim-window´ : quickly switching between windows
