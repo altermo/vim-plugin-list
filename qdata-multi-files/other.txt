@@ -1,4 +1,6 @@
 0styx0/abbreinder.nvim : shows abbreviations if the whole thing is typed
+abecodes/tabout.nvim : tabbing out from parentheses
+acksld/nvim-gfold.lua : plugin for gfold
 acksld/nvim-neoclip.lua : see yank history
 adelarsq/neoline.vim : statusline and tabline
 ahmedkhalf/project.nvim : provides superior project management
@@ -50,5 +52,12 @@ coachshea/neo-pipe : send text through an external command and display the outpu
 codcodog/simplebuffer.vim : switching and deleting buffers easily
 coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
 cyansprite/extract : puts and yanks to a list
-abecodes/tabout.nvim : tabbing out from parentheses
-acksld/nvim-gfold.lua : plugin for gfold
+acksld/nvim-trevj.lua : do the opposite of join-line
+adoy/vim-php-refactoring-toolbox : PHP Refactoring Toolbox
+ahmedkhalf/notif.nvim : Notification system
+ajh17/vimcompletesme : A super simple, super minimal, super light-weight tab-completion plugin
+akinsho/bufferline.nvim : A snazzy buffer line
+alec-gibson/nvim-tetris : tetris game
+alexaandru/nvim-lspupdate : Updates installed (or auto installs if missing) LSP servers, that are already configured in your init.vim
+allendang/nvim-expand-expr : Expand and repeat expression to multiple lines
+alvarosevilla95/luatab.nvim : Just a lua rewrite of the tabline render function

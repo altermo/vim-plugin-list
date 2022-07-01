@@ -19,23 +19,33 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [acksld/nvim-gfold.lua](https://github.com/acksld/nvim-gfold.lua) : plugin for gfold
   * [acksld/nvim-neoclip.lua](https://github.com/acksld/nvim-neoclip.lua) : see yank history
   * [acksld/nvim-revj.lua](https://github.com/acksld/nvim-revj.lua) : is not maineind/depreciated, use [acksld/nvim-trevj.lua](https://github.com/acksld/nvim-trevj.lua) isntead
+  * [acksld/nvim-trevj.lua](https://github.com/acksld/nvim-trevj.lua) : do the opposite of join-line
   * [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) : statusline and tabline
   * [adisen99/apprentice.nvim](https://github.com/adisen99/apprentice.nvim) : colorscheme
   * [adisen99/codeschool.nvim](https://github.com/adisen99/codeschool.nvim) : colorscheme
+  * [adoy/vim-php-refactoring-toolbox](https://github.com/adoy/vim-php-refactoring-toolbox) : PHP Refactoring Toolbox
+  * [ahmedkhalf/notif.nvim](https://github.com/ahmedkhalf/notif.nvim) : Notification system
   * [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) : provides superior project management
   * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) : git diff
   * [airblade/vim-rooter](https://github.com/airblade/vim-rooter) : go to projects root
   * [airodactyl/neovim-ranger](https://github.com/airodactyl/neovim-ranger) : ranger for neovim
+  * [ajh17/vimcompletesme](https://github.com/ajh17/vimcompletesme) : A super simple, super minimal, super light-weight tab-completion plugin
+  * [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) : A snazzy buffer line
   * [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) : A snazzy buffer line
   * [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) : link to [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
   * [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) : persist and toggle multiple terminals
+  * [akiyosi/goneovim](https://github.com/akiyosi/goneovim) : link to [dzhou121/gonvim](https://github.com/dzhou121/gonvim)
   * [akz92/vim-ionic2](https://github.com/akz92/vim-ionic2) : ionic2 syntax highlighting
   * [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) : nim language plugin
+  * [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) : tetris game
   * [alessandroyorba/despacio](https://github.com/alessandroyorba/despacio) : colorscheme
+  * [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) : Updates installed (or auto installs if missing) LSP servers, that are already configured in your init.vim
+  * [allendang/nvim-expand-expr](https://github.com/allendang/nvim-expand-expr) : Expand and repeat expression to multiple lines
   * [aloussase/telescope-gradle.nvim](https://github.com/aloussase/telescope-gradle.nvim) : telescope extensions to run gradle tasks
   * [aloussase/telescope-maven-search](https://github.com/aloussase/telescope-maven-search) : telescope extensions to search dependencies in MavenCentral
   * [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) : colorscheme
   * [alvan/vim-closetag](https://github.com/alvan/vim-closetag) : Auto close (X)HTML tags
+  * [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) : Just a lua rewrite of the tabline render function
   * [amix/open_file_under_cursor.vim](https://github.com/amix/open_file_under_cursor.vim) : open file under cursor (what did you expect)
   * [amix/vim-2048](https://github.com/amix/vim-2048) : 2048 game
   * [amix/vim-commentary](https://github.com/amix/vim-commentary) : is a fork of [tpope/vim-commentary](https://github.com/tpope/vim-commentary)
@@ -229,17 +239,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [yonlu/omni.vim](https://github.com/yonlu/omni.vim) : colorscheme
   * [yuttie/hydrangea-vim](https://github.com/yuttie/hydrangea-vim) : colorscheme
 # Non-documented-list
-  * [acksld/nvim-trevj.lua](https://github.com/acksld/nvim-trevj.lua)
-  * [adoy/vim-php-refactoring-toolbox](https://github.com/adoy/vim-php-refactoring-toolbox)
-  * [ahmedkhalf/notif.nvim](https://github.com/ahmedkhalf/notif.nvim)
-  * [ajh17/vimcompletesme](https://github.com/ajh17/vimcompletesme)
-  * [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
   * [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-  * [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
-  * [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris)
-  * [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate)
-  * [allendang/nvim-expand-expr](https://github.com/allendang/nvim-expand-expr)
-  * [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim)
   * [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view)
   * [andersevenrud/compe-tmux](https://github.com/andersevenrud/compe-tmux)
   * [andrewradev/sideways.vim](https://github.com/andrewradev/sideways.vim)
@@ -322,6 +322,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime)
   * [duane9/nvim-rg](https://github.com/duane9/nvim-rg)
   * [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim)
+  * [dzhou121/gonvim](https://github.com/dzhou121/gonvim)
   * [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion)
   * [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)
   * [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)
