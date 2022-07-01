@@ -50,3 +50,5 @@ coachshea/neo-pipe : send text through an external command and display the outpu
 codcodog/simplebuffer.vim : switching and deleting buffers easily
 coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
 cyansprite/extract : puts and yanks to a list
+abecodes/tabout.nvim : tabbing out from parentheses
+acksld/nvim-gfold.lua : plugin for gfold

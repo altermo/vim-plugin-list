@@ -13,8 +13,12 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [preservim/nerdtree](https://github.com/preservim/nerdtree) : [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
 # Quick-documented-list
   * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) : shows abbreviations if the whole thing is typed
-  * [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) : lib for {0styx0/abbreinder.nvim}
+  * [0styx0/abbremand.nvim](https://github.com/0styx0/abbremand.nvim) : lib for [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
+  * [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) : tabbing out from parentheses
+  * [abstract-ide/abstract](https://github.com/abstract-ide/abstract) : is an ide
+  * [acksld/nvim-gfold.lua](https://github.com/acksld/nvim-gfold.lua) : plugin for gfold
   * [acksld/nvim-neoclip.lua](https://github.com/acksld/nvim-neoclip.lua) : see yank history
+  * [acksld/nvim-revj.lua](https://github.com/acksld/nvim-revj.lua) : is not maineind/depreciated, use [acksld/nvim-trevj.lua](https://github.com/acksld/nvim-trevj.lua) isntead
   * [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) : statusline and tabline
   * [adisen99/apprentice.nvim](https://github.com/adisen99/apprentice.nvim) : colorscheme
   * [adisen99/codeschool.nvim](https://github.com/adisen99/codeschool.nvim) : colorscheme
@@ -23,7 +27,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [airblade/vim-rooter](https://github.com/airblade/vim-rooter) : go to projects root
   * [airodactyl/neovim-ranger](https://github.com/airodactyl/neovim-ranger) : ranger for neovim
   * [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) : A snazzy buffer line
-  * [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) : link to {akinsho/toggleterm}
+  * [akinsho/nvim-toggleterm.lua](https://github.com/akinsho/nvim-toggleterm.lua) : link to [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
   * [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) : persist and toggle multiple terminals
   * [akz92/vim-ionic2](https://github.com/akz92/vim-ionic2) : ionic2 syntax highlighting
   * [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) : nim language plugin
@@ -34,7 +38,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [alvan/vim-closetag](https://github.com/alvan/vim-closetag) : Auto close (X)HTML tags
   * [amix/open_file_under_cursor.vim](https://github.com/amix/open_file_under_cursor.vim) : open file under cursor (what did you expect)
   * [amix/vim-2048](https://github.com/amix/vim-2048) : 2048 game
-  * [amix/vim-commentary](https://github.com/amix/vim-commentary) : is a fork of tpope/vim-commentary
+  * [amix/vim-commentary](https://github.com/amix/vim-commentary) : is a fork of [tpope/vim-commentary](https://github.com/tpope/vim-commentary)
   * [amix/vim-zenroom2](https://github.com/amix/vim-zenroom2) : emulates iA Writer environment
   * [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) : colorscheme
   * [andrewradev/splitjoin.vim](https://github.com/andrewradev/splitjoin.vim) : switching between a single-line statement and a multi-line one
@@ -43,12 +47,12 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [angkeith/telescope-terraform-doc.nvim](https://github.com/angkeith/telescope-terraform-doc.nvim) : telescope extensions to search and browse terraform providers docs
   * [antoinemadec/fixcursorhold.nvim](https://github.com/antoinemadec/fixcursorhold.nvim) : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
   * [ap/vim-css-color](https://github.com/ap/vim-css-color) : preview colours in source code while editing
-  * [arakashic/chromatica.nvim](https://github.com/arakashic/chromatica.nvim) : is not maineind/depreciated, use {jackguo380/vim-lsp-cxx-highlight} isntead
+  * [arakashic/chromatica.nvim](https://github.com/arakashic/chromatica.nvim) : is not maineind/depreciated, use [jackguo380/vim-lsp-cxx-highlight](https://github.com/jackguo380/vim-lsp-cxx-highlight) isntead
   * [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) : colorscheme
   * [arp242/jumpy.vim](https://github.com/arp242/jumpy.vim) : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
   * [arthurealike/vim-j](https://github.com/arthurealike/vim-j) : colorscheme
   * [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) : jc LSP
-  * [artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) : is not maineind/depreciated, use {artur-shaik/jc.nvim} isntead
+  * [artur-shaik/vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2) : is not maineind/depreciated, use [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) isntead
   * [arzg/vim-substrata](https://github.com/arzg/vim-substrata) : colorscheme
   * [asheq/close-buffers.vim](https://github.com/asheq/close-buffers.vim) : quickly close (bdelete) several buffers at once
   * [autozimu/languageclient-neovim](https://github.com/autozimu/languageclient-neovim) : LSP support
@@ -64,7 +68,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
   * [bi0ha2ard/telescope-ros.nvim](https://github.com/bi0ha2ard/telescope-ros.nvim) : telescope extensions to select ROS(2) package
   * [bkegley/gloombuddy](https://github.com/bkegley/gloombuddy) : colorscheme
-  * [bling/vim-airline](https://github.com/bling/vim-airline) : link to {vim-airline/vim-airline}
+  * [bling/vim-airline](https://github.com/bling/vim-airline) : link to [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
   * [blueshirts/darcula](https://github.com/blueshirts/darcula) : colorscheme
   * [blueyed/vim-diminactive](https://github.com/blueyed/vim-diminactive) : dim inactive windows
   * [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) : colorscheme
@@ -75,10 +79,10 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [brglng/vim-im-select](https://github.com/brglng/vim-im-select) : Improve Vim/Neovim experience with input methods
   * [bronzehedwick/vim-primary-terminal](https://github.com/bronzehedwick/vim-primary-terminal) : Simple terminal management for Neovim.
   * [brooth/far.vim](https://github.com/brooth/far.vim) : replace text through multiple files
-  * [bruno-/vim-man](https://github.com/bruno-/vim-man) : link to {vim-utils/vim-man}
+  * [bruno-/vim-man](https://github.com/bruno-/vim-man) : link to [vim-utils/vim-man](https://github.com/vim-utils/vim-man)
   * [burntsushi/ripgrep](https://github.com/burntsushi/ripgrep) : not a plugin
   * [c0r73x/neotags.lua](https://github.com/c0r73x/neotags.lua) : generates and highlight ctags similar to easytags
-  * [c0r73x/neotags.nvim](https://github.com/c0r73x/neotags.nvim) : is not maineind/depreciated, use {c0r73x/neotags.lua} isntead
+  * [c0r73x/neotags.nvim](https://github.com/c0r73x/neotags.nvim) : is not maineind/depreciated, use [c0r73x/neotags.lua](https://github.com/c0r73x/neotags.lua) isntead
   * [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim) : telescope extensions to fuzzy-finding over tmux targets
   * [camspiers/snap](https://github.com/camspiers/snap) : fast finder system
   * [catppuccin/nvim](https://github.com/catppuccin/nvim) : colorscheme
@@ -95,7 +99,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [chrisbra/dynamicsigns](https://github.com/chrisbra/dynamicsigns) : Using Signs for different things (visualy)
   * [chrisbra/unicode.vim](https://github.com/chrisbra/unicode.vim) : handling unicode and digraphs characters
   * [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) : colorscheme
-  * [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) : is not maineind/depreciated, use {chriskempson/base16-vim} isntead
+  * [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) : is not maineind/depreciated, use [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) isntead
   * [christianchiarulli/nvcode-color-schemes.vim](https://github.com/christianchiarulli/nvcode-color-schemes.vim) : colorscheme
   * [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
   * [chrsm/paramount-ng.nvim](https://github.com/chrsm/paramount-ng.nvim) : colorscheme
@@ -106,8 +110,8 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) : makes operating on columns of code conceptually simpler and reduces keystrokes
   * [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) : colorscheme
   * [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) : telescope extensions to switch between document's headings
-  * [critiqjo/lldb.nvim](https://github.com/critiqjo/lldb.nvim) : is a fork of dbgx/lldb.nvim
-  * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) : is a fork of kien/ctrlp.vim
+  * [critiqjo/lldb.nvim](https://github.com/critiqjo/lldb.nvim) : is a fork of [dbgx/lldb.nvim](https://github.com/dbgx/lldb.nvim)
+  * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) : is a fork of [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
   * [cyansprite/extract](https://github.com/cyansprite/extract) : puts and yanks to a list
   * [dracula/vim](https://github.com/dracula/vim) : colorscheme
   * [echasnovski/mini.nvim#plugin-colorscheme](https://github.com/echasnovski/mini.nvim#plugin-colorscheme) : colorscheme
@@ -225,10 +229,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [yonlu/omni.vim](https://github.com/yonlu/omni.vim) : colorscheme
   * [yuttie/hydrangea-vim](https://github.com/yuttie/hydrangea-vim) : colorscheme
 # Non-documented-list
-  * [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim)
-  * [abstract-ide/abstract](https://github.com/abstract-ide/abstract)
-  * [acksld/nvim-gfold.lua](https://github.com/acksld/nvim-gfold.lua)
-  * [acksld/nvim-revj.lua](https://github.com/acksld/nvim-revj.lua)
+  * [acksld/nvim-trevj.lua](https://github.com/acksld/nvim-trevj.lua)
   * [adoy/vim-php-refactoring-toolbox](https://github.com/adoy/vim-php-refactoring-toolbox)
   * [ahmedkhalf/notif.nvim](https://github.com/ahmedkhalf/notif.nvim)
   * [ajh17/vimcompletesme](https://github.com/ajh17/vimcompletesme)
@@ -460,6 +461,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [itchyny/vim-cursorword](https://github.com/itchyny/vim-cursorword)
   * [ixru/nvim-markdown](https://github.com/ixru/nvim-markdown)
   * [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
+  * [jackguo380/vim-lsp-cxx-highlight](https://github.com/jackguo380/vim-lsp-cxx-highlight)
   * [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim)
   * [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim)
   * [jalvesaq/nvim-r](https://github.com/jalvesaq/nvim-r)

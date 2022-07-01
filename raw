@@ -5,6 +5,7 @@ abstract-ide/abstract
 acksld/nvim-gfold.lua
 acksld/nvim-neoclip.lua
 acksld/nvim-revj.lua
+acksld/nvim-trevj.lua
 adelarsq/neoline.vim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
@@ -346,6 +347,7 @@ itchyny/lightline.vim
 itchyny/vim-cursorword
 ixru/nvim-markdown
 j-hui/fidget.nvim
+jackguo380/vim-lsp-cxx-highlight
 jakewvincent/mkdnflow.nvim
 jakewvincent/texmagic.nvim
 jalvesaq/nvim-r

@@ -1,4 +1,5 @@
 import json
+import re
 class Assembler:
     def __init__(self,rawlist:list,data:dict,pre:str,qdocs:list)->None:
         self.text=pre
@@ -21,9 +22,11 @@ class Assembler:
     def create_qdocs(self)->None:
         self.text+='# Quick-documented-list\n'
         for i in self.qdocs:
-            name=i.split(':')[0].removesuffix(' ')
+            name=i.split(':')[0].removesuffix('} ').removeprefix('{')
             self.raw.remove(name)
-            self.text+=f'  * {self.pluglinkweb(name)} :{i.split(":",1)[1]}\n'
+            self.text+=f'  * {self.formatplug(i)}\n'
+    def formatplug(self,text:str)->str:
+        return re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
     def pluglinkweb(self,name:str)->str:
         if name.startswith('https://gitlab.com'):linkpre=''
         else:linkpre='https://github.com'
