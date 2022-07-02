@@ -1,7 +1,7 @@
 import json
 import re
 class Assembler:
-    def __init__(self,rawlist:list,data:dict,pre:str,qdocs:list)->None:
+    def __init__(self,rawlist:list,data:dict[str,dict[str,dict[str,str]]],pre:str,qdocs:dict[str,list[str]])->None:
         self.text=pre
         self.data=data
         self.qdocs=qdocs
@@ -14,13 +14,15 @@ class Assembler:
         self.create_raw()
         return self.text
     def test_raw(self):
-        for i in re.findall(r'\{(.*?)\}',''.join(self.qdocs)):
-            if i not in self.raw:
-                raise Exception(f'{i} not in raw')
-        for i in re.findall(r'´(.*?)´',''.join(self.qdocs)):
-            i='https://gitlab.com/'+i
-            if i not in self.raw:
-                raise Exception(f'{i} not in raw')
+        for cat in self.qdocs.values():
+            for doc in cat:
+                for i in re.findall(r'\{(.*?)\}',doc):
+                    if i not in self.raw:
+                        raise Exception(f'{i} not in raw')
+                for i in re.findall(r'´(.*?)´',doc):
+                    i='https://gitlab.com/'+i
+                    if i not in self.raw:
+                        raise Exception(f'{i} not in raw')
     def create_jumplist(self)->None:
         pass #TODO
     def create_extdocs(self)->None:
@@ -30,12 +32,14 @@ class Assembler:
         self.text+=doc
     def create_qdocs(self)->None:
         self.text+='# Quick-documented-list\n'
-        for i in self.qdocs:
-            name=i.split(':')[0].rstrip('} ').lstrip('{')
-            if '´' in name:
-                name='https://gitlab.com/'+name.rstrip('´').lstrip('´')
-            self.raw.remove(name)
-            self.text+=f'  * {self.formatplug(i)}\n'
+        for k,v in self.qdocs.items():
+            self.text+=f'## {k}\n'
+            for i in v:
+                name=i.split(':')[0].rstrip('} ').lstrip('{')
+                if '´' in name:
+                    name='https://gitlab.com/'+name.rstrip('´').lstrip('´')
+                self.raw.remove(name)
+                self.text+=f'  * {self.formatplug(i)}\n'
     def formatplug(self,text:str)->str:
         text=re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
         return re.sub(r'´(.*?)´',r'[\1](https://gitlab.com/\1)',text)
@@ -51,8 +55,8 @@ def main():
         rawlist=f.read().splitlines()
     with open('data.json') as f:
         data=json.load(f)
-    with open('quick-data.txt') as f:
-        qdocs=f.read().splitlines()
+    with open('quick-data.json') as f:
+        qdocs=json.load(f)
     pre=r'''# vim-plugin-list
 This is a list of plugins.
 _TODO: categorize, document and remove not plugins_

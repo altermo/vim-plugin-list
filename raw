@@ -274,7 +274,6 @@ ghifarit53/tokyonight-vim
 ghillb/cybu.nvim
 github.com/wbthomason
 github/copilot.vim
-https://gitlab.com/yorickpeterse/nvim-window
 glacambre/firenvim
 glench/vim-jinja2-syntax
 glepnir/dashboard-nvim
@@ -327,6 +326,8 @@ hrsh7th/cmp-nvim-lua
 hrsh7th/cmp-path
 hrsh7th/nvim-cmp
 hrsh7th/vim-vsnip
+https://gitlab.com/yorickpeterse/nvim-wind
+https://gitlab.com/yorickpeterse/nvim-window
 huawenyu/neogdb.vim
 iamcco/markdown-preview.nvim
 ibhagwan/fzf-lua
@@ -685,6 +686,7 @@ othree/html5.vim
 othree/javascript-libraries-syntax.vim
 othree/yajs.vim
 overcache/neosolarized
+ow
 owickstrom/vim-colors-paramount
 p00f/cphelper.nvim
 p00f/nvim-ts-rainbow

@@ -1,3 +1,0 @@
-amix/vim-commentary > tpope/vim-commentary
-critiqjo/lldb.nvim > dbgx/lldb.nvim
-ctrlpvim/ctrlp.vim > kien/ctrlp.vim
