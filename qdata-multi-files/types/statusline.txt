@@ -3,11 +3,15 @@ b0o/incline.nvim
 beauwilliams/statusline.lua
 datwaft/bubbly.nvim
 feline-nvim/feline.nvim
+itchyny/lightline.vim
 konapun/vacuumline.nvim
 ntbbloodbath/galaxyline.nvim
 nvim-lualine/lualine.nvim
 ojroques/nvim-hardline
+powerline/powerline
 rebelot/heirline.nvim
 tamton-aquib/staline.nvim
 tjdevries/express_line.nvim
+tpope/vim-flagship
+vim-airline/vim-airline
 windwp/windline.nvim
