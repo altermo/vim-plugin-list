@@ -3,6 +3,7 @@
         "nvim-treesitter/nvim-treesitter":{"extensions":"https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins","supported-languages":"https://github.com/nvim-treesitter/nvim-treesitter#supported-languages"},
         "neoclide/coc.nvim":{"list-of-coc-apps":"https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions"},
         "nvim-telescope/telescope.nvim":{"optional":"https://github.com/nvim-telescope/telescope.nvim#optional-dependencies","extensions":"https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration"},
-        "preservim/nerdtree":{"optional":"https://github.com/preservim/nerdtree#nerdtree-plugins"}
+        "preservim/nerdtree":{"optional":"https://github.com/preservim/nerdtree#nerdtree-plugins"},
+        "hrsh7th/nvim-cmp":{"extensions":"https://github.com/hrsh7th/nvim-cmp/wiki/List-of-sources"}
     }
 }

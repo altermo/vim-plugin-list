@@ -11,6 +11,7 @@ _Other vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim)
   * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) : [list-of-coc-apps](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
   * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) : [optional](https://github.com/nvim-telescope/telescope.nvim#optional-dependencies), [extensions](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions#different-plugins-with-telescope-integration)
   * [preservim/nerdtree](https://github.com/preservim/nerdtree) : [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
+  * [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) : [extensions](https://github.com/hrsh7th/nvim-cmp/wiki/List-of-sources)
 # Quick-documented-list
 ## git
   * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) : git diff
