@@ -1,0 +1,2 @@
+asheq/close-buffers.vim : quickly close (bdelete) several buffers at once
+codcodog/simplebuffer.vim : switching and deleting buffers easily

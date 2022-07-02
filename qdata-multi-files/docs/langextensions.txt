@@ -1,0 +1,2 @@
+%s language support
+alaviss/nim.nvim : nim

@@ -1,0 +1,3 @@
+%s syntax highlight
+akz92/vim-ionic2 : ionic2
+cespare/vim-toml : toml

@@ -1,0 +1,3 @@
+beauwilliams/focus.nvim : Splits/Window Management Enhancements for Neovim
+blueyed/vim-diminactive : dim inactive windows
+´yorickpeterse/nvim-window : quickly switching between windows

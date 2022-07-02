@@ -1,0 +1,13 @@
+adelarsq/neoline.vim
+b0o/incline.nvim
+beauwilliams/statusline.lua
+datwaft/bubbly.nvim
+feline-nvim/feline.nvim
+konapun/vacuumline.nvim
+ntbbloodbath/galaxyline.nvim
+nvim-lualine/lualine.nvim
+ojroques/nvim-hardline
+rebelot/heirline.nvim
+tamton-aquib/staline.nvim
+tjdevries/express_line.nvim
+windwp/windline.nvim

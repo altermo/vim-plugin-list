@@ -1,0 +1,2 @@
+burntsushi/ripgrep
+cdown/clipmenu

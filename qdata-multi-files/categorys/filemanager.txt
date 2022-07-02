@@ -1,0 +1,2 @@
+airodactyl/neovim-ranger : ranger for neovim
+camspiers/snap : fast finder system

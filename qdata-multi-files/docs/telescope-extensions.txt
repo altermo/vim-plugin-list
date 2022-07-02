@@ -1,0 +1,12 @@
+telescope extensions to %s
+aloussase/telescope-gradle.nvim : run gradle tasks
+aloussase/telescope-maven-search : search dependencies in MavenCentral
+angkeith/telescope-terraform-doc.nvim : search and browse terraform providers docs
+benfowler/telescope-luasnip.nvim : list luasnip snippets
+bi0ha2ard/telescope-ros.nvim : select ROS(2) package
+brandoncc/telescope-harpoon.nvim : harpoon (depreciated)
+camgraff/telescope-tmux.nvim : fuzzy-finding over tmux targets
+chip/telescope-code-fence.nvim : fetch and parse text files from Github and provide a list of markdown code fences
+chip/telescope-software-licenses.nvim : view common software licenses
+cljoly/telescope-repo.nvim : jump to any repository in filesystem
+crispgm/telescope-heading.nvim : switch between document's headings

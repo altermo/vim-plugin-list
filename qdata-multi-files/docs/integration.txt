@@ -1,0 +1,3 @@
+%s integration
+bfredl/nvim-ipy : ipython
+ccchapman/watson.nvim : watson

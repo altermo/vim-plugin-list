@@ -1,0 +1,3 @@
+artur-shaik/jc.nvim : jc LSP
+autozimu/languageclient-neovim : LSP support
+alexaandru/nvim-lspupdate : Updates installed (or auto installs if missing) LSP servers, that are already configured in your init.vim
