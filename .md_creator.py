@@ -34,7 +34,7 @@ class Assembler:
         self.text+='# Quick-documented-list\n'
         for k,v in self.qdocs.items():
             self.text+=f'## {k}\n'
-            for i in v:
+            for i in sorted(v):
                 name=i.split(':')[0].rstrip('} ').lstrip('{')
                 if '´' in name:
                     name='https://gitlab.com/'+name.rstrip('´').lstrip('´')
@@ -59,7 +59,6 @@ def main():
         qdocs=json.load(f)
     pre=r'''# vim-plugin-list
 This is a list of plugins.
-_TODO: categorize, document and remove not plugins_
 
 _NOTE: this list may contain: mirrors, extensions to plugins, links that are not working and other things that are not related to vim plugins._
 

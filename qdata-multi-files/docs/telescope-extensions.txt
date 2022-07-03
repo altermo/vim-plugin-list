@@ -10,3 +10,4 @@ chip/telescope-code-fence.nvim : fetch and parse text files from Github and prov
 chip/telescope-software-licenses.nvim : view common software licenses
 cljoly/telescope-repo.nvim : jump to any repository in filesystem
 crispgm/telescope-heading.nvim : switch between document's headings
+linarcx/telescope-command-palette.nvim : help you to access your custom commands/function/key-bindings

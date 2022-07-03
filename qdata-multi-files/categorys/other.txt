@@ -1,8 +1,12 @@
 0styx0/abbreinder.nvim : shows abbreviations if the whole thing is typed
 abecodes/tabout.nvim : tabbing out from parentheses
 acksld/nvim-gfold.lua : plugin for gfold
+acksld/nvim-trevj.lua : do the opposite of join-line
+adoy/vim-php-refactoring-toolbox : PHP Refactoring Toolbox
+ahmedkhalf/notif.nvim : Notification system
 ahmedkhalf/project.nvim : provides superior project management
 airblade/vim-rooter : go to projects root
+allendang/nvim-expand-expr : Expand and repeat expression to multiple lines
 alvan/vim-closetag : Auto close (X)HTML tags
 amix/open_file_under_cursor.vim : open file under cursor (what did you expect)
 amix/vim-zenroom2 : emulates iA Writer environment
@@ -27,7 +31,10 @@ christoomey/vim-tmux-navigator : navigate seamlessly between vim and tmux splits
 clojure-vim/acid.nvim : clojure development
 coachshea/neo-pipe : send text through an external command and display the output in the output buffer
 coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
-acksld/nvim-trevj.lua : do the opposite of join-line
-adoy/vim-php-refactoring-toolbox : PHP Refactoring Toolbox
-ahmedkhalf/notif.nvim : Notification system
-allendang/nvim-expand-expr : Expand and repeat expression to multiple lines
+rcarriga/nvim-notify : fancy, configurable, notification manager
+jamestthompson3/nvim-remote-containers : give you the functionality of VSCode's remote container development plugin
+esensar/nvim-dev-containera : provide functionality similar to VSCode's remote container development plugin
+iron-e/nvim-cartographer : simplify setting and deleting with keybindings / mappings in Lua
+b0o/mapx.nvim : make mapping and commands more manageable in lua
+lionc/nest.nvim : lua utility to define keymaps in concise, readable, cascading lists and trees
+slugbyte/unruly-worker : a semantic key map for nvim designed for the workman keyboard layout

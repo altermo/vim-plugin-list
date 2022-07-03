@@ -326,6 +326,7 @@ hrsh7th/cmp-nvim-lua
 hrsh7th/cmp-path
 hrsh7th/nvim-cmp
 hrsh7th/vim-vsnip
+https://gitlab.com/yorickpeterse/nvim-pqf
 https://gitlab.com/yorickpeterse/nvim-wind
 https://gitlab.com/yorickpeterse/nvim-window
 huawenyu/neogdb.vim
@@ -488,6 +489,7 @@ loricandre/oneterm.nvim
 lourenci/github-colors
 luc-tielen/telescope_hoogle
 luchermitte/lh-cpp
+luchermitte/vimfold4c
 ludopinelli/comment-box.nvim
 ludovicchabant/vim-gutentags
 luisiacc/gruvbox-baby
@@ -514,6 +516,7 @@ m00qek/plugin-template.nvim
 machakann/vim-highlightedyank
 machakann/vim-sandwich
 macthecadillac/vimdo
+macurovc/insert-docstring
 madskjeldgaard/reaper-nvim
 majutsushi/tagbar
 mangeshrex/uwu.vim
@@ -600,6 +603,7 @@ navarasu/onedark.nvim
 ncm2/ncm2
 neoclide/coc.nvim
 neomake/neomake
+neovim/go-client
 neovim/nvim-lspconfig
 neovimhaskell/haskell-vim
 nfischer/vim-rainbows
@@ -610,6 +614,7 @@ nkakouros-original/numbers.nvim
 noahfrederick/vim-composer
 noib3/cokeline.nvim
 noib3/nvim-compleet
+noib3/nvim-oxi
 norcalli/nvim-base16.lua
 norcalli/nvim-colorizer.lua
 norcalli/nvim-terminal.lua
@@ -704,6 +709,7 @@ phsix/nvim-hybrid
 pianocomposer321/consolation.nvim
 pianocomposer321/project-templates.nvim
 pianocomposer321/yabs.nvim
+pixelneo/vim-python-docstring
 plan9-for-vimspace/acme-colors
 pocco81/abbrevman.nvim
 pocco81/autosave.nvim
@@ -723,6 +729,7 @@ preservim/tagbar
 preservim/vim-markdown
 prettier/vim-prettier
 projekt0n/github-nvim-theme
+pseewald/vim-anyfold
 psliwka/vim-smoothie
 ptzz/lf.vim
 pwntester/codeql.nvim
@@ -1029,6 +1036,7 @@ vim-scripts/mayansmoke
 vim-scripts/peaksea
 vim-scripts/replacewithregister
 vim-scripts/sessionman.vim
+vim-scripts/tetris.vim
 vim-syntastic/syntastic
 vim-test/vim-test
 vim-utils/vim-man
@@ -1106,4 +1114,4 @@ ziontee113/color-picker.nvim
 ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zsugabubus/crazy8.nvim
-neovim/go-client
+esensar/nvim-dev-containera

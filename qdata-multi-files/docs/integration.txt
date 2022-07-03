@@ -2,3 +2,4 @@
 bfredl/nvim-ipy : ipython
 ccchapman/watson.nvim : watson
 neovim/go-client : go
+chipsenkbeil/distant.nvim : distant
