@@ -38,3 +38,12 @@ iron-e/nvim-cartographer : simplify setting and deleting with keybindings / mapp
 b0o/mapx.nvim : make mapping and commands more manageable in lua
 lionc/nest.nvim : lua utility to define keymaps in concise, readable, cascading lists and trees
 slugbyte/unruly-worker : a semantic key map for nvim designed for the workman keyboard layout
+mrjones2014/legendary.nvim : Define your keymaps, commands, and autocommands as simple Lua tables
+anuvyklack/hydra.nvim : Neovim implementation of the famous Emacs Hydra package
+ekickx/clipboard-image.nvim : copy images and paste url/path
+notomo/cmdbuf.nvim : provides command-line window functions by normal buffer and window
+rmagatti/auto-session : provide seamless automatic session management
+shatur/neovim-session-manager : use built-in mksession to manage sessions like folders in VSCode
+mizlan/iswap.nvim : Interactively select and swap: function arguments, list elements, function parameters, and more
+nacro90/numb.nvim : Peeking the buffer while entering command :[number]
+ethanholz/nvim-lastplace : A Lua rewrite of {farmergreg/vim-lastplace}

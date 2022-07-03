@@ -35,9 +35,8 @@ class Assembler:
         for k,v in self.qdocs.items():
             self.text+=f'## {k}\n'
             for i in sorted(v):
-                name=i.split(':')[0].rstrip('} ').lstrip('{')
-                if '´' in name:
-                    name='https://gitlab.com/'+name.rstrip('´').lstrip('´')
+                name=i.split(':')[0].rstrip('}´ ').lstrip('{')
+                if '´' in name:name='https://gitlab.com/'+name.lstrip('´')
                 self.raw.remove(name)
                 self.text+=f'  * {self.formatplug(i)}\n'
     def formatplug(self,text:str)->str:
