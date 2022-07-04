@@ -48,7 +48,7 @@ kdheepak/monochrome.nvim
 kvrohit/rasmus.nvim
 kvrohit/substrata.nvim
 kyazdani42/blue-moon
-ladge/antarctic-vim/
+ladge/antarctic-vim
 lalitmee/cobalt2.nvim
 ldelossa/vimdark
 lifepillar/vim-solarized8

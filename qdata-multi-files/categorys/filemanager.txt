@@ -1,2 +1,3 @@
 airodactyl/neovim-ranger : ranger for neovim
 camspiers/snap : fast finder system
+xuyuanp/yanil : Yet Another Nerdtree In Lua
