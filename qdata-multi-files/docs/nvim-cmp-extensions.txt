@@ -1,0 +1,6 @@
+nvim-cmp extension for %s autocomplete
+f3fora/cmp-spell : spell
+hrsh7th/cmp-buffer : buffer
+hrsh7th/cmp-calc : math calculation
+hrsh7th/cmp-path : path
+tzachar/cmp-tabnine : tabline

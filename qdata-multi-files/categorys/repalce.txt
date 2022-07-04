@@ -1,0 +1,2 @@
+brooth/far.vim : replace text through multiple files
+gbprod/substitute.nvim : svermeulen/vim-subversive rewritten in lua

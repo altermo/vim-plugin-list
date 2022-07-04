@@ -19,3 +19,4 @@ anuvyklack/pretty-fold.nvim : Folded region preview and Framework for easy foldt
 bennypowers/nvim-regexplainer : Describe the regular expression under the cursor
 klorenz/atom-regex-railroad-diagrams : railroad diagram view for regular expression under cursor
 windwp/nvim-autopairs : A super powerful autopair plugin for Neovim that supports multiple characters
+folke/trouble.nvim : A pretty list for showing diagnostics, references, telescope results, quickfix and location lists

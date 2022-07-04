@@ -1,0 +1,10 @@
+0styx0/abbreinder.nvim : shows abbreviations if the whole thing is typed
+ahmedkhalf/notif.nvim : Notification system
+amix/vim-zenroom2 : emulates iA Writer environment
+ap/vim-css-color : preview colours in source code while editing
+azabiong/vim-highlighter : highlight words and expressions
+chrisbra/changesplugin : visualize which lines have been changed since editing started
+chrisbra/colorizer : color colornames and codes
+chrisbra/dynamicsigns : Using Signs for different things (visualy)
+rcarriga/nvim-notify : fancy, configurable, notification manager
+nacro90/numb.nvim : Peeking the buffer while entering command :[number]
