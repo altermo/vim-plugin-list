@@ -12,3 +12,8 @@ cljoly/telescope-repo.nvim : jump to any repository in filesystem
 crispgm/telescope-heading.nvim : switch between document's headings
 linarcx/telescope-command-palette.nvim : help you to access your custom commands/function/key-bindings
 feiyoug/command_center.nvim : Create and manage keybindings and commands in a more organized manner, and search them quickly
+danielpieper/telescope-tmuxinator.nvim : integrate with tmuxinator
+dhruvmanila/telescope-bookmarks.nvim : open your browser bookmarks
+fannheyward/telescope-coc.nvim : find/filter/preview/pick results from coc.nvim
+fcying/telescope-ctags-outline.nvim : get ctags outline
+fhill2/telescope-ultisnips.nvim : 

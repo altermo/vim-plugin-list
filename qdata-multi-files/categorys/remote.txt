@@ -1,2 +1,3 @@
 jamestthompson3/nvim-remote-containers : give you the functionality of VSCode's remote container development plugin
 esensar/nvim-dev-containera : provide functionality similar to VSCode's remote container development plugin
+chipsenkbeil/distant.nvim : A wrapper around distant that enables users to edit remote files from the comfort of their local environment

@@ -106,6 +106,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) : Speed up loading Lua modules in Neovim to improve startup time
   * [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) : speed up neovim startup time by replacing the builtin filetype.vim with a faster alternative
 ## remote
+  * [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) : A wrapper around distant that enables users to edit remote files from the comfort of their local environment
   * [esensar/nvim-dev-containera](https://github.com/esensar/nvim-dev-containera) : provide functionality similar to VSCode's remote container development plugin
   * [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) : give you the functionality of VSCode's remote container development plugin
 ## visual
@@ -138,7 +139,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [adoy/vim-php-refactoring-toolbox](https://github.com/adoy/vim-php-refactoring-toolbox) : PHP refactoring integration
   * [bfredl/nvim-ipy](https://github.com/bfredl/nvim-ipy) : ipython integration
   * [ccchapman/watson.nvim](https://github.com/ccchapman/watson.nvim) : watson integration
-  * [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) : distant integration
   * [neovim/go-client](https://github.com/neovim/go-client) : go integration
 ## syntax
   * [akz92/vim-ionic2](https://github.com/akz92/vim-ionic2) : ionic2 syntax highlight
@@ -159,7 +159,12 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [chip/telescope-software-licenses.nvim](https://github.com/chip/telescope-software-licenses.nvim) : telescope extensions to view common software licenses
   * [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) : telescope extensions to jump to any repository in filesystem
   * [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) : telescope extensions to switch between document's headings
+  * [danielpieper/telescope-tmuxinator.nvim](https://github.com/danielpieper/telescope-tmuxinator.nvim) : telescope extensions to integrate with tmuxinator
+  * [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) : telescope extensions to open your browser bookmarks
+  * [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) : telescope extensions to find/filter/preview/pick results from coc.nvim
+  * [fcying/telescope-ctags-outline.nvim](https://github.com/fcying/telescope-ctags-outline.nvim) : telescope extensions to get ctags outline
   * [feiyoug/command_center.nvim](https://github.com/feiyoug/command_center.nvim) : telescope extensions to Create and manage keybindings and commands in a more organized manner, and search them quickly
+  * [fhill2/telescope-ultisnips.nvim](https://github.com/fhill2/telescope-ultisnips.nvim) : telescope extensions to 
   * [linarcx/telescope-command-palette.nvim](https://github.com/linarcx/telescope-command-palette.nvim) : telescope extensions to help you to access your custom commands/function/key-bindings
 ## game
   * [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) : tetris game
@@ -250,6 +255,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim)
 ## starter-page
   * [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+  * [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
 ## statusline
   * [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
   * [b0o/incline.nvim](https://github.com/b0o/incline.nvim)
@@ -451,7 +457,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [crusj/structrue-go.nvim](https://github.com/crusj/structrue-go.nvim)
   * [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim)
   * [dag/vim-fish](https://github.com/dag/vim-fish)
-  * [danielpieper/telescope-tmuxinator.nvim](https://github.com/danielpieper/telescope-tmuxinator.nvim)
   * [danymat/neogen](https://github.com/danymat/neogen)
   * [david-kunz/jester](https://github.com/david-kunz/jester)
   * [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview)
@@ -466,7 +471,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [derekwyatt/vim-scala](https://github.com/derekwyatt/vim-scala)
   * [devjoe/vim-codequery](https://github.com/devjoe/vim-codequery)
   * [dhruvasagar/vim-dotoo](https://github.com/dhruvasagar/vim-dotoo)
-  * [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim)
   * [dm1try/git_fastfix](https://github.com/dm1try/git_fastfix)
   * [dm1try/golden_size](https://github.com/dm1try/golden_size)
   * [donraphaco/neotex](https://github.com/donraphaco/neotex)
@@ -499,11 +503,8 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch)
   * [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim)
   * [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim)
-  * [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim)
   * [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace)
-  * [fcying/telescope-ctags-outline.nvim](https://github.com/fcying/telescope-ctags-outline.nvim)
   * [ferrine/md-img-paste.vim](https://github.com/ferrine/md-img-paste.vim)
-  * [fhill2/telescope-ultisnips.nvim](https://github.com/fhill2/telescope-ultisnips.nvim)
   * [fholgado/minibufexpl.vim](https://github.com/fholgado/minibufexpl.vim)
   * [floobits/floobits-neovim](https://github.com/floobits/floobits-neovim)
   * [flowtype/vim-flow](https://github.com/flowtype/vim-flow)
@@ -542,7 +543,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [glepnir/prodoc.nvim](https://github.com/glepnir/prodoc.nvim)
   * [gmarik/vundle.vim](https://github.com/gmarik/vundle.vim)
   * [godlygeek/tabular](https://github.com/godlygeek/tabular)
-  * [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
   * [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim)
   * [gregsexton/gitv](https://github.com/gregsexton/gitv)
   * [groenewege/vim-less](https://github.com/groenewege/vim-less)
