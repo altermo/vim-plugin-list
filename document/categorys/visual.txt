@@ -12,4 +12,3 @@ edluffy/specs.nvim : Show where your cursor moves when jumping large distances
 tjdevries/train.nvim : Train yourself with vim motions and make your own train tracks
 xiyaowong/virtcolumn.nvim : Display a character as the colorcolumn
 lukas-reineke/virt-column.nvim : Display a character as the colorcolumn
-sunjon/shade.nvim : dims your inactive windows

@@ -1,3 +1,4 @@
 amix/vim-zenroom2 : emulates iA Writer environment
 folke/twilight.nvim : dims inactive portions of the code you're editing
 folke/zen-mode.nvim : Distraction-free coding for Neovim
+sunjon/shade.nvim : dims your inactive windows
