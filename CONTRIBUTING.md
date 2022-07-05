@@ -18,13 +18,13 @@ Thanks for taking you time to improve this github repository.
 * Things prefixed with a dot are document generating scripts
 * [data.json](data.json) file contains data which is neither document nor script
 ## documents
-* The [category](document/category) file contains full on descriptions
-* The [docs](document/docs) file has 2 parts:
+* The [categorys](document/categorys) directory contains full on descriptions
+* The [docs](document/docs) directory has 2 parts:
     * the first line sets the format
     * all other lines are documents
     * the formatting works like `for i in all_other: format % i`
-* The [linked](document/linked) file has 2 parts:
+* The [linked](document/linked) directory has 2 parts:
     * the first line sets the format
     * all other lines are links with the structure `%s > %s`
     * the formatting works like `for i in all_other: beg, end = i.split(' > '); beg + ( format % end )`
-* The [types](document/types) file has only plugins (no documentations)
+* The [types](document/types) directory has only plugins (no documentations)
