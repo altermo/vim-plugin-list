@@ -1,2 +1,3 @@
 brooth/far.vim : replace text through multiple files
-gbprod/substitute.nvim : svermeulen/vim-subversive rewritten in lua
+gbprod/substitute.nvim : very easy to perform quick substitutions and exchange
+svermeulen/vim-subversive : make it very easy to perform quick substitutions

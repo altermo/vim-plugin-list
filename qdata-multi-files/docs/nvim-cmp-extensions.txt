@@ -4,3 +4,17 @@ hrsh7th/cmp-buffer : buffer
 hrsh7th/cmp-calc : math calculation
 hrsh7th/cmp-path : path
 tzachar/cmp-tabnine : tabline
+hrsh7th/cmp-cmdline : cmdline
+hrsh7th/cmp-nvim-lsp : lsp
+hrsh7th/cmp-nvim-lsp-signature-help : showing lsp help in
+hrsh7th/cmp-nvim-lua : lua
+lukas-reineke/cmp-rg : rg
+mtoohey31/cmp-fish : fish
+quangnguyen30192/cmp-nvim-tags : tag
+ray-x/cmp-treesitter : treesitter
+saadparwaiz1/cmp_luasnip : luasnip
+zbirenbaum/copilot-cmp : copilot
+david-kunz/cmp-npm : npm
+petertriho/cmp-git : git
+quangnguyen30192/cmp-nvim-ultisnips : ultisnips
+rcarriga/cmp-dap : dap

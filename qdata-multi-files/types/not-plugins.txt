@@ -1,2 +1,3 @@
 burntsushi/ripgrep
 cdown/clipmenu
+klorenz/atom-regex-railroad-diagrams

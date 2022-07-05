@@ -17,6 +17,10 @@ sqve/sort.nvim : provides a simple command that mimics :sort and supports both l
 booperlv/nvim-gomove : moving and duplicating blocks and lines
 anuvyklack/pretty-fold.nvim : Folded region preview and Framework for easy foldtext customization
 bennypowers/nvim-regexplainer : Describe the regular expression under the cursor
-klorenz/atom-regex-railroad-diagrams : railroad diagram view for regular expression under cursor
-windwp/nvim-autopairs : A super powerful autopair plugin for Neovim that supports multiple characters
 folke/trouble.nvim : A pretty list for showing diagnostics, references, telescope results, quickfix and location lists
+dhruvasagar/vim-table-mode : awesome automatic table creator & formatter
+filipdutescu/renamer.nvim : Visual-Studio-Code-like renaming UI
+folke/which-key.nvim : displays a popup with possible key bindings of the command you started typing
+glacambre/firenvim : Turn your browser¹ into a Neovim client
+jbyuki/venn.nvim : Draw ASCII diagrams in Neovim
+karb94/neoscroll.nvim : smooth scrolling neovim plugin written in lua

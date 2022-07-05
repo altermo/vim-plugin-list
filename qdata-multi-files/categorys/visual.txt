@@ -6,5 +6,11 @@ azabiong/vim-highlighter : highlight words and expressions
 chrisbra/changesplugin : visualize which lines have been changed since editing started
 chrisbra/colorizer : color colornames and codes
 chrisbra/dynamicsigns : Using Signs for different things (visualy)
-rcarriga/nvim-notify : fancy, configurable, notification manager
 nacro90/numb.nvim : Peeking the buffer while entering command :[number]
+rcarriga/nvim-notify : fancy, configurable, notification manager
+xiyaowong/nvim-cursorword : part of {yamatsum/nvim-cursorline}
+yamatsum/nvim-cursorline : Highlight words and lines on the cursor
+folke/twilight.nvim : dims inactive portions of the code you're editing
+folke/zen-mode.nvim : Distraction-free coding for Neovim
+´yorickpeterse/nvim-pqf : Pretty Quickfix windows for NeoVim
+itchyny/vim-cursorword : Underlines the word under the cursor

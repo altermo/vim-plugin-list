@@ -8,6 +8,7 @@ arthurealike/vim-j
 arzg/vim-substrata
 axvr/photon.vim
 axvr/raider.vim
+base16-project/base16-vim
 benwr/tuftish
 bkegley/gloombuddy
 blueshirts/darcula

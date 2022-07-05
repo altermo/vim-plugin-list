@@ -50,6 +50,7 @@ anott03/nvim-lspinstall
 antoinemadec/fixcursorhold.nvim
 anuvyklack/hydra.nvim
 anuvyklack/keymap-layer.nvim
+anuvyklack/nvim-keymap-amend
 anuvyklack/pretty-fold.nvim
 ap/vim-buftabline
 ap/vim-css-color
@@ -65,6 +66,7 @@ arthurealike/vim-j
 artur-shaik/jc.nvim
 artur-shaik/vim-javacomplete2
 arzg/vim-substrata
+aserebryakov/vim-todo-lists
 aserowy/tmux.nvim
 asheq/close-buffers.vim
 askfiy/nvim
@@ -80,6 +82,7 @@ b0o/incline.nvim
 b0o/mapx.nvim
 b0o/schemastore.nvim
 b3nj5m1n/kommentary
+base16-project/base16-vim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
 beeender/glrnvim
@@ -94,6 +97,7 @@ bfrg/vim-qf-preview
 bi0ha2ard/telescope-ros.nvim
 bkegley/gloombuddy
 bling/vim-airline
+bling/vim-bufferline
 blueshirts/darcula
 blueyed/vim-diminactive
 bluz71/vim-moonfly-colors
@@ -113,6 +117,7 @@ camgraff/telescope-tmux.nvim
 camspiers/snap
 cankolay3499/cnvim
 cappyzawa/trim.nvim
+cathywu/vim-todo
 catppuccin/nvim
 ccchapman/watson.nvim
 cdelledonne/vim-cmake
@@ -174,12 +179,14 @@ dbgx/lldb.nvim
 dcampos/nvim-snippy
 declancm/cinnamon.nvim
 declancm/windex.nvim
+delphinus/vim-auto-cursorline
 dense-analysis/ale
 derekwyatt/vim-scala
 devjoe/vim-codequery
 dhruvasagar/vim-dotoo
 dhruvasagar/vim-table-mode
 dhruvmanila/telescope-bookmarks.nvim
+dkarter/bullets.vim
 dm1try/git_fastfix
 dm1try/golden_size
 donraphaco/neotex
@@ -350,6 +357,7 @@ itchyny/lightline.vim
 itchyny/vim-cursorword
 ixru/nvim-markdown
 j-hui/fidget.nvim
+jaawerth/fennel-nvim
 jackguo380/vim-lsp-cxx-highlight
 jakewvincent/mkdnflow.nvim
 jakewvincent/texmagic.nvim
@@ -422,6 +430,7 @@ justinmk/vim-gtfo
 justinmk/vim-sneak
 jvgrootveld/telescope-zoxide
 k-takata/minpac
+kabbamine/lazylist.vim
 kabbamine/yowish.vim
 kaiuri/nvim-mariana
 kana/vim-textobj-indent
@@ -467,6 +476,8 @@ ldelossa/gh.nvim
 ldelossa/litee.nvim
 ldelossa/vimdark
 lenovsky/nuake
+lervag/lists.vim
+lervag/vim-rainbow-lists
 lervag/vimtex
 lewis6991/gitsigns.nvim
 lewis6991/impatient.nvim
@@ -915,6 +926,7 @@ svermeulen/vim-yoink
 svermeulen/vimpeccable
 swalladge/paper.vim
 szw/vim-maximizer
+t9md/vim-choosewin
 tamago324/lir.nvim
 tamago324/nlsp-settings.nvim
 tamago324/telescope-openbrowser.nvim
@@ -1111,6 +1123,7 @@ yuratomo/w3m.vim
 yuttie/hydrangea-vim
 zbirenbaum/copilot-cmp
 zchee/nvim-go
+zefei/vim-wintabs
 zenbro/mirror.vim
 zgpio/brew.nvim
 zgpio/tree.nvim

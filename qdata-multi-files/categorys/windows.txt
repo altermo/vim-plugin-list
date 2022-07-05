@@ -1,4 +1,5 @@
 beauwilliams/focus.nvim : Splits/Window Management Enhancements for Neovim
 blueyed/vim-diminactive : dim inactive windows
-´yorickpeterse/nvim-window : quickly switching between windows
 luukvbaal/stabilize.nvim : stabilize buffer content on window open/close events
+t9md/vim-choosewin : enables you to choose a window interactively
+´yorickpeterse/nvim-window : quickly switching between windows
