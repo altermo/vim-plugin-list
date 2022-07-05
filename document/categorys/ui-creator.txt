@@ -1,3 +1,4 @@
 anuvyklack/hydra.nvim : Neovim implementation of the famous Emacs Hydra package
 muniftanjim/nui.nvim : UI Component Library
 skywind3000/vim-quickui : basic UI components to enrich vim's interactive experience
+stevearc/dressing.nvim : improve vim.ui.select and vim.ui.input

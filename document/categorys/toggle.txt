@@ -1,0 +1,3 @@
+zef/vim-cycle : toggle between pairs or lists of related words
+andrewradev/switch.vim : swich segments of text with predefined replacements
+saifulapm/chartoggle.nvim : toggle keys end of line

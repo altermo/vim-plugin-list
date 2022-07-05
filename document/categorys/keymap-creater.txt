@@ -3,3 +3,4 @@ mrjones2014/legendary.nvim : Define your keymaps, commands, and autocommands as 
 lionc/nest.nvim : lua utility to define keymaps in concise, readable, cascading lists and trees
 b0o/mapx.nvim : make mapping and commands more manageable in lua
 iron-e/nvim-cartographer : simplify setting and deleting with keybindings / mappings in Lua
+svermeulen/vimpeccable : adds a simple lua api to map keys directly to lua code

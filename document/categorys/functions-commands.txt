@@ -1,0 +1,5 @@
+tjdevries/vlog.nvim : Single file, no dependency, easy copy & paste log file
+nvim-lua/plenary.nvim : All the lua functions I don't want to write twice
+equalsraf/neovim-gui-shim : provides functions and commands for Neovim GUIs
+coachshea/neo-pipe : send text through an external command and display the output in the output buffer
+sqve/sort.nvim : provides a simple command that mimics :sort and supports both line-wise and delimiter sorting

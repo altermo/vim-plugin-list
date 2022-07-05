@@ -1,0 +1,2 @@
+c0r73x/neotags.lua : generates and highlight ctags similar to easytags
+majutsushi/tagbar : easy way to browse the tags of the current file and get an overview of its structure

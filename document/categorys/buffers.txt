@@ -1,3 +1,8 @@
 asheq/close-buffers.vim : quickly close (bdelete) several buffers at once
 codcodog/simplebuffer.vim : switching and deleting buffers easily
 elihunter173/dirbuf.nvim : directory buffer
+ghillb/cybu.nvim : notification window, that shows the buffer in focus and its neighbors or list of buffers is ordered by last used
+kazhala/close-buffers.nvim : Lua port of {asheq/close-buffers} with several feature extensions
+matbme/jabs.nvim : Just Another Buffer Switcher
+famiu/bufdelete.nvim : allow you to delete a buffer without messing up your window layout
+nyngwang/neononame.lua : Layout preserving buffer deletion in Lua

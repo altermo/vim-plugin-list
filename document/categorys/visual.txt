@@ -9,3 +9,7 @@ haringsrob/nvim_context_vt : Shows virtual text of the current context after fun
 kevinhwang91/nvim-hlslens : search with more visuals
 rktjmp/highlight-current-n.nvim : highlights the current /, ? or * match under your cursor when pressing n or N and gets out of the way afterwards
 edluffy/specs.nvim : Show where your cursor moves when jumping large distances
+tjdevries/train.nvim : Train yourself with vim motions and make your own train tracks
+xiyaowong/virtcolumn.nvim : Display a character as the colorcolumn
+lukas-reineke/virt-column.nvim : Display a character as the colorcolumn
+sunjon/shade.nvim : dims your inactive windows

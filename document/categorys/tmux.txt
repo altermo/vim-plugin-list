@@ -1,0 +1,1 @@
+christoomey/vim-tmux-navigator : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys

@@ -65,6 +65,7 @@ artur-shaik/vim-javacomplete2
 arzg/vim-substrata
 aserebryakov/vim-todo-lists
 aserowy/tmux.nvim
+asheq/close-buffers
 asheq/close-buffers.vim
 askfiy/nvim
 askfiy/nvim-picgo
@@ -367,6 +368,7 @@ jbyuki/nabla.nvim
 jbyuki/one-small-step-for-vimkind
 jbyuki/venn.nvim
 jceb/vim-orgmode
+jdhao/better-escape.vim
 jeaye/color_coded
 jedrzejboczar/possession.nvim
 jedrzejboczar/toggletasks.nvim
@@ -504,6 +506,7 @@ lukas-reineke/cmp-under-comparator
 lukas-reineke/headlines.nvim
 lukas-reineke/indent-blankline.nvim
 lukas-reineke/lsp-format.nvim
+lukas-reineke/virt-column.nvim
 lunarvim/colorschemes
 lunarvim/darkplus.nvim
 lunarvim/lualine.nvim
@@ -593,6 +596,7 @@ mtoohey31/cmp-fish
 muniftanjim/nui.nvim
 mxw/vim-jsx
 my/supercoolplugin
+myusuf3/numbers.vim
 mzlogin/vim-markdown-toc
 nacro90/numb.nvim
 nanotech/jellybeans.vim

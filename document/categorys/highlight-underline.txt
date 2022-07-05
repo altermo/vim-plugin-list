@@ -1,0 +1,6 @@
+pocco81/highstr.nvim : highlighting visual selections like in a normal document editor
+yamatsum/nvim-cursorline : Highlight words and lines on the cursor
+azabiong/vim-highlighter : highlight words and expressions
+xiyaowong/nvim-cursorword : part of {yamatsum/nvim-cursorline}
+itchyny/vim-cursorword : Underlines the word under the cursor
+rrethy/vim-illuminate : automatically highlighting other uses of the current word under the cursor

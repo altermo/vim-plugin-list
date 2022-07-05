@@ -2,3 +2,4 @@ artur-shaik/jc.nvim : jc LSP
 autozimu/languageclient-neovim : LSP support
 alexaandru/nvim-lspupdate : Updates installed (or auto installs if missing) LSP servers, that are already configured in your init.vim
 folke/lsp-colors.nvim : Automatically creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin lsp client
+jbyuki/one-small-step-for-vimkind : an adapter for the Neovim lua language

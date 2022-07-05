@@ -1,0 +1,2 @@
+anuvyklack/pretty-fold.nvim : Folded region preview and Framework for easy foldtext customization
+jghauser/fold-cycle.nvim : allows you to cycle folds open or closed

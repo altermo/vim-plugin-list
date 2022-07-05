@@ -1,0 +1,3 @@
+allendang/nvim-expand-expr : Expand and repeat expression to multiple lines
+andrewradev/splitjoin.vim : switching between a single-line statement and a multi-line one
+acksld/nvim-trevj.lua : do the opposite of join-line

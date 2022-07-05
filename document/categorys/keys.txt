@@ -1,8 +1,8 @@
 mizlan/iswap.nvim : Interactively select and swap: function arguments, list elements, function parameters, and more
-arp242/jumpy.vim : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
 amix/open_file_under_cursor.vim : open file under cursor (what did you expect)
-abecodes/tabout.nvim : tabbing out from parentheses
 linty-org/readline.nvim : let you do things like move the cursor or delete text by a word or a line at a time.
 folke/which-key.nvim : displays a popup with possible key bindings of the command you started typing
 booperlv/nvim-gomove : moving and duplicating blocks and lines
 monaqa/dial.nvim : Extended increment/decrement plugin for Neovim
+max397574/better-escape.nvim : lua version of {jdhao/better-escape.vim}
+jdhao/better-escape.vim : is created to help Vim/Nvim users escape insert mode quickly using their customized key combinations, without experiencing the lag
