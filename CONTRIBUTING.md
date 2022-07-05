@@ -11,6 +11,7 @@ Thanks for taking you time to improve this github repository.
 0. learn how the script [.merg.py](document/.merg.py) works
 1. add/rename/delete the plugin in/from/to the correct category
     1. note that gitlab plugins are the name+repository prefixed by a `´` (example: `´name/repository`)
+    2. if you wish to link to another plugin: use the syntax `{name/repository}` for github and `´name/repository´` for gitlab
 2. run [.merg.py](document/.merg.py)
 3. run [.md_creator.py](.md_creator.py)
     1. note that if a documented plugin is not in [raw](raw) then an exception is thrown
