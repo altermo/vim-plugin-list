@@ -75,16 +75,16 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
     end=r'''
 # Donate
 If you want to donate then you need to find the link:
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a](https://www.buymeacoffee.com/altermo) [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
-* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()'''
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a](https://www.buymeacoffee.com/altermo) [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()'''
     with open('README.md','w') as f:
         f.write(Assembler(rawlist,data,pre,end,qdocs).create())
 if __name__=="__main__":
