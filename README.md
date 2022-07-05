@@ -43,6 +43,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
     * [autocomplete](#autocomplete)
     * [colorscheme](#colorscheme)
   * [not documented](#not-documented)
+  * [donate](#donate)
 # Extensions/readmore/options/...
   * [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) : [extensions](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins), [supported-languages](https://github.com/nvim-treesitter/nvim-treesitter#supported-languages)
   * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) : [list-of-coc-apps](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#implemented-coc-extensions)
@@ -1210,3 +1211,16 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim)
   * [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer)
   * [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim)
+
+# Donate
+If you want to donate then you need to find the link:
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a](https://www.buymeacoffee.com/altermo) [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()

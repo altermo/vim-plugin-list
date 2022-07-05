@@ -1,18 +1,19 @@
 import json
 import re
 class Assembler:
-    def __init__(self,rawlist:list,data:dict[str,dict[str,dict[str,str]]],pre:str,qdocs:dict[str,list[str]])->None:
+    def __init__(self,rawlist:list,data:dict[str,dict[str,dict[str,str]]],pre:str,end:str,qdocs:dict[str,list[str]])->None:
         self.text=pre
         self.data=data
         self.qdocs=qdocs
         self.raw=rawlist
+        self.end=end
     def create(self)->str:
         self.test_raw()
         self.create_jumplist()
         self.create_extdocs()
         self.create_qdocs()
         self.create_raw()
-        return self.text
+        return self.text+self.end
     def test_raw(self):
         for cat in self.qdocs.values():
             for doc in cat:
@@ -30,6 +31,7 @@ class Assembler:
         for i in self.qdocs:
             doc+=f'    * [{i}](#{i})\n'
         doc+='  * [not documented](#not-documented)\n'
+        doc+='  * [donate](#donate)\n'
         self.text+=doc
     def create_extdocs(self)->None:
         doc='# Extensions/readmore/options/...\n'
@@ -60,7 +62,7 @@ def main():
         rawlist=f.read().splitlines()
     with open('data.json') as f:
         data=json.load(f)
-    with open('quick-data.json') as f:
+    with open('document.json') as f:
         qdocs=json.load(f)
     pre=r'''# vim-plugin-list
 This is a list of plugins.
@@ -70,7 +72,20 @@ _NOTE: this list may contain: mirrors, extensions to plugins, links that are not
 _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [awesome-nvim](https://github.com/rockerBOO/awesome-neovim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins), [vim-galore](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md)_
 
 '''
+    end=r'''
+# Donate
+If you want to donate then you need to find the link:
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a](https://www.buymeacoffee.com/altermo) [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
+* [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()'''
     with open('README.md','w') as f:
-        f.write(Assembler(rawlist,data,pre,qdocs).create())
+        f.write(Assembler(rawlist,data,pre,end,qdocs).create())
 if __name__=="__main__":
     main()
