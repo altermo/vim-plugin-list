@@ -1,21 +1,20 @@
-allendang/nvim-expand-expr : Expand and repeat expression to multiple lines
 antoinemadec/fixcursorhold.nvim : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
+anuvyklack/pretty-fold.nvim : Folded region preview and Framework for easy foldtext customization
 bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
-bfrg/vim-qf-preview : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
 brglng/vim-im-select : Improve Vim/Neovim experience with input methods
 cdelledonne/vim-cmake : building CMake projects inside of vim, with a nice visual feedback
 chrisbra/unicode.vim : handling unicode and digraphs characters
 clojure-vim/acid.nvim : clojure development
 coachshea/neo-pipe : send text through an external command and display the output in the output buffer
-c0r73x/neotags.lua : generates and highlight ctags similar to easytags
-ekickx/clipboard-image.nvim : copy images and paste url/path
-notomo/cmdbuf.nvim : provides command-line window functions by normal buffer and window
-equalsraf/neovim-gui-shim : provides functions and commands for Neovim GUIs
-udayvir-singh/tangerine.nvim : painless way to add fennel to your config
-h-hg/fcitx.nvim : switch and restore fcitx state for each buffer
-sqve/sort.nvim : provides a simple command that mimics :sort and supports both line-wise and delimiter sorting
-anuvyklack/pretty-fold.nvim : Folded region preview and Framework for easy foldtext customization
 dhruvasagar/vim-table-mode : awesome automatic table creator & formatter
+ekickx/clipboard-image.nvim : copy images and paste url/path
+equalsraf/neovim-gui-shim : provides functions and commands for Neovim GUIs
 filipdutescu/renamer.nvim : Visual-Studio-Code-like renaming UI
 glacambre/firenvim : Turn your browser¹ into a Neovim client
+h-hg/fcitx.nvim : switch and restore fcitx state for each buffer
 jbyuki/venn.nvim : Draw ASCII diagrams in Neovim
+notomo/cmdbuf.nvim : provides command-line window functions by normal buffer and window
+sqve/sort.nvim : provides a simple command that mimics :sort and supports both line-wise and delimiter sorting
+udayvir-singh/tangerine.nvim : painless way to add fennel to your config
+pocco81/autosave.nvim : saving your work before the world collapses or you type :qa!
+ziontee113/syntax-tree-surfer : Navigate around your document based on Treesitter's abstract Syntax Tree. Step into, step out, step over, step back

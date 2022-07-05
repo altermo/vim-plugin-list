@@ -1,18 +1,11 @@
 0styx0/abbreinder.nvim : shows abbreviations if the whole thing is typed
 ahmedkhalf/notif.nvim : Notification system
-amix/vim-zenroom2 : emulates iA Writer environment
-ap/vim-css-color : preview colours in source code while editing
-azabiong/vim-highlighter : highlight words and expressions
 chrisbra/changesplugin : visualize which lines have been changed since editing started
-chrisbra/colorizer : color colornames and codes
 chrisbra/dynamicsigns : Using Signs for different things (visualy)
 nacro90/numb.nvim : Peeking the buffer while entering command :[number]
 rcarriga/nvim-notify : fancy, configurable, notification manager
-xiyaowong/nvim-cursorword : part of {yamatsum/nvim-cursorline}
-yamatsum/nvim-cursorline : Highlight words and lines on the cursor
-folke/twilight.nvim : dims inactive portions of the code you're editing
-folke/zen-mode.nvim : Distraction-free coding for Neovim
-´yorickpeterse/nvim-pqf : Pretty Quickfix windows for NeoVim
-itchyny/vim-cursorword : Underlines the word under the cursor
 karb94/neoscroll.nvim : smooth scrolling neovim plugin written in lua
 haringsrob/nvim_context_vt : Shows virtual text of the current context after functions, methods, statements, etc.
+kevinhwang91/nvim-hlslens : search with more visuals
+rktjmp/highlight-current-n.nvim : highlights the current /, ? or * match under your cursor when pressing n or N and gets out of the way afterwards
+edluffy/specs.nvim : Show where your cursor moves when jumping large distances

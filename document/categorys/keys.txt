@@ -1,12 +1,8 @@
 mizlan/iswap.nvim : Interactively select and swap: function arguments, list elements, function parameters, and more
 arp242/jumpy.vim : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
-andrewradev/switch.vim : swich segments of text with predefined replacements
-andrewradev/splitjoin.vim : switching between a single-line statement and a multi-line one
 amix/open_file_under_cursor.vim : open file under cursor (what did you expect)
-acksld/nvim-trevj.lua : do the opposite of join-line
 abecodes/tabout.nvim : tabbing out from parentheses
-coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
-christoomey/vim-tmux-navigator : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
 linty-org/readline.nvim : let you do things like move the cursor or delete text by a word or a line at a time.
 folke/which-key.nvim : displays a popup with possible key bindings of the command you started typing
 booperlv/nvim-gomove : moving and duplicating blocks and lines
+monaqa/dial.nvim : Extended increment/decrement plugin for Neovim

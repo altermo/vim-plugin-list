@@ -4,3 +4,4 @@ ccchapman/watson.nvim : watson
 neovim/go-client : go
 acksld/nvim-gfold.lua : gfold
 adoy/vim-php-refactoring-toolbox : PHP refactoring
+madskjeldgaard/reaper-nvim : Reaper DAW
