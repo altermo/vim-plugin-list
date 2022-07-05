@@ -1,0 +1,4 @@
+windwp/nvim-autopairs : A super powerful autopair plugin for Neovim that supports multiple characters
+zhiyuanlck/smart-pairs : provides pairs completion, deletion and jump
+steelsojka/pears.nvim : Auto pair plugin for neovim
+max-0406/autoclose.nvim : minimalist autoclose plugin for Neovim
