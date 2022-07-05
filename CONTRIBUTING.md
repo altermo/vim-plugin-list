@@ -4,7 +4,7 @@ Thanks for taking you time to improve this github repository.
 * do NOT edit the files [README.md](README.md) or [document.json](document.json)
  (if you do, the content will be overwritten by python scripts)
 ## add/rename/delete a plugin from not-documented
-1. add/rename/delete the plugin from/to/in raw
+1. add/rename/delete the plugin from/to/in [raw](raw)
 2. run [.md_creator.py](.md_creator.py)
 ## add/rename/delete a plugin from documented
 0. learn how the script [.merg.py](document/.merg.py) works
@@ -12,6 +12,7 @@ Thanks for taking you time to improve this github repository.
     1. note that gitlab plugins are the name+repository prefixed by a `´` (example: `´name/repository`)
 2. run [.merg.py](document/.merg.py)
 3. run [.md_creator.py](.md_creator.py)
+    1. note that if a documented plugin is not in [raw](raw) then an exception is thrown
 ## editing other files
 * no guideline (TODO: create guideline)
 # how the file structure is set up
