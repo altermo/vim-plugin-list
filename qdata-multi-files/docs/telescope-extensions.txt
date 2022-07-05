@@ -16,4 +16,4 @@ danielpieper/telescope-tmuxinator.nvim : integrate with tmuxinator
 dhruvmanila/telescope-bookmarks.nvim : open your browser bookmarks
 fannheyward/telescope-coc.nvim : find/filter/preview/pick results from coc.nvim
 fcying/telescope-ctags-outline.nvim : get ctags outline
-fhill2/telescope-ultisnips.nvim : 
+fhill2/telescope-ultisnips.nvim : Integration with ultisnips.nvim

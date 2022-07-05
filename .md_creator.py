@@ -24,14 +24,18 @@ class Assembler:
                     if i not in self.raw:
                         raise Exception(f'{i} not in raw')
     def create_jumplist(self)->None:
-        pass #TODO
+        doc='# Jump list\n'
+        doc+='  * [extensions/options/readmore/...](#extensionsreadmoreoptions)\n'
+        doc+='  * [documented](#documented)\n'
+        doc+='  * [not documented](#not-documented)\n'
+        self.text+=doc
     def create_extdocs(self)->None:
         doc='# Extensions/readmore/options/...\n'
         for k,v in self.data.get('extensions',{}).items():
             doc+=f'  * {self.pluglinkweb(k)} : '+', '.join(f'[{name}]({link})' for name,link in v.items())+'\n'
         self.text+=doc
     def create_qdocs(self)->None:
-        self.text+='# Quick-documented-list\n'
+        self.text+='# Documented\n'
         for k,v in self.qdocs.items():
             self.text+=f'## {k}\n'
             for i in sorted(v):
@@ -47,7 +51,7 @@ class Assembler:
         else:linkpre='https://github.com'
         return f'[{name}]({linkpre}/{name})'
     def create_raw(self)->None:
-        self.text+='# Non-documented-list\n'
+        self.text+='# Not-documented\n'
         self.text+=''.join(f'  * {self.pluglinkweb(i)}\n' for i in self.raw)
 def main():
     with open('raw') as f:
