@@ -1,0 +1,4 @@
+airodactyl/neovim-ranger : ranger for neovim
+camspiers/snap : fast finder system
+xuyuanp/yanil : Yet Another Nerdtree In Lua
+kyazdani42/nvim-tree.lua : A File Explorer For Neovim Written In Lua

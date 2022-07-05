@@ -1,0 +1,25 @@
+allendang/nvim-expand-expr : Expand and repeat expression to multiple lines
+antoinemadec/fixcursorhold.nvim : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
+bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
+bfrg/vim-qf-preview : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
+brglng/vim-im-select : Improve Vim/Neovim experience with input methods
+cdelledonne/vim-cmake : building CMake projects inside of vim, with a nice visual feedback
+chrisbra/unicode.vim : handling unicode and digraphs characters
+clojure-vim/acid.nvim : clojure development
+coachshea/neo-pipe : send text through an external command and display the output in the output buffer
+c0r73x/neotags.lua : generates and highlight ctags similar to easytags
+ekickx/clipboard-image.nvim : copy images and paste url/path
+notomo/cmdbuf.nvim : provides command-line window functions by normal buffer and window
+equalsraf/neovim-gui-shim : provides functions and commands for Neovim GUIs
+udayvir-singh/tangerine.nvim : painless way to add fennel to your config
+h-hg/fcitx.nvim : switch and restore fcitx state for each buffer
+sqve/sort.nvim : provides a simple command that mimics :sort and supports both line-wise and delimiter sorting
+booperlv/nvim-gomove : moving and duplicating blocks and lines
+anuvyklack/pretty-fold.nvim : Folded region preview and Framework for easy foldtext customization
+bennypowers/nvim-regexplainer : Describe the regular expression under the cursor
+folke/trouble.nvim : A pretty list for showing diagnostics, references, telescope results, quickfix and location lists
+dhruvasagar/vim-table-mode : awesome automatic table creator & formatter
+filipdutescu/renamer.nvim : Visual-Studio-Code-like renaming UI
+folke/which-key.nvim : displays a popup with possible key bindings of the command you started typing
+glacambre/firenvim : Turn your browser¹ into a Neovim client
+jbyuki/venn.nvim : Draw ASCII diagrams in Neovim

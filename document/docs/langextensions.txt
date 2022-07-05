@@ -1,0 +1,4 @@
+%s language support
+alaviss/nim.nvim : nim
+zchee/nvim-go : go
+fatih/vim-go : go

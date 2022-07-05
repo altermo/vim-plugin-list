@@ -1,0 +1,5 @@
+akinsho/toggleterm.nvim : persist and toggle multiple terminals
+brettanomyces/nvim-terminus : Edit your current command in a scratch buffer
+bronzehedwick/vim-primary-terminal : Simple terminal management for Neovim.
+brettanomyces/nvim-editcommand : Edit your current shell command inside a scratch buffer
+kassio/neoterm : Use the same terminal for everything
