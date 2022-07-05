@@ -655,6 +655,8 @@ nvim-neorg/neorg
 nvim-neorg/neorg-telescope
 nvim-neotest/neotest
 nvim-orgmode/orgmode
+nvim-telescope/telescope-arecibo.nvim
+nvim-telescope/telescope-bibtex.nvim
 nvim-telescope/telescope-cheat.nvim
 nvim-telescope/telescope-dap.nvim
 nvim-telescope/telescope-file-browser.nvim
@@ -665,10 +667,14 @@ nvim-telescope/telescope-fzy-native.nvim
 nvim-telescope/telescope-ghq.nvim
 nvim-telescope/telescope-github.nvim
 nvim-telescope/telescope-hop.nvim
+nvim-telescope/telescope-live-grep-args.nvim
 nvim-telescope/telescope-media-files.nvim
 nvim-telescope/telescope-node-modules.nvim
 nvim-telescope/telescope-packer.nvim
 nvim-telescope/telescope-project.nvim
+nvim-telescope/telescope-rs.nvim
+nvim-telescope/telescope-smart-history.nvim
+nvim-telescope/telescope-snippets.nvim
 nvim-telescope/telescope-symbols.nvim
 nvim-telescope/telescope-ui-select.nvim
 nvim-telescope/telescope-vimspector.nvim
@@ -1067,7 +1073,6 @@ wbthomason/buildit.nvim
 wbthomason/lsp-status.nvim
 wbthomason/packer.nvim
 weilbith/nvim-code-action-menu
-wellle/context.vim
 wellle/context.vim
 wellle/targets.vim
 wellle/tmux-complete.vim
