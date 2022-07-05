@@ -9,7 +9,7 @@ Thanks for taking you time to improve this github repository.
 ## add/rename/delete a plugin from documented
 0. learn how the script [.merg.py](document/.merg.py) works
 1. add/rename/delete the plugin in/from/to the correct category
-    1. note that gitlab plugins  are prefixed by a `´`
+    1. note that gitlab plugins are the name+repository prefixed by a `´` (example: `´name/repository`)
 2. run [.merg.py](document/.merg.py)
 3. run [.md_creator.py](.md_creator.py)
 ## editing other files
