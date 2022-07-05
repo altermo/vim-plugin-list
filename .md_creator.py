@@ -27,6 +27,8 @@ class Assembler:
         doc='# Jump list\n'
         doc+='  * [extensions/options/readmore/...](#extensionsreadmoreoptions)\n'
         doc+='  * [documented](#documented)\n'
+        for i in self.qdocs:
+            doc+=f'    * [{i}](#{i})\n'
         doc+='  * [not documented](#not-documented)\n'
         self.text+=doc
     def create_extdocs(self)->None:
