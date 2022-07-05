@@ -19,11 +19,16 @@ class Assembler:
             for doc in cat:
                 for i in re.findall(r'\{(.*?)\}',doc):
                     if i not in self.raw:
-                        raise Exception(f'{i} not in raw')
+                        raise Exception(f'"{i}" not in raw')
                 for i in re.findall(r'´(.*?)´',doc):
                     i='https://gitlab.com/'+i
                     if i not in self.raw:
-                        raise Exception(f'{i} not in raw')
+                        raise Exception(f'"{i}" not in raw')
+        uniq=set(self.raw)
+        for i in self.raw:
+            if i not in uniq:
+                raise Exception(f'raw contains duplicates "{i}"')
+            uniq.remove(i)
     def create_jumplist(self)->None:
         doc='# Jump list\n'
         doc+='  * [extensions/options/readmore/...](#extensionsreadmoreoptions)\n'
