@@ -1067,6 +1067,7 @@ wbthomason/lsp-status.nvim
 wbthomason/packer.nvim
 weilbith/nvim-code-action-menu
 wellle/context.vim
+wellle/context.vim
 wellle/targets.vim
 wellle/tmux-complete.vim
 wellle/visual-split.vim

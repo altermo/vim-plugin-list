@@ -10,10 +10,13 @@ chip/telescope-code-fence.nvim : fetch and parse text files from Github and prov
 chip/telescope-software-licenses.nvim : view common software licenses
 cljoly/telescope-repo.nvim : jump to any repository in filesystem
 crispgm/telescope-heading.nvim : switch between document's headings
-linarcx/telescope-command-palette.nvim : help you to access your custom commands/function/key-bindings
-feiyoug/command_center.nvim : Create and manage keybindings and commands in a more organized manner, and search them quickly
 danielpieper/telescope-tmuxinator.nvim : integrate with tmuxinator
 dhruvmanila/telescope-bookmarks.nvim : open your browser bookmarks
 fannheyward/telescope-coc.nvim : find/filter/preview/pick results from coc.nvim
 fcying/telescope-ctags-outline.nvim : get ctags outline
+feiyoug/command_center.nvim : Create and manage keybindings and commands in a more organized manner, and search them quickly
 fhill2/telescope-ultisnips.nvim : Integration with ultisnips.nvim
+linarcx/telescope-command-palette.nvim : help you to access your custom commands/function/key-bindings
+tom-anders/telescope-vim-bookmarks.nvim : integrate with {mattesgroeger/vim-bookmarks}
+wesleimp/telescope-windowizer.nvim : Create new tmux window ready for edit your selected file inside vim
+xiyaowong/telescope-emoji.nvim : search emoji

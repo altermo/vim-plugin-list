@@ -280,6 +280,9 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [feiyoug/command_center.nvim](https://github.com/feiyoug/command_center.nvim) : telescope extensions to Create and manage keybindings and commands in a more organized manner, and search them quickly
   * [fhill2/telescope-ultisnips.nvim](https://github.com/fhill2/telescope-ultisnips.nvim) : telescope extensions to Integration with ultisnips.nvim
   * [linarcx/telescope-command-palette.nvim](https://github.com/linarcx/telescope-command-palette.nvim) : telescope extensions to help you to access your custom commands/function/key-bindings
+  * [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) : telescope extensions to integrate with [mattesgroeger/vim-bookmarks](https://github.com/mattesgroeger/vim-bookmarks)
+  * [wesleimp/telescope-windowizer.nvim](https://github.com/wesleimp/telescope-windowizer.nvim) : telescope extensions to Create new tmux window ready for edit your selected file inside vim
+  * [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) : telescope extensions to search emoji
 ## game
   * [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) : tetris game
   * [amix/vim-2048](https://github.com/amix/vim-2048) : 2048 game
@@ -1120,7 +1123,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim)
   * [tmhedberg/simpylfold](https://github.com/tmhedberg/simpylfold)
   * [tobys/pdv](https://github.com/tobys/pdv)
-  * [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim)
   * [tomlion/vim-solidity](https://github.com/tomlion/vim-solidity)
   * [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange)
   * [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion)
@@ -1202,10 +1204,10 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
   * [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu)
   * [wellle/context.vim](https://github.com/wellle/context.vim)
+  * [wellle/context.vim](https://github.com/wellle/context.vim)
   * [wellle/targets.vim](https://github.com/wellle/targets.vim)
   * [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim)
   * [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim)
-  * [wesleimp/telescope-windowizer.nvim](https://github.com/wesleimp/telescope-windowizer.nvim)
   * [wesq3/vim-windowswap](https://github.com/wesq3/vim-windowswap)
   * [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim)
   * [whynothugo/lsp_lines.nvim](https://github.com/whynothugo/lsp_lines.nvim)
@@ -1222,7 +1224,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [wsdjeg/vim-cheat](https://github.com/wsdjeg/vim-cheat)
   * [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim)
   * [xiyaowong/nvim-transparent](https://github.com/xiyaowong/nvim-transparent)
-  * [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim)
   * [xolox/vim-lua-ftplugin](https://github.com/xolox/vim-lua-ftplugin)
   * [xolox/vim-lua-inspect](https://github.com/xolox/vim-lua-inspect)
   * [xolox/vim-misc](https://github.com/xolox/vim-misc)
