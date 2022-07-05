@@ -15,8 +15,9 @@ Thanks for taking you time to improve this github repository.
 ## editing other files
 * no guideline (TODO: create guideline)
 # how the file structure is set up
-* Things prefixed with a dot are document generating scripts
+* Files starting with a dot are document generating scripts
 * [data.json](data.json) file contains data which is neither document nor script
+* Files that are in directory [other](other) should be ignored.
 ## documents
 * The [categorys](document/categorys) directory contains full on descriptions
 * The [docs](document/docs) directory has 2 parts:
