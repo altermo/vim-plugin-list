@@ -930,8 +930,8 @@ t9md/vim-choosewin
 tamago324/lir.nvim
 tamago324/nlsp-settings.nvim
 tamago324/telescope-openbrowser.nvim
-tami5/lspsaga.nvim
-tami5/sqlite.lua
+kkharji/lspsaga.nvim
+kkharji/sqlite.lua
 tamton-aquib/staline.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
