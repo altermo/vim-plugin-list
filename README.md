@@ -96,12 +96,11 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
 ## keys
   * [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) : tabbing out from parentheses
   * [acksld/nvim-trevj.lua](https://github.com/acksld/nvim-trevj.lua) : do the opposite of join-line
-  * [alvan/vim-closetag](https://github.com/alvan/vim-closetag) : Auto close (X)HTML tags
   * [amix/open_file_under_cursor.vim](https://github.com/amix/open_file_under_cursor.vim) : open file under cursor (what did you expect)
   * [andrewradev/splitjoin.vim](https://github.com/andrewradev/splitjoin.vim) : switching between a single-line statement and a multi-line one
   * [andrewradev/switch.vim](https://github.com/andrewradev/switch.vim) : swich segments of text with predefined replacements
-  * [andymass/vim-matchup](https://github.com/andymass/vim-matchup) : highlight, navigate, and operate on sets of matching text
   * [arp242/jumpy.vim](https://github.com/arp242/jumpy.vim) : filetype-specific mappings for [[, ]], g[, and g] to jump to the next or previous section
+  * [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove) : moving and duplicating blocks and lines
   * [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
   * [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim) : makes operating on columns of code conceptually simpler and reduces keystrokes
   * [folke/which-key.nvim](https://github.com/folke/which-key.nvim) : displays a popup with possible key bindings of the command you started typing
@@ -142,6 +141,8 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) : Speed up loading Lua modules in Neovim to improve startup time
   * [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) : speed up neovim startup time by replacing the builtin filetype.vim with a faster alternative
 ## pairs
+  * [alvan/vim-closetag](https://github.com/alvan/vim-closetag) : Auto close (X)HTML tags
+  * [andymass/vim-matchup](https://github.com/andymass/vim-matchup) : highlight, navigate, and operate on sets of matching text
   * [max-0406/autoclose.nvim](https://github.com/max-0406/autoclose.nvim) : minimalist autoclose plugin for Neovim
   * [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) : Auto pair plugin for neovim
   * [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) : A super powerful autopair plugin for Neovim that supports multiple characters
@@ -469,7 +470,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [beeender/glrnvim](https://github.com/beeender/glrnvim)
   * [beloglazov/vim-online-thesaurus](https://github.com/beloglazov/vim-online-thesaurus)
   * [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer)
-  * [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove)
   * [cappyzawa/trim.nvim](https://github.com/cappyzawa/trim.nvim)
   * [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim)
   * [chrisbra/nrrwrgn](https://github.com/chrisbra/nrrwrgn)

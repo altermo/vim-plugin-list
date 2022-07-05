@@ -3,6 +3,7 @@ Thanks for taking you time to improve this github repository.
 ## Applies to any contribution
 * do NOT edit the files [README.md](README.md) or [document.json](document.json)
  (if you do, the content will be overwritten by python scripts)
+* all PLUGIN NAMES must be lowercase
 ## add/rename/delete a plugin from not-documented
 1. add/rename/delete the plugin from/to/in [raw](raw)
 2. run [.md_creator.py](.md_creator.py)

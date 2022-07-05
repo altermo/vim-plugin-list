@@ -2,3 +2,5 @@ windwp/nvim-autopairs : A super powerful autopair plugin for Neovim that support
 zhiyuanlck/smart-pairs : provides pairs completion, deletion and jump
 steelsojka/pears.nvim : Auto pair plugin for neovim
 max-0406/autoclose.nvim : minimalist autoclose plugin for Neovim
+alvan/vim-closetag : Auto close (X)HTML tags
+andymass/vim-matchup : highlight, navigate, and operate on sets of matching text
