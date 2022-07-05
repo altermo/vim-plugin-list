@@ -899,6 +899,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope)
   * [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)
   * [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)
+  * [nvim-telescope/telescope-cheat.nvim](https://github.com/nvim-telescope/telescope-cheat.nvim)
   * [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim)
   * [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
   * [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim)

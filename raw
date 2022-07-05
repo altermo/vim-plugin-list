@@ -655,6 +655,7 @@ nvim-neorg/neorg
 nvim-neorg/neorg-telescope
 nvim-neotest/neotest
 nvim-orgmode/orgmode
+nvim-telescope/telescope-cheat.nvim
 nvim-telescope/telescope-dap.nvim
 nvim-telescope/telescope-file-browser.nvim
 nvim-telescope/telescope-frecency.nvim
