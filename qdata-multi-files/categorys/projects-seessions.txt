@@ -1,4 +1,0 @@
-ahmedkhalf/project.nvim : provides superior project management
-rmagatti/auto-session : provide seamless automatic session management
-ethanholz/nvim-lastplace : A Lua rewrite of {farmergreg/vim-lastplace}
-shatur/neovim-session-manager : use built-in mksession to manage sessions like folders in VSCode

@@ -1,3 +1,0 @@
-ap/vim-buftabline
-bling/vim-bufferline
-zefei/vim-wintabs

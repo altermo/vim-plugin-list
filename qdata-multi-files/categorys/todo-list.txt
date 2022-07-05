@@ -1,5 +1,0 @@
-kabbamine/lazylist.vim : create ordered and non ordered lists very quickly
-lervag/vim-rainbow-lists : add rainbow highlighting of indented lists
-lervag/lists.vim : manage text based lists
-cathywu/vim-todo : Simple syntax highlighting for todo lists
-dkarter/bullets.vim : automated bullet lists

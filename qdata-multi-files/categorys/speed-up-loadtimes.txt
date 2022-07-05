@@ -1,2 +1,0 @@
-lewis6991/impatient.nvim : Speed up loading Lua modules in Neovim to improve startup time
-nathom/filetype.nvim : speed up neovim startup time by replacing the builtin filetype.vim with a faster alternative

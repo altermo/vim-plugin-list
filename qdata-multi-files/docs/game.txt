@@ -1,3 +1,0 @@
-%s game
-alec-gibson/nvim-tetris : tetris
-amix/vim-2048 : 2048

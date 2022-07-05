@@ -1,3 +1,0 @@
-airblade/vim-gitgutter : git diff
-lewis6991/gitsigns.nvim : Super fast git decorations implemented
-timuntersberger/neogit : Magit clone for Neovim

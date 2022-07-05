@@ -1,2 +1,0 @@
-glepnir/dashboard-nvim
-goolord/alpha-nvim
