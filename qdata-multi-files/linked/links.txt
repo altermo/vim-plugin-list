@@ -1,5 +1,0 @@
-link to {%s}
-akinsho/nvim-toggleterm.lua > akinsho/toggleterm.nvim
-akiyosi/goneovim > dzhou121/gonvim
-bling/vim-airline > vim-airline/vim-airline
-bruno-/vim-man > vim-utils/vim-man

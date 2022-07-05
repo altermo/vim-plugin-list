@@ -23,4 +23,3 @@ filipdutescu/renamer.nvim : Visual-Studio-Code-like renaming UI
 folke/which-key.nvim : displays a popup with possible key bindings of the command you started typing
 glacambre/firenvim : Turn your browser¹ into a Neovim client
 jbyuki/venn.nvim : Draw ASCII diagrams in Neovim
-karb94/neoscroll.nvim : smooth scrolling neovim plugin written in lua

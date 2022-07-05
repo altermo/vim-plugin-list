@@ -19,9 +19,7 @@ ajh17/vimcompletesme
 akinsho/bufferline.nvim
 akinsho/flutter-tools.nvim
 akinsho/nvim-bufferline.lua
-akinsho/nvim-toggleterm.lua
 akinsho/toggleterm.nvim
-akiyosi/goneovim
 akz92/vim-ionic2
 alaviss/nim.nvim
 alec-gibson/nvim-tetris
@@ -35,7 +33,6 @@ alvan/vim-closetag
 alvarosevilla95/luatab.nvim
 amix/open_file_under_cursor.vim
 amix/vim-2048
-amix/vim-commentary
 amix/vim-zenroom2
 amrbashir/nvim-docs-view
 andersevenrud/compe-tmux
@@ -96,7 +93,6 @@ bfredl/nvim-miniyank
 bfrg/vim-qf-preview
 bi0ha2ard/telescope-ros.nvim
 bkegley/gloombuddy
-bling/vim-airline
 bling/vim-bufferline
 blueshirts/darcula
 blueyed/vim-diminactive
@@ -109,8 +105,6 @@ brettanomyces/nvim-terminus
 brglng/vim-im-select
 bronzehedwick/vim-primary-terminal
 brooth/far.vim
-bruno-/vim-man
-burntsushi/ripgrep
 c0r73x/neotags.lua
 c0r73x/neotags.nvim
 camgraff/telescope-tmux.nvim
@@ -121,7 +115,6 @@ cathywu/vim-todo
 catppuccin/nvim
 ccchapman/watson.nvim
 cdelledonne/vim-cmake
-cdown/clipmenu
 cespare/vim-toml
 challenger-deep-theme/vim
 chentoast/marks.nvim
@@ -157,7 +150,6 @@ crag666/code_runner.nvim
 crispgm/nvim-go
 crispgm/nvim-tabline
 crispgm/telescope-heading.nvim
-critiqjo/lldb.nvim
 crivotz/nv-ide
 crusj/bookmarks.nvim
 crusj/hierarchy-tree-go.nvim
@@ -455,7 +447,6 @@ kkoomen/vim-doge
 klen/nvim-config-local
 klen/nvim-test
 klen/python-mode
-klorenz/atom-regex-railroad-diagrams
 koenverburg/peepsight.nvim
 kolja/telescope-opds
 konapun/vacuumline.nvim
