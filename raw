@@ -443,6 +443,8 @@ kevinhwang91/rnvimr
 kezhenxu94/vim-mysql-plugin
 kien/ctrlp.vim
 killthemule/nvimpam
+kkharji/lspsaga.nvim
+kkharji/sqlite.lua
 kkoomen/vim-doge
 klen/nvim-config-local
 klen/nvim-test
@@ -535,6 +537,7 @@ mattn/calendar-vim
 mattn/emmet-vim
 mattn/gist-vim
 matze/vim-move
+max-0406/autoclose.nvim
 max397574/better-escape.nvim
 max397574/lua-dev.nvim
 max397574/which-key.nvim
@@ -921,8 +924,6 @@ t9md/vim-choosewin
 tamago324/lir.nvim
 tamago324/nlsp-settings.nvim
 tamago324/telescope-openbrowser.nvim
-kkharji/lspsaga.nvim
-kkharji/sqlite.lua
 tamton-aquib/staline.nvim
 tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim

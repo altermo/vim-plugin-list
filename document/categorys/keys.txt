@@ -9,3 +9,5 @@ acksld/nvim-trevj.lua : do the opposite of join-line
 abecodes/tabout.nvim : tabbing out from parentheses
 coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
 christoomey/vim-tmux-navigator : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
+linty-org/readline.nvim : let you do things like move the cursor or delete text by a word or a line at a time.
+folke/which-key.nvim : displays a popup with possible key bindings of the command you started typing

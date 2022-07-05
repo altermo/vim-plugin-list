@@ -15,3 +15,4 @@ folke/zen-mode.nvim : Distraction-free coding for Neovim
 ´yorickpeterse/nvim-pqf : Pretty Quickfix windows for NeoVim
 itchyny/vim-cursorword : Underlines the word under the cursor
 karb94/neoscroll.nvim : smooth scrolling neovim plugin written in lua
+haringsrob/nvim_context_vt : Shows virtual text of the current context after functions, methods, statements, etc.
