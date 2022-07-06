@@ -20,3 +20,12 @@ linarcx/telescope-command-palette.nvim : help you to access your custom commands
 tom-anders/telescope-vim-bookmarks.nvim : integrate with {mattesgroeger/vim-bookmarks}
 wesleimp/telescope-windowizer.nvim : Create new tmux window ready for edit your selected file inside vim
 xiyaowong/telescope-emoji.nvim : search emoji
+nvim-telescope/telescope-frecency.nvim : offers intelligent prioritization when selecting files from your editing history
+gbrlsnchs/telescope-lsp-handlers.nvim : handle a bunch of lsp stuff
+gustavokatel/telescope-asynctasks.nvim : integrate with {skywind3000/asynctasks.vim}
+jvgrootveld/telescope-zoxide : allow you to operate zoxide
+kelly-lin/telescope-ag : provide The Silver Searcher (Ag) functionality
+kolja/telescope-opds : Browse opds catalogs
+linarcx/telescope-changes.nvim : wrapper around :changes
+linarcx/telescope-env.nvim : Watch environment variables
+linarcx/telescope-ports.nvim : Shows ports that are open on your system and gives you the ability to kill their process

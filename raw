@@ -73,6 +73,7 @@ astronvim/astronvim
 asvetliakov/vscode-neovim
 autozimu/languageclient-neovim
 axieax/urlview.nvim
+axkirillov/telescope-changed-files
 axvr/photon.vim
 axvr/raider.vim
 azabiong/vim-highlighter
@@ -378,7 +379,6 @@ jghauser/fold-cycle.nvim
 jghauser/follow-md-links.nvim
 jghauser/kitty-runner.nvim
 jghauser/mkdir.nvim
-jgvw/telescope-arglist.nvim
 jiangmiao/auto-pairs
 jlesquembre/nterm.nvim
 jmcomets/vim-pony
@@ -842,6 +842,7 @@ sainnhe/everforest
 sainnhe/gruvbox-material
 sainnhe/sonokai
 sakhnik/nvim-gdb
+samoshkin/vim-find-files
 saurabhdaware/vscode-calvera-dark
 savq/melange
 savq/paq-nvim
@@ -894,6 +895,7 @@ skywind3000/asynctasks.vim
 skywind3000/vim-auto-popmenu
 skywind3000/vim-dict
 skywind3000/vim-quickui
+slarwise/telescope-args.nvim
 slashmili/alchemist.vim
 slim-template/vim-slim
 slugbyte/unruly-worker

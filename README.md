@@ -114,6 +114,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [autozimu/languageclient-neovim](https://github.com/autozimu/languageclient-neovim) : LSP support
   * [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) : Automatically creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin lsp client
   * [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) : an adapter for the Neovim lua language
+  * [kkharji/lspsaga.nvim](https://github.com/kkharji/lspsaga.nvim) : light-weight lsp plugin based on neovim built-in lsp with highly a performant UI
 ## keys
   * [amix/open_file_under_cursor.vim](https://github.com/amix/open_file_under_cursor.vim) : open file under cursor (what did you expect)
   * [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove) : moving and duplicating blocks and lines
@@ -279,7 +280,16 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [fcying/telescope-ctags-outline.nvim](https://github.com/fcying/telescope-ctags-outline.nvim) : telescope extensions to get ctags outline
   * [feiyoug/command_center.nvim](https://github.com/feiyoug/command_center.nvim) : telescope extensions to Create and manage keybindings and commands in a more organized manner, and search them quickly
   * [fhill2/telescope-ultisnips.nvim](https://github.com/fhill2/telescope-ultisnips.nvim) : telescope extensions to Integration with ultisnips.nvim
+  * [gbrlsnchs/telescope-lsp-handlers.nvim](https://github.com/gbrlsnchs/telescope-lsp-handlers.nvim) : telescope extensions to handle a bunch of lsp stuff
+  * [gustavokatel/telescope-asynctasks.nvim](https://github.com/gustavokatel/telescope-asynctasks.nvim) : telescope extensions to integrate with [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)
+  * [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) : telescope extensions to allow you to operate zoxide
+  * [kelly-lin/telescope-ag](https://github.com/kelly-lin/telescope-ag) : telescope extensions to provide The Silver Searcher (Ag) functionality
+  * [kolja/telescope-opds](https://github.com/kolja/telescope-opds) : telescope extensions to Browse opds catalogs
+  * [linarcx/telescope-changes.nvim](https://github.com/linarcx/telescope-changes.nvim) : telescope extensions to wrapper around :changes
   * [linarcx/telescope-command-palette.nvim](https://github.com/linarcx/telescope-command-palette.nvim) : telescope extensions to help you to access your custom commands/function/key-bindings
+  * [linarcx/telescope-env.nvim](https://github.com/linarcx/telescope-env.nvim) : telescope extensions to Watch environment variables
+  * [linarcx/telescope-ports.nvim](https://github.com/linarcx/telescope-ports.nvim) : telescope extensions to Shows ports that are open on your system and gives you the ability to kill their process
+  * [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) : telescope extensions to offers intelligent prioritization when selecting files from your editing history
   * [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) : telescope extensions to integrate with [mattesgroeger/vim-bookmarks](https://github.com/mattesgroeger/vim-bookmarks)
   * [wesleimp/telescope-windowizer.nvim](https://github.com/wesleimp/telescope-windowizer.nvim) : telescope extensions to Create new tmux window ready for edit your selected file inside vim
   * [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) : telescope extensions to search emoji
@@ -541,6 +551,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo)
   * [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim)
   * [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim)
+  * [axkirillov/telescope-changed-files](https://github.com/axkirillov/telescope-changed-files)
   * [b0o/schemastore.nvim](https://github.com/b0o/schemastore.nvim)
   * [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary)
   * [beeender/glrnvim](https://github.com/beeender/glrnvim)
@@ -627,7 +638,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate)
   * [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim)
   * [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim)
-  * [gbrlsnchs/telescope-lsp-handlers.nvim](https://github.com/gbrlsnchs/telescope-lsp-handlers.nvim)
   * [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim)
   * [gennaro-tedesco/boilit](https://github.com/gennaro-tedesco/boilit)
   * [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround)
@@ -651,7 +661,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [guns/vim-clojure-static](https://github.com/guns/vim-clojure-static)
   * [guns/vim-sexp](https://github.com/guns/vim-sexp)
   * [guns/vim-slamhound](https://github.com/guns/vim-slamhound)
-  * [gustavokatel/telescope-asynctasks.nvim](https://github.com/gustavokatel/telescope-asynctasks.nvim)
   * [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys)
   * [haifengkao/insertleftbracket.nvim](https://github.com/haifengkao/insertleftbracket.nvim)
   * [haorenw1025/completion-nvim](https://github.com/haorenw1025/completion-nvim)
@@ -706,7 +715,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim)
   * [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim)
   * [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim)
-  * [jgvw/telescope-arglist.nvim](https://github.com/jgvw/telescope-arglist.nvim)
   * [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs)
   * [jlesquembre/nterm.nvim](https://github.com/jlesquembre/nterm.nvim)
   * [jmcomets/vim-pony](https://github.com/jmcomets/vim-pony)
@@ -740,28 +748,24 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup)
   * [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish)
   * [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo)
-  * [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide)
   * [k-takata/minpac](https://github.com/k-takata/minpac)
   * [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent)
   * [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user)
   * [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
   * [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim)
   * [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc)
-  * [kelly-lin/telescope-ag](https://github.com/kelly-lin/telescope-ag)
   * [kethku/neovide](https://github.com/kethku/neovide)
   * [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf)
   * [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr)
   * [kezhenxu94/vim-mysql-plugin](https://github.com/kezhenxu94/vim-mysql-plugin)
   * [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
   * [killthemule/nvimpam](https://github.com/killthemule/nvimpam)
-  * [kkharji/lspsaga.nvim](https://github.com/kkharji/lspsaga.nvim)
   * [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua)
   * [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge)
   * [klen/nvim-config-local](https://github.com/klen/nvim-config-local)
   * [klen/nvim-test](https://github.com/klen/nvim-test)
   * [klen/python-mode](https://github.com/klen/python-mode)
   * [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim)
-  * [kolja/telescope-opds](https://github.com/kolja/telescope-opds)
   * [konfekt/fastfold](https://github.com/konfekt/fastfold)
   * [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb)
   * [kovetskiy/sxhkd-vim](https://github.com/kovetskiy/sxhkd-vim)
@@ -778,9 +782,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [lifepillar/pgsql.vim](https://github.com/lifepillar/pgsql.vim)
   * [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
   * [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete)
-  * [linarcx/telescope-changes.nvim](https://github.com/linarcx/telescope-changes.nvim)
-  * [linarcx/telescope-env.nvim](https://github.com/linarcx/telescope-env.nvim)
-  * [linarcx/telescope-ports.nvim](https://github.com/linarcx/telescope-ports.nvim)
   * [linarcx/telescope-scriptnames.nvim](https://github.com/linarcx/telescope-scriptnames.nvim)
   * [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim)
   * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap)
@@ -904,7 +905,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [nvim-telescope/telescope-cheat.nvim](https://github.com/nvim-telescope/telescope-cheat.nvim)
   * [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim)
   * [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
-  * [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim)
   * [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)
   * [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim)
   * [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim)
@@ -1032,6 +1032,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker)
   * [saecki/crates.nvim](https://github.com/saecki/crates.nvim)
   * [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb)
+  * [samoshkin/vim-find-files](https://github.com/samoshkin/vim-find-files)
   * [savq/paq-nvim](https://github.com/savq/paq-nvim)
   * [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
   * [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals)
@@ -1072,6 +1073,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)
   * [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
   * [skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)
+  * [slarwise/telescope-args.nvim](https://github.com/slarwise/telescope-args.nvim)
   * [slashmili/alchemist.vim](https://github.com/slashmili/alchemist.vim)
   * [slim-template/vim-slim](https://github.com/slim-template/vim-slim)
   * [smiteshp/nvim-gps](https://github.com/smiteshp/nvim-gps)
