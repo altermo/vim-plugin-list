@@ -21,7 +21,6 @@ christianchiarulli/nvcode-color-schemes.vim
 chrsm/paramount-ng.nvim
 cpea2506/one_monokai.nvim
 dracula/vim
-echasnovski/mini.nvim#plugin-colorscheme
 edeneast/nightfox.nvim
 ellisonleao/gruvbox.nvim
 elvessousa/sobrio

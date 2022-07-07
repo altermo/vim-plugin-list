@@ -29,6 +29,10 @@ class Assembler:
             if i not in uniq:
                 raise Exception(f'raw contains duplicates "{i}"')
             uniq.remove(i)
+            if not re.findall(r'^(?:https://gitlab\.com/)?[a-z0-9_.-]+/[a-z0-9_.-]+$',i):
+                raise Exception(f'{i} does not seem to be a valid plugin')
+            if not i.islower():
+                raise Exception(f'{i} is not all lowercase')
     def create_jumplist(self)->None:
         doc='# Jump list\n'
         doc+='  * [extensions/options/readmore/...](#extensionsreadmoreoptions)\n'
@@ -56,8 +60,6 @@ class Assembler:
         text=re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
         return re.sub(r'´(.*?)´',r'[\1](https://gitlab.com/\1)',text)
     def pluglinkweb(self,name:str)->str:
-        if not name.islower():
-            raise Exception(f'{name} is not all lowercase')
         if name.startswith('https://gitlab.com'):linkpre=''
         else:linkpre='https://github.com'
         return f'[{name}]({linkpre}/{name})'

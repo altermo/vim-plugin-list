@@ -25,3 +25,4 @@ pocco81/abbrevman.nvim : that manages abbreviations for various natural and prog
 jghauser/mkdir.nvim : automatically creates missing directories on saving a file
 chentoast/marks.nvim : A better user experience for interacting with and manipulating Vim marks
 echasnovski/mini.nvim : Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim experience
+davidgranstrom/osc.nvim : Open Sound Control (OSC) library for Neovim
