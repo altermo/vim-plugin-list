@@ -826,8 +826,12 @@ rohit-px2/nvui
 romainl/apprentice
 romainl/flattened
 romainl/vim-bruin
+romainl/vim-cool
+romainl/vim-devdocs
 romainl/vim-dichromatic
+romainl/vim-malotru
 romainl/vim-qf
+romainl/vim-quicklist
 romainl/vim-sweet16
 romgrk/barbar.nvim
 romgrk/nvim-treesitter-context

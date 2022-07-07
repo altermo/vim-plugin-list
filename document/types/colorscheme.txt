@@ -93,6 +93,7 @@ romainl/apprentice
 romainl/flattened
 romainl/vim-bruin
 romainl/vim-dichromatic
+romainl/vim-malotru
 romainl/vim-sweet16
 rose-pine/neovim
 rrethy/nvim-base16

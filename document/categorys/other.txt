@@ -26,3 +26,6 @@ jghauser/mkdir.nvim : automatically creates missing directories on saving a file
 chentoast/marks.nvim : A better user experience for interacting with and manipulating Vim marks
 echasnovski/mini.nvim : Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim experience
 davidgranstrom/osc.nvim : Open Sound Control (OSC) library for Neovim
+luchermitte/vimfold4c : Reactive vim fold plugin for C & C++
+tpope/vim-eunuch : Vim sugar for the UNIX shell commands that need it the most
+vim-scripts/cyclecolor : cycle through (almost) all available colorschemes

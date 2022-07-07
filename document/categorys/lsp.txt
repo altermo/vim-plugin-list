@@ -4,3 +4,4 @@ alexaandru/nvim-lspupdate : Updates installed (or auto installs if missing) LSP 
 folke/lsp-colors.nvim : Automatically creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin lsp client
 jbyuki/one-small-step-for-vimkind : an adapter for the Neovim lua language
 kkharji/lspsaga.nvim : light-weight lsp plugin based on neovim built-in lsp with highly a performant UI
+tamago324/nlsp-settings.nvim : configure Neovim LSP using json/yaml files like coc-settings.json

@@ -1,7 +1,7 @@
 import json
 import re
 class Assembler:
-    def __init__(self,rawlist:list,data:dict[str,dict[str,dict[str,str]]],pre:str,end:str,qdocs:dict[str,list[str]])->None:
+    def __init__(self,rawlist:list[str],data:dict[str,dict[str,dict[str,str]]],pre:str,end:str,qdocs:dict[str,list[str]])->None:
         self.text=pre
         self.data=data
         self.qdocs=qdocs
@@ -29,10 +29,10 @@ class Assembler:
             if i not in uniq:
                 raise Exception(f'raw contains duplicates "{i}"')
             uniq.remove(i)
-            if not re.findall(r'^(?:https://gitlab\.com/)?[a-z0-9_.-]+/[a-z0-9_.-]+$',i):
-                raise Exception(f'{i} does not seem to be a valid plugin')
             if not i.islower():
                 raise Exception(f'{i} is not all lowercase')
+            if not re.findall(r'^(?:https://gitlab\.com/)?[a-z0-9_.-]+/[a-z0-9_.-]+$',i):
+                raise Exception(f'{i} does not seem to be a valid plugin')
     def create_jumplist(self)->None:
         doc='# Jump list\n'
         doc+='  * [extensions/options/readmore/...](#extensionsreadmoreoptions)\n'

@@ -1,4 +1,6 @@
 airodactyl/neovim-ranger : ranger for neovim
 camspiers/snap : fast finder system
-xuyuanp/yanil : Yet Another Nerdtree In Lua
 kyazdani42/nvim-tree.lua : A File Explorer For Neovim Written In Lua
+ms-jpq/chadtree : File Manager for Neovim, Better than NERDTree
+xuyuanp/yanil : Yet Another Nerdtree In Lua
+zgpio/tree.nvim : File explorer powered by C++

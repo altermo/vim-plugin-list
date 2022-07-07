@@ -4,3 +4,4 @@ c0r73x/neotags.nvim > c0r73x/neotags.lua
 arakashic/chromatica.nvim > jackguo380/vim-lsp-cxx-highlight
 chriskempson/vim-tomorrow-theme > chriskempson/base16-vim
 acksld/nvim-revj.lua > acksld/nvim-trevj.lua
+gregsexton/gitv > junegunn/gv.vim
