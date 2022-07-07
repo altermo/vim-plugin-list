@@ -5,3 +5,6 @@ arakashic/chromatica.nvim > jackguo380/vim-lsp-cxx-highlight
 chriskempson/vim-tomorrow-theme > chriskempson/base16-vim
 acksld/nvim-revj.lua > acksld/nvim-trevj.lua
 gregsexton/gitv > junegunn/gv.vim
+terryma/vim-multiple-cursors > mg979/vim-visual-multi
+evanquan/vim-textobj-delimiters > wellle/targets.vim
+svermeulen/vim-easyclip > svermeulen/vim-cutlass} and {svermeulen/vim-yoink} and {svermeulen/vim-subversive

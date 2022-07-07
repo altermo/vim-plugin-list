@@ -6,3 +6,7 @@ booperlv/nvim-gomove : moving and duplicating blocks and lines
 monaqa/dial.nvim : Extended increment/decrement plugin for Neovim
 max397574/better-escape.nvim : lua version of {jdhao/better-escape.vim}
 jdhao/better-escape.vim : is created to help Vim/Nvim users escape insert mode quickly using their customized key combinations, without experiencing the lag
+tommcdo/vim-exchange : Easy text exchange operator
+tpope/vim-characterize : adds more info when pressing `ga`
+tpope/vim-repeat : make it so that plugins work with the key `.`
+glts/vim-radical : see and convert number from and to different bases (hex,oct,dec,bin)

@@ -18,14 +18,15 @@ rktjmp/paperplanes.nvim : Post selections or buffers to online paste bins.
 rgroli/other.nvim : you can open other/related files for the currently active buffer
 toppair/reach.nvim : buffer / mark / tabpage / colorscheme switcher
 nkakouros-original/numbers.nvim : Disables relative line numbers when they don't make sense, e.g. when entering insert mode
-myusuf3/numbers.vim : intelligently toggling line numbers
-crusj/bookmarks.nvim : Remember file locations and sort by time and frequency
 m-demare/attempt.nvim : Manage your temporary buffers
-pocco81/abbrevman.nvim : that manages abbreviations for various natural and programming languages
 jghauser/mkdir.nvim : automatically creates missing directories on saving a file
-chentoast/marks.nvim : A better user experience for interacting with and manipulating Vim marks
 echasnovski/mini.nvim : Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim experience
 davidgranstrom/osc.nvim : Open Sound Control (OSC) library for Neovim
 luchermitte/vimfold4c : Reactive vim fold plugin for C & C++
 tpope/vim-eunuch : Vim sugar for the UNIX shell commands that need it the most
 vim-scripts/cyclecolor : cycle through (almost) all available colorschemes
+skywind3000/asynctasks.vim : modern task system
+mg979/vim-visual-multi : create multiple visual regions and edit them (basically multiple cursor)
+nvim-colortils/colortils.nvim : Neovim color utils
+romainl/vim-devdocs : Look up keywords on https://devdocs.io
+andrewradev/sideways.vim : move the item under the cursor left or right

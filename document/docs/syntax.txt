@@ -1,3 +1,4 @@
 %s syntax highlight
 akz92/vim-ionic2 : ionic2
 cespare/vim-toml : toml
+jwalton512/vim-blade : blade template

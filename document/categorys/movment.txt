@@ -4,3 +4,9 @@ abecodes/tabout.nvim : tabbing out from parentheses
 justinmk/vim-sneak : Jump to any location specified by two characters
 ggandor/lightspeed.nvim : Lightspeed is a motion plugin for Neovim, with a relatively small interface and lots of innovative ideas
 ggandor/leap.nvim : general-purpose motion plugin for Neovim
+goldfeld/vim-seek : like `f` but for two characters
+t9md/vim-smalls : Search and jump with easymotion style
+chrisbra/improvedft : makes `f`, `t`, `T`, `F` have the ability to jump multiple lines
+svermeulen/vim-extended-ft : multiline, smart case, highlighting and more for `f`, `t`, `T`, `F`
+dahu/vim-fanfingtastic : multiline, case insensitive and aliasing for `f`, `t`, `T`, `F`
+easymotion/vim-easymotion : Jump fast to any place to the screen by preesing only up to three keys

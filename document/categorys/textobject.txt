@@ -1,1 +1,10 @@
 coderifous/textobj-word-column.vim : makes operating on columns of code conceptually simpler and reduces keystrokes
+kana/vim-textobj-user : creat your own text objects
+chaoren/vim-wordmotion : treat uppercase/lowercase words next to each other as different words
+misanthropicbit/vim-numbers : adds textobject to numbers
+rhysd/vim-textobj-anyblock : make `ib` and `ab` match all parentheses and not just brackets
+adriaanzon/vim-textobj-matchit : creates text objects from matchit pairs (example: `if…end`)
+deathlyfrantic/vim-textobj-blanklines : provides a text object for groups of empty lines
+adriaanzon/vim-textobj-blade-directive : textobject for blade directive
+d4ku/vim-pushover : provides an interface to easily create mappings to push around text-objects
+nilsboy/vim-textobj-cindent : provides text objects to select a block of lines that have the same or higher indentation as the current line

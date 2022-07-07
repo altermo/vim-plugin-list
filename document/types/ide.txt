@@ -17,3 +17,4 @@ shaunsingh/nyoom.nvim
 siduck76/nvchad
 spacevim/spacevim
 vi-tality/neovitality
+jueqingsizhe66/windowvimfaster

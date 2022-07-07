@@ -292,6 +292,7 @@ glepnir/indent-guides.nvim
 glepnir/lspsaga.nvim
 glepnir/prodoc.nvim
 glepnir/zephyr-nvim
+glts/vim-radical
 gmarik/vundle.vim
 godlygeek/tabular
 goldfeld/vim-seek
@@ -317,6 +318,7 @@ haya14busa/incsearch.vim
 haya14busa/is.vim
 haya14busa/vim-auto-programming
 haya14busa/vim-easyoperator-line
+haya14busa/vim-easyoperator-phrase
 henriquehbr/ataraxis.lua
 henriquehbr/nvim-startup.lua
 heraldofsolace/nisha-vim
@@ -947,6 +949,7 @@ sunjon/shade.nvim
 svermeulen/nvim-marksman
 svermeulen/nvim-moonmaker
 svermeulen/vim-cutlass
+svermeulen/vim-easyclip
 svermeulen/vim-extended-ft
 svermeulen/vim-subversive
 svermeulen/vim-yoink

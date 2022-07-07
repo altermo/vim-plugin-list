@@ -1,2 +1,3 @@
 bfrg/vim-qf-preview : For the quickfix and location list window to quickly preview the file with the quickfix item under the cursor in a popup window
 ´yorickpeterse/nvim-pqf : Pretty Quickfix windows for NeoVim
+romainl/vim-qf : is a growing collection of settings, commands and mappings put together to make working with the location list/window and the quickfix list/window smoother

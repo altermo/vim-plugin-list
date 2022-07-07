@@ -3,3 +3,4 @@ cyansprite/extract
 acksld/nvim-neoclip.lua
 gbprod/yanky.nvim
 maxbrunsfeld/vim-yankstack
+svermeulen/vim-yoink
