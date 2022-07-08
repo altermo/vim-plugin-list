@@ -1,0 +1,1 @@
+nvim-telescope/telescope-arecibo.nvim : Neovim Telescope extension for searching the web

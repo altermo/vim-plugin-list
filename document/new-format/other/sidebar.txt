@@ -1,0 +1,2 @@
+sidebar-nvim/sidebar.nvim : A generic and modular lua sidebar inspired by lualine [nvim]
+lambdalisue/fern.vim : is a general purpose asynchronous tree viewer written in pure Vim script

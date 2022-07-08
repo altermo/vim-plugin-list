@@ -1,0 +1,1 @@
+mhinz/vim-signify : uses the sign column to indicate added, modified and removed lines in a file that is managed by a version control system

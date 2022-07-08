@@ -1,0 +1,1 @@
+notomo/gesture.nvim : is a mouse gesture plugin for Neovim [nvim]
