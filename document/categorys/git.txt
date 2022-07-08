@@ -2,3 +2,5 @@ airblade/vim-gitgutter : git diff
 lewis6991/gitsigns.nvim : Super fast git decorations implemented
 timuntersberger/neogit : Magit clone for Neovim
 junegunn/gv.vim : A git commit browser
+tpope/vim-rhubarb : If fugitive.vim is the Git, rhubarb.vim is the Hub
+tpope/vim-fugitive : Fugitive is the premier Vim plugin for Git

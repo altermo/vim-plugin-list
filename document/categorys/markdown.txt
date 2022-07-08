@@ -1,0 +1,2 @@
+jubnzv/mdeval.nvim : allows you evaluate code blocks inside markdown, vimwiki, orgmode.nvim and norg documents
+suan/vim-instant-markdown : preview markdown files in your browser

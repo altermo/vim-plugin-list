@@ -32,3 +32,4 @@ linarcx/telescope-ports.nvim : Shows ports that are open on your system and give
 axkirillov/telescope-changed-files : browse files that changed between your branch and develop
 nvim-neorg/neorg-telescope : browse neorg file headings
 nvim-telescope/telescope-symbols.nvim : pick symbols
+nvim-telescope/telescope-ghq.nvim : provide its users with operating x-motemen/ghq

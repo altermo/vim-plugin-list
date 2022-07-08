@@ -28,5 +28,8 @@ andrewradev/sideways.vim : move the item under the cursor left or right
 pixelneo/vim-python-docstring : easily create python docstring
 voldikss/vim-translator : tranlate stuff
 skywind3000/asyncrun.vim : async run shell commands in qf window
-suan/vim-instant-markdown : preview markdown files in your browser
 theprimeagen/refactoring.nvim : refactor code
+editorconfig/editorconfig-vim : This is an EditorConfig plugin for Vim
+klen/nvim-test : Test Runner for neovim
+hkupty/iron.nvim : Interactive Repls Over Neovim
+skywind3000/vim-dict : Automatically add dictionary files to current buffer according to the filetype

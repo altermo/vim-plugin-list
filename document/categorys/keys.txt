@@ -11,5 +11,5 @@ tpope/vim-characterize : adds more info when pressing `ga`
 tpope/vim-repeat : make it so that plugins work with the key `.`
 glts/vim-radical : see and convert number from and to different bases (hex,oct,dec,bin)
 tpope/vim-surround : all about "surroundings": parentheses, brackets, quotes, XML tags, and more
-tommcdo/vim-lion : a tool for aligning text by some character
 s1n7ax/nvim-lazy-inner-block : be lazy and example do not type the `i` in `ci)`
+tpope/vim-rsi : adds Readline key bindings to cmdline

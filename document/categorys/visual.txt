@@ -18,3 +18,4 @@ monkoose/matchparen.nvim : highlight matching parentheses
 tversteeg/registers.nvim : Show register content when you try to access it
 winston0410/range-highlight.nvim : hightlights ranges you have entered in commandline
 bennypowers/nvim-regexplainer : Describe the regular expression under the cursor
+gennaro-tedesco/nvim-peekup : peek registers befor pasting them

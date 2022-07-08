@@ -55,6 +55,7 @@ lifepillar/vim-solarized8
 lmburns/kimbox
 lourenci/github-colors
 luisiacc/gruvbox-baby
+lunarvim/onedarker.nvim
 mangeshrex/uwu.vim
 markeganfuller/vim-journeyman
 marko-cerovac/material.nvim

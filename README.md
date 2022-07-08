@@ -11,6 +11,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
     * [file-movment](#file-movment)
     * [plugin-maneger](#plugin-maneger)
     * [apps](#apps)
+    * [markdown](#markdown)
     * [ui-creator](#ui-creator)
     * [git](#git)
     * [other](#other)
@@ -29,6 +30,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
     * [color](#color)
     * [filemanager](#filemanager)
     * [buffers](#buffers)
+    * [aligner](#aligner)
     * [keymap-creater](#keymap-creater)
     * [from-one-to-more-lines](#from-one-to-more-lines)
     * [tmux](#tmux)
@@ -84,6 +86,9 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) : The interactive scratchpad for hackers
   * [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) : A tree like view for symbols in Neovim using the Language Server Protocol
   * [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) : Blazing fast minimap
+## markdown
+  * [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) : allows you evaluate code blocks inside markdown, vimwiki, orgmode.nvim and norg documents
+  * [suan/vim-instant-markdown](https://github.com/suan/vim-instant-markdown) : preview markdown files in your browser
 ## ui-creator
   * [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) : Neovim implementation of the famous Emacs Hydra package
   * [muniftanjim/nui.nvim](https://github.com/muniftanjim/nui.nvim) : UI Component Library
@@ -94,6 +99,8 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [junegunn/gv.vim](https://github.com/junegunn/gv.vim) : A git commit browser
   * [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) : Super fast git decorations implemented
   * [timuntersberger/neogit](https://github.com/timuntersberger/neogit) : Magit clone for Neovim
+  * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) : Fugitive is the premier Vim plugin for Git
+  * [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb) : If fugitive.vim is the Git, rhubarb.vim is the Hub
 ## other
   * [andrewradev/sideways.vim](https://github.com/andrewradev/sideways.vim) : move the item under the cursor left or right
   * [antoinemadec/fixcursorhold.nvim](https://github.com/antoinemadec/fixcursorhold.nvim) : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
@@ -104,12 +111,15 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [davidgranstrom/osc.nvim](https://github.com/davidgranstrom/osc.nvim) : Open Sound Control (OSC) library for Neovim
   * [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) : awesome automatic table creator & formatter
   * [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) : Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim experience
+  * [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) : This is an EditorConfig plugin for Vim
   * [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) : copy images and paste url/path
   * [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) : Visual-Studio-Code-like renaming UI
   * [glacambre/firenvim](https://github.com/glacambre/firenvim) : Turn your browser¹ into a Neovim client
   * [h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim) : switch and restore fcitx state for each buffer
+  * [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) : Interactive Repls Over Neovim
   * [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) : Draw ASCII diagrams in Neovim
   * [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) : automatically creates missing directories on saving a file
+  * [klen/nvim-test](https://github.com/klen/nvim-test) : Test Runner for neovim
   * [luchermitte/vimfold4c](https://github.com/luchermitte/vimfold4c) : Reactive vim fold plugin for C & C++
   * [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) : Manage your temporary buffers
   * [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) : create multiple visual regions and edit them (basically multiple cursor)
@@ -122,7 +132,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [romainl/vim-devdocs](https://github.com/romainl/vim-devdocs) : Look up keywords on https://devdocs.io
   * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) : async run shell commands in qf window
   * [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) : modern task system
-  * [suan/vim-instant-markdown](https://github.com/suan/vim-instant-markdown) : preview markdown files in your browser
+  * [skywind3000/vim-dict](https://github.com/skywind3000/vim-dict) : Automatically add dictionary files to current buffer according to the filetype
   * [theprimeagen/refactoring.nvim](https://github.com/theprimeagen/refactoring.nvim) : refactor code
   * [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) : painless way to add fennel to your config
   * [vim-scripts/cyclecolor](https://github.com/vim-scripts/cyclecolor) : cycle through (almost) all available colorschemes
@@ -147,6 +157,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [kkharji/lspsaga.nvim](https://github.com/kkharji/lspsaga.nvim) : light-weight lsp plugin based on neovim built-in lsp with highly a performant UI
   * [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) : Configs for the Nvim LSP client
   * [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) : adds vscode-like pictograms to neovim built-in lsp
+  * [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) : Show function signature when you type
   * [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) : lsp navigation and highlighting and more
   * [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) : configure Neovim LSP using json/yaml files like coc-settings.json
   * [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) : allow you to manage LSP servers
@@ -173,9 +184,9 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) : Extended increment/decrement plugin for Neovim
   * [s1n7ax/nvim-lazy-inner-block](https://github.com/s1n7ax/nvim-lazy-inner-block) : be lazy and example do not type the `i` in `ci)`
   * [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) : Easy text exchange operator
-  * [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion) : a tool for aligning text by some character
   * [tpope/vim-characterize](https://github.com/tpope/vim-characterize) : adds more info when pressing `ga`
   * [tpope/vim-repeat](https://github.com/tpope/vim-repeat) : make it so that plugins work with the key `.`
+  * [tpope/vim-rsi](https://github.com/tpope/vim-rsi) : adds Readline key bindings to cmdline
   * [tpope/vim-surround](https://github.com/tpope/vim-surround) : all about "surroundings": parentheses, brackets, quotes, XML tags, and more
 ## tags
   * [c0r73x/neotags.lua](https://github.com/c0r73x/neotags.lua) : generates and highlight ctags similar to easytags
@@ -234,6 +245,9 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) : Lua port of [asheq/close-buffers](https://github.com/asheq/close-buffers) with several feature extensions
   * [matbme/jabs.nvim](https://github.com/matbme/jabs.nvim) : Just Another Buffer Switcher
   * [nyngwang/neononame.lua](https://github.com/nyngwang/neononame.lua) : Layout preserving buffer deletion in Lua
+## aligner
+  * [godlygeek/tabular](https://github.com/godlygeek/tabular) : makek aligning text easy while also having complex setups
+  * [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion) : a tool for aligning text by some character
 ## keymap-creater
   * [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) : make mapping and commands more manageable in lua
   * [iron-e/nvim-cartographer](https://github.com/iron-e/nvim-cartographer) : simplify setting and deleting with keybindings / mappings in Lua
@@ -247,6 +261,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [andrewradev/splitjoin.vim](https://github.com/andrewradev/splitjoin.vim) : switching between a single-line statement and a multi-line one
 ## tmux
   * [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) : navigate seamlessly between vim and tmux splits using a consistent set of hotkeys
+  * [hkupty/nvimux](https://github.com/hkupty/nvimux) : Nvimux allows neovim to work as a tmux replacement
 ## windows
   * [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) : Splits/Window Management Enhancements for Neovim
   * [blueyed/vim-diminactive](https://github.com/blueyed/vim-diminactive) : dim inactive windows
@@ -310,6 +325,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [chrisbra/changesplugin](https://github.com/chrisbra/changesplugin) : visualize which lines have been changed since editing started
   * [chrisbra/dynamicsigns](https://github.com/chrisbra/dynamicsigns) : Using Signs for different things (visualy)
   * [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) : Show where your cursor moves when jumping large distances
+  * [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) : peek registers befor pasting them
   * [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) : Shows virtual text of the current context after functions, methods, statements, etc.
   * [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) : smooth scrolling neovim plugin written in lua
   * [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) : search with more visuals
@@ -336,6 +352,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [drmingdrmer/xptemplate](https://github.com/drmingdrmer/xptemplate) : Code snippets engine for Vim, And snippets library
   * [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate) : provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips
   * [honza/vim-snippets](https://github.com/honza/vim-snippets) : contains snippets librarys for various programming languages
+  * [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) : VSCode(LSP)'s snippet feature in vim
   * [l3mon4d3/luasnip](https://github.com/l3mon4d3/luasnip) : snippet engine written in lua
   * [shougo/neosnippet.vim](https://github.com/shougo/neosnippet.vim) : The Neosnippet plug-In adds snippet support to Vim
   * [sirver/ultisnips](https://github.com/sirver/ultisnips) : is the ultimate solution for snippets
@@ -345,6 +362,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature) : place, toggle and display marks
   * [mattesgroeger/vim-bookmarks](https://github.com/mattesgroeger/vim-bookmarks) : toggling bookmarks per line and more
 ## comment
+  * [tpope/vim-commentary](https://github.com/tpope/vim-commentary) : Comment stuff out
 ## terminal
   * [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) : persist and toggle multiple terminals
   * [brettanomyces/nvim-editcommand](https://github.com/brettanomyces/nvim-editcommand) : Edit your current shell command inside a scratch buffer
@@ -402,6 +420,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [linarcx/telescope-ports.nvim](https://github.com/linarcx/telescope-ports.nvim) : telescope extensions to Shows ports that are open on your system and gives you the ability to kill their process
   * [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope) : telescope extensions to browse neorg file headings
   * [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) : telescope extensions to offers intelligent prioritization when selecting files from your editing history
+  * [nvim-telescope/telescope-ghq.nvim](https://github.com/nvim-telescope/telescope-ghq.nvim) : telescope extensions to provide its users with operating x-motemen/ghq
   * [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) : telescope extensions to pick symbols
   * [tom-anders/telescope-vim-bookmarks.nvim](https://github.com/tom-anders/telescope-vim-bookmarks.nvim) : telescope extensions to integrate with [mattesgroeger/vim-bookmarks](https://github.com/mattesgroeger/vim-bookmarks)
   * [wesleimp/telescope-windowizer.nvim](https://github.com/wesleimp/telescope-windowizer.nvim) : telescope extensions to Create new tmux window ready for edit your selected file inside vim
@@ -437,6 +456,8 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme) : is not maineind/depreciated, use [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim) instead
   * [evanquan/vim-textobj-delimiters](https://github.com/evanquan/vim-textobj-delimiters) : is not maineind/depreciated, use [wellle/targets.vim](https://github.com/wellle/targets.vim) instead
   * [gregsexton/gitv](https://github.com/gregsexton/gitv) : is not maineind/depreciated, use [junegunn/gv.vim](https://github.com/junegunn/gv.vim) instead
+  * [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim) : is not maineind/depreciated, use [haya14busa/is.vim](https://github.com/haya14busa/is.vim) instead
+  * [huawenyu/neogdb.vim](https://github.com/huawenyu/neogdb.vim) : is not maineind/depreciated, use [huawenyu/vimgdb](https://github.com/huawenyu/vimgdb) instead
   * [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) : is not maineind/depreciated, use [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate) instead
   * [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip) : is not maineind/depreciated, use [svermeulen/vim-cutlass](https://github.com/svermeulen/vim-cutlass) and [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) and [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) instead
   * [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) : is not maineind/depreciated, use [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) instead
@@ -513,6 +534,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
 ## autocomplete
   * [ajh17/vimcompletesme](https://github.com/ajh17/vimcompletesme)
   * [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+  * [maralla/completor.vim](https://github.com/maralla/completor.vim)
   * [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim)
   * [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet)
   * [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim)
@@ -575,6 +597,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [lmburns/kimbox](https://github.com/lmburns/kimbox)
   * [lourenci/github-colors](https://github.com/lourenci/github-colors)
   * [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)
+  * [lunarvim/onedarker.nvim](https://github.com/lunarvim/onedarker.nvim)
   * [mangeshrex/uwu.vim](https://github.com/mangeshrex/uwu.vim)
   * [markeganfuller/vim-journeyman](https://github.com/markeganfuller/vim-journeyman)
   * [marko-cerovac/material.nvim](https://github.com/marko-cerovac/material.nvim)
@@ -675,7 +698,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [asheq/close-buffers](https://github.com/asheq/close-buffers)
   * [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo)
   * [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim)
-  * [awesome.re/badge-flat.svg](https://github.com/awesome.re/badge-flat.svg)
   * [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim)
   * [b0o/schemastore.nvim](https://github.com/b0o/schemastore.nvim)
   * [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary)
@@ -725,7 +747,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [duane9/nvim-rg](https://github.com/duane9/nvim-rg)
   * [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim)
   * [dzhou121/gonvim](https://github.com/dzhou121/gonvim)
-  * [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)
   * [edolphin-ydf/goimpl.nvim](https://github.com/edolphin-ydf/goimpl.nvim)
   * [egalpin/apt-vim](https://github.com/egalpin/apt-vim)
   * [elixir-editors/vim-elixir](https://github.com/elixir-editors/vim-elixir)
@@ -763,7 +784,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [gennaro-tedesco/boilit](https://github.com/gennaro-tedesco/boilit)
   * [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround)
   * [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx)
-  * [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup)
   * [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim)
   * [github.com/wbthomason](https://github.com/github.com/wbthomason)
   * [github/copilot.vim](https://github.com/github/copilot.vim)
@@ -773,7 +793,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
   * [glepnir/prodoc.nvim](https://github.com/glepnir/prodoc.nvim)
   * [gmarik/vundle.vim](https://github.com/gmarik/vundle.vim)
-  * [godlygeek/tabular](https://github.com/godlygeek/tabular)
   * [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim)
   * [groenewege/vim-less](https://github.com/groenewege/vim-less)
   * [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox)
@@ -785,7 +804,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [haifengkao/insertleftbracket.nvim](https://github.com/haifengkao/insertleftbracket.nvim)
   * [haorenw1025/completion-nvim](https://github.com/haorenw1025/completion-nvim)
   * [hardenedapple/vsh](https://github.com/hardenedapple/vsh)
-  * [haya14busa/incsearch.vim](https://github.com/haya14busa/incsearch.vim)
   * [haya14busa/is.vim](https://github.com/haya14busa/is.vim)
   * [haya14busa/vim-auto-programming](https://github.com/haya14busa/vim-auto-programming)
   * [haya14busa/vim-easyoperator-line](https://github.com/haya14busa/vim-easyoperator-line)
@@ -793,15 +811,12 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua)
   * [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua)
   * [herringtondarkholme/yats.vim](https://github.com/herringtondarkholme/yats.vim)
-  * [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim)
-  * [hkupty/nvimux](https://github.com/hkupty/nvimux)
   * [honza/dockerfile.vim](https://github.com/honza/dockerfile.vim)
   * [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim)
   * [hoschi/yode-nvim](https://github.com/hoschi/yode-nvim)
   * [hrsh7th/cmp-nvim-lsp-document-symbol](https://github.com/hrsh7th/cmp-nvim-lsp-document-symbol)
-  * [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
   * [https://gitlab.com/yorickpeterse/nvim-wind](/https://gitlab.com/yorickpeterse/nvim-wind)
-  * [huawenyu/neogdb.vim](https://github.com/huawenyu/neogdb.vim)
+  * [huawenyu/vimgdb](https://github.com/huawenyu/vimgdb)
   * [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
   * [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
   * [inkarkat/vim-patterncomplete](https://github.com/inkarkat/vim-patterncomplete)
@@ -842,7 +857,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [jose-elias-alvarez/nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils)
   * [jreybert/vimagit](https://github.com/jreybert/vimagit)
   * [jsfaint/gen_tags.vim](https://github.com/jsfaint/gen_tags.vim)
-  * [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim)
   * [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim)
   * [junegunn/fzf](https://github.com/junegunn/fzf)
   * [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
@@ -882,7 +896,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua)
   * [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge)
   * [klen/nvim-config-local](https://github.com/klen/nvim-config-local)
-  * [klen/nvim-test](https://github.com/klen/nvim-test)
   * [klen/python-mode](https://github.com/klen/python-mode)
   * [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim)
   * [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb)
@@ -914,7 +927,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [lunarvim/colorschemes](https://github.com/lunarvim/colorschemes)
   * [lunarvim/darkplus.nvim](https://github.com/lunarvim/darkplus.nvim)
   * [lunarvim/lualine.nvim](https://github.com/lunarvim/lualine.nvim)
-  * [lunarvim/onedarker.nvim](https://github.com/lunarvim/onedarker.nvim)
   * [lunixbochs/actualvim](https://github.com/lunixbochs/actualvim)
   * [luochen1990/rainbow](https://github.com/luochen1990/rainbow)
   * [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim)
@@ -927,7 +939,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich)
   * [macthecadillac/vimdo](https://github.com/macthecadillac/vimdo)
   * [macurovc/insert-docstring](https://github.com/macurovc/insert-docstring)
-  * [maralla/completor.vim](https://github.com/maralla/completor.vim)
   * [marcweber/vim-addon-manager](https://github.com/marcweber/vim-addon-manager)
   * [marcweber/vim-addon-mw-utils](https://github.com/marcweber/vim-addon-mw-utils)
   * [mattn/emmet-vim](https://github.com/mattn/emmet-vim)
@@ -1011,7 +1022,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim)
   * [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim)
   * [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim)
-  * [nvim-telescope/telescope-ghq.nvim](https://github.com/nvim-telescope/telescope-ghq.nvim)
   * [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)
   * [nvim-telescope/telescope-hop.nvim](https://github.com/nvim-telescope/telescope-hop.nvim)
   * [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim)
@@ -1083,7 +1093,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [raghur/vim-ghost](https://github.com/raghur/vim-ghost)
   * [raimondi/delimitmate](https://github.com/raimondi/delimitmate)
   * [ray-x/go.nvim](https://github.com/ray-x/go.nvim)
-  * [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)
   * [rbgrouleff/bclose.vim](https://github.com/rbgrouleff/bclose.vim)
   * [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
   * [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest)
@@ -1157,7 +1166,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [sjl/gundo.vim](https://github.com/sjl/gundo.vim)
   * [sjl/vitality.vim](https://github.com/sjl/vitality.vim)
   * [skywind3000/vim-auto-popmenu](https://github.com/skywind3000/vim-auto-popmenu)
-  * [skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)
   * [slarwise/telescope-args.nvim](https://github.com/slarwise/telescope-args.nvim)
   * [slashmili/alchemist.vim](https://github.com/slashmili/alchemist.vim)
   * [slim-template/vim-slim](https://github.com/slim-template/vim-slim)
@@ -1214,17 +1222,13 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [tomtom/tlib_vim](https://github.com/tomtom/tlib_vim)
   * [townk/vim-autoclose](https://github.com/townk/vim-autoclose)
   * [tpope/vim-bundler](https://github.com/tpope/vim-bundler)
-  * [tpope/vim-commentary](https://github.com/tpope/vim-commentary)
   * [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod)
   * [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
   * [tpope/vim-endwise](https://github.com/tpope/vim-endwise)
   * [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace)
-  * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
   * [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen)
   * [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist)
   * [tpope/vim-rails](https://github.com/tpope/vim-rails)
-  * [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb)
-  * [tpope/vim-rsi](https://github.com/tpope/vim-rsi)
   * [tpope/vim-salve](https://github.com/tpope/vim-salve)
   * [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease)
   * [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people)
@@ -1280,7 +1284,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu)
   * [wellle/context.vim](https://github.com/wellle/context.vim)
   * [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim)
-  * [whynothugo/lsp_lines.nvim](https://github.com/whynothugo/lsp_lines.nvim)
   * [wincent/command-t](https://github.com/wincent/command-t)
   * [wincent/ferret](https://github.com/wincent/ferret)
   * [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig)

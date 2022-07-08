@@ -76,7 +76,6 @@ askfiy/nvim-picgo
 astronvim/astronvim
 asvetliakov/vscode-neovim
 autozimu/languageclient-neovim
-awesome.re/badge-flat.svg
 axieax/urlview.nvim
 axkirillov/telescope-changed-files
 axvr/photon.vim
@@ -350,6 +349,7 @@ https://gitlab.com/yorickpeterse/nvim-wind
 https://gitlab.com/yorickpeterse/nvim-window
 https://gitlab.com/yorickpeterse/vim-paper
 huawenyu/neogdb.vim
+huawenyu/vimgdb
 iamcco/markdown-preview.nvim
 ibhagwan/fzf-lua
 icymind/neosolarized
@@ -1124,7 +1124,6 @@ wesq3/vim-windowswap
 wfxr/minimap.vim
 wgibbs/vim-irblack
 whatyouhide/vim-gotham
-whynothugo/lsp_lines.nvim
 williamboman/nvim-lsp-installer
 wincent/command-t
 wincent/ferret

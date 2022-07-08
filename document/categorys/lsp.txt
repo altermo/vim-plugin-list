@@ -10,3 +10,4 @@ neovim/nvim-lspconfig : Configs for the Nvim LSP client
 williamboman/nvim-lsp-installer : allow you to manage LSP servers
 onsails/lspkind.nvim : adds vscode-like pictograms to neovim built-in lsp
 folke/trouble.nvim : A pretty list for showing diagnostics, references, telescope results, quickfix and location lists to help you solve all the trouble your code is causing
+ray-x/lsp_signature.nvim : Show function signature when you type

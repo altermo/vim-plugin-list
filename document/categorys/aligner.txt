@@ -1,0 +1,2 @@
+godlygeek/tabular : makek aligning text easy while also having complex setups
+tommcdo/vim-lion : a tool for aligning text by some character

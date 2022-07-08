@@ -4,3 +4,4 @@ ms-jpq/coq_nvim
 noib3/nvim-compleet
 vigoux/complementree.nvim
 ycm-core/youcompleteme
+maralla/completor.vim
