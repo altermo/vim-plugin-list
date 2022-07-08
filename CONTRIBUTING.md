@@ -27,4 +27,4 @@ Thanks for taking you time to improve this github repository.
     * name/repository
     * document (optional)
     * tags (optional)
-* examples: `name/repo : is awesome [vim 8.0]`, `name/colorscheme [lua]`, `name/rep:is less awesome`
+* examples: `name/repo : is awesome [vim 8.0,nvim 3.0]`, `name/colorscheme [lua]`, `name/rep:is less awesome`

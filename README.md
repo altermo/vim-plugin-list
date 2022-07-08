@@ -8,12 +8,16 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
 # Jump list
   * [extensions/options/readmore/...](#extensionsreadmoreoptions)
   * [documented](#documented)
+    * [syntax](#syntax)
+    * [git](#git)
     * [projects-seessions](#projects-seessions)
+    * [file-explorer](#file-explorer)
+    * [todo](#todo)
+    * [auto-pairs](#auto-pairs)
     * [file-movment](#file-movment)
     * [plugin-maneger](#plugin-maneger)
     * [apps](#apps)
     * [ui-creator](#ui-creator)
-    * [git](#git)
     * [other](#other)
     * [integration](#integration)
     * [undotree](#undotree)
@@ -75,12 +79,28 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [preservim/nerdtree](https://github.com/preservim/nerdtree) : [optional](https://github.com/preservim/nerdtree#nerdtree-plugins)
   * [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) : [extensions](https://github.com/hrsh7th/nvim-cmp/wiki/List-of-sources)
 # Documented
+## syntax
+  * [herringtondarkholme/yats.vim](https://github.com/herringtondarkholme/yats.vim) : Yet Another TypeScript Syntax
+## git
+  * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) : git diff
+  * [junegunn/gv.vim](https://github.com/junegunn/gv.vim) : A git commit browser
+  * [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) : Super fast git decorations implemented
+  * [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) : Edit and review GitHub issues and pull requests
+  * [timuntersberger/neogit](https://github.com/timuntersberger/neogit) : Magit clone for Neovim
+  * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) : Fugitive is the premier Vim plugin for Git
+  * [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb) : If fugitive.vim is the Git, rhubarb.vim is the Hub
 ## projects-seessions
   * [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) : provides superior project management
   * [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) : A Lua rewrite of [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace)
   * [rmagatti/auto-session](https://github.com/rmagatti/auto-session) : provide seamless automatic session management
   * [shatur/neovim-session-manager](https://github.com/shatur/neovim-session-manager) : use built-in mksession to manage sessions like folders in VSCode
   * [thaerkh/vim-workspace](https://github.com/thaerkh/vim-workspace) : mainteins sessions
+## file-explorer
+  * [mattn/vim-molder](https://github.com/mattn/vim-molder) : Minimal File Explorer
+## todo
+  * [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) : highlight and search for todo comments like TODO, HACK, BUG
+## auto-pairs
+  * [townk/vim-autoclose](https://github.com/townk/vim-autoclose) : auto complete parentheses
 ## file-movment
   * [airblade/vim-rooter](https://github.com/airblade/vim-rooter) : go to projects root
   * [theprimeagen/harpoon](https://github.com/theprimeagen/harpoon) : mark files and more
@@ -97,13 +117,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [muniftanjim/nui.nvim](https://github.com/muniftanjim/nui.nvim) : UI Component Library
   * [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) : basic UI components to enrich vim's interactive experience
   * [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) : improve vim.ui.select and vim.ui.input
-## git
-  * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) : git diff
-  * [junegunn/gv.vim](https://github.com/junegunn/gv.vim) : A git commit browser
-  * [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) : Super fast git decorations implemented
-  * [timuntersberger/neogit](https://github.com/timuntersberger/neogit) : Magit clone for Neovim
-  * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) : Fugitive is the premier Vim plugin for Git
-  * [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb) : If fugitive.vim is the Git, rhubarb.vim is the Hub
 ## other
   * [andrewradev/sideways.vim](https://github.com/andrewradev/sideways.vim) : move the item under the cursor left or right
   * [antoinemadec/fixcursorhold.nvim](https://github.com/antoinemadec/fixcursorhold.nvim) : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
@@ -852,7 +865,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [fmoralesc/vim-pad](https://github.com/fmoralesc/vim-pad)
   * [fmoralesc/worldslice](https://github.com/fmoralesc/worldslice)
   * [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim)
-  * [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)
   * [foosoft/vim-argwrap](https://github.com/foosoft/vim-argwrap)
   * [frabjous/knap](https://github.com/frabjous/knap)
   * [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim)
@@ -911,7 +923,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [haya14busa/vim-easyoperator-phrase](https://github.com/haya14busa/vim-easyoperator-phrase)
   * [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua)
   * [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua)
-  * [herringtondarkholme/yats.vim](https://github.com/herringtondarkholme/yats.vim)
   * [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim)
   * [honza/dockerfile.vim](https://github.com/honza/dockerfile.vim)
   * [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim)
@@ -1126,7 +1137,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [mattn/emmet-vim](https://github.com/mattn/emmet-vim)
   * [mattn/gist-vim](https://github.com/mattn/gist-vim)
   * [mattn/vim-gist](https://github.com/mattn/vim-gist)
-  * [mattn/vim-molder](https://github.com/mattn/vim-molder)
   * [matze/vim-move](https://github.com/matze/vim-move)
   * [max397574/lua-dev.nvim](https://github.com/max397574/lua-dev.nvim)
   * [max397574/which-key.nvim](https://github.com/max397574/which-key.nvim)
@@ -1308,7 +1318,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [ptzz/lf.vim](https://github.com/ptzz/lf.vim)
   * [puremourning/vimspector](https://github.com/puremourning/vimspector)
   * [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim)
-  * [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
   * [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill)
   * [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer)
   * [quintik/snip](https://github.com/quintik/snip)
@@ -1508,7 +1517,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim)
   * [tomtom/tlib_vim](https://github.com/tomtom/tlib_vim)
   * [toniz4/vim-stt](https://github.com/toniz4/vim-stt)
-  * [townk/vim-autoclose](https://github.com/townk/vim-autoclose)
   * [tpope/vim-apathy](https://github.com/tpope/vim-apathy)
   * [tpope/vim-bundler](https://github.com/tpope/vim-bundler)
   * [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod)
