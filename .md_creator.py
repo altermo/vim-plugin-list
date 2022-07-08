@@ -1,29 +1,29 @@
 import json
 import re
 class Assembler:
-    def __init__(self,rawlist:list[str],data:dict[str,dict[str,dict[str,str]]],pre:str,end:str,qdocs:dict[str,list[str]])->None:
+    def __init__(self,rawlist:list[str],data:dict[str,dict[str,dict[str,str]]],pre:str,end:str,qdocs:dict[str,dict[str,list[list[str]]]])->None:
         self.text=pre
         self.data=data
         self.qdocs=qdocs
         self.raw=rawlist
         self.end=end
     def create(self)->str:
-        self.test_raw()
+        self.check()
         self.create_jumplist()
         self.create_extdocs()
         self.create_qdocs()
         self.create_raw()
         return self.text+self.end
-    def test_raw(self):
-        for cat in self.qdocs.values():
-            for doc in cat:
-                for i in re.findall(r'\{(.*?)\}',doc):
-                    if i not in self.raw:
-                        raise Exception(f'"{i}" not in raw')
-                for i in re.findall(r'´(.*?)´',doc):
-                    i='https://gitlab.com/'+i
-                    if i not in self.raw:
-                        raise Exception(f'"{i}" not in raw')
+    def check(self):
+        for maincat in self.qdocs.values():
+            for subcat in maincat.values():
+                for doc in subcat:
+                    name,text,*_=doc
+                    for i in re.findall(r'\{(.*?)\}',text):
+                        if i not in self.raw:
+                            raise Exception(f'"{i}" not in raw')
+                    if name not in self.raw:
+                        raise Exception(f'"{name}" not in raw')
         uniq=set(self.raw)
         for i in self.raw:
             if i not in uniq:
@@ -37,8 +37,9 @@ class Assembler:
         doc='# Jump list\n'
         doc+='  * [extensions/options/readmore/...](#extensionsreadmoreoptions)\n'
         doc+='  * [documented](#documented)\n'
-        for i in self.qdocs:
-            doc+=f'    * [{i}](#{i})\n'
+        for i in self.qdocs.values():
+            for j in i:
+                doc+=f'    * [{j}](#{j})\n'
         doc+='  * [not documented](#not-documented)\n'
         doc+='  * [donate](#donate)\n'
         self.text+=doc
@@ -49,18 +50,19 @@ class Assembler:
         self.text+=doc
     def create_qdocs(self)->None:
         self.text+='# Documented\n'
-        for k,v in self.qdocs.items():
-            self.text+=f'## {k}\n'
-            for i in sorted(v):
-                name=i.split(':')[0].rstrip('}´ ').lstrip('{')
-                if '´' in name:name='https://gitlab.com/'+name.lstrip('´')
-                self.raw.remove(name)
-                self.text+=f'  * {self.formatplug(i)}\n'
+        for i in self.qdocs.values():
+            for k,v in i.items():
+                self.text+=f'## {k}\n'
+                for j in sorted(v):
+                    name,text,*_=j
+                    self.raw.remove(name)
+                    self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
     def formatplug(self,text:str)->str:
-        text=re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
-        return re.sub(r'´(.*?)´',r'[\1](https://gitlab.com/\1)',text)
+        return re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
     def pluglinkweb(self,name:str)->str:
-        if name.startswith('https://gitlab.com'):linkpre=''
+        if name.startswith('https://gitlab.com/'):
+            linkpre='https://gitlab.com'
+            name=name.removeprefix('https://gitlab.com/')
         else:linkpre='https://github.com'
         return f'[{name}]({linkpre}/{name})'
     def create_raw(self)->None:
@@ -78,7 +80,7 @@ This is a list of plugins.
 
 _NOTE: this list may contain: mirrors, extensions to plugins, links that are not working and other things that are not related to vim plugins._
 
-_Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [awesome-nvim](https://github.com/rockerBOO/awesome-neovim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins), [vim-galore](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md), [vlugins](https://github.com/astier/vlugins)_
+_Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [awesome-nvim](https://github.com/rockerBOO/awesome-neovim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins), [vim-galore](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md), [](https://github.com/astier/vlugins)_
 
 '''
     end=r'''

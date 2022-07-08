@@ -4,16 +4,17 @@ Thanks for taking you time to improve this github repository.
 * do NOT edit the files [README.md](README.md) or [document.json](document.json)
  (if you do, the content will be overwritten by python scripts)
 * all PLUGIN NAMES must be lowercase
+* do NOT edit any of the files inside [old-format](document/old-format), only remove/move them to [new-format](document/new-format)
 ## add/rename/delete a plugin from not-documented
 1. add/rename/delete the plugin from/to/in [raw](raw)
 2. run [.md_creator.py](.md_creator.py)
 ## add/rename/delete a plugin from documented
-0. learn how the script [.merg.py](document/.merg.py) works
-1. add/rename/delete the plugin in/from/to the correct category
-    1. note that gitlab plugins are the name+repository prefixed by a `´` (example: `´name/repository`)
-    2. if you wish to link to another plugin: use the syntax `{name/repository}` for github and `´name/repository´` for gitlab
-2. run [.merg.py](document/.merg.py)
-3. run [.md_creator.py](.md_creator.py)
+3. learn how the script [.merg.py](document/.merg.py) works
+4. add/rename/delete the plugin in/from/to the correct category
+    1. note that gitlab plugins are the name+repository prefixed by `https://gitlab.com/`
+    2. if you wish to link to another plugin: use the syntax `{name/repository}` for github and (NotImplemented) for gitlab
+5. run [.merg.py](document/.merg.py)
+6. run [.md_creator.py](.md_creator.py)
     1. note that if a documented plugin is not in [raw](raw) then an exception is thrown
 ## editing other files
 * no guideline (TODO: create guideline)
@@ -22,13 +23,8 @@ Thanks for taking you time to improve this github repository.
 * [data.json](data.json) file contains data which is neither document nor script
 * Files that are in directory [other](other) should be ignored.
 ## documents
-* The [categorys](document/categorys) directory contains full on descriptions
-* The [docs](document/docs) directory has 2 parts:
-    * the first line sets the format
-    * all other lines are documents
-    * the formatting works like `for i in all_other: format % i`
-* The [linked](document/linked) directory has 2 parts:
-    * the first line sets the format
-    * all other lines are links with the structure `%s > %s`
-    * the formatting works like `for i in all_other: beg, end = i.split(' > '); beg + ( format % end )`
-* The [types](document/types) directory has only plugins (no documentations)
+* each document has 1-3 parts:
+    * name/repository
+    * document (optional)
+    * tags (optional)
+* examples: `name/repo : is awesome [vim 8.0]`, `name/colorscheme [lua]`, `name/rep:is less awesome`

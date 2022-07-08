@@ -11,7 +11,7 @@ def main()->None:
         raw=f.read().splitlines()
     with open('../document.json') as f:
         data=json.load(f)
-        doc=sum(data.values(),[])
+        doc=sum((sum(i.values(),[]) for i in data.values()),[])
     print('Frequency of first letters:')
     first_letter(raw)
     print(f'Documented: {len(doc)}/{len(raw)}={len(doc)*1000//len(raw)/10}%')

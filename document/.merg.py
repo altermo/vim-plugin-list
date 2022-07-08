@@ -1,50 +1,60 @@
-import os
 import json
+import os
 import re
-def remake(x:list[list[str]],pat:str,mid:str=' : ')->list[str]:
-    prepat1='{%s}'+mid
-    prepat2='%s´'+mid
-    return [(prepat1+pat if i[0][0]!='´' else prepat2+pat)%tuple(i) for i in x]
-def categorys(data:dict)->None:
-    for i in os.listdir('categorys/'):
-        cat,_=os.path.splitext(i)
-        with open(f'categorys/{i}') as f:
-            data[cat]=remake([i.split(' : ') for i in f.read().splitlines()],'%s')
-def docs(data:dict)->None:
-    for i in os.listdir('docs/'):
-        cat,_=os.path.splitext(i)
-        with open(f'docs/{i}') as f:
-            pat,*text=f.read().splitlines()
-            data[cat]=remake([i.split(' : ') for i in text],pat)
-def linked(data:dict)->None:
-    for i in os.listdir('linked/'):
-        cat,_=os.path.splitext(i)
-        with open(f'linked/{i}') as f:
-            pat,*text=f.read().splitlines()
-            data[cat]=remake([i.split(' > ') for i in text],pat)
-def types(data:dict)->None:
-    for i in os.listdir('types/'):
-        cat,_=os.path.splitext(i)
-        with open(f'types/{i}') as f:
-            data[cat]=remake([i.split(' : ') for i in f.read().splitlines()],'','')
-def check_uniq(data:dict)->None:
-    uniq={}
-    for k,v in data.items():
+def old_merg(data:dict)->None:
+    with open('old-format/old.json') as f:
+        old=json.load(f)
+    for k,v in old.items():
+        out=data['other'][k]=data['other'].get(k,[])
         for i in v:
-            plug=i.split(' : ')[0].rstrip('}').lstrip('{')
-            if plug in uniq:
-                raise Exception(f'plugin "{plug}" is found in 2 places: "{k}" and "{uniq[plug]}"')
-            uniq[plug]=k
-            for i in re.findall(r'[{´](.*?)[}´]',i):
-                if not i.islower():
+            if '´' in i:
+                if ':' in i:
+                    name,text=re.findall(r'^´(.*?)´ : (.*)$',i)[0]
+                    out.append(['https://gitlab.com/'+name,text])
+                else:
+                    name,text=re.findall(r'^´(.*?)´()$',i)[0]
+                continue
+            if ':' in i:
+                out.append(re.findall(r'^{(.*?)} : (.*)$',i)[0])
+            else:
+                out.append(re.findall(r'^{(.*?)}()$',i)[0])
+def merg(data:dict):
+    for mainname in os.listdir('new-format'):
+        data[mainname]={}
+        for subname in os.listdir(os.path.join('new-format/',mainname)):
+            data[mainname][subname.removesuffix('.txt')]=extract(subname,os.path.join('new-format/',mainname))
+def extract(file:str,path:str)->list:
+    out=[]
+    with open(os.path.join(path,file)) as f:
+        for i in f.read().splitlines():
+            out.append(fmt(i))
+    return out
+def fmt(text:str)->list[str]:
+    if 'https://gitlab.com' in text:
+        if ':' in text:
+            return re.findall(r'^\s*(https://gitlab\.com/*?/.*?)\s*:\s*(.*?)\s+(?:\[(.*?])*$',text)[0]
+        raise NotImplementedError
+    if ':' in text:
+        return re.findall(r'^\s*(.*?/.*?)\s*:\s*(.*?)\s+(?:\[(.*?)\])*$',text)[0]
+    return re.findall(r'^\s*(.*?/.*?)\s*()(?:\[(.*?)\])*$',text)[0]
+def check(data:dict)->None:
+    uniq={}
+    for i in data.values():
+        for k,v in i.items():
+            for j in v:
+                name,*_=j
+                if name in uniq:
+                    raise Exception(f'"{name}" found 2 times: both in "{k}" and "{uniq[name]}"')
+                uniq[name]=k
+                if not k.islower():
                     raise Exception(f'"{i}" is not all lowercase, in file "{k}"')
-def main()->None:
+                if not re.findall(r'^(?:https://gitlab\.com/)?[a-z0-9_.-]+/[a-z0-9_.-]+$',name):
+                    raise Exception(f'{name} does not seem to be a valid plugin')
+def main():
     data={}
-    categorys(data)
-    docs(data)
-    linked(data)
-    types(data)
-    check_uniq(data)
+    merg(data)
+    old_merg(data)
+    check(data)
     with open('../document.json','w') as f:
         json.dump(data,f)
 if __name__=='__main__':
