@@ -1,0 +1,4 @@
+crusj/bookmarks.nvim : Remember file locations and sort by time and frequency
+chentoast/marks.nvim : A better user experience for interacting with and manipulating Vim marks
+kshenoy/vim-signature : place, toggle and display marks
+mattesgroeger/vim-bookmarks : toggling bookmarks per line and more

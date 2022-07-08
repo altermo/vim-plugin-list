@@ -1,0 +1,6 @@
+honza/vim-snippets : contains snippets librarys for various programming languages
+sirver/ultisnips : is the ultimate solution for snippets
+garbas/vim-snipmate : provide support for textual snippets, similar to TextMate or other Vim plugins like UltiSnips
+shougo/neosnippet.vim : The Neosnippet plug-In adds snippet support to Vim
+drmingdrmer/xptemplate : Code snippets engine for Vim, And snippets library
+l3mon4d3/luasnip : snippet engine written in lua

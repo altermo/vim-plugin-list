@@ -1,0 +1,3 @@
+tpope/vim-abolish : easily create similar abbreviations
+pocco81/abbrevman.nvim : that manages abbreviations for various natural and programming languages
+0styx0/abbreinder.nvim : shows abbreviations if the whole thing is typed

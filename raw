@@ -21,7 +21,9 @@ ajh17/vimcompletesme
 akinsho/bufferline.nvim
 akinsho/flutter-tools.nvim
 akinsho/nvim-bufferline.lua
+akinsho/nvim-toggleterm.lua
 akinsho/toggleterm.nvim
+akiyosi/goneovim
 akz92/vim-ionic2
 alaviss/nim.nvim
 alec-gibson/nvim-tetris
@@ -74,6 +76,7 @@ askfiy/nvim-picgo
 astronvim/astronvim
 asvetliakov/vscode-neovim
 autozimu/languageclient-neovim
+awesome.re/badge-flat.svg
 axieax/urlview.nvim
 axkirillov/telescope-changed-files
 axvr/photon.vim
@@ -119,6 +122,7 @@ cathywu/vim-todo
 catppuccin/nvim
 ccchapman/watson.nvim
 cdelledonne/vim-cmake
+cdn.rawgit.com/sindresorhus
 cespare/vim-toml
 challenger-deep-theme/vim
 chaoren/vim-wordmotion
@@ -169,6 +173,7 @@ dag/vim-fish
 dahu/vim-fanfingtastic
 danielpieper/telescope-tmuxinator.nvim
 danymat/neogen
+darazaki/indent-o-matic
 datwaft/bubbly.nvim
 david-kunz/cmp-npm
 david-kunz/jester
@@ -441,6 +446,7 @@ jwalton512/vim-blade
 k-takata/minpac
 kabbamine/lazylist.vim
 kabbamine/yowish.vim
+kaiuri/nvim-juliana
 kaiuri/nvim-mariana
 kana/vim-textobj-indent
 kana/vim-textobj-user
@@ -456,6 +462,7 @@ kelly-lin/telescope-ag
 kethku/neovide
 kevinhwang91/nvim-bqf
 kevinhwang91/nvim-hlslens
+kevinhwang91/nvim-ufo
 kevinhwang91/rnvimr
 kezhenxu94/vim-mysql-plugin
 kien/ctrlp.vim
@@ -479,6 +486,7 @@ kvrohit/substrata.nvim
 kyazdani42/blue-moon
 kyazdani42/nvim-tree.lua
 kyazdani42/nvim-web-devicons
+kylechui/nvim-surround
 l3mon4d3/luasnip
 ladge/antarctic-vim
 lalitmee/cobalt2.nvim
@@ -632,6 +640,7 @@ navarasu/onedark.nvim
 ncm2/ncm2
 neoclide/coc.nvim
 neomake/neomake
+neovim.io/logos
 neovim/go-client
 neovim/nvim-lspconfig
 neovimhaskell/haskell-vim
@@ -641,6 +650,7 @@ nightsense/cosmic_latte
 nikvdp/neomux
 nilsboy/vim-textobj-cindent
 nkakouros-original/numbers.nvim
+nmac427/guess-indent.nvim
 noahfrederick/vim-composer
 noib3/cokeline.nvim
 noib3/nvim-compleet
@@ -721,6 +731,7 @@ olexsmir/gopher.nvim
 olical/aniseed
 olical/conjure
 olimorris/onedarkpro.nvim
+olimorris/persisted.nvim
 onsails/diaglist.nvim
 onsails/lspkind-nvim
 onsails/lspkind.nvim
@@ -913,6 +924,7 @@ simrat39/symbols-outline.nvim
 sindrets/diffview.nvim
 sindrets/winshift.nvim
 sirver/ultisnips
+sitiom/nvim-numbertoggle
 sjl/gundo.vim
 sjl/vitality.vim
 skywind3000/asyncrun.vim
@@ -979,6 +991,7 @@ terryma/vim-multiple-cursors
 th3whit3wolf/one-nvim
 th3whit3wolf/onebuddy
 th3whit3wolf/space-nvim
+theblob42/drex.nvim
 thehamsta/module-template
 thehamsta/nvim-dap-virtual-text
 thehamsta/nvim-treesitter-commonlisp
@@ -1127,6 +1140,7 @@ wittyjudge/gruvbox-material.nvim
 wsdjeg/flygrep.vim
 wsdjeg/vim-cheat
 xeluxee/competitest.nvim
+xiyaowong/link-visitor.nvim
 xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent
 xiyaowong/telescope-emoji.nvim

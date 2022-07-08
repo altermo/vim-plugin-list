@@ -1,0 +1,2 @@
+nvim-telescope/telescope.nvim : is a highly extendable fuzzy finder over list
+toppair/reach.nvim : buffer / mark / tabpage / colorscheme switcher

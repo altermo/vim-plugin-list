@@ -1,0 +1,10 @@
+nvim-treesitter/nvim-treesitter : treesitter support for neovim
+joosepalviste/nvim-ts-context-commentstring : setting the commentstring option based on the cursor location in the file
+ziontee113/syntax-tree-surfer : Navigate around your document based on Treesitter's abstract Syntax Tree. Step into, step out, step over, step back
+p00f/nvim-ts-rainbow : Rainbow parentheses for neovim using tree-sitter
+nvim-treesitter/playground : View treesitter information directly in Neovim
+thehamsta/nvim-treesitter-pairs : Create your own pair objects using tree-sitter queries
+windwp/nvim-ts-autotag : Use treesitter to autoclose and autorename html tag
+mfussenegger/nvim-treehopper : Plugin that provides region selection using hints on the abstract syntax tree of a document
+lewis6991/spellsitter.nvim : Enable Neovim's builtin spellchecker for buffers with tree-sitter highlighting
+rrethy/nvim-treesitter-textsubjects : Location and syntax aware text objects which *do what you mean*

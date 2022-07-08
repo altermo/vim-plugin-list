@@ -1,0 +1,5 @@
+wfxr/minimap.vim : Blazing fast minimap
+mattn/calendar-vim : creates a calendar window
+simrat39/symbols-outline.nvim : A tree like view for symbols in Neovim using the Language Server Protocol
+bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
+metakirby5/codi.vim : The interactive scratchpad for hackers
