@@ -13,3 +13,4 @@ glts/vim-radical : see and convert number from and to different bases (hex,oct,d
 tpope/vim-surround : all about "surroundings": parentheses, brackets, quotes, XML tags, and more
 s1n7ax/nvim-lazy-inner-block : be lazy and example do not type the `i` in `ci)`
 tpope/vim-rsi : adds Readline key bindings to cmdline
+liuchengxu/vim-which-key : displays available keybindings in popup

@@ -1,0 +1,2 @@
+alec-gibson/nvim-tetris : tetris game
+amix/vim-2048 : 2048 game

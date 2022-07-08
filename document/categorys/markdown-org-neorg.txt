@@ -1,2 +1,5 @@
 jubnzv/mdeval.nvim : allows you evaluate code blocks inside markdown, vimwiki, orgmode.nvim and norg documents
 suan/vim-instant-markdown : preview markdown files in your browser
+lukas-reineke/headlines.nvim : adds highlights for text filetypes, like markdown, orgmode, and neorg
+nvim-neorg/neorg : neorg Integration
+nvim-orgmode/orgmode : org Integration

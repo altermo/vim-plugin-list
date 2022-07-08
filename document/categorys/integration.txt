@@ -1,0 +1,7 @@
+ccchapman/watson.nvim : An integration for Watson in Neovim
+neovim/go-client : Neovim/go-client is a Neovim client and plugin host for Go
+acksld/nvim-gfold.lua : nvim plugin for gfold
+adoy/vim-php-refactoring-toolbox : PHP refactoring toolbox
+madskjeldgaard/reaper-nvim : controlling the Reaper DAW
+jalvesaq/nvim-r : improves Vim's support to edit R code
+svermeulen/nvim-moonmaker : adds support for writing moonscript plugins
