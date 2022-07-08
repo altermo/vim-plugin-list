@@ -4,3 +4,4 @@ skywind3000/vim-auto-popmenu : automatically open autocomplete menu
 tpope/vim-bundler : a lightweight bag of Vim goodies for Bundler
 severin-lemaignan/vim-minimap : a vim minimap
 slashmili/alchemist.vim : This plugin uses ElixirSense to give inside information about your elixir project in vim
+andythigpen/nvim-coverage : Displays coverage information in the sign column or in a pop-up window
