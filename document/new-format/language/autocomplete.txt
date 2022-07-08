@@ -1,1 +1,3 @@
 github/copilot.vim : Vim plugin for GitHub Copilot [vim,nvim 6.0,nodejs]
+shougo/deoplete.nvim : dark powered neo-completion [no development,nvim]
+shougo/ddc.vim : Dark deno-powered completion framework for neovim/Vim8 [nvim 6.0,vim 8.2]

@@ -1330,6 +1330,7 @@ tpope/vim-obsession
 tpope/vim-pathogen
 tpope/vim-projectionist
 tpope/vim-rails
+tpope/vim-rake
 tpope/vim-repeat
 tpope/vim-rhubarb
 tpope/vim-rsi
@@ -1511,3 +1512,4 @@ ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsugabubus/crazy8.nvim
+sidebar-nvim/sidebar.nvim

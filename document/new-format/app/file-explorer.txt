@@ -1,1 +1,2 @@
 mattn/vim-molder : Minimal File Explorer
+francoiscabrol/ranger.vim : Ranger integration in vim

@@ -1,1 +1,4 @@
 pwntester/octo.nvim : Edit and review GitHub issues and pull requests [lua,nvim]
+mattn/gist-vim : This is a vimscript for creating gists
+rbong/vim-flog : lightweight and powerful git branch viewer
+rhysd/committia.vim : This plugin improves the git commit buffer

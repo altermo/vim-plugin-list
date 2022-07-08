@@ -1,1 +1,3 @@
 zgpio/brew.nvim : plugin manager, rewrite dein with neovim builtin lua [lua,nvim]
+marcweber/vim-addon-manager : fetch & activate plugins at startup or runtime depending on your needs
+k-takata/minpac : A minimal package manager for Vim 8 (and Neovim)

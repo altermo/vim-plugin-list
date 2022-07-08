@@ -1,3 +1,6 @@
 julienr/vim-cellmode : enables MATLAB-style cell mode execution for python scripts in vim, assuming an ipython interpreter running in screen (or tmux)
 ellisonleao/nvim-plugin-template : A template repository for Neovim plugins [nvim]
 skywind3000/vim-auto-popmenu : automatically open autocomplete menu
+tpope/vim-bundler : a lightweight bag of Vim goodies for Bundler
+severin-lemaignan/vim-minimap : a vim minimap
+slashmili/alchemist.vim : This plugin uses ElixirSense to give inside information about your elixir project in vim

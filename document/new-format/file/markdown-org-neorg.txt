@@ -1,2 +1,5 @@
 jakewvincent/mkdnflow.nvim : make it easy to navigate and manipulate markdown notebooks [nvim 5.0,nvim 7.0,lua]
 gabrielelana/vim-markdown : complete environment to create Markdown files with a syntax highlight that doesn't suck
+davidgranstrom/nvim-markdown-preview : Markdown preview in the browser using pandoc and live-server [nvim]
+jghauser/auto-pandoc.nvim : This plugin allows you to easily convert your markdown files using pandoc [nvim]
+euclio/vim-markdown-composer : adds asynchronous Markdown preview
