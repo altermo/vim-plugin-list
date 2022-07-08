@@ -13,3 +13,8 @@ xiyaowong/virtcolumn.nvim : Display a character as the colorcolumn
 lukas-reineke/virt-column.nvim : Display a character as the colorcolumn
 myusuf3/numbers.vim : intelligently toggling line numbers
 romainl/vim-cool : disables search highlighting when you are done searching and re-enables it when you search again
+ntpeters/vim-better-whitespace : causes all trailing whitespace characters to be highlighted
+monkoose/matchparen.nvim : highlight matching parentheses
+tversteeg/registers.nvim : Show register content when you try to access it
+winston0410/range-highlight.nvim : hightlights ranges you have entered in commandline
+bennypowers/nvim-regexplainer : Describe the regular expression under the cursor

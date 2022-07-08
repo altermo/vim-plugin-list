@@ -6,3 +6,6 @@ acksld/nvim-gfold.lua : gfold
 adoy/vim-php-refactoring-toolbox : PHP refactoring
 madskjeldgaard/reaper-nvim : Reaper DAW
 jalvesaq/nvim-r : R code
+svermeulen/nvim-moonmaker : moonscript
+nvim-neorg/neorg : neorg
+nvim-orgmode/orgmode : org

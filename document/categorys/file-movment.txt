@@ -1,1 +1,2 @@
 airblade/vim-rooter : go to projects root
+theprimeagen/harpoon : mark files and more

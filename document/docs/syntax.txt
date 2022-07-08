@@ -2,3 +2,5 @@
 akz92/vim-ionic2 : ionic2
 cespare/vim-toml : toml
 jwalton512/vim-blade : blade template
+kovetskiy/sxhkd-vim : sxhkd
+potatoesmaster/i3-vim-syntax : i3 config

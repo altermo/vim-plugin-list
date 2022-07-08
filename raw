@@ -339,9 +339,11 @@ hrsh7th/cmp-nvim-lua
 hrsh7th/cmp-path
 hrsh7th/nvim-cmp
 hrsh7th/vim-vsnip
+https://gitlab.com/yorickpeterse/nvim-grey
 https://gitlab.com/yorickpeterse/nvim-pqf
 https://gitlab.com/yorickpeterse/nvim-wind
 https://gitlab.com/yorickpeterse/nvim-window
+https://gitlab.com/yorickpeterse/vim-paper
 huawenyu/neogdb.vim
 iamcco/markdown-preview.nvim
 ibhagwan/fzf-lua
@@ -607,6 +609,7 @@ morhetz/gruvbox
 mrjones2014/legendary.nvim
 ms-jpq/chadtree
 ms-jpq/coq_nvim
+msanders/snipmate.vim
 mtoohey31/cmp-fish
 muniftanjim/nui.nvim
 mxw/vim-jsx

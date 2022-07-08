@@ -1,1 +1,0 @@
-joosepalviste/nvim-ts-context-commentstring : setting the commentstring option based on the cursor location in the file

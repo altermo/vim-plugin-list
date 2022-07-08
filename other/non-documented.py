@@ -1,7 +1,6 @@
 import json
 import re
 def main():
-    out=''
     with open('../raw') as f:
         raw=f.read().splitlines()
     with open('../document.json') as f:

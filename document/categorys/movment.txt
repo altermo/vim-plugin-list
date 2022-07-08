@@ -10,3 +10,5 @@ chrisbra/improvedft : makes `f`, `t`, `T`, `F` have the ability to jump multiple
 svermeulen/vim-extended-ft : multiline, smart case, highlighting and more for `f`, `t`, `T`, `F`
 dahu/vim-fanfingtastic : multiline, case insensitive and aliasing for `f`, `t`, `T`, `F`
 easymotion/vim-easymotion : Jump fast to any place to the screen by preesing only up to three keys
+phaazon/hop.nvim : Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible
+rhysd/clever-f.vim : extends f, F, t and T mappings for more convenience. Instead of `;`, `f` is available to repeat

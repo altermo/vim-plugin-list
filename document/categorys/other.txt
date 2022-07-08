@@ -1,5 +1,4 @@
 antoinemadec/fixcursorhold.nvim : fix neovim CursorHold and CursorHoldI AND decouple updatetime from CursorHold and CursorHoldI
-bfredl/nvim-luadev : REPL-like environment for developing lua plugins in Nvim
 brglng/vim-im-select : Improve Vim/Neovim experience with input methods
 cdelledonne/vim-cmake : building CMake projects inside of vim, with a nice visual feedback
 chrisbra/unicode.vim : handling unicode and digraphs characters
@@ -13,20 +12,21 @@ jbyuki/venn.nvim : Draw ASCII diagrams in Neovim
 notomo/cmdbuf.nvim : provides command-line window functions by normal buffer and window
 udayvir-singh/tangerine.nvim : painless way to add fennel to your config
 pocco81/autosave.nvim : saving your work before the world collapses or you type :qa!
-ziontee113/syntax-tree-surfer : Navigate around your document based on Treesitter's abstract Syntax Tree. Step into, step out, step over, step back
 rktjmp/paperplanes.nvim : Post selections or buffers to online paste bins.
 rgroli/other.nvim : you can open other/related files for the currently active buffer
-toppair/reach.nvim : buffer / mark / tabpage / colorscheme switcher
 nkakouros-original/numbers.nvim : Disables relative line numbers when they don't make sense, e.g. when entering insert mode
 m-demare/attempt.nvim : Manage your temporary buffers
 jghauser/mkdir.nvim : automatically creates missing directories on saving a file
 echasnovski/mini.nvim : Collection of minimal, independent, and fast Lua modules dedicated to improve Neovim experience
 davidgranstrom/osc.nvim : Open Sound Control (OSC) library for Neovim
 luchermitte/vimfold4c : Reactive vim fold plugin for C & C++
-tpope/vim-eunuch : Vim sugar for the UNIX shell commands that need it the most
 vim-scripts/cyclecolor : cycle through (almost) all available colorschemes
 skywind3000/asynctasks.vim : modern task system
 mg979/vim-visual-multi : create multiple visual regions and edit them (basically multiple cursor)
-nvim-colortils/colortils.nvim : Neovim color utils
 romainl/vim-devdocs : Look up keywords on https://devdocs.io
 andrewradev/sideways.vim : move the item under the cursor left or right
+pixelneo/vim-python-docstring : easily create python docstring
+voldikss/vim-translator : tranlate stuff
+skywind3000/asyncrun.vim : async run shell commands in qf window
+suan/vim-instant-markdown : preview markdown files in your browser
+theprimeagen/refactoring.nvim : refactor code

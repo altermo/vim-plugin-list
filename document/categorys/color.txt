@@ -1,3 +1,5 @@
 ap/vim-css-color : preview colours in source code while editing
 chrisbra/colorizer : color colornames and codes
+norcalli/nvim-colorizer.lua : A high-performance color highlighter for Neovim which has no external dependencies
+nvim-colortils/colortils.nvim : Neovim color utils
 ziontee113/color-picker.nvim : lets Neovim Users choose & modify colors

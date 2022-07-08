@@ -30,3 +30,5 @@ linarcx/telescope-changes.nvim : wrapper around :changes
 linarcx/telescope-env.nvim : Watch environment variables
 linarcx/telescope-ports.nvim : Shows ports that are open on your system and gives you the ability to kill their process
 axkirillov/telescope-changed-files : browse files that changed between your branch and develop
+nvim-neorg/neorg-telescope : browse neorg file headings
+nvim-telescope/telescope-symbols.nvim : pick symbols

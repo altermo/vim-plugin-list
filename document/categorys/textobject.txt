@@ -8,3 +8,5 @@ deathlyfrantic/vim-textobj-blanklines : provides a text object for groups of emp
 adriaanzon/vim-textobj-blade-directive : textobject for blade directive
 d4ku/vim-pushover : provides an interface to easily create mappings to push around text-objects
 nilsboy/vim-textobj-cindent : provides text objects to select a block of lines that have the same or higher indentation as the current line
+wellle/targets.vim : adds more bracket baised text objects.
+michaeljsmith/vim-indent-object : adds indentation based text objects

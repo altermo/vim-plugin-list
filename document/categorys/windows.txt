@@ -3,3 +3,6 @@ blueyed/vim-diminactive : dim inactive windows
 luukvbaal/stabilize.nvim : stabilize buffer content on window open/close events
 t9md/vim-choosewin : enables you to choose a window interactively
 ´yorickpeterse/nvim-window : quickly switching between windows
+wellle/visual-split.vim : Vim plugin to control splits with visual selections or text objects
+sindrets/winshift.nvim : Rearrange your windows with ease
+wesq3/vim-windowswap : Swap windows without ruining your layout

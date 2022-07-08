@@ -135,3 +135,5 @@ yashguptaz/calvera-dark.nvim
 yong1le/darkplus.nvim
 yonlu/omni.vim
 yuttie/hydrangea-vim
+´yorickpeterse/nvim-grey
+´yorickpeterse/vim-paper
