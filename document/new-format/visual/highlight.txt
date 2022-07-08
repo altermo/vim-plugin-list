@@ -1,0 +1,1 @@
+lpinilla/vim-codepainter : color different parts of code making the use of text properties [vim 8.2,nvim]

@@ -747,7 +747,6 @@ matze/vim-move
 max-0406/autoclose.nvim
 max397574/better-escape.nvim
 max397574/lua-dev.nvim
-max397574/which-key.nvim
 maxbrunsfeld/vim-yankstack
 maxmellon/vim-jsx-pretty
 maxst/flatcolor
@@ -836,7 +835,6 @@ nathom/tmux.nvim
 navarasu/onedark.nvim
 ncm2/float-preview.nvim
 ncm2/ncm2
-neoclide/coc-git
 neoclide/coc.nvim
 neomake/neomake
 neovim.io/logos
@@ -1154,6 +1152,7 @@ shinglyu/vim-codespell
 shivamashtikar/tmuxjump.vim
 shohi/neva
 shougo/ddc.vim
+shougo/ddu.vim
 shougo/defx.nvim
 shougo/dein.vim
 shougo/denite.nvim
@@ -1384,6 +1383,7 @@ vim-airline/vim-airline-themes
 vim-chat/vim-chat
 vim-conf-live/vimconflive2021-colorscheme
 vim-ctrlspace/vim-ctrlspace
+vim-denops/denops.vim
 vim-jp/vital.vim
 vim-pandoc/vim-pandoc
 vim-python/python-syntax

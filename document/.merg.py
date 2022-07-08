@@ -32,11 +32,11 @@ def extract(file:str,path:str)->list:
 def fmt(text:str)->list[str]:
     if 'https://gitlab.com' in text:
         if ':' in text:
-            return re.findall(r'^\s*(https://gitlab\.com/*?/.*?)\s*:\s*(.*?)\s*(?:\[(.*?])*$',text)[0]
+            return re.findall(r'^\s*(https://gitlab\.com/*?/.*?)\s*:\s*(.*?)\s*(?:\[(.*?])?$',text)[0]
         raise NotImplementedError
     if ':' in text:
-        return re.findall(r'^\s*(.*?/.*?)\s*:\s*(.*?)\s*(?:\[(.*?)\])*$',text)[0]
-    return re.findall(r'^\s*(.*?/.*?)\s*()(?:\[(.*?)\])*$',text)[0]
+        return re.findall(r'^\s*(.*?/.*?)\s*:\s*(.*?)\s*(?:\[(.*?)\])?$',text)[0]
+    return re.findall(r'^\s*(.*?/.*?)\s*()(?:\[(.*?)\])?$',text)[0]
 def check(data:dict)->None:
     uniq={}
     for i in data.values():
@@ -46,10 +46,10 @@ def check(data:dict)->None:
                 if name in uniq:
                     raise Exception(f'"{name}" found 2 times: both in "{k}" and "{uniq[name]}"')
                 uniq[name]=k
-                if not k.islower():
-                    raise Exception(f'"{i}" is not all lowercase, in file "{k}"')
+                if not name.islower():
+                    raise Exception(f'"{name}" is not all lowercase, in file "{k}"')
                 if not re.findall(r'^(?:https://gitlab\.com/)?[a-z0-9_.-]+/[a-z0-9_.-]+$',name):
-                    raise Exception(f'{name} does not seem to be a valid plugin')
+                    raise Exception(f'"{name}" does not seem to be a valid plugin')
 def main():
     data={}
     merg(data)

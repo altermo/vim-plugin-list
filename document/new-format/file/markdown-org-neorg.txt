@@ -1,0 +1,2 @@
+jakewvincent/mkdnflow.nvim : make it easy to navigate and manipulate markdown notebooks [nvim 5.0,nvim 7.0,lua]
+gabrielelana/vim-markdown : complete environment to create Markdown files with a syntax highlight that doesn't suck

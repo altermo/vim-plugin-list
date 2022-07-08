@@ -3,3 +3,4 @@ nvim
 nvim {number}.{number}
 lua
 archived
+no development

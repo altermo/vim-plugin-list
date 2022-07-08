@@ -1,0 +1,1 @@
+stsewd/gx-extended.vim : Extend `gx` to use it beyond just URLs

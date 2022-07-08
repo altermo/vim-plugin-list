@@ -1,0 +1,3 @@
+shougo/unite.vim : search and display information from arbitrary sources like files, buffers, recently used files or registers [no development]
+shougo/denite.nvim : It is like a fuzzy finder, but is more generic [no development,nvim,pynvim]
+shougo/ddu.vim : provides an asynchronous fuzzy finder UI [nvim 6.0,vim 8.2]

@@ -1,0 +1,1 @@
+m00qek/baleia.nvim : Colorize text with ANSI escape sequences [nvim]

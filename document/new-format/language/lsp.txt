@@ -1,0 +1,1 @@
+wbthomason/lsp-status.nvim : generating statusline components from the built-in LSP client [nvim]

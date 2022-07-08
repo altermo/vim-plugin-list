@@ -56,7 +56,10 @@ class Assembler:
                 for j in sorted(v):
                     name,text,*_=j
                     self.raw.remove(name)
-                    self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
+                    if text:
+                        self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
+                    else:
+                        self.text+=f'  * {self.pluglinkweb(name)}\n'
     def formatplug(self,text:str)->str:
         return re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
     def pluglinkweb(self,name:str)->str:

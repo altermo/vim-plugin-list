@@ -1,1 +1,2 @@
 herringtondarkholme/yats.vim : Yet Another TypeScript Syntax
+maxmellon/vim-jsx-pretty : The React syntax highlighting and indenting plugin (Also supports the typescript tsx file)

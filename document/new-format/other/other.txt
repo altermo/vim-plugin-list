@@ -1,0 +1,3 @@
+julienr/vim-cellmode : enables MATLAB-style cell mode execution for python scripts in vim, assuming an ipython interpreter running in screen (or tmux)
+ellisonleao/nvim-plugin-template : A template repository for Neovim plugins [nvim]
+skywind3000/vim-auto-popmenu : automatically open autocomplete menu
