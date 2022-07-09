@@ -1,19 +1,17 @@
 import json
 import re
 class Assembler:
-    def __init__(self,rawlist:list[str],data:dict[str,dict[str,dict[str,str]]],pre:str,end:str,qdocs:dict[str,dict[str,list[list[str]]]],awesome_nvim:dict)->None:
+    def __init__(self,rawlist:list[str],data:dict[str,dict[str,dict[str,str]]],pre:str,end:str,qdocs:dict[str,dict[str,list[list[str]]]])->None:
         self.text=pre
         self.data=data
         self.qdocs=qdocs
         self.raw=rawlist
         self.end=end
-        self.awesome_nvim=awesome_nvim
     def create(self)->str:
         self.check()
         self.create_jumplist()
         self.create_extdocs()
         self.create_qdocs()
-        self.create_awesome_nvim()
         self.create_raw()
         return self.text+self.end
     def check(self):
@@ -26,11 +24,6 @@ class Assembler:
                             raise Exception(f'"{i}" not in raw')
                     if name not in self.raw:
                         raise Exception(f'"{name}" not in raw')
-        for i in self.awesome_nvim.values():
-            for j in i:
-                name,*_=j
-                if name not in self.raw:
-                    raise Exception(f'"{name}" not in raw, (but is in awesome-nvim)')
         uniq=set(self.raw)
         for i in self.raw:
             if i not in uniq:
@@ -47,9 +40,6 @@ class Assembler:
         for i in self.qdocs.values():
             for j in i:
                 doc+=f'    * [{j}](#{j})\n'
-        doc+='  * [awesome-vim](#awesome-nvim)\n'
-        for i in self.awesome_nvim:
-            doc+=f'    * [{i}](#{i})\n'
         doc+='  * [not documented](#not-documented)\n'
         doc+='  * [donate](#donate)\n'
         self.text+=doc
@@ -70,19 +60,6 @@ class Assembler:
                         self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
                     else:
                         self.text+=f'  * {self.pluglinkweb(name)}\n'
-    def create_awesome_nvim(self)->None:
-        self.text+='# Awesome-nvim\n'
-        for k,v in self.awesome_nvim.items():
-            self.text+=f'## {k}\n'
-            for i in v:
-                name,text=i
-                if name not in self.raw:
-                    continue
-                self.raw.remove(name)
-                if text:
-                    self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
-                else:
-                    self.text+=f'  * {self.pluglinkweb(name)}\n'
     def formatplug(self,text:str)->str:
         return re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
     def pluglinkweb(self,name:str)->str:
@@ -101,14 +78,12 @@ def main():
         data=json.load(f)
     with open('document.json') as f:
         qdocs=json.load(f)
-    with open('document/copy-of-nvim-awesome/data.json') as f:
-        awesome_nvim=json.load(f)
     pre=r'''# vim-plugin-list
 This is a list of plugins.
 
 _NOTE: this list may contain: mirrors, extensions to plugins, links that are not working and other things that are not related to vim plugins._
 
-_NOTE: some of the documentation is riped straight out from [awesome-vim](https://github.com/akrawchyk/awesome-vim)!_
+_NOTE: only 40% of the plugins are documented._
 
 _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [awesome-nvim](https://github.com/rockerBOO/awesome-neovim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins), [vim-galore](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md), [](https://github.com/astier/vlugins)_
 
@@ -127,6 +102,6 @@ If you want to donate then you need to find the link:
 * [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()
 * [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]() [a]()'''
     with open('README.md','w') as f:
-        f.write(Assembler(rawlist,data,pre,end,qdocs,awesome_nvim).create())
+        f.write(Assembler(rawlist,data,pre,end,qdocs).create())
 if __name__=="__main__":
     main()

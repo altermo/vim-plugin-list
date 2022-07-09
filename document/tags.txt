@@ -1,6 +1,0 @@
-vim {number}.{number}
-nvim
-nvim {number}.{number}
-lua
-archived
-no development

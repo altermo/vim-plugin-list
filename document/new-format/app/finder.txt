@@ -2,3 +2,4 @@ shougo/unite.vim : search and display information from arbitrary sources like fi
 shougo/denite.nvim : It is like a fuzzy finder, but is more generic [no development,nvim,pynvim]
 shougo/ddu.vim : provides an asynchronous fuzzy finder UI [nvim 6.0,vim 8.2]
 willthbill/opener.nvim : A workspace/context switcher for neovim [nvim]
+fholgado/minibufexpl.vim : fork of Bindu Wavell's MiniBufExpl with impovments
