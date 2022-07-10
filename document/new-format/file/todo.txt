@@ -1,1 +1,1 @@
-folke/todo-comments.nvim : highlight and search for todo comments like TODO, HACK, BUG [lua,nvim 5.0]
+folke/todo-comments.nvim : highlight and search for todo comments like TODO, HACK, BUG

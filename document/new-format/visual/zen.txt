@@ -1,2 +1,2 @@
-pocco81/truezen.nvim : Clean and elegant distraction-free writing [nvim]
+pocco81/truezen.nvim : Clean and elegant distraction-free writing
 junegunn/limelight.vim : Hyperfocus-writing in Vim

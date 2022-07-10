@@ -1,1 +1,1 @@
-ellisonleao/carbon-now.nvim : Create beautiful code snippets directly from your neovim terminal [nvim]
+ellisonleao/carbon-now.nvim : Create beautiful code snippets directly from your neovim terminal

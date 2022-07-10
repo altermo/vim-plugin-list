@@ -1,1 +1,3 @@
 stsewd/gx-extended.vim : Extend `gx` to use it beyond just URLs
+linty-org/key-menu.nvim : which-key like plugin with a different style menu
+ojroques/vim-oscyank : A plugin to copy text to the system clipboard from anywhere using the ANSI OSC52 sequence

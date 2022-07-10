@@ -1,1 +1,1 @@
-kevinhwang91/nvim-ufo : make Neovim's fold look modern and keep high performance [nvim]
+kevinhwang91/nvim-ufo : make Neovim's fold look modern and keep high performance

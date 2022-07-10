@@ -1,1 +1,2 @@
 kovetskiy/neovim-move : provides a way to move files
+ojroques/nvim-bufdel : A very small Neovim plugin to improve the deletion of buffers

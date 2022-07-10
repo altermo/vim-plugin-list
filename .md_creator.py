@@ -18,7 +18,7 @@ class Assembler:
         for maincat in self.qdocs.values():
             for subcat in maincat.values():
                 for doc in subcat:
-                    name,text,*_=doc
+                    name,text=doc
                     for i in re.findall(r'\{(.*?)\}',text):
                         if i not in self.raw:
                             raise Exception(f'"{i}" not in raw')
@@ -54,14 +54,14 @@ class Assembler:
             for k,v in i.items():
                 self.text+=f'## {k}\n'
                 for j in sorted(v):
-                    name,text,*_=j
+                    name,text=j
                     self.raw.remove(name)
                     if text:
                         self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
                     else:
                         self.text+=f'  * {self.pluglinkweb(name)}\n'
     def formatplug(self,text:str)->str:
-        return re.sub(r'\{(.*?)\}',r'[\1](https://github.com/\1)',text)
+        return re.sub(r'\{([a-z0-9A-Z._-]*?)\}',r'[\1](https://github.com/\1)',text)
     def pluglinkweb(self,name:str)->str:
         if name.startswith('https://gitlab.com/'):
             linkpre='https://gitlab.com'

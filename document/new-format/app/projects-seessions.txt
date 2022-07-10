@@ -1,1 +1,3 @@
-thaerkh/vim-workspace : mainteins sessions [vim 8.0]
+thaerkh/vim-workspace : mainteins sessions
+sheodox/projectlaunch.nvim : plugin for running commands in your project
+zhimsel/vim-stay : vim-stay adds automated view session creation and restoration whenever editing a buffer, across Vim sessions and window life cycles

@@ -1,1 +1,2 @@
-m00qek/baleia.nvim : Colorize text with ANSI escape sequences [nvim]
+m00qek/baleia.nvim : Colorize text with ANSI escape sequences
+tjdevries/colorbuddy.nvim : A colorscheme maker for Neovim

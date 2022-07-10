@@ -1,1 +1,1 @@
-lewis6991/satellite.nvim : displays decorated scrollbars [nvim]
+lewis6991/satellite.nvim : displays decorated scrollbars

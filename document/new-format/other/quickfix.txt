@@ -1,0 +1,1 @@
+stevearc/qf_helper.nvim : A collection of improvements for neovim quickfix

@@ -32,11 +32,11 @@ def extract(file:str,path:str)->list:
 def fmt(text:str)->list[str]:
     if 'https://gitlab.com' in text:
         if ':' in text:
-            return re.findall(r'^\s*(https://gitlab\.com/*?/.*?)\s*:\s*(.*?)\s*(?:\[(.*?])?$',text)[0]
+            return re.findall(r'^\s*(https://gitlab\.com/*?/.*?)\s*:\s*(.*?)\s*$',text)[0]
         raise NotImplementedError
     if ':' in text:
-        return re.findall(r'^\s*(.*?/.*?)\s*:\s*(.*?)\s*(?:\[(.*?)\])?$',text)[0]
-    return re.findall(r'^\s*(.*?/.*?)\s*()(?:\[(.*?)\])?$',text)[0]
+        return re.findall(r'^\s*(.*?/.*?)\s*:\s*(.*?)\s*$',text)[0]
+    return re.findall(r'^\s*(.*?/.*?)\s*()$',text)[0]
 def check(data:dict)->None:
     uniq={}
     for i in data.values():

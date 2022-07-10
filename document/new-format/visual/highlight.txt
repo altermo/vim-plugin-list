@@ -1,2 +1,2 @@
-lpinilla/vim-codepainter : color different parts of code making the use of text properties [vim 8.2,nvim]
+lpinilla/vim-codepainter : color different parts of code making the use of text properties
 guns/vim-clojure-highlight : Extend builtin syntax highlighting to local, referred, and aliased vars in Clojure buffers
