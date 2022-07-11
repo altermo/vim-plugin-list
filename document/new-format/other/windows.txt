@@ -1,0 +1,1 @@
+mattboehm/vim-accordion : set the maximum number of splits you want to see, and shrinks the rest to be one column wide

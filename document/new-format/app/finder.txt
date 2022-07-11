@@ -3,3 +3,5 @@ shougo/denite.nvim : It is like a fuzzy finder, but is more generic [no developm
 shougo/ddu.vim : provides an asynchronous fuzzy finder UI
 willthbill/opener.nvim : A workspace/context switcher for neovim
 fholgado/minibufexpl.vim : fork of Bindu Wavell's MiniBufExpl with impovments
+vijaymarupudi/nvim-fzf : An asynchronous Lua API for using fzf in Neovim
+vijaymarupudi/nvim-fzf-commands : A repository for commands using the nvim-fzf library

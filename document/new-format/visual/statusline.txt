@@ -1,1 +1,2 @@
 rbong/vim-crystalline : the plugin lets you build your own statusline and tabline in a vanilla vim style. It also comes with a bufferline
+doums/barow : A minimalist statusline [archived]

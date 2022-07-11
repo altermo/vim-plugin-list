@@ -1,0 +1,1 @@
+rmagatti/alternate-toggler : a very small plugin for toggling alternate "boolean" values

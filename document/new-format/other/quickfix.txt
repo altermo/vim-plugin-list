@@ -1,1 +1,2 @@
 stevearc/qf_helper.nvim : A collection of improvements for neovim quickfix
+yssl/qfenter : allows you to open items from Vim's quickfix or location list wherever you wish

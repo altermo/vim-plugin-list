@@ -928,6 +928,7 @@ oberblastmeister/termwrapper.nvim
 octol/vim-cpp-enhanced-highlight
 odie/gitabra
 ojroques/nvim-bufbar
+ojroques/nvim-bufdel
 ojroques/nvim-hardline
 ojroques/nvim-lspfuzzy
 ojroques/vim-oscyank
@@ -1168,6 +1169,7 @@ shougo/vimfiler.vim
 shrimpram/vim-stella
 sickill/vim-monokai
 sickill/vim-pasta
+sidebar-nvim/sidebar.nvim
 sidofc/mkdx
 sidorares/node-vim-debugger
 siduck76/nvchad
@@ -1379,6 +1381,7 @@ vifm/neovim-vifm
 vifm/vifm.vim
 vigoux/complementree.nvim
 vijaymarupudi/nvim-fzf
+vijaymarupudi/nvim-fzf-commands
 vim-airline/vim-airline
 vim-airline/vim-airline-themes
 vim-chat/vim-chat
@@ -1512,5 +1515,3 @@ ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsugabubus/crazy8.nvim
-sidebar-nvim/sidebar.nvim
-ojroques/nvim-bufdel

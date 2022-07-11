@@ -1,1 +1,3 @@
 yatli/fvim : Cross platform Neovim front-end UI, built with F# + Avalonia
+dzhou121/gonvim : Neovim GUI written in Golang [archived]
+akiyosi/goneovim : Neovim GUI written in Go

@@ -1,1 +1,2 @@
 nvim-telescope/telescope-arecibo.nvim : Neovim Telescope extension for searching the web
+nvim-telescope/telescope-fzy-native.nvim : FZY style sorter that is compiled

@@ -1,2 +1,4 @@
 kovetskiy/neovim-move : provides a way to move files
 ojroques/nvim-bufdel : A very small Neovim plugin to improve the deletion of buffers
+mattn/emmet-vim : a vim plug-in which provides support for expanding abbreviations similar to emmet
+yuratomo/w3m.vim : w3m inside vim
