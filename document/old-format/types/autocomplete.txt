@@ -1,6 +1,4 @@
 ajh17/vimcompletesme
-hrsh7th/nvim-cmp
-ms-jpq/coq_nvim
 noib3/nvim-compleet
 vigoux/complementree.nvim
 ycm-core/youcompleteme

@@ -2,3 +2,7 @@ github/copilot.vim : Vim plugin for GitHub Copilot
 shougo/deoplete.nvim : dark powered neo-completion [no development]
 shougo/ddc.vim : Dark deno-powered completion framework for neovim/Vim8
 rip-rip/clang_complete : This plugin uses clang for accurately completing C and C++ code
+prabirshrestha/asyncomplete.vim : Async autocompletion for Vim 8 and Neovim with |timers|.
+nvim-lua/completion-nvim : auto completion framework that aims to provide a better completion experience with neovim's built-in LSP [archived]
+ms-jpq/coq_nvim : autocoplete wich is fast and has loads of features
+hrsh7th/nvim-cmp : A completion engine plugin for neovim written in Lua

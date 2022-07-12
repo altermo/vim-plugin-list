@@ -45,7 +45,7 @@ def main()->None:
     linked(data)
     types(data)
     check_uniq(data)
-    with open('out.json','w') as f:
+    with open('old.json','w') as f:
         json.dump(data,f)
 if __name__=='__main__':
     main()

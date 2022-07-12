@@ -15,3 +15,6 @@ sgur/vim-editorconfig : Yet another Vim plugin for EditorConfig
 wakatime/vim-wakatime : open source Vim plugin for metrics, insights, and time tracking automatically generated from your programming activity
 reedes/vim-lexical : extend vims spellchecker
 miversen33/netman.nvim : Network Resource Manager
+junegunn/vim-emoji : Emoji in Vim
+vuki656/package-info.nvim : All the `npm`/`yarn`/`pnpm` commands I don't want to type
+glts/vim-magnum : big integer library for Vim plugins written entirely in Vim script

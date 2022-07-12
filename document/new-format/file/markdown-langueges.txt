@@ -4,3 +4,5 @@ davidgranstrom/nvim-markdown-preview : Markdown preview in the browser using pan
 jghauser/auto-pandoc.nvim : This plugin allows you to easily convert your markdown files using pandoc
 euclio/vim-markdown-composer : adds asynchronous Markdown preview
 frabjous/knap : live preview LaTeX or markdown (or even just HTML)
+junegunn/vim-xmark : Markdown preview on OS X
+h2ero/vim-markdown-wiki : markdown wiki pulgin for vim

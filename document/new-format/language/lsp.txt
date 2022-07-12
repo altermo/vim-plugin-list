@@ -1,3 +1,5 @@
 wbthomason/lsp-status.nvim : generating statusline components from the built-in LSP client
 onsails/lspkind-nvim : tiny plugin adds vscode-like pictograms to neovim built-in lsp
 smiteshp/nvim-navic : A simple statusline/winbar component that uses LSP to show your current code context
+rmagatti/goto-preview : previewing native LSP's goto definition calls in floating windows
+liuchengxu/vista.vim : View and search LSP symbols, tags

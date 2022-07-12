@@ -382,6 +382,7 @@ glepnir/lspsaga.nvim
 glepnir/prodoc.nvim
 glepnir/spaceline.vim
 glepnir/zephyr-nvim
+glts/vim-magnum
 glts/vim-radical
 gmarik/vundle.vim
 godlygeek/tabular
@@ -1515,3 +1516,4 @@ ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsugabubus/crazy8.nvim
+tkhren/vim-textobj-numeral

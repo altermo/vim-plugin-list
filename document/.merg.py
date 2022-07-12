@@ -4,8 +4,9 @@ import re
 def old_merg(data:dict)->None:
     with open('old-format/old.json') as f:
         old=json.load(f)
+    data['old']={}
     for k,v in old.items():
-        out=data['other'][k]=data['other'].get(k,[])
+        out=data['old'][k]=data['old'].get(k,[])
         for i in v:
             if '´' in i:
                 if ':' in i:
@@ -39,13 +40,13 @@ def fmt(text:str)->list[str]:
     return re.findall(r'^\s*(.*?/.*?)\s*()$',text)[0]
 def check(data:dict)->None:
     uniq={}
-    for i in data.values():
+    for m,i in data.items():
         for k,v in i.items():
             for j in v:
                 name,*_=j
                 if name in uniq:
-                    raise Exception(f'"{name}" found 2 times: both in "{k}" and "{uniq[name]}"')
-                uniq[name]=k
+                    raise Exception(f'"{name}" found 2 times: both in "{(m,k)}" and "{uniq[name]}"')
+                uniq[name]=(m,k)
                 if not name.islower():
                     raise Exception(f'"{name}" is not all lowercase, in file "{k}"')
                 if not re.findall(r'^(?:https://gitlab\.com/)?[a-z0-9_.-]+/[a-z0-9_.-]+$',name):

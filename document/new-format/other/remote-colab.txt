@@ -1,1 +1,2 @@
 jbyuki/instant.nvim : instant.nvim is a collaborative editing plugin for Neovim written in Lua with no dependencies
+floobits/floobits-neovim : Real-time collaborative editing

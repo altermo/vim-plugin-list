@@ -1,1 +1,3 @@
 puremourning/vimspector : The plugin is a capable Vim graphical debugger for multiple languages
+pocco81/dap-buddy.nvim : Dap Buddy allows you to manage debuggers provided by nvim-dap
+mfussenegger/nvim-dap : Debug Adapter Protocol client implementation for Neovim
