@@ -1,1 +1,2 @@
 rmagatti/alternate-toggler : a very small plugin for toggling alternate "boolean" values
+tpope/vim-speeddating : make it possible to use `<C-a>` to increase dates

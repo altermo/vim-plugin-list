@@ -1,2 +1,3 @@
 ethanjwright/toolwindow.nvim : Easy management of a toolwindow
 nvim-treesitter/nvim-treesitter-refactor : Refactor modules for nvim-treesitter [treesitter]
+euclidianace/betterlua.vim : Better Lua Syntax For Vim

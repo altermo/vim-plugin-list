@@ -3,3 +3,8 @@ linty-org/key-menu.nvim : which-key like plugin with a different style menu
 ojroques/vim-oscyank : A plugin to copy text to the system clipboard from anywhere using the ANSI OSC52 sequence
 conradirwin/vim-bracketed-paste : enables transparent pasting (i.e. no more `:set paste!`)
 drzel/vim-split-line : easily split lines
+matze/vim-move : Vim plugin that moves lines and selections in a more visual manner
+guns/vim-sexp : brings the Vim philosophy of precision editing to S-expressions
+tpope/vim-sexp-mappings-for-regular-people : adds better default mappings to {guns/vim-sexp}
+marklcrns/vim-smartq : Master key for quitting vim buffers
+terryma/vim-expand-region : allows you to visually select increasingly larger regions of text using the same key combination

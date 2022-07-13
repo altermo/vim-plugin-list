@@ -1,3 +1,5 @@
 zgpio/brew.nvim : plugin manager, rewrite dein with neovim builtin lua
 marcweber/vim-addon-manager : fetch & activate plugins at startup or runtime depending on your needs
 k-takata/minpac : A minimal package manager for Vim 8 (and Neovim)
+tek/proteome.nvim : [deprecated] use {tek/chromatin} instead
+tek/chromatin : a manager for plugins built in Haskell with nvim-hs and ribosome

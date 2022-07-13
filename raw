@@ -1255,6 +1255,7 @@ tanvirtin/monokai.nvim
 tanvirtin/vgit.nvim
 tastyep/structlog.nvim
 tc72/telescope-tele-tabby.nvim
+tek/chromatin
 tek/proteome.nvim
 tek256/simple-dark
 tenfyzhong/completeparameter.vim
@@ -1300,6 +1301,7 @@ tjdevries/nlua.nvim
 tjdevries/overlength.vim
 tjdevries/train.nvim
 tjdevries/vlog.nvim
+tkhren/vim-textobj-numeral
 tklepzig/vim-buffer-navigator
 tmhedberg/simpylfold
 tmsvg/pear-tree
@@ -1516,4 +1518,3 @@ ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsugabubus/crazy8.nvim
-tkhren/vim-textobj-numeral
