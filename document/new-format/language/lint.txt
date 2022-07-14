@@ -1,0 +1,1 @@
+w0rp/ale : ALE (Asynchronous Lint Engine) is a plugin providing linting (syntax checking and semantic errors)

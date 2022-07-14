@@ -1,2 +1,4 @@
 lpinilla/vim-codepainter : color different parts of code making the use of text properties
 guns/vim-clojure-highlight : Extend builtin syntax highlighting to local, referred, and aliased vars in Clojure buffers
+galicarnax/vim-regex-syntax : Syntax highlight for regular expressions
+numirias/semshi : provides semantic highlighting for Python in Neovim

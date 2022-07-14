@@ -15,15 +15,14 @@ class Assembler:
         self.create_raw()
         return self.text+self.end
     def check(self):
-        for maincat in self.qdocs.values():
-            for subcat in maincat.values():
-                for doc in subcat:
-                    name,text=doc
-                    for i in re.findall(r'\{(.*?)\}',text):
-                        if i not in self.raw:
-                            raise Exception(f'"{i}" not in raw')
-                    if name not in self.raw:
-                        raise Exception(f'"{name}" not in raw')
+        for cat in self.qdocs.values():
+            for doc in cat:
+                name,text=doc
+                for i in re.findall(r'\{(.*?)\}',text):
+                    if i not in self.raw:
+                        raise Exception(f'"{i}" not in raw')
+                if name not in self.raw:
+                    raise Exception(f'"{name}" not in raw')
         uniq=set(self.raw)
         for i in self.raw:
             if i not in uniq:
@@ -37,9 +36,8 @@ class Assembler:
         doc='# Jump list\n'
         doc+='  * [extensions/options/readmore/...](#extensionsreadmoreoptions)\n'
         doc+='  * [documented](#documented)\n'
-        for i in self.qdocs.values():
-            for j in i:
-                doc+=f'    * [{j}](#{j})\n'
+        for i in self.qdocs:
+            doc+=f'    * [{i}](#{i})\n'
         doc+='  * [not documented](#not-documented)\n'
         doc+='  * [donate](#donate)\n'
         self.text+=doc
@@ -50,16 +48,15 @@ class Assembler:
         self.text+=doc
     def create_qdocs(self)->None:
         self.text+='# Documented\n'
-        for i in self.qdocs.values():
-            for k,v in i.items():
-                self.text+=f'## {k}\n'
-                for j in sorted(v):
-                    name,text=j
-                    self.raw.remove(name)
-                    if text:
-                        self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
-                    else:
-                        self.text+=f'  * {self.pluglinkweb(name)}\n'
+        for k,v in self.qdocs.items():
+            self.text+=f'## {k}\n'
+            for j in sorted(v):
+                name,text=j
+                self.raw.remove(name)
+                if text:
+                    self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
+                else:
+                    self.text+=f'  * {self.pluglinkweb(name)}\n'
     def formatplug(self,text:str)->str:
         return re.sub(r'\{([a-z0-9A-Z._-]*?)\}',r'[\1](https://github.com/\1)',text)
     def pluglinkweb(self,name:str)->str:

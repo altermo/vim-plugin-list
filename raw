@@ -222,6 +222,7 @@ d4ku/vim-pushover
 dag/vim-fish
 dahu/vim-fanfingtastic
 danielpieper/telescope-tmuxinator.nvim
+danilamihailov/beacon.nvim
 danymat/neogen
 darazaki/indent-o-matic
 datwaft/bubbly.nvim
@@ -610,6 +611,7 @@ kdheepak/tabline.nvim
 kelly-lin/telescope-ag
 kethku/neovide
 kevinhwang91/nvim-bqf
+kevinhwang91/nvim-ffhighlight
 kevinhwang91/nvim-hlslens
 kevinhwang91/nvim-ufo
 kevinhwang91/rnvimr
@@ -816,6 +818,7 @@ my/supercoolplugin
 myusuf3/numbers.vim
 mzlogin/vim-markdown-toc
 nacro90/numb.nvim
+nagy135/visualmark-nvim
 nanotech/jellybeans.vim
 nanotee/luv-vimdocs
 nanotee/nvim-lsp-basics
@@ -1244,6 +1247,7 @@ szw/vim-maximizer
 szymonmaszke/vimpyter
 t9md/vim-choosewin
 t9md/vim-smalls
+t9md/vim-textmanip
 tadaa/vimade
 takac/vim-hardtime
 tamago324/lir.nvim

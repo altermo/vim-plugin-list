@@ -1,0 +1,2 @@
+nikvdp/neomux : a neovim <> terminal integration plugin
+shougo/deol.nvim : dark powered shell for Neovim

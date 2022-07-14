@@ -21,3 +21,7 @@ glts/vim-magnum : big integer library for Vim plugins written entirely in Vim sc
 furkanzmc/options.nvim : A small library to create custom options for your plugins or your configuration
 rbong/vim-buffest : Easily edit vim registers/macros and lists as buffers
 thezeroalpha/vim-visualrun : select some lines and run them as a Vim command
+ap/vim-templates : This is a Vim plugin for providing filetype-dependent templates for new files, using a simple but effective mechanism
+saecki/crates.nvim : neovim plugin that helps managing crates.io dependencies
+klen/nvim-config-local : Secure load local config files
+voldikss/vim-browser-search : perform a quick web search for the text selected

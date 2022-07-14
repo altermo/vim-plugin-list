@@ -1,0 +1,3 @@
+kana/vim-textobj-indent : provide text objects to select a block of lines which are similarly indented to the current line
+tkhren/vim-textobj-numeral : Text objects for numbers
+tweekmonster/braceless.vim : Text objects, folding, and more for Python and other indented languages

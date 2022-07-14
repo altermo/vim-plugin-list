@@ -1,0 +1,1 @@
+philrunninger/nerdtree-buffer-ops : a NERDTree plugin that highlights all visible nodes that are open in Vim

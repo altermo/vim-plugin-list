@@ -8,3 +8,4 @@ guns/vim-sexp : brings the Vim philosophy of precision editing to S-expressions
 tpope/vim-sexp-mappings-for-regular-people : adds better default mappings to {guns/vim-sexp}
 marklcrns/vim-smartq : Master key for quitting vim buffers
 terryma/vim-expand-region : allows you to visually select increasingly larger regions of text using the same key combination
+yuttie/comfortable-motion.vim : physics-based smooth scrolling

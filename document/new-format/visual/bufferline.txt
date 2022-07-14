@@ -1,0 +1,1 @@
+bagrat/vim-buffet : takes your buffers and tabs, and shows them combined in the tabline
