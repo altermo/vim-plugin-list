@@ -127,7 +127,6 @@ bi0ha2ard/telescope-ros.nvim
 bkad/camelcasemotion
 bkegley/gloombuddy
 bkoropoff/bex.nvim
-blackcauldron7/surround.nvim
 bling/vim-bufferline
 blueshirts/darcula
 blueyed/vim-diminactive
@@ -161,7 +160,6 @@ cathywu/vim-todo
 catppuccin/nvim
 ccchapman/watson.nvim
 cdelledonne/vim-cmake
-cdn.rawgit.com/sindresorhus
 cespare/vim-toml
 chaitanyabsprip/present.nvim
 challenger-deep-theme/vim
@@ -526,6 +524,7 @@ jghauser/follow-md-links.nvim
 jghauser/kitty-runner.nvim
 jghauser/mkdir.nvim
 jiangmiao/auto-pairs
+jiaoshijie/undotree
 jimmyhuang454/easycompleteyou
 jlanzarotta/bufexplorer
 jlesquembre/nterm.nvim
@@ -717,7 +716,6 @@ lunarvim/darkplus.nvim
 lunarvim/lualine.nvim
 lunarvim/lunarvim
 lunarvim/onedarker.nvim
-lunixbochs/actualvim
 luochen1990/rainbow
 luukvbaal/nnn.nvim
 luukvbaal/stabilize.nvim
@@ -865,6 +863,7 @@ norcalli/nvim-terminal.lua
 norcalli/nvim_utils
 norcalli/snippets.nvim
 noscript/taberian.vim
+notjedi/nvim-rooter.lua
 notomo/cmdbuf.nvim
 notomo/gesture.nvim
 ntbbloodbath/cheovim
@@ -929,6 +928,7 @@ nvoid-lua/nvoid
 nxvu699134/vn-night.nvim
 nyngwang/neononame.lua
 nyngwang/neoroot.lua
+nyngwang/neowell.lua
 nyngwang/neozoom.lua
 oberblastmeister/neuron.nvim
 oberblastmeister/termwrapper.nvim
@@ -1526,4 +1526,3 @@ ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsugabubus/crazy8.nvim
-jiaoshijie/undotree

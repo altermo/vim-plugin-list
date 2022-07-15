@@ -1,1 +1,2 @@
 nyngwang/neoroot.lua : toggle between own defined root and cwd of file
+notjedi/nvim-rooter.lua : change your working directory to the project root

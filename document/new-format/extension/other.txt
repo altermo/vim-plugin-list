@@ -1,1 +1,3 @@
 philrunninger/nerdtree-buffer-ops : a NERDTree plugin that highlights all visible nodes that are open in Vim
+tiagofumo/vim-nerdtree-syntax-highlight : adds syntax for nerdtree on most common file extensions
+scrooloose/nerdtree-project-plugin : nerd extension which preserves Tree state (open/closed dirs) between sessions

@@ -24,7 +24,7 @@ Thanks for taking you time to improve this github repository.
 * [data.json](data.json) file contains data which is neither document nor script
 * Files that are in directory [other](other) should be ignored.
 ## documents
-* each document has 1-3 parts:
+* each document has 1-2 parts:
     * name/repository
     * document (optional)
 * examples: `name/repo : is awesome`, `name/colorscheme`

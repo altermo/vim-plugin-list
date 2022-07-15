@@ -34,3 +34,7 @@ derekwyatt/vim-scala : This is a "bundle" for Vim that builds off of the initial
 junegunn/vim-pseudocl : implements a command-line interface that mimics the native Vim command-line
 anuvyklack/help-vsplit.nvim : open the help screen smartly
 mordechaihadad/bob : easy way to install and switch versions of nvim
+killthemule/nvimpam : neovim rpc plugin for pamcrash files
+marcweber/vim-addon-mw-utils : various utils such as caching interpreted contents of files or advanced glob like things
+nvim-treesitter/nvim-tree-docs : Highly configurable documentation generator using treesitter
+miversen33/import.nvim : A safe require replacement with niceties

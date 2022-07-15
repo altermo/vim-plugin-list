@@ -1,2 +1,3 @@
 racer-rust/vim-racer : allows vim to use Racer for Rust code completion and navigation
 rust-lang/rust.vim : Vim plugin that provides Rust file detection, syntax highlighting, formatting, Syntastic integration, and more
+david-kunz/jester : A Neovim plugin to easily run and debug Jest tests

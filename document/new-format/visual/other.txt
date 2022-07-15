@@ -7,3 +7,5 @@ kevinhwang91/nvim-ffhighlight : Highlight the chars and words searched by `f` an
 smiteshp/nvim-gps : Take this handy dandy gps with you on your coding adventures and always know where you are
 smiteshp/nvim-navic : A simple statusline/winbar component that uses LSP to show your current code context
 jubnzv/virtual-types.nvim : shows type annotations for functions in virtual text using built-in LSP client
+vim-scripts/csapprox : This plugin makes GVim-only colorschemes Just Work in terminal Vim
+wellle/context.vim : shows the context of the currently visible buffer contents

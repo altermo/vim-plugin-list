@@ -11,3 +11,5 @@ terryma/vim-expand-region : allows you to visually select increasingly larger re
 yuttie/comfortable-motion.vim : physics-based smooth scrolling
 inkarkat/vim-enhancedjumps : This plugin enhances the built-in `CTRL-I`/`CTRL-O` jump commands
 hrsh7th/vim-searchx : extend search motions
+gbprod/cutlass.nvim : overrides the delete operations to actually just delete and not affect the current yank
+waylonwalker/telegraph.nvim : provides a way to send command conveniently and bind them to hotkeys

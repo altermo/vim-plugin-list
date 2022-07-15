@@ -1,2 +1,3 @@
 nikvdp/neomux : a neovim <> terminal integration plugin
 shougo/deol.nvim : dark powered shell for Neovim
+loricandre/oneterm.nvim : One terminal plugin to rule them all (eventually)

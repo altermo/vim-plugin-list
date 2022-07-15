@@ -6,3 +6,5 @@ kdheepak/lazygit.nvim : Plugin for calling lazygit from within neovim
 sodapopcan/vim-twiggy : Maintain your bearings while branching with Git
 junegunn/vim-github-dashboard : Browse GitHub events (user dashboard, user/repo activity
 samoshkin/vim-mergetool : Efficient way of using Vim as a Git mergetool
+drzel/vim-repo-edit : One second to read GitHub code with vim
+apzelos/blamer.nvim : a git blamer plugin

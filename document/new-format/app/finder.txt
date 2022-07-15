@@ -6,3 +6,4 @@ fholgado/minibufexpl.vim : fork of Bindu Wavell's MiniBufExpl with impovments
 vijaymarupudi/nvim-fzf : An asynchronous Lua API for using fzf in Neovim
 vijaymarupudi/nvim-fzf-commands : A repository for commands using the nvim-fzf library
 vim-ctrlspace/vim-ctrlspace : open finder by pressing `<C-space>`
+ibhagwan/fzf-lua : fzf loves lua
