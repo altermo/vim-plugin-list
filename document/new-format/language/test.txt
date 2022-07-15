@@ -1,0 +1,3 @@
+rcarriga/vim-ultest : The ultimate testing plugin for NeoVim
+nvim-neotest/neotest : A framework for interacting with tests within NeoVim
+xeluxee/competitest.nvim : a testcase manager and checker
