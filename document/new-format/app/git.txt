@@ -5,3 +5,4 @@ rhysd/committia.vim : This plugin improves the git commit buffer
 kdheepak/lazygit.nvim : Plugin for calling lazygit from within neovim
 sodapopcan/vim-twiggy : Maintain your bearings while branching with Git
 junegunn/vim-github-dashboard : Browse GitHub events (user dashboard, user/repo activity
+samoshkin/vim-mergetool : Efficient way of using Vim as a Git mergetool

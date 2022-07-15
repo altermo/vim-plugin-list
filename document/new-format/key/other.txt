@@ -9,3 +9,5 @@ tpope/vim-sexp-mappings-for-regular-people : adds better default mappings to {gu
 marklcrns/vim-smartq : Master key for quitting vim buffers
 terryma/vim-expand-region : allows you to visually select increasingly larger regions of text using the same key combination
 yuttie/comfortable-motion.vim : physics-based smooth scrolling
+inkarkat/vim-enhancedjumps : This plugin enhances the built-in `CTRL-I`/`CTRL-O` jump commands
+hrsh7th/vim-searchx : extend search motions

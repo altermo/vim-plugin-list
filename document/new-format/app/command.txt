@@ -3,3 +3,4 @@ ojroques/nvim-bufdel : A very small Neovim plugin to improve the deletion of buf
 mattn/emmet-vim : a vim plug-in which provides support for expanding abbreviations similar to emmet
 yuratomo/w3m.vim : w3m inside vim
 wsdjeg/vim-cheat : cheat in vim
+ackeraa/todo.nvim : It helps you manage your to-do list

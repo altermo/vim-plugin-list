@@ -25,3 +25,12 @@ ap/vim-templates : This is a Vim plugin for providing filetype-dependent templat
 saecki/crates.nvim : neovim plugin that helps managing crates.io dependencies
 klen/nvim-config-local : Secure load local config files
 voldikss/vim-browser-search : perform a quick web search for the text selected
+michaelb/sniprun : code runner plugin for neovim written in rust and lua
+lambdalisue/lista.nvim : filter content lines and jump to where you want
+bkoropoff/bex.nvim : Lua to Ex bridge library
+hardenedapple/vsh : Run shell commands in a modifiable buffer
+udayvir-singh/hibiscus.nvim : Highly opinionated macros to elegantly write your neovim config
+derekwyatt/vim-scala : This is a "bundle" for Vim that builds off of the initial Scala plugin
+junegunn/vim-pseudocl : implements a command-line interface that mimics the native Vim command-line
+anuvyklack/help-vsplit.nvim : open the help screen smartly
+mordechaihadad/bob : easy way to install and switch versions of nvim

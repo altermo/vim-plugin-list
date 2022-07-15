@@ -2,3 +2,4 @@ furkanzmc/zettelkasten.nvim : Vim philosophy oriented Zettelkasten note taking p
 renerocksai/telekasten.nvim : A Neovim plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 mickael-menu/zk-nvim : Neovim extension for the zk plain text note-taking assistant
 vimwiki/vimwiki : VimWiki is a personal wiki for Vim
+rexagod/samwise.nvim : line-wise note-taking plugin for neovim

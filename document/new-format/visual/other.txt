@@ -4,3 +4,6 @@ tadaa/vimade : fades your inactive buffers and preserves syntax highlighting
 nagy135/visualmark-nvim : shows where marks are stored visually in buffer using virtual_text
 danilamihailov/beacon.nvim : Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 kevinhwang91/nvim-ffhighlight : Highlight the chars and words searched by `f` and `F`
+smiteshp/nvim-gps : Take this handy dandy gps with you on your coding adventures and always know where you are
+smiteshp/nvim-navic : A simple statusline/winbar component that uses LSP to show your current code context
+jubnzv/virtual-types.nvim : shows type annotations for functions in virtual text using built-in LSP client

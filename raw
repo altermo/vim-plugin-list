@@ -3,6 +3,7 @@
 907th/vim-auto-save
 abecodes/tabout.nvim
 abstract-ide/abstract
+ackeraa/todo.nvim
 acksld/nvim-anywise-reg.lua
 acksld/nvim-gfold.lua
 acksld/nvim-neoclip.lua
@@ -125,6 +126,7 @@ bfrg/vim-qf-preview
 bi0ha2ard/telescope-ros.nvim
 bkad/camelcasemotion
 bkegley/gloombuddy
+bkoropoff/bex.nvim
 blackcauldron7/surround.nvim
 bling/vim-bufferline
 blueshirts/darcula
@@ -449,7 +451,6 @@ hrsh7th/vim-searchx
 hrsh7th/vim-vsnip
 https://gitlab.com/yorickpeterse/nvim-grey
 https://gitlab.com/yorickpeterse/nvim-pqf
-https://gitlab.com/yorickpeterse/nvim-wind
 https://gitlab.com/yorickpeterse/nvim-window
 https://gitlab.com/yorickpeterse/vim-paper
 huawenyu/neogdb.vim
@@ -464,6 +465,7 @@ icymind/neosolarized
 idanarye/vim-merginal
 imbacraft/dusk.nvim
 inkarkat/vim-advancedsorters
+inkarkat/vim-enhancedjumps
 inkarkat/vim-mark
 inkarkat/vim-patterncomplete
 inkarkat/vim-spellcheck
@@ -650,6 +652,7 @@ lalitmee/cobalt2.nvim
 lambdalisue/battery.vim
 lambdalisue/fern.vim
 lambdalisue/gina.vim
+lambdalisue/lista.nvim
 lambdalisue/readablefold.vim
 lambdalisue/suda.vim
 ldelossa/calltree.nvim
@@ -1376,6 +1379,7 @@ tzachar/cmp-tabnine
 u03c1/outrun-vim
 udayvir-singh/hibiscus.nvim
 udayvir-singh/tangerine.nvim
+uga-rosa/cmp-dictionary
 uga-rosa/translate.nvim
 unblevable/quick-scope
 untitled-ai/jupyter_ascending
@@ -1522,3 +1526,4 @@ ziontee113/icon-picker.nvim
 ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsugabubus/crazy8.nvim
+jiaoshijie/undotree
