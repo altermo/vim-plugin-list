@@ -34,7 +34,6 @@ klen/nvim-test : Test Runner for neovim
 hkupty/iron.nvim : Interactive Repls Over Neovim
 skywind3000/vim-dict : Automatically add dictionary files to current buffer according to the filetype
 jghauser/kitty-runner.nvim : easily send lines from the current buffer to another kitty terminal
-tyru/open-browser.vim : Open URI with your favorite browser
 tyru/open-browser-unicode.vim : Opens Unicode character information
 tyru/open-browser-github.vim : Opens GitHub URL of current file, etc.
 bfredl/nvim-ipy : Jupyter front-end for Neovim

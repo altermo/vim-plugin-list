@@ -1,2 +1,3 @@
 kevinhwang91/nvim-ufo : make Neovim's fold look modern and keep high performance
 tmhedberg/simpylfold : simple, correct folding for Python
+kaile256/vim-foldpeek : peek at folds

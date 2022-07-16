@@ -1,3 +1,4 @@
 drybalka/tree-climber.nvim : easy navigation around the syntax-tree produced by the treesitter that also works in comments and multi-language files [treesitter]
 rasukarusan/nvim-select-multi-line : Yank lines not adjacent
 t9md/vim-textmanip : move/duplicate blocks of text
+hrsh7th/vim-insert-point : cursor move on insert mode

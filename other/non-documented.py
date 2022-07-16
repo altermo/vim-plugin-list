@@ -5,8 +5,7 @@ def main():
     with open('../document.json') as f:
         data=json.load(f)
     for i in data.values():
-        for j in i.values():
-            for plug in j:
+            for plug in i:
                 name,*_=plug
                 raw.remove(name)
     print('\n'.join(raw))

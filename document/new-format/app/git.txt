@@ -8,3 +8,5 @@ junegunn/vim-github-dashboard : Browse GitHub events (user dashboard, user/repo 
 samoshkin/vim-mergetool : Efficient way of using Vim as a Git mergetool
 drzel/vim-repo-edit : One second to read GitHub code with vim
 apzelos/blamer.nvim : a git blamer plugin
+ldelossa/gh.nvim : a plugin for interactive code reviews which take place on the GitHub platform
+stsewd/fzf-checkout.vim : Manage branches and tags with fzf

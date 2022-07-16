@@ -2,3 +2,29 @@ nvim-telescope/telescope-arecibo.nvim : Neovim Telescope extension for searching
 nvim-telescope/telescope-fzy-native.nvim : FZY style sorter that is compiled
 nvim-telescope/telescope-fzf-writer.nvim : Incorporating fzf into telescope
 nvim-telescope/telescope-project.nvim : extension for telescope.nvim that allows you to switch between projects
+nvim-telescope/telescope-fzf-native.nvim : FZF-native (`c` port of fzf) style sorter for telescope
+olacin/telescope-cc.nvim : telescope integration of Conventional Commits
+nvim-telescope/telescope-cheat.nvim : An attempt to recreate cheat.sh with lua, neovim, sqlite.lua, and telescope.nvim
+linarcx/telescope-scriptnames.nvim : telescope extension wrapper around `:scriptnames`
+luc-tielen/telescope_hoogle : telescope plugin for Hoogle
+natecraddock/telescope-zf-native.nvim : native telescope bindings to zf for sorting results
+nvim-telescope/telescope-bibtex.nvim : Search and paste entries from `*.bib` files with telescope.nvim
+nvim-telescope/telescope-dap.nvim : Integration for nvim-dap with telescope.nvim
+nvim-telescope/telescope-file-browser.nvim : file browser extension for telescope.nvim
+nvim-telescope/telescope-github.nvim : telescope integration with github cli
+nvim-telescope/telescope-hop.nvim : an extension for telescope.nvim for hopping to the moon
+nvim-telescope/telescope-live-grep-args.nvim : Live grep args picker for telescope.nvim
+nvim-telescope/telescope-media-files.nvim : Preview images, pdf, epub, video, and fonts from Neovim using Telescope
+nvim-telescope/telescope-node-modules.nvim : telescope extension that provides its users with node packages under `node_modules/` dir
+nvim-telescope/telescope-packer.nvim : Integration for packer.nvim with telescope.nvim
+nvim-telescope/telescope-rs.nvim : Experimental features for telescope in RUST
+nvim-telescope/telescope-smart-history.nvim : history implementation that memorizes prompt input for a specific context as a telescope extension
+nvim-telescope/telescope-snippets.nvim : Integration for snippets.nvim with telescope.nvim [archived]
+nvim-telescope/telescope-ui-select.nvim : It sets `vim.ui.select` to telescope
+nvim-telescope/telescope-vimspector.nvim : Integration for vimspector with telescope.nvim
+nvim-telescope/telescope-z.nvim : an extension for telescope.nvim that provides its users with operating rupa/z or its compatibles
+olacin/telescope-gitmoji.nvim : telescope integration of gitmoji
+slarwise/telescope-args.nvim : telescopeextension for navigating the argument list
+tamago324/telescope-openbrowser.nvim : Integration for open-browser.vim with telescope.nvim
+tc72/telescope-tele-tabby.nvim : A tab switcher extension for Telescope
+zane-/howdoi.nvim : telescope extension for previewing howdoi results
