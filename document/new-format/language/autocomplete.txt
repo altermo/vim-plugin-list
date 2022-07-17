@@ -6,3 +6,6 @@ prabirshrestha/asyncomplete.vim : Async autocompletion for Vim 8 and Neovim with
 nvim-lua/completion-nvim : auto completion framework that aims to provide a better completion experience with neovim's built-in LSP [archived]
 ms-jpq/coq_nvim : autocoplete wich is fast and has loads of features
 hrsh7th/nvim-cmp : A completion engine plugin for neovim written in Lua
+hrsh7th/nvim-compe : Auto completion plugin for nvim [archived]
+inkarkat/vim-patterncomplete : offers completions that either use the last search pattern or query for a regular expression
+kristijanhusak/vim-dadbod-completion : Database auto completion powered by vim-dadbod

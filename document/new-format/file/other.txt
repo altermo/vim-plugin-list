@@ -1,1 +1,2 @@
-gennaro-tedesco/boilit : Ain't nobody got time to create plugin directories: `boilit` yourself
+dpelle/vim-languagetool : This plugin integrates the LanguageTool grammar checker into Vim
+rhysd/vim-grammarous : a powerful grammar checker for Vim

@@ -9,3 +9,5 @@ smiteshp/nvim-navic : A simple statusline/winbar component that uses LSP to show
 jubnzv/virtual-types.nvim : shows type annotations for functions in virtual text using built-in LSP client
 vim-scripts/csapprox : This plugin makes GVim-only colorschemes Just Work in terminal Vim
 wellle/context.vim : shows the context of the currently visible buffer contents
+psliwka/vim-smoothie : makes scrolling nice and smooth
+norcalli/nvim-terminal.lua : high performance filetype mode for Neovim which leverages `concealand` highlights your buffer with the correct color codes

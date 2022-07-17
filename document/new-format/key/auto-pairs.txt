@@ -1,1 +1,2 @@
 townk/vim-autoclose : auto complete parentheses [archived]
+tmsvg/pear-tree : A painless, powerful Vim auto-pair plugin

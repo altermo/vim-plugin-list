@@ -2,3 +2,4 @@ mattn/vim-molder : Minimal File Explorer
 francoiscabrol/ranger.vim : Ranger integration in vim
 kevinhwang91/rnvimr : use Ranger in a floating window
 theblob42/drex.nvim : Another DiRectory EXplorer for Neovim
+scjangra/files-nvim : external file explorers

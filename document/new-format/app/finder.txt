@@ -7,3 +7,5 @@ vijaymarupudi/nvim-fzf : An asynchronous Lua API for using fzf in Neovim
 vijaymarupudi/nvim-fzf-commands : A repository for commands using the nvim-fzf library
 vim-ctrlspace/vim-ctrlspace : open finder by pressing `<C-space>`
 ibhagwan/fzf-lua : fzf loves lua
+nvim-pack/nvim-spectre : A search panel for neovim
+yggdroot/leaderf : An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc

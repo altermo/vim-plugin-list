@@ -40,3 +40,12 @@ nvim-treesitter/nvim-tree-docs : Highly configurable documentation generator usi
 miversen33/import.nvim : A safe require replacement with niceties
 xolox/vim-lua-ftplugin : Lua file type plug-in for Vim
 tyru/open-browser.vim : Open URI with your favorite browser from your most favorite editor
+heavenshell/vim-pydocstring : a generator for Python docstrings and is capable of automatically
+kristijanhusak/vim-carbon-now-sh : vim implementation plugin for opening selected content in https://carbon.now.sh
+kristijanhusak/vim-dadbod-ui : Simple UI for vim-dadbod
+tpope/vim-dadbod : Vim plugin for interacting with databases
+petobens/poet-v : detects and activates virtual environments in your python poetry or pipenv project
+dosimple/workspace.vim : make it easier to manage large number of buffers by keeping them grouped separately in workspaces
+tpope/vim-scriptease : a Vim plugin for making Vim plugins
+habamax/vim-evalvim : Run vimscript from anywhere in vim and save output to `*` (clipboard) register
+lambdalisue/neovim-prompt : A customizable command-line prompt module for Neovim/Vim

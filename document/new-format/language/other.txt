@@ -2,3 +2,6 @@ ethanjwright/toolwindow.nvim : Easy management of a toolwindow
 nvim-treesitter/nvim-treesitter-refactor : Refactor modules for nvim-treesitter [treesitter]
 dag/vim-fish : support for editing fish scripts
 tweekmonster/impsort.vim : sorting and highlighting Python imports
+yioneko/nvim-yati : Yet another tree-sitter indent plugin for Neovim
+sukima/xmledit : a file type plugin to help edit XML
+vimjas/vim-python-pep8-indent : modifies vim’s indentation behavior to comply with PEP8 and my aesthetic preferences

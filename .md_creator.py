@@ -57,8 +57,9 @@ class Assembler:
                     self.text+=f'  * {self.pluglinkweb(name)} : {self.formatplug(text)}\n'
                 else:
                     self.text+=f'  * {self.pluglinkweb(name)}\n'
-    def formatplug(self,text:str)->str:
-        return re.sub(r'\{([a-z0-9A-Z._-]*?)\}',r'[\1](https://github.com/\1)',text)
+    @staticmethod
+    def formatplug(text:str)->str:
+        return re.sub(r'\{([a-z0-9A-Z._-]*?/[a-z0-9A-Z._-]*?)\}',r'[\1](https://github.com/\1)',text)
     def pluglinkweb(self,name:str)->str:
         if name.startswith('https://gitlab.com/'):
             linkpre='https://gitlab.com'

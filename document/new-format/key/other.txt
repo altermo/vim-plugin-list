@@ -13,3 +13,6 @@ inkarkat/vim-enhancedjumps : This plugin enhances the built-in `CTRL-I`/`CTRL-O`
 hrsh7th/vim-searchx : extend search motions
 gbprod/cutlass.nvim : overrides the delete operations to actually just delete and not affect the current yank
 waylonwalker/telegraph.nvim : provides a way to send command conveniently and bind them to hotkeys
+wsdjeg/vim-fetch : process line and column jump specifications in file paths as found in stack traces and similar output
+hrsh7th/vim-seak : enhances the `/` and `?`
+lambdalisue/pinkyless.vim : Rest your pinkies by using this plugin

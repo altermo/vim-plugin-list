@@ -25,3 +25,4 @@ tanvirtin/nvim-monokai
 vigoux/oak
 windwp/wind-colors
 yagua/nebulous.nvim
+askfiy/catppuccin
