@@ -2,3 +2,4 @@ s1n7ax/nvim-window-picker : This plugins prompts the user to pick a window and r
 ripxorip/aerojump.nvim : Aerojump is a fuzzy-match searcher/jumper for Neovim
 yuki-yano/fuzzy-motion.vim : Jump to fuzzy match word
 osyo-manga/vim-hopping : This is a plugin that incrementally narrows down buffer lines
+mfussenegger/nvim-ts-hint-textobject : Treesitter hint textobject

@@ -49,3 +49,9 @@ dosimple/workspace.vim : make it easier to manage large number of buffers by kee
 tpope/vim-scriptease : a Vim plugin for making Vim plugins
 habamax/vim-evalvim : Run vimscript from anywhere in vim and save output to `*` (clipboard) register
 lambdalisue/neovim-prompt : A customizable command-line prompt module for Neovim/Vim
+davidgranstrom/scnvim : Neovim frontend for SuperCollider
+tpope/vim-pathogen : Manage your `runtimepath` with ease
+xiyaowong/link-visitor.nvim : Let me help you open the links
+rliang/termedit.nvim : Sets the Neovim host instance as `$EDITOR`
+strboul/urlview.vim : List and open URLs easily
+noscript/taberian.vim : Clickable tabs per VIM window

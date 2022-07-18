@@ -5,3 +5,4 @@ tweekmonster/impsort.vim : sorting and highlighting Python imports
 yioneko/nvim-yati : Yet another tree-sitter indent plugin for Neovim
 sukima/xmledit : a file type plugin to help edit XML
 vimjas/vim-python-pep8-indent : modifies vim’s indentation behavior to comply with PEP8 and my aesthetic preferences
+mhartington/nvim-typescript : nvim language service plugin for typescript

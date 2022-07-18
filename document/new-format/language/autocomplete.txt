@@ -9,3 +9,4 @@ hrsh7th/nvim-cmp : A completion engine plugin for neovim written in Lua
 hrsh7th/nvim-compe : Auto completion plugin for nvim [archived]
 inkarkat/vim-patterncomplete : offers completions that either use the last search pattern or query for a regular expression
 kristijanhusak/vim-dadbod-completion : Database auto completion powered by vim-dadbod
+neoclide/coc.nvim : conquer of completion

@@ -1,3 +1,9 @@
 kana/vim-textobj-indent : provide text objects to select a block of lines which are similarly indented to the current line
 tkhren/vim-textobj-numeral : Text objects for numbers
 tweekmonster/braceless.vim : Text objects, folding, and more for Python and other indented languages
+gcmt/wildfire.vim : quickly select the closest text object among a group of candidates
+julian/vim-textobj-variable-segment : providing a single text object for variable segments
+kana/vim-textobj-entire : Text objects for entire buffers
+kana/vim-textobj-line : select a portion of the current line
+nvim-treesitter/nvim-treesitter-textobjects : Syntax aware text-objects, select, move, swap, and peek support
+reedes/vim-textobj-quote : Extending Vim to better support typographic (‘curly’) quote characters

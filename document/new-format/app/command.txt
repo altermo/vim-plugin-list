@@ -5,3 +5,4 @@ yuratomo/w3m.vim : w3m inside vim
 wsdjeg/vim-cheat : cheat in vim
 ackeraa/todo.nvim : It helps you manage your to-do list
 vim-utils/vim-man : View man pages in vim
+itchyny/calendar.vim : A calendar application for Vim

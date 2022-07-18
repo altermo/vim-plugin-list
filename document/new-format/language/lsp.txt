@@ -5,3 +5,4 @@ liuchengxu/vista.vim : View and search LSP symbols, tags
 prabirshrestha/vim-lsp : Async Language Server Protocol plugin for vim8 and neovim
 glepnir/lspsaga.nvim : A light-weight lsp plugin based on neovim's built-in lsp with a highly performant UI
 mfussenegger/nvim-jdtls : Extensions for the built-in Language Server Protocol support in Neovim (>= 0.6.0) for eclipse.jdt.ls
+smjonas/inc-rename.nvim : provides a command for LSP renaming with immediate visual feedback

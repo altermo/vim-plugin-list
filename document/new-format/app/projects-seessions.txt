@@ -3,3 +3,4 @@ sheodox/projectlaunch.nvim : plugin for running commands in your project
 zhimsel/vim-stay : vim-stay adds automated view session creation and restoration whenever editing a buffer, across Vim sessions and window life cycles
 vim-scripts/sessionman.vim : keep session files in their decided folder and list all sessions, open session, open last session, close session, save session or show last session
 shaeinst/penvim : project's root directory and documents indentation detector with project based config loader
+natecraddock/workspaces.nvim : a simple plugin to manage workspace directories in neovim
