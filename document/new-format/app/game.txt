@@ -1,1 +1,5 @@
 vim-scripts/tetris.vim : A funny way to get used to VIM's h k l and <Space> key
+rbtnn/vim-mario : Mario on Vim
+rbtnn/vim-puyo : Puyo on Vim
+rbtnn/vim-game_engine : vim-game_engine
+seandewar/nvimesweeper : Play Minesweeper in Neovim

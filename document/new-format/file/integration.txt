@@ -1,1 +1,2 @@
 goerz/jupytext.vim : plugin for editing Jupyter notebook (ipynb) files through jupytext
+stsewd/sphinx.nvim : Sphinx integrations for Neovim

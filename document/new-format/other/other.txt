@@ -55,3 +55,33 @@ xiyaowong/link-visitor.nvim : Let me help you open the links
 rliang/termedit.nvim : Sets the Neovim host instance as `$EDITOR`
 strboul/urlview.vim : List and open URLs easily
 noscript/taberian.vim : Clickable tabs per VIM window
+vv-vim/vv : Neovim client for macOS
+shougo/neoinclude.vim : Include completion framework for neocomplete/deoplete/ncm
+kkharji/sqlite.lua : SQLite/LuaJIT binding and a highly opinionated wrapper for storing, retrieving, caching, and persisting SQLite databases
+huawenyu/vimgdb : implement GDB front-end for c/c++ gdb base on Neovim + Tmux
+jmcomets/vim-pony : working with Django projects in Vim
+brookhong/cscope.vim : smart cscope helper for vim
+thibthib18/mongo-nvim : MongoDB Integration in Neovim
+hupfdule/refactorvim : Vim plugin for refactoring vimscript plugins
+mcauley-penney/tidy.nvim : An autocommand that removes all trailing spaces/empty lines
+kezhenxu94/vim-mysql-plugin : A highly customizable MySQL VIM plugin
+cometsong/commentframe.vim : generate fancy-looking comments/section dividers with centered titles and append them at the current cursor position
+skywind3000/gutentags_plus : will update gtags database in background automatically
+arp242/batchy.vim : perform batch operations on files
+kdheepak/panvimdoc : Decrease friction when writing documentation for your plugins
+timeyyy/orchestra.nvim : lets you bind sound effects to different actions
+nanotee/nvim-if-lua-compat : An `if_lua` compatibility layer for Neovim
+sudormrfbin/cheatsheet.nvim : A searchable cheatsheet for neovim
+nanotee/luv-vimdocs : The luv docs in vimdoc format
+cappyzawa/trim.nvim : trailing whitespace and lines
+vim-scripts/a.vim : commands to swtich between source files and header files
+askfiy/nvim-picgo : a picture uploading tool based on Lua language
+justinmk/vim-gtfo : Opens the file manager or terminal at the directory of the current file
+skywind3000/vim-rt-format : Format current line immediately in INSERT mode as soon as you press ENTER
+seandewar/killersheep.nvim : A port of killersheep for Neovim
+amopel/vim-log-print : Like a commenter plugin, but for log/print statements
+vim-scripts/fortran.vim : adds additional indentation rules
+mg979/tasks.vim : manage and run global and project-local tasks
+sanhajio/synonyms.vim : allows you to show synonyms in a vim split
+milisims/nvim-luaref : This 'plugin' simply adds a reference for builtin lua functions
+thibthib18/ros-nvim : ROS in Neovim

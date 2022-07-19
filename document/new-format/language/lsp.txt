@@ -6,3 +6,7 @@ prabirshrestha/vim-lsp : Async Language Server Protocol plugin for vim8 and neov
 glepnir/lspsaga.nvim : A light-weight lsp plugin based on neovim's built-in lsp with a highly performant UI
 mfussenegger/nvim-jdtls : Extensions for the built-in Language Server Protocol support in Neovim (>= 0.6.0) for eclipse.jdt.ls
 smjonas/inc-rename.nvim : provides a command for LSP renaming with immediate visual feedback
+anott03/nvim-lspinstall : the plugin makes it really easy to install language servers for nvims built in lsp
+nanotee/nvim-lsp-basics : The shiny new built-in LSP client
+kosayoda/nvim-lightbulb : VSCode bulb for neovim's built-in LSP
+natebosch/vim-lsc : Adds language-aware tooling to vim by communicating with a language server following the language server protocol

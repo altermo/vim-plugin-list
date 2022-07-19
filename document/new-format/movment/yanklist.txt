@@ -1,0 +1,2 @@
+shougo/neoyank.vim : Saves yank history
+yazgoo/yank-history : historize vim yanks and allow to search and paste from history based on FZF

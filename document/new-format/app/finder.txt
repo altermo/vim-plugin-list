@@ -10,3 +10,7 @@ ibhagwan/fzf-lua : fzf loves lua
 nvim-pack/nvim-spectre : A search panel for neovim
 yggdroot/leaderf : An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc
 wsdjeg/flygrep.vim : Fly grep in vim
+lotabout/skim.vim : This is a fork of fzf.vim but for skim
+vim-scripts/bufexplorer.zip : quickly and easily switch between buffers
+ojroques/nvim-lspfuzzy : This plugin makes the Neovim LSP client use FZF to display results and navigate the code
+wincent/ferret : improves Vim's multi-file search in four ways

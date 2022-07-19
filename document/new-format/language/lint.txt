@@ -1,3 +1,4 @@
 w0rp/ale : ALE (Asynchronous Lint Engine) is a plugin providing linting (syntax checking and semantic errors)
-scrooloose/syntastic : Syntastic is a syntax checking plugin for Vim [no maintain]
+vim-syntastic/syntastic : Syntastic is a syntax checking plugin for Vim [no maintain]
 mfussenegger/nvim-lint : An asynchronous linter plugin for Neovim
+ nvie/vim-flake8 : runs the currently open file through Flake8, a static syntax and style checker for Python source code

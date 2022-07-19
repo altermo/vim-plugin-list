@@ -1,1 +1,2 @@
 mhinz/vim-startify : the fancy start screen for vim
+startup-nvim/startup.nvim : The fully customizable greeter for neovim

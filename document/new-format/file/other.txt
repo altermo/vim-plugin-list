@@ -1,2 +1,6 @@
 dpelle/vim-languagetool : This plugin integrates the LanguageTool grammar checker into Vim
 rhysd/vim-grammarous : a powerful grammar checker for Vim
+luchermitte/lh-cpp : heterogeneous suite of helpers for C and C++ programming
+mzlogin/vim-markdown-toc : generate table of contents for Markdown files
+tobys/pdv : your tool of choice for generating PHP doc blocks
+weirongxu/plantuml-previewer.vim : Vim/NeoVim plugin for preview PlantUML

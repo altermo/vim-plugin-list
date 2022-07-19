@@ -12,3 +12,4 @@ ldelossa/gh.nvim : a plugin for interactive code reviews which take place on the
 stsewd/fzf-checkout.vim : Manage branches and tags with fzf
 junkblocker/git-time-lapse : git timeline inside buffer
 wsdjeg/github.vim : Another github v3 api implemented in viml
+jreybert/vimagit : Ease your git workflow within vim

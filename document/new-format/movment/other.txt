@@ -3,3 +3,5 @@ rasukarusan/nvim-select-multi-line : Yank lines not adjacent
 t9md/vim-textmanip : move/duplicate blocks of text
 hrsh7th/vim-insert-point : cursor move on insert mode
 haya14busa/vim-asterisk : provides improved * motions
+zirrostig/vim-schlepp : allow the movement of lines (or blocks) of text around easily
+haya14busa/is.vim : incremental search improved

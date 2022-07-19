@@ -13,3 +13,17 @@ psliwka/vim-smoothie : makes scrolling nice and smooth
 norcalli/nvim-terminal.lua : high performance filetype mode for Neovim which leverages `concealand` highlights your buffer with the correct color codes
 valloric/matchtagalways : Always highlight enclosing tags
 dbmrq/vim-ditto : highlights overused words
+ryanoasis/vim-devicons : Adds icons to your plugins
+pocco81/noclc.nvim : disabling the cursor-line/column in unused windows/buffers
+cosmicnvim/cosmic-ui : simple wrapper around specific vim functionality
+ivyl/vim-bling : blinks search result after jumping
+vim-scripts/syntaxrange : provides commands and functions to set up regions in the current buffer that either use a syntax different from the buffer's 'filetype', or completely ignore the syntax
+junegunn/rainbow_parentheses.vim : Much simpler Rainbow Parentheses
+kien/rainbow_parentheses.vim : Better Rainbow Parentheses
+tjdevries/overlength.vim : hlight when lines go over the length that you want them
+ayosec/hltermpaste.vim : highlight terminal paste
+rickhowe/diffchar.vim : make diff mode more useful
+machakann/vim-highlightedyank : Make the yanked region apparent
+yggdroot/indentline : is used for displaying thin vertical lines at each indentation level for code indented with spaces
+lukas-reineke/indent-blankline.nvim : indentation guides to all lines
+nvim-lua/lsp-status.nvim : generating statusline components from the built-in LSP client

@@ -16,3 +16,10 @@ waylonwalker/telegraph.nvim : provides a way to send command conveniently and bi
 wsdjeg/vim-fetch : process line and column jump specifications in file paths as found in stack traces and similar output
 hrsh7th/vim-seak : enhances the `/` and `?`
 lambdalisue/pinkyless.vim : Rest your pinkies by using this plugin
+thyrum/vim-stabs : This script allows you to use your normal tab settings for the beginning of the line, and have tabs expanded as spaces anywhere else
+tpope/vim-unimpaired : adds complementary pairs of mappings (like `:bnext`/`bprevious`)
+takac/vim-hardtime : helps you break that annoying habit vimmers have of scrolling up and down the page using `jjjjj` and `kkkkk`
+inkarkat/vim-mark : adds mappings and a :Mark command to highlight several words in different colors simultaneously
+egzvor/vimproviser : quick remapping of two of your most convenient keys to actions that are most important for you right now
+kylechui/nvim-surround : Surround selections, stylishly
+gwatcha/reaper-keys : an extension for the REAPER DAW, that provides a new action mapping system based on key sequences instead of key chords

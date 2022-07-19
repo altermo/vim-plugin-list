@@ -1,2 +1,3 @@
 pocco81/truezen.nvim : Clean and elegant distraction-free writing
 junegunn/limelight.vim : Hyperfocus-writing in Vim
+henriquehbr/ataraxis.lua : absence of mental stress or anxiety, a state of serene calmness

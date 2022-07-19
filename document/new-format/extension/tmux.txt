@@ -1,2 +1,3 @@
 junegunn/heytmux : Tmux scripting made easy
+preservim/vimux : easily interact with tmux from vim
 shivamashtikar/tmuxjump.vim : A plugin to open file from file paths printed in sibling tmux pane

@@ -3,3 +3,4 @@ marcweber/vim-addon-manager : fetch & activate plugins at startup or runtime dep
 k-takata/minpac : A minimal package manager for Vim 8 (and Neovim)
 tek/proteome.nvim : [deprecated] use {tek/chromatin} instead
 tek/chromatin : a manager for plugins built in Haskell with nvim-hs and ribosome
+egalpin/apt-vim : Yet another Plugin Manager

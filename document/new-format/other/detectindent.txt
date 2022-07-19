@@ -1,0 +1,6 @@
+timakro/vim-yadi : Yet Another Detect Indent
+ciaranm/detectindent : automatically detecting indent settings
+tpope/vim-sleuth : automatically adjusts `'shiftwidth'` and `'expandtab'` heuristically based on the current file
+raimondi/yaifa : try to detect the kind of indentation used in your file and set the indenting options to the appropriate values
+conormcd/matchindent.vim : scans through a file when it's opened and attempts to guess which style of indentation is being used
+ldx/vim-indentfinder : vim plugin for automatically detecting indentation

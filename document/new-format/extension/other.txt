@@ -1,3 +1,7 @@
 philrunninger/nerdtree-buffer-ops : a NERDTree plugin that highlights all visible nodes that are open in Vim
 tiagofumo/vim-nerdtree-syntax-highlight : adds syntax for nerdtree on most common file extensions
 scrooloose/nerdtree-project-plugin : nerd extension which preserves Tree state (open/closed dirs) between sessions
+wellle/tmux-complete.vim : insert mode completion of words in adjacent tmux panes
+tommcdo/vim-fugitive-blame-ext : extends the functionality of tpope's fugitive plugin by showing first line of the commit message
+thehamsta/nvim-treesitter-commonlisp : extends the standard highlighting of nvim-treesitter for Common Lisp
+thomasfaingnaert/vim-lsp-neosnippet : integrates neosnippet.vim in vim-lsp

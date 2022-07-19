@@ -3,3 +3,5 @@ shougo/neosnippet-snippets : The standard snippets repository for neosnippet
 shougo/neosnippet.vim : The Neosnippet plug-In adds snippet support to Vim
 rafamadriz/friendly-snippets : Snippets collection for a set of different programming languages
 norcalli/snippets.nvim : snippets nvim
+jorengarenar/minisnip : miniSnipis lightweight and minimal snippet plugin written in Vim Script
+dcampos/nvim-snippy : A snippets plugin for Neovim 0.5.0+ written in Lua

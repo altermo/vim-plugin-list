@@ -1,1 +1,2 @@
 folke/todo-comments.nvim : highlight and search for todo comments like TODO, HACK, BUG
+aserebryakov/vim-todo-lists : TODO lists management

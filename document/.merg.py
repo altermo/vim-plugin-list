@@ -10,9 +10,9 @@ def old_merg(data:dict)->None:
             if '´' in i:
                 if ':' in i:
                     name,text=re.findall(r'^´(.*?)´ : (.*)$',i)[0]
-                    out.append(['https://gitlab.com/'+name,text])
                 else:
                     name,text=re.findall(r'^´(.*?)´()$',i)[0]
+                out.append(['https://gitlab.com/'+name,text])
                 continue
             if ':' in i:
                 out.append(re.findall(r'^{(.*?)} : (.*)$',i)[0])

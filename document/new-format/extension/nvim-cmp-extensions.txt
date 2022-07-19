@@ -4,3 +4,5 @@ hrsh7th/cmp-nvim-lsp-document-symbol : nvim-cmp source for textDocument/document
 lukas-reineke/cmp-under-comparator : A tiny function for nvim-cmpto better sort completion items that start with one or more underlines
 tzachar/cmp-fuzzy-buffer : nvim-cmp source for fuzzy matched items from using the current buffer
 tzachar/cmp-fuzzy-path : nvim-cmp source for filesystem paths, employing `fd` and regular expressions to find files
+dmitmel/cmp-cmdline-history : nvim-cmp source for getting completions from command-line or search histories.
+hrsh7th/cmp-vsnip : nvim-cmp source for vim-vsnip

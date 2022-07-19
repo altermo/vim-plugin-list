@@ -3,3 +3,6 @@ shougo/deol.nvim : dark powered shell for Neovim
 loricandre/oneterm.nvim : One terminal plugin to rule them all (eventually)
 itmecho/neoterm.nvim : Simple neovim terminal plugin written in lua
 s1n7ax/nvim-terminal : open/toggle the terminals in Neovim
+mizlan/termbufm : A wrapper around the Neovim terminal window
+chengzeyi/multiterm.vim : Toggle and Switch Between Multiple Floating Terminals
+lenovsky/nuake : A Quake-style terminal panel

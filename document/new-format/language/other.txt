@@ -6,3 +6,9 @@ yioneko/nvim-yati : Yet another tree-sitter indent plugin for Neovim
 sukima/xmledit : a file type plugin to help edit XML
 vimjas/vim-python-pep8-indent : modifies vim’s indentation behavior to comply with PEP8 and my aesthetic preferences
 mhartington/nvim-typescript : nvim language service plugin for typescript
+pkazmier/java_getset.vim : file type plugin for the creation of Java getters and setters
+crusj/structrue-go.nvim : A more intuitive display of the symbol structure of golang files
+sheerun/vim-polyglot : A collection of language packs for Vim
+junegunn/vim-cfr : Decompile Java class files using CFR
+simrat39/rust-tools.nvim : Extra rust tools for writing applications in neovim using the native lsp
+tpope/vim-salve : Static Vim support for Leiningen, Boot, and the Clojure CLI
