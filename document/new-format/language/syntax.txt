@@ -7,3 +7,6 @@ nickhutchinson/vim-cmake-syntax : Vim syntax highlighting rules for modern CMake
 maxmellon/vim-jsx-pretty : The React syntax highlighting and indenting plugin
 shougo/neco-syntax : Syntax source for neocomplete/deoplete/ncm
 tomlion/vim-solidity : Syntax files for Solidity
+vim-python/python-syntax : Python syntax highlighting for Vim
+vim-ruby/vim-ruby : includes syntax highlighting, indentation, omnicompletion, and various useful tools and mappings for writing ruby code
+peitalin/vim-jsx-typescript : Syntax highlighting and indentation for JSX in Typescript

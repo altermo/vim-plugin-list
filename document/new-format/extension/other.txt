@@ -5,3 +5,4 @@ wellle/tmux-complete.vim : insert mode completion of words in adjacent tmux pane
 tommcdo/vim-fugitive-blame-ext : extends the functionality of tpope's fugitive plugin by showing first line of the commit message
 thehamsta/nvim-treesitter-commonlisp : extends the standard highlighting of nvim-treesitter for Common Lisp
 thomasfaingnaert/vim-lsp-neosnippet : integrates neosnippet.vim in vim-lsp
+matsui54/defx-sftp : a defx source for sftp

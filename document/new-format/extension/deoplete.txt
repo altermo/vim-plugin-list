@@ -1,1 +1,0 @@
-ponko2/deoplete-fish : deoplete.nvim source for fish

@@ -786,7 +786,6 @@ lunarvim/onedarker.nvim
 luochen1990/rainbow
 luukvbaal/nnn.nvim
 luukvbaal/stabilize.nvim
-lyude/neovim-gtk
 lyuts/vim-rtags
 m-demare/attempt.nvim
 m-demare/hlargs.nvim
@@ -1256,7 +1255,6 @@ shadmansaleh/irc.nvim
 shaeinst/penvim
 shaeinst/roshnivim
 shaeinst/roshnivim-cs
-sharkdp/fd
 shatur/neovim-ayu
 shatur/neovim-session-manager
 shaunsingh/moonlight.nvim
@@ -1684,3 +1682,4 @@ ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsaberlv0/completeparameter_generic.vim
 zsugabubus/crazy8.nvim
+daa84/neovim-gtk

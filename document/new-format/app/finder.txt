@@ -14,3 +14,4 @@ lotabout/skim.vim : This is a fork of fzf.vim but for skim
 vim-scripts/bufexplorer.zip : quickly and easily switch between buffers
 ojroques/nvim-lspfuzzy : This plugin makes the Neovim LSP client use FZF to display results and navigate the code
 wincent/ferret : improves Vim's multi-file search in four ways
+jlanzarotta/bufexplorer : BufExplorer Plugin for Vim

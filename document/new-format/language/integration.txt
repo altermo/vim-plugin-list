@@ -3,3 +3,4 @@ rust-lang/rust.vim : Vim plugin that provides Rust file detection, syntax highli
 guns/vim-clojure-static : clojure and ClojureScript highlighting/indentation/Basic insert mode completion
 david-kunz/jester : A Neovim plugin to easily run and debug Jest tests
 stsewd/sphinx.nvim : Sphinx integrations for Neovim
+crispgm/nvim-go : A minimal implementation of Golang development plugin written in Lua for Neovim

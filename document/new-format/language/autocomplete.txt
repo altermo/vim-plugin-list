@@ -11,3 +11,4 @@ inkarkat/vim-patterncomplete : offers completions that either use the last searc
 kristijanhusak/vim-dadbod-completion : Database auto completion powered by vim-dadbod
 neoclide/coc.nvim : conquer of completion
 ncm2/ncm2 : is a slim, fast and hackable completion framework for neovim
+mfussenegger/nvim-lsp-compl : A fast and asynchronous auto-completion plugin for Neovim >= 0.7.0, focused on LSP

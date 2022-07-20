@@ -3,3 +3,4 @@ dzhou121/gonvim : Neovim GUI written in Golang [archived]
 akiyosi/goneovim : Neovim GUI written in Go
 kethku/neovide : This is a simple graphical user interface for Neovim
 rohit-px2/nvui : nvim gui written in cpp
+daa84/neovim-gtk : GTK ui for neovim written in rust using gtk-rs bindings, with ligatures support

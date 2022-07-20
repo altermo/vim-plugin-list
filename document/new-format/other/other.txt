@@ -85,3 +85,8 @@ mg979/tasks.vim : manage and run global and project-local tasks
 sanhajio/synonyms.vim : allows you to show synonyms in a vim split
 milisims/nvim-luaref : This 'plugin' simply adds a reference for builtin lua functions
 thibthib18/ros-nvim : ROS in Neovim
+jmcantrell/vim-virtualenv : make it possible to run `:python` with virtual environments
+ntbbloodbath/nvenv : lightweight and blazing fast Neovim version manager
+dahu/vimple : provides a few maps and commands to make the casual vimmer’s life a little easier
+m00qek/plugin-template.nvim : A template to create Neovim plugins written in Lua
+wyattjsmith1/weather.nvim : A simple plugin to display weather in nvim

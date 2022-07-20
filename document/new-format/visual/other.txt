@@ -27,3 +27,5 @@ machakann/vim-highlightedyank : Make the yanked region apparent
 yggdroot/indentline : is used for displaying thin vertical lines at each indentation level for code indented with spaces
 lukas-reineke/indent-blankline.nvim : indentation guides to all lines
 nvim-lua/lsp-status.nvim : generating statusline components from the built-in LSP client
+axlebedev/footprints : Highlight last edited lines
+qxxxb/vim-searchhi : Highlight the current search result in a different style than the other search results
