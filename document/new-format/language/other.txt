@@ -15,3 +15,4 @@ tpope/vim-salve : Static Vim support for Leiningen, Boot, and the Clojure CLI
 tpope/vim-endwise : helps to end certain structures automatically, like adding `end` after `if`,`while`... in lua.
 devjoe/vim-codequery : Search source code gracefully, Manage your database easily and Know your code more instantly
 jbyuki/carrot.nvim : Markdown evaluator for Neovim Lua code blocks
+ternjs/tern_for_vim : provides Tern-based JavaScript editing support

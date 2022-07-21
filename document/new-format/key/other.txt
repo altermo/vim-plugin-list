@@ -23,3 +23,4 @@ inkarkat/vim-mark : adds mappings and a :Mark command to highlight several words
 egzvor/vimproviser : quick remapping of two of your most convenient keys to actions that are most important for you right now
 kylechui/nvim-surround : Surround selections, stylishly
 gwatcha/reaper-keys : an extension for the REAPER DAW, that provides a new action mapping system based on key sequences instead of key chords
+luchermitte/lh-brackets : provides various commands and functions to help design smart and advanced mappings dedicated to text insertion

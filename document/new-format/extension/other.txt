@@ -6,3 +6,5 @@ tommcdo/vim-fugitive-blame-ext : extends the functionality of tpope's fugitive p
 thehamsta/nvim-treesitter-commonlisp : extends the standard highlighting of nvim-treesitter for Common Lisp
 thomasfaingnaert/vim-lsp-neosnippet : integrates neosnippet.vim in vim-lsp
 matsui54/defx-sftp : a defx source for sftp
+tjdevries/tree-sitter-lua : Tree sitter grammar for Lua built to be used inside of Neovim
+kristijanhusak/defx-icons : Custom implementation of vim-devicons for defx.nvim

@@ -10,3 +10,7 @@ anott03/nvim-lspinstall : the plugin makes it really easy to install language se
 nanotee/nvim-lsp-basics : The shiny new built-in LSP client
 kosayoda/nvim-lightbulb : VSCode bulb for neovim's built-in LSP
 natebosch/vim-lsc : Adds language-aware tooling to vim by communicating with a language server following the language server protocol
+onsails/diaglist.nvim : Live-updating Neovim LSP diagnostics in quickfix and loclist
+jose-elias-alvarez/null-ls.nvim : Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua
+rishabhrd/nvim-lsputils : focuses on making nvim LSP actions highly user friendly
+weilbith/nvim-lsp-smag : allows to seamlessly integrate the language server protocol into NeoVim

@@ -235,6 +235,7 @@ ctrlpvim/ctrlp.vim
 cuducos/yaml.nvim
 cyansprite/extract
 d4ku/vim-pushover
+daa84/neovim-gtk
 dag/vim-fish
 dagwieers/asciidoc-vim
 dahu/asif
@@ -1200,7 +1201,6 @@ romainl/vim-qlist
 romainl/vim-quicklist
 romainl/vim-sweet16
 romgrk/barbar.nvim
-romgrk/fzy-lua-native
 romgrk/nvim-treesitter-context
 romgrk/searchreplace.vim
 ron89/thesaurus_query.vim
@@ -1682,4 +1682,3 @@ ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsaberlv0/completeparameter_generic.vim
 zsugabubus/crazy8.nvim
-daa84/neovim-gtk

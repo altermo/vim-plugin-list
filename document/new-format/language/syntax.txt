@@ -10,3 +10,6 @@ tomlion/vim-solidity : Syntax files for Solidity
 vim-python/python-syntax : Python syntax highlighting for Vim
 vim-ruby/vim-ruby : includes syntax highlighting, indentation, omnicompletion, and various useful tools and mappings for writing ruby code
 peitalin/vim-jsx-typescript : Syntax highlighting and indentation for JSX in Typescript
+octol/vim-cpp-enhanced-highlight : contains additional syntax highlighting that I use for C++11/14/17 development in Vim
+othree/yajs.vim : Yet Another JavaScript Syntax file for Vim
+jelera/vim-javascript-syntax : Enhanced JavaScript Syntax for Vim

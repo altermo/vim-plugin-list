@@ -3,3 +3,5 @@ rbtnn/vim-mario : Mario on Vim
 rbtnn/vim-puyo : Puyo on Vim
 rbtnn/vim-game_engine : vim-game_engine
 seandewar/nvimesweeper : Play Minesweeper in Neovim
+seandewar/killersheep.nvim : A port of killersheep for Neovim
+vim/killersheep : Silly game to show off the new features of Vim 8.2

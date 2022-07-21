@@ -78,7 +78,6 @@ vim-scripts/a.vim : commands to swtich between source files and header files
 askfiy/nvim-picgo : a picture uploading tool based on Lua language
 justinmk/vim-gtfo : Opens the file manager or terminal at the directory of the current file
 skywind3000/vim-rt-format : Format current line immediately in INSERT mode as soon as you press ENTER
-seandewar/killersheep.nvim : A port of killersheep for Neovim
 amopel/vim-log-print : Like a commenter plugin, but for log/print statements
 vim-scripts/fortran.vim : adds additional indentation rules
 mg979/tasks.vim : manage and run global and project-local tasks
@@ -90,3 +89,5 @@ ntbbloodbath/nvenv : lightweight and blazing fast Neovim version manager
 dahu/vimple : provides a few maps and commands to make the casual vimmer’s life a little easier
 m00qek/plugin-template.nvim : A template to create Neovim plugins written in Lua
 wyattjsmith1/weather.nvim : A simple plugin to display weather in nvim
+mhinz/vim-rfc : lists all existing RFCs and opens the selected one in a new buffer
+jsfaint/gen_tags.vim :Async plugin for Vim to ease the use of ctags/gtags

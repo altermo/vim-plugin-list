@@ -1,1 +1,2 @@
 ldelossa/litee.nvim : a library for building "IDE-lite" experiences in Neovim
+klen/python-mode : a Python IDE for Vim
