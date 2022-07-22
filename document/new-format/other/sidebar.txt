@@ -1,2 +1,3 @@
 sidebar-nvim/sidebar.nvim : A generic and modular lua sidebar inspired by lualine
 lambdalisue/fern.vim : is a general purpose asynchronous tree viewer written in pure Vim script
+preservim/tagbar : a class outline viewer for Vim

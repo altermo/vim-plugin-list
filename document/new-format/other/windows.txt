@@ -2,3 +2,4 @@ mattboehm/vim-accordion : set the maximum number of splits you want to see, and 
 smithbm2316/centerpad.nvim : Center your single lonely buffer easily
 szw/vim-maximizer : Maximizes and restores the current window
 mrjones2014/smart-splits.nvim : Smart, directional Neovim split resizing and navigation
+declancm/windex.nvim : neovim plugin for cleeean neovim window (and tmux pane) functions

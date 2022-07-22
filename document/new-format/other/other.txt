@@ -13,7 +13,6 @@ tweekmonster/helpful.vim : A plugin for plugin developers to get the version of 
 nyngwang/neozoom.lua : TL;DR: Using floating window instead of vim-tab to simulate "zoom-in"
 sgur/vim-editorconfig : Yet another Vim plugin for EditorConfig
 wakatime/vim-wakatime : open source Vim plugin for metrics, insights, and time tracking automatically generated from your programming activity
-reedes/vim-lexical : extend vims spellchecker
 miversen33/netman.nvim : Network Resource Manager
 junegunn/vim-emoji : Emoji in Vim
 vuki656/package-info.nvim : All the `npm`/`yarn`/`pnpm` commands I don't want to type
@@ -91,3 +90,13 @@ m00qek/plugin-template.nvim : A template to create Neovim plugins written in Lua
 wyattjsmith1/weather.nvim : A simple plugin to display weather in nvim
 mhinz/vim-rfc : lists all existing RFCs and opens the selected one in a new buffer
 jsfaint/gen_tags.vim :Async plugin for Vim to ease the use of ctags/gtags
+darazaki/indent-o-matic : Dumb automatic fast indentation detection for Neovim written in Lua
+ziontee113/icon-picker.nvim : helps you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis ✨
+roxma/nvim-yarp : Yet Another Remote Plugin Framework for Neovim
+prettier/vim-prettier : wrapper for prettier, pre-configured with custom default prettier settings
+andrewradev/linediff.vim : provides a simple command, `:Linediff`,which is used to diff two separate blocks of text
+roxma/vim-hug-neovim-rpc : trying to build a compatibility layer for neovim rpc client working on vim8
+arthurxavierx/vim-caser : Easily change word casing with motions, text objects or visual mode
+vim-jp/vital.vim : A comprehensive Vim utility functions for Vim plugins
+tpope/vim-apathy : sets the five path searching options for file types I don't care about enough to bother with creating a proper plugin
+chrisbra/nrrwrgn : focus on a selected region while making the rest inaccessible

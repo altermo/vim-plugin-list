@@ -28,3 +28,4 @@ slarwise/telescope-args.nvim : telescopeextension for navigating the argument li
 tamago324/telescope-openbrowser.nvim : Integration for open-browser.vim with telescope.nvim
 tc72/telescope-tele-tabby.nvim : A tab switcher extension for Telescope
 zane-/howdoi.nvim : telescope extension for previewing howdoi results
+elpiloto/telescope-vimwiki.nvim : Look for your vimwiki pages using telescope

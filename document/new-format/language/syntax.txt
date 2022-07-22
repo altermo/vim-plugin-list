@@ -13,3 +13,5 @@ peitalin/vim-jsx-typescript : Syntax highlighting and indentation for JSX in Typ
 octol/vim-cpp-enhanced-highlight : contains additional syntax highlighting that I use for C++11/14/17 development in Vim
 othree/yajs.vim : Yet Another JavaScript Syntax file for Vim
 jelera/vim-javascript-syntax : Enhanced JavaScript Syntax for Vim
+vhda/verilog_systemverilog.vim : Vim Syntax Plugin for Verilog and SystemVerilog
+tbastos/vim-lua : Improved Lua 5.3 syntax and indentation support for Vim

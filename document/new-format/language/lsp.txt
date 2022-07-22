@@ -14,3 +14,5 @@ onsails/diaglist.nvim : Live-updating Neovim LSP diagnostics in quickfix and loc
 jose-elias-alvarez/null-ls.nvim : Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua
 rishabhrd/nvim-lsputils : focuses on making nvim LSP actions highly user friendly
 weilbith/nvim-lsp-smag : allows to seamlessly integrate the language server protocol into NeoVim
+hrsh7th/vim-lamp : Language Server Protocol client for Vim
+lukas-reineke/lsp-format.nvim : a wrapper around Neovims native LSP formatting

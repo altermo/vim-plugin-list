@@ -16,3 +16,9 @@ tpope/vim-endwise : helps to end certain structures automatically, like adding `
 devjoe/vim-codequery : Search source code gracefully, Manage your database easily and Know your code more instantly
 jbyuki/carrot.nvim : Markdown evaluator for Neovim Lua code blocks
 ternjs/tern_for_vim : provides Tern-based JavaScript editing support
+moll/vim-node : Tools to make Vim superb for developing with Node.js
+jakewvincent/texmagic.nvim : TEXMagic is a very simple Neovimplugin that facilitates LaTeX build engine selection via magic comments
+b0o/schemastore.nvim : Neovim Lua plugin providing access to the SchemaStore catalog
+akinsho/flutter-tools.nvim : Build flutter and dart applications in neovim using the native LSP
+pappasam/vim-filetype-formatter : simple, cross language Vim code formatter plugin supporting both range and full-file formatting
+gleitz/howdoi : Instant coding answers via the command line

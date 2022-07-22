@@ -6,3 +6,7 @@ wsdjeg/vim-cheat : cheat in vim
 ackeraa/todo.nvim : It helps you manage your to-do list
 vim-utils/vim-man : View man pages in vim
 itchyny/calendar.vim : A calendar application for Vim
+rbgrouleff/bclose.vim : deleting a buffer in Vim without closing the window
+andreicristianpetcu/vim-van : Read Unix man pages faster than a speeding bullet
+dbeniamine/vim-mail : a small helper for writing mail from vim
+https://gitlab.com/dbeniamine/vim-mail : a small helper for writing mail from vim

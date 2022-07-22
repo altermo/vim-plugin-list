@@ -91,7 +91,6 @@ arp242/runbuf.vim
 artart222/codeart
 arthurealike/vim-j
 arthurxavierx/vim-caser
-artur-shaik/javacomplete2
 artur-shaik/jc.nvim
 artur-shaik/vim-javacomplete2
 arzg/vim-substrata
@@ -322,6 +321,7 @@ ellisonleao/carbon-now.nvim
 ellisonleao/glow.nvim
 ellisonleao/gruvbox.nvim
 ellisonleao/nvim-plugin-template
+elpiloto/telescope-vimwiki.nvim
 eluum/vim-autopair
 elvessousa/sobrio
 equalsraf/neovim-gui-shim
@@ -380,7 +380,6 @@ francoiscabrol/ranger.vim
 frazrepo/vim-rainbow
 fredkschott/covim
 frenzyexists/aquarium-vim
-fszymanski/fzf-gitignore
 ful1e5/onedark.nvim
 furkanzmc/firvish.nvim
 furkanzmc/options.nvim
@@ -490,6 +489,7 @@ hrsh7th/vim-lamp
 hrsh7th/vim-seak
 hrsh7th/vim-searchx
 hrsh7th/vim-vsnip
+https://gitlab.com/dbeniamine/vim-mail
 https://gitlab.com/yorickpeterse/nvim-grey
 https://gitlab.com/yorickpeterse/nvim-pqf
 https://gitlab.com/yorickpeterse/nvim-window
@@ -1682,3 +1682,4 @@ ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsaberlv0/completeparameter_generic.vim
 zsugabubus/crazy8.nvim
+gleitz/howdoi
