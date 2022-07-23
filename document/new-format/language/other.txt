@@ -22,3 +22,5 @@ b0o/schemastore.nvim : Neovim Lua plugin providing access to the SchemaStore cat
 akinsho/flutter-tools.nvim : Build flutter and dart applications in neovim using the native LSP
 pappasam/vim-filetype-formatter : simple, cross language Vim code formatter plugin supporting both range and full-file formatting
 gleitz/howdoi : Instant coding answers via the command line
+aonemd/fmt.vim : delegates the auto-formatting to a formatter
+jsborjesson/vim-uppercase-sql : auto uppercase sql keywords

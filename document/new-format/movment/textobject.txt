@@ -7,3 +7,4 @@ kana/vim-textobj-entire : Text objects for entire buffers
 kana/vim-textobj-line : select a portion of the current line
 nvim-treesitter/nvim-treesitter-textobjects : Syntax aware text-objects, select, move, swap, and peek support
 reedes/vim-textobj-quote : Extending Vim to better support typographic (‘curly’) quote characters
+jeetsukumaran/vim-indentwise : provides for motions based on indent depths or levels

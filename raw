@@ -409,6 +409,7 @@ ghillb/cybu.nvim
 github.com/wbthomason
 github/copilot.vim
 glacambre/firenvim
+gleitz/howdoi
 glench/vim-jinja2-syntax
 glepnir/dashboard-nvim
 glepnir/galaxyline.nvim
@@ -916,7 +917,6 @@ ncm2/ncm2
 nekonako/xresources-nvim
 neoclide/coc.nvim
 neomake/neomake
-neovim.io/logos
 neovim/go-client
 neovim/nvim-lspconfig
 neovimhaskell/haskell-vim
@@ -1682,4 +1682,3 @@ ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zsaberlv0/completeparameter_generic.vim
 zsugabubus/crazy8.nvim
-gleitz/howdoi

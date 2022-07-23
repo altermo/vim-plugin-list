@@ -6,3 +6,4 @@ s1n7ax/nvim-terminal : open/toggle the terminals in Neovim
 mizlan/termbufm : A wrapper around the Neovim terminal window
 chengzeyi/multiterm.vim : Toggle and Switch Between Multiple Floating Terminals
 lenovsky/nuake : A Quake-style terminal panel
+pianocomposer321/consolation.nvim : A general-perpose terminal wrapper and management plugin for neovim

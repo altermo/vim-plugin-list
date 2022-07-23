@@ -78,7 +78,6 @@ askfiy/nvim-picgo : a picture uploading tool based on Lua language
 justinmk/vim-gtfo : Opens the file manager or terminal at the directory of the current file
 skywind3000/vim-rt-format : Format current line immediately in INSERT mode as soon as you press ENTER
 amopel/vim-log-print : Like a commenter plugin, but for log/print statements
-vim-scripts/fortran.vim : adds additional indentation rules
 mg979/tasks.vim : manage and run global and project-local tasks
 sanhajio/synonyms.vim : allows you to show synonyms in a vim split
 milisims/nvim-luaref : This 'plugin' simply adds a reference for builtin lua functions
@@ -90,7 +89,6 @@ m00qek/plugin-template.nvim : A template to create Neovim plugins written in Lua
 wyattjsmith1/weather.nvim : A simple plugin to display weather in nvim
 mhinz/vim-rfc : lists all existing RFCs and opens the selected one in a new buffer
 jsfaint/gen_tags.vim :Async plugin for Vim to ease the use of ctags/gtags
-darazaki/indent-o-matic : Dumb automatic fast indentation detection for Neovim written in Lua
 ziontee113/icon-picker.nvim : helps you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis ✨
 roxma/nvim-yarp : Yet Another Remote Plugin Framework for Neovim
 prettier/vim-prettier : wrapper for prettier, pre-configured with custom default prettier settings
@@ -100,3 +98,8 @@ arthurxavierx/vim-caser : Easily change word casing with motions, text objects o
 vim-jp/vital.vim : A comprehensive Vim utility functions for Vim plugins
 tpope/vim-apathy : sets the five path searching options for file types I don't care about enough to bother with creating a proper plugin
 chrisbra/nrrwrgn : focus on a selected region while making the rest inaccessible
+rbtnn/vim-ambiwidth : auto set `'ambiwidth'` (i guess, the doc is in Japanese)
+gpanders/editorconfig.nvim : EditorConfig plugin for Neovim written in (NOT Lua) Fennel
+noahfrederick/vim-composer : Vim support for Composer PHP projects
+rktjmp/fwatch.nvim : watch files or directories for changes and then run vim commands or lua functions
+danymat/neogen : Your Annotation Toolkit

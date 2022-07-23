@@ -30,3 +30,4 @@ nvim-lua/lsp-status.nvim : generating statusline components from the built-in LS
 axlebedev/footprints : Highlight last edited lines
 qxxxb/vim-searchhi : Highlight the current search result in a different style than the other search results
 lewis6991/nvim-treesitter-context : Lightweight alternative to context.vim implemented with nvim-treesitter
+nfrid/due.nvim : provides you due for the date string

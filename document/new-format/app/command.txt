@@ -10,3 +10,4 @@ rbgrouleff/bclose.vim : deleting a buffer in Vim without closing the window
 andreicristianpetcu/vim-van : Read Unix man pages faster than a speeding bullet
 dbeniamine/vim-mail : a small helper for writing mail from vim
 https://gitlab.com/dbeniamine/vim-mail : a small helper for writing mail from vim
+moll/vim-bbye : delete buffers without closing your windows or messing up your layout

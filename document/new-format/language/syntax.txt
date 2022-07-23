@@ -15,3 +15,4 @@ othree/yajs.vim : Yet Another JavaScript Syntax file for Vim
 jelera/vim-javascript-syntax : Enhanced JavaScript Syntax for Vim
 vhda/verilog_systemverilog.vim : Vim Syntax Plugin for Verilog and SystemVerilog
 tbastos/vim-lua : Improved Lua 5.3 syntax and indentation support for Vim
+neovimhaskell/haskell-vim : Syntax Highlighting and Indentation for Haskell and Cabal

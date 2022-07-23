@@ -5,3 +5,4 @@ vimwiki/vimwiki : VimWiki is a personal wiki for Vim
 rexagod/samwise.nvim : line-wise note-taking plugin for neovim
 dobrovolsky/kb-notes.nvim : Yet another note management system for neovim
 luk400/vim-jukit : REPL plugin and Jupyter-Notebook alternative for Vim
+linden-project/linny.vim : Personal wiki and document database

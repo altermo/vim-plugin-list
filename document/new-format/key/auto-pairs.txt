@@ -4,3 +4,5 @@ tenfyzhong/completeparameter.vim : complete function's parameters after complete
 zsaberlv0/completeparameter_generic.vim : generic verion of CompleteParameter.vim
 raimondi/delimitmate : automatic closing of quotes, parenthesis, brackets, etc
 shougo/neopairs.vim : Auto insert pairs when complete done
+vim-scripts/delimitmate.vim : automatic closing of quotes, parenthesis, brackets
+jiangmiao/auto-pairs : Insert or delete brackets, parens, quotes in pair

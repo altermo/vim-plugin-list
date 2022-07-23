@@ -5,3 +5,5 @@ rbtnn/vim-game_engine : vim-game_engine
 seandewar/nvimesweeper : Play Minesweeper in Neovim
 seandewar/killersheep.nvim : A port of killersheep for Neovim
 vim/killersheep : Silly game to show off the new features of Vim 8.2
+iqxd/vim-mine-sweeping : mine sweeping game in vim
+theprimeagen/vim-be-good : designed to make you better at vim by creating a game to practice basic movements in

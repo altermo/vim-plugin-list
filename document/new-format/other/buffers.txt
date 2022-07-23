@@ -1,2 +1,3 @@
 el-iot/buffer-tree : rendering your buffer-list as an ascii-tree
 el-iot/buffer-tree-explorer : exploring vim-buffers, rendered as an ascii-tree
+caenrique/swap-buffers.nvim : swap buffers easily between split windows without changing the window layout

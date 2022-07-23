@@ -5,3 +5,5 @@ tek/proteome.nvim : [deprecated] use {tek/chromatin} instead
 tek/chromatin : a manager for plugins built in Haskell with nvim-hs and ribosome
 egalpin/apt-vim : Yet another Plugin Manager
 shougo/dein.vim : dark powered Vim/Neovim plugin manager
+gmarik/vundle.vim : short for Vim bundle and is a Vim plugin manager
+savq/paq-nvim : Neovim package manager written in Lua

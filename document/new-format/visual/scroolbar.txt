@@ -1,2 +1,3 @@
 lewis6991/satellite.nvim : displays decorated scrollbars
 dstein64/nvim-scrollview : Neovim plugin that displays interactive vertical scrollbars
+petertriho/nvim-scrollbar : Extensible Neovim Scrollbar

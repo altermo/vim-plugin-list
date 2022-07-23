@@ -25,3 +25,4 @@ kylechui/nvim-surround : Surround selections, stylishly
 gwatcha/reaper-keys : an extension for the REAPER DAW, that provides a new action mapping system based on key sequences instead of key chords
 luchermitte/lh-brackets : provides various commands and functions to help design smart and advanced mappings dedicated to text insertion
 christoomey/vim-sort-motion : provides the ability to sort in Vim using text objects and motions
+lyuts/vim-rtags : Vim bindings for rtags
