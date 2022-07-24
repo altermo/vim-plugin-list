@@ -2,3 +2,4 @@ suy/vim-context-commentstring : automatically set the 'commentstring' and 'comme
 gennaro-tedesco/nvim-commaround : toggle comments on and off
 preservim/nerdcommenter : Comment functions so powerful—no comment necessary
 glepnir/prodoc.nvim : comment and annotation plugin using coroutine
+tyru/caw.vim : Comment plugin: Operator/Dot-repeatable/300+ filetypes

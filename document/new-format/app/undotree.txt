@@ -1,2 +1,3 @@
 jiaoshijie/undotree : A neovim undotree plugin written in lua
 sjl/gundo.vim : visualize your Vim undo tree
+mbbill/undotree : visualizes undo history and makes it easier to browse and switch between different undo branches

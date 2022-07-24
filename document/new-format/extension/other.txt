@@ -9,3 +9,4 @@ matsui54/defx-sftp : a defx source for sftp
 tjdevries/tree-sitter-lua : Tree sitter grammar for Lua built to be used inside of Neovim
 kristijanhusak/defx-icons : Custom implementation of vim-devicons for defx.nvim
 kristijanhusak/defx-git : Git status implementation for defx.nvim
+xuyuanp/nerdtree-git-plugin : A plugin of NERDTree showing git status flags

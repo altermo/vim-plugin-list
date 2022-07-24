@@ -24,3 +24,6 @@ pappasam/vim-filetype-formatter : simple, cross language Vim code formatter plug
 gleitz/howdoi : Instant coding answers via the command line
 aonemd/fmt.vim : delegates the auto-formatting to a formatter
 jsborjesson/vim-uppercase-sql : auto uppercase sql keywords
+sbdchd/neoformat : vim plugin for formatting code
+max397574/lua-dev.nvim : Dev setup for init.lua and plugin development
+jeetsukumaran/vim-pythonsense : provides text objects and motions for Python classes, methods, functions, and doc strings

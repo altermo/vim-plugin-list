@@ -7,3 +7,5 @@ frabjous/knap : live preview LaTeX or markdown (or even just HTML)
 junegunn/vim-xmark : Markdown preview on OS X
 h2ero/vim-markdown-wiki : markdown wiki pulgin for vim
 ranjithshegde/orgwiki.nvim : implements a subset of features from the popular vimwiki plugin for org filetype
+jceb/vim-orgmode : Text outlining and task management for Vim based on Emacs’ Org-Mode
+axvr/org.vim : Org mode and Outline mode syntax highlighting for Vim

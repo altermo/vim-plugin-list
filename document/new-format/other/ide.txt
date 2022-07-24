@@ -1,2 +1,4 @@
 ldelossa/litee.nvim : a library for building "IDE-lite" experiences in Neovim
 klen/python-mode : a Python IDE for Vim
+wklken/k-vim : Just a Better Vim Config. Keep it Simple.
+nvchad/nvchad : neovim config written in lua aiming to provide a base configuration with very beautiful UI and blazing fast startuptime

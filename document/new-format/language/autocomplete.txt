@@ -14,3 +14,4 @@ ncm2/ncm2 : is a slim, fast and hackable completion framework for neovim
 mfussenegger/nvim-lsp-compl : A fast and asynchronous auto-completion plugin for Neovim >= 0.7.0, focused on LSP
 jimmyhuang454/easycompleteyou : Easily complete you "Keep It Simple, Stupid."
 ackyshake/vimcompletesme : super simple, super minimal, super light-weight tab-completion plugin
+lifepillar/vim-mucomplete : minimalist autocompletion plugin for Vim

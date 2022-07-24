@@ -6,3 +6,8 @@ rexagod/samwise.nvim : line-wise note-taking plugin for neovim
 dobrovolsky/kb-notes.nvim : Yet another note management system for neovim
 luk400/vim-jukit : REPL plugin and Jupyter-Notebook alternative for Vim
 linden-project/linny.vim : Personal wiki and document database
+fmoralesc/vim-pad : quick notetaking plugin for vim
+goerz/jupytext.vim : editing Jupyter notebook (ipynb) files through jupytext
+oberblastmeister/neuron.nvim : Make neovim the best note taking application with neuron
+jbyuki/nabla.nvim : Take your scentific notes in Neovim
+xolox/vim-notes : Easy note taking in Vim

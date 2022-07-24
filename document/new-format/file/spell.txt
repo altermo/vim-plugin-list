@@ -1,3 +1,4 @@
 kamykn/spelunker.vim : improves Vim's spell checking function
 reedes/vim-lexical : extend vims spellchecker
 inkarkat/vim-spellcheck : This plugin populates the |quickfix|-list with all spelling errors found in a buffer to give you that overview
+iamcco/coc-spell-checker : Spelling Checker for vim

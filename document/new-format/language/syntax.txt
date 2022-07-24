@@ -16,3 +16,4 @@ jelera/vim-javascript-syntax : Enhanced JavaScript Syntax for Vim
 vhda/verilog_systemverilog.vim : Vim Syntax Plugin for Verilog and SystemVerilog
 tbastos/vim-lua : Improved Lua 5.3 syntax and indentation support for Vim
 neovimhaskell/haskell-vim : Syntax Highlighting and Indentation for Haskell and Cabal
+glench/vim-jinja2-syntax : Jinja2 syntax file for vim with the ability to detect either HTML or Jinja

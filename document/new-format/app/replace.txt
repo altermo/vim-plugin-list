@@ -1,2 +1,3 @@
 dkprice/vim-easygrep : Fast and Easy Find and Replace Across Multiple Files
 eugen0329/vim-esearch : for easy async search and replace across multiple files
+junegunn/vim-fnr : Find-N-Replace in Vim with live preview

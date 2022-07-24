@@ -4,4 +4,4 @@ luchermitte/lh-cpp : heterogeneous suite of helpers for C and C++ programming
 mzlogin/vim-markdown-toc : generate table of contents for Markdown files
 tobys/pdv : your tool of choice for generating PHP doc blocks
 weirongxu/plantuml-previewer.vim : Vim/NeoVim plugin for preview PlantUML
-jbyuki/nabla.nvim : Take your scentific notes in Neovim
+donraphaco/neotex : compiles latex files asynchronously while edditing [archived]

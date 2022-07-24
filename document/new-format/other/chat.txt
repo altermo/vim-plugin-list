@@ -1,0 +1,3 @@
+throughnothing/vimchat : do instant messaging from within the vim text editor
+vim-chat/vim-chat : chat in neovim and vim8
+wsdjeg/vim-chat : The chatting client for vim

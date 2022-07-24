@@ -5,3 +5,5 @@ hoob3rt/lualine.nvim : A blazing fast and easy to configure Neovim statusline wr
 famiu/feline.nvim : A minimal, stylish and customizable statusline / winbar for Neovim written in Lua
 r1ri/suffer : simple bufferline plugin, in less the 30 lines of lua
 fmoralesc/worldslice : minimalistic statusline and tabline configuration
+glepnir/galaxyline.nvim : light-weight and Super Fast statusline plugin
+bluz71/vim-mistfly-statusline : a simple, fast and informative statusline for Vim

@@ -17,3 +17,4 @@ weilbith/nvim-lsp-smag : allows to seamlessly integrate the language server prot
 hrsh7th/vim-lamp : Language Server Protocol client for Vim
 lukas-reineke/lsp-format.nvim : a wrapper around Neovims native LSP formatting
 ahmedkhalf/lsp-rooter.nvim : change the current working directory to the project's root directory[archived]
+junnplus/nvim-lsp-setup : simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers

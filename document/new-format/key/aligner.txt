@@ -1,1 +1,2 @@
 junegunn/vim-easy-align : A simple, easy-to-use Vim alignment plugin
+vim-scripts/align : align statements on their equal signs, make comment boxes, align comments, align declarations, etc.

@@ -2,3 +2,5 @@ stevearc/qf_helper.nvim : A collection of improvements for neovim quickfix
 yssl/qfenter : allows you to open items from Vim's quickfix or location list wherever you wish
 nyngwang/neowell.lua : commands for quickfix window
 joshmcguigan/estream : help you unlock the power of the quickfix window without dealing with the pain of Vim's `errorformat`
+kevinhwang91/nvim-bqf : makes Neovim's quickfix window better
+stefandtw/quickfix-reflector.vim : edit direcly inside the quickfix window

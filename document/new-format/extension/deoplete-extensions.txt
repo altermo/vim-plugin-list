@@ -1,1 +1,3 @@
 ponko2/deoplete-fish : deoplete.nvim source for fish
+carlitux/deoplete-ternjs : deoplete.nvim source for javascript
+kristijanhusak/deoplete-phpactor : Phpactor integration for deoplete.nvim

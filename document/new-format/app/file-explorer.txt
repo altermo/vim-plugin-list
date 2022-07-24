@@ -8,3 +8,4 @@ shougo/defx.nvim : a dark powered plugin for Neovim/Vim to browse files
 ptzz/lf.vim : lf integration in vim and neovim
 vifm/neovim-vifm : Integration between vifm (the vi file manager) and vim [archived]
 vifm/vifm.vim : provides integration with Vifm
+timuntersberger/neofs : file manager for neovim written in lua

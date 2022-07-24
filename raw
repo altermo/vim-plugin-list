@@ -406,7 +406,6 @@ ggandor/leap.nvim
 ggandor/lightspeed.nvim
 ghifarit53/tokyonight-vim
 ghillb/cybu.nvim
-github.com/wbthomason
 github/copilot.vim
 glacambre/firenvim
 gleitz/howdoi
@@ -428,7 +427,6 @@ google/vim-jsonnet
 goolord/alpha-nvim
 gpanders/editorconfig.nvim
 gregsexton/gitv
-groctel/jobsplit.nvim
 groenewege/vim-less
 gruvbox-community/gruvbox
 gu-fan/riv.vim
@@ -491,6 +489,7 @@ hrsh7th/vim-seak
 hrsh7th/vim-searchx
 hrsh7th/vim-vsnip
 https://gitlab.com/dbeniamine/vim-mail
+https://gitlab.com/groctel/jobsplit.nvim
 https://gitlab.com/yorickpeterse/nvim-grey
 https://gitlab.com/yorickpeterse/nvim-pqf
 https://gitlab.com/yorickpeterse/nvim-window
@@ -957,6 +956,7 @@ numtostr/bufonly.nvim
 numtostr/comment.nvim
 numtostr/fterm.nvim
 numtostr/navigator.nvim
+nvchad/nvchad
 nvie/vim-flake8
 nvim-colortils/colortils.nvim
 nvim-lua/completion-nvim
@@ -1616,6 +1616,7 @@ winston0410/cmd-parser.nvim
 winston0410/commented.nvim
 winston0410/range-highlight.nvim
 wittyjudge/gruvbox-material.nvim
+wklken/k-vim
 wsdjeg/dein-ui.vim
 wsdjeg/flygrep.vim
 wsdjeg/github.vim

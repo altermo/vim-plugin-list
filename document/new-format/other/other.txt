@@ -6,7 +6,6 @@ severin-lemaignan/vim-minimap : a vim minimap
 slashmili/alchemist.vim : This plugin uses ElixirSense to give inside information about your elixir project in vim
 andythigpen/nvim-coverage : Displays coverage information in the sign column or in a pop-up window
 clojure-vim/jazz.nvim : Acid + Impromptu = Jazz
-oberblastmeister/neuron.nvim : Make neovim the best note taking application with neuron
 907th/vim-auto-save : automatically saves changes to disk without having to use `:w` [no maintain]
 rhysd/conflict-marker.vim : Highlight, jump and resolve conflict markers quickly
 tweekmonster/helpful.vim : A plugin for plugin developers to get the version of Vim and Neovim that introduced or removed features
@@ -103,3 +102,16 @@ gpanders/editorconfig.nvim : EditorConfig plugin for Neovim written in (NOT Lua)
 noahfrederick/vim-composer : Vim support for Composer PHP projects
 rktjmp/fwatch.nvim : watch files or directories for changes and then run vim commands or lua functions
 danymat/neogen : Your Annotation Toolkit
+rcarriga/nvim-dap-ui : A UI for nvim-dap
+tastyep/structlog.nvim : Structured Logging for nvim, using Lua
+shougo/vimproc : a great asynchronous execution library for Vim
+raghur/vim-ghost : Edit browser textarea content in Vim
+kana/vim-operator-user : Define your own operator easily
+duggiefresh/vim-easydir : simple way to create, edit and save files and directories
+prabirshrestha/quickpick.vim : A UI for Vim to let the user pick an item from a list similar to CtrlP
+vim-scripts/taglist.vim : provides an overview of the structure of source code files
+paulocesar/neovim-db : Database plugin for neovim
+https://gitlab.com/groctel/jobsplit.nvim : Open your jobs in an asynchronous horizontal split
+gaborvecsei/cryptoprice.nvim : There are a million ways to check the price of your favourite coins, let nvim be one of them
+dpzmick/neovim-hackernews : Hacker News in neovim
+simonefranza/nvim-conv : simple converter that allows you to convert
