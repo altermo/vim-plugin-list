@@ -28,3 +28,5 @@ christoomey/vim-sort-motion : provides the ability to sort in Vim using text obj
 lyuts/vim-rtags : Vim bindings for rtags
 michamos/vim-bepo : une prise en charge de la disposition de clavier bépo (translate: integration bépo keyboard layout)
 anuvyklack/nvim-keymap-amend : amend the exisintg keybinding in Neovim
+christoomey/vim-system-copy : copying / pasting text to the os specific clipboard
+ironhouzi/starlite-nvim : Expedient and simple text highlighting using built in Neovim commands: `*`, `g*`, `#`, `g#`

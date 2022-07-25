@@ -4,3 +4,4 @@ nyngwang/neowell.lua : commands for quickfix window
 joshmcguigan/estream : help you unlock the power of the quickfix window without dealing with the pain of Vim's `errorformat`
 kevinhwang91/nvim-bqf : makes Neovim's quickfix window better
 stefandtw/quickfix-reflector.vim : edit direcly inside the quickfix window
+gabrielpoca/replacer.nvim : makes a quickfix window editable, allowing changes to both the content of a file as well as its path

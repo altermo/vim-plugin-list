@@ -1,0 +1,4 @@
+weilbith/nvim-floating-tag-preview : easily preview tags in a floating window
+skywind3000/gutentags_plus : will update gtags database in background automatically
+jsfaint/gen_tags.vim :Async plugin for Vim to ease the use of ctags/gtags
+t9md/vim-quickhl : highlight word and tags

@@ -2,3 +2,4 @@ folke/todo-comments.nvim : highlight and search for todo comments like TODO, HAC
 aserebryakov/vim-todo-lists : TODO lists management
 dhruvasagar/vim-dotoo : awesome task manager & clocker inspired by org-mode
 arnarg/todotxt.nvim : view and add tasks stored in a todo.txt format
+wsdjeg/vim-todo : Better TODO manager plugin for neovim/vim

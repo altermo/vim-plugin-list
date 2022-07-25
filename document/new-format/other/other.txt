@@ -64,7 +64,6 @@ hupfdule/refactorvim : Vim plugin for refactoring vimscript plugins
 mcauley-penney/tidy.nvim : An autocommand that removes all trailing spaces/empty lines
 kezhenxu94/vim-mysql-plugin : A highly customizable MySQL VIM plugin
 cometsong/commentframe.vim : generate fancy-looking comments/section dividers with centered titles and append them at the current cursor position
-skywind3000/gutentags_plus : will update gtags database in background automatically
 arp242/batchy.vim : perform batch operations on files
 kdheepak/panvimdoc : Decrease friction when writing documentation for your plugins
 timeyyy/orchestra.nvim : lets you bind sound effects to different actions
@@ -87,7 +86,6 @@ dahu/vimple : provides a few maps and commands to make the casual vimmer’s lif
 m00qek/plugin-template.nvim : A template to create Neovim plugins written in Lua
 wyattjsmith1/weather.nvim : A simple plugin to display weather in nvim
 mhinz/vim-rfc : lists all existing RFCs and opens the selected one in a new buffer
-jsfaint/gen_tags.vim :Async plugin for Vim to ease the use of ctags/gtags
 ziontee113/icon-picker.nvim : helps you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis ✨
 roxma/nvim-yarp : Yet Another Remote Plugin Framework for Neovim
 prettier/vim-prettier : wrapper for prettier, pre-configured with custom default prettier settings
@@ -115,3 +113,4 @@ https://gitlab.com/groctel/jobsplit.nvim : Open your jobs in an asynchronous hor
 gaborvecsei/cryptoprice.nvim : There are a million ways to check the price of your favourite coins, let nvim be one of them
 dpzmick/neovim-hackernews : Hacker News in neovim
 simonefranza/nvim-conv : simple converter that allows you to convert
+nanotee/zoxide.vim : Vim wrapper for zoxide

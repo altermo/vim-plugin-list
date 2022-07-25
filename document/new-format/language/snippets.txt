@@ -5,3 +5,4 @@ rafamadriz/friendly-snippets : Snippets collection for a set of different progra
 norcalli/snippets.nvim : snippets nvim
 jorengarenar/minisnip : miniSnipis lightweight and minimal snippet plugin written in Vim Script
 dcampos/nvim-snippy : A snippets plugin for Neovim 0.5.0+ written in Lua
+molleweide/luasnip-snippets.nvim : community driven library of LuaSnipsnipets

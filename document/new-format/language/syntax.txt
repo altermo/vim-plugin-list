@@ -17,3 +17,5 @@ vhda/verilog_systemverilog.vim : Vim Syntax Plugin for Verilog and SystemVerilog
 tbastos/vim-lua : Improved Lua 5.3 syntax and indentation support for Vim
 neovimhaskell/haskell-vim : Syntax Highlighting and Indentation for Haskell and Cabal
 glench/vim-jinja2-syntax : Jinja2 syntax file for vim with the ability to detect either HTML or Jinja
+ledger/vim-ledger : Filetype detection, syntax highlighting, auto-formatting, auto-completion, and other tools for working with ledger files
+solarnz/thrift.vim : thrift syntax plugin for vim

@@ -3,3 +3,5 @@ gennaro-tedesco/nvim-commaround : toggle comments on and off
 preservim/nerdcommenter : Comment functions so powerful—no comment necessary
 glepnir/prodoc.nvim : comment and annotation plugin using coroutine
 tyru/caw.vim : Comment plugin: Operator/Dot-repeatable/300+ filetypes
+ludopinelli/comment-box.nvim : giving you easy boxes and lines the way you want them to be
+winston0410/commented.nvim : A commenting plugin written in Lua that actually works

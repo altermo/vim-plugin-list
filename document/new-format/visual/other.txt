@@ -32,4 +32,4 @@ qxxxb/vim-searchhi : Highlight the current search result in a different style th
 lewis6991/nvim-treesitter-context : Lightweight alternative to context.vim implemented with nvim-treesitter
 nfrid/due.nvim : provides you due for the date string
 thehamsta/nvim-dap-virtual-text : adds virtual text support to nvim-dap
-t9md/vim-quickhl : highlight word and tags
+xolox/vim-lua-inspect : Semantic highlighting for Lua in Vim

@@ -1221,7 +1221,6 @@ ruifm/gitlinker.nvim
 runiq/telescope-trouble.nvim
 rust-lang/rust.vim
 ryanoasis/vim-devicons
-ryanss/vim-hackernews
 ryvnf/readline.vim
 s1n7ax/nvim-comment-frame
 s1n7ax/nvim-lazy-inner-block
@@ -1523,7 +1522,6 @@ ur4ltz/surround.nvim
 valloric/matchtagalways
 vhakulinen/gnvim
 vhda/verilog_systemverilog.vim
-vhyrro/neorg
 vi-tality/neovitality
 vifm/neovim-vifm
 vifm/vifm.vim
