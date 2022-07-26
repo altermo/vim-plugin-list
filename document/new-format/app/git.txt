@@ -16,3 +16,4 @@ jreybert/vimagit : Ease your git workflow within vim
 rhysd/git-messenger.vim : reveal the hidden message from Git under the cursor quickly
 tanvirtin/vgit.nvim : Visual Git Plugin for Neovim to enhance your git experience
 odie/gitabra : A little Magit in neovim
+mattn/vim-gist : a vimscript for creating gists

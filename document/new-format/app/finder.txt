@@ -18,3 +18,4 @@ jlanzarotta/bufexplorer : BufExplorer Plugin for Vim
 dyng/ctrlsf.vim : An ack/ag/pt/rg powered code search and view tool
 junegunn/fzf : FZF Vim integration
 amirrezaask/fuzzy.nvim : Fast, Simple, Powerfull fuzzy finder all in lua
+tzachar/fuzzy.nvim : An abstraction layer on top of fzf and fzy

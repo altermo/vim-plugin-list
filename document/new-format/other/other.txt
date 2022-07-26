@@ -114,3 +114,7 @@ gaborvecsei/cryptoprice.nvim : There are a million ways to check the price of yo
 dpzmick/neovim-hackernews : Hacker News in neovim
 simonefranza/nvim-conv : simple converter that allows you to convert
 nanotee/zoxide.vim : Vim wrapper for zoxide
+tweekmonster/startuptime.vim :  breaks down the output of `--startuptime`
+shohi/neva : Neovim version manager [archived]
+hyiltiz/vim-plugins-profile : a profiler for your vim plugins
+skywind3000/quickmenu.vim : open up a `quickmenu` with often used commands

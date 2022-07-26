@@ -19,3 +19,4 @@ neovimhaskell/haskell-vim : Syntax Highlighting and Indentation for Haskell and 
 glench/vim-jinja2-syntax : Jinja2 syntax file for vim with the ability to detect either HTML or Jinja
 ledger/vim-ledger : Filetype detection, syntax highlighting, auto-formatting, auto-completion, and other tools for working with ledger files
 solarnz/thrift.vim : thrift syntax plugin for vim
+jackguo380/vim-lsp-cxx-highlight : provides C/C++/Cuda/ObjC semantic highlighting using LSP

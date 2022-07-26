@@ -31,3 +31,5 @@ tpope/vim-rails : Vim plugin for editing Ruby on Rails applications
 olexsmir/gopher.nvim : Minimalistic plugin for Go development in Neovim written in Lua
 kovisoft/paredit : Structured Editing of Lisp S-expressions
 crusj/hierarchy-tree-go.nvim : Hierarchy ui tree for go
+jpalardy/vim-slime : type text in a file, send it to a live REPL,
+chiel92/vim-autoformat : Format code with one button press (or automatically on save).

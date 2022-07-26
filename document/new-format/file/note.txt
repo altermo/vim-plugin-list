@@ -11,3 +11,4 @@ goerz/jupytext.vim : editing Jupyter notebook (ipynb) files through jupytext
 oberblastmeister/neuron.nvim : Make neovim the best note taking application with neuron
 jbyuki/nabla.nvim : Take your scentific notes in Neovim
 xolox/vim-notes : Easy note taking in Vim
+lervag/wiki.vim : This is for writing and maintaining a personal wiki
