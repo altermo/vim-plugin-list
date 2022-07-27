@@ -8,3 +8,4 @@ chengzeyi/multiterm.vim : Toggle and Switch Between Multiple Floating Terminals
 lenovsky/nuake : A Quake-style terminal panel
 pianocomposer321/consolation.nvim : A general-perpose terminal wrapper and management plugin for neovim
 voldikss/vim-floaterm : Use vim terminal in the floating/popup window
+jlesquembre/nterm.nvim : neovim plugin to interact with the terminal emulator, with notifications

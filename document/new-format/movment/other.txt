@@ -5,3 +5,4 @@ hrsh7th/vim-insert-point : cursor move on insert mode
 haya14busa/vim-asterisk : provides improved * motions
 zirrostig/vim-schlepp : allow the movement of lines (or blocks) of text around easily
 haya14busa/is.vim : incremental search improved
+mhinz/vim-lookup : jumps to definitions of variables, functions, and commands as if tags were used, without needing a tags file

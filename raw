@@ -32,6 +32,7 @@ akinsho/nvim-bufferline.lua
 akinsho/nvim-toggleterm.lua
 akinsho/toggleterm.nvim
 akiyosi/goneovim
+aklt/plantuml-syntax
 akz92/vim-ionic2
 alaviss/nim.nvim
 aldantas/vim-povray
@@ -89,6 +90,7 @@ arp242/batchy.vim
 arp242/jumpy.vim
 arp242/runbuf.vim
 artart222/codeart
+artempyanykh/marksman
 arthurealike/vim-j
 arthurxavierx/vim-caser
 artur-shaik/jc.nvim
@@ -368,6 +370,7 @@ fmoralesc/vim-pad
 fmoralesc/worldslice
 folke/lsp-colors.nvim
 folke/lua-dev.nvim
+folke/persistence.nvim
 folke/todo-comments.nvim
 folke/tokyonight.nvim
 folke/trouble.nvim
@@ -544,6 +547,7 @@ jameshiew/nvim-magic
 jamessan/vim-gnupg
 jamestthompson3/nvim-remote-containers
 janko-m/vim-test
+jaredgorski/spacecamp
 jaxbot/github-issues.vim
 jayhowie/crystal-cove
 jbyuki/carrot.nvim
@@ -1091,6 +1095,7 @@ preservim/vim-markdown
 preservim/vim-pencil
 preservim/vimux
 prettier/vim-prettier
+previm/previm
 projekt0n/github-nvim-theme
 pseewald/vim-anyfold
 psliwka/vim-smoothie
@@ -1246,6 +1251,7 @@ sbdchd/neoformat
 scalameta/nvim-metals
 scjangra/files-nvim
 scrooloose/nerdtree-project-plugin
+scrooloose/vim-slumlord
 seandewar/killersheep.nvim
 seandewar/nvimesweeper
 severin-lemaignan/vim-minimap
@@ -1585,6 +1591,7 @@ weilbith/nvim-code-action-menu
 weilbith/nvim-floating-tag-preview
 weilbith/nvim-lsp-bacomp
 weilbith/nvim-lsp-smag
+weirdsmiley/bionically
 weirongxu/coc-explorer
 weirongxu/plantuml-previewer.vim
 wellle/context.vim
@@ -1628,6 +1635,7 @@ wsdjeg/vim-fetch
 wsdjeg/vim-todo
 wyattjsmith1/weather.nvim
 xeluxee/competitest.nvim
+xiyaowong/accelerated-jk.nvim
 xiyaowong/link-visitor.nvim
 xiyaowong/nvim-cursorword
 xiyaowong/nvim-transparent

@@ -33,3 +33,4 @@ lewis6991/nvim-treesitter-context : Lightweight alternative to context.vim imple
 nfrid/due.nvim : provides you due for the date string
 thehamsta/nvim-dap-virtual-text : adds virtual text support to nvim-dap
 xolox/vim-lua-inspect : Semantic highlighting for Lua in Vim
+weirdsmiley/bionically : convert text on current buffer into a bionic reading font

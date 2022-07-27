@@ -31,3 +31,4 @@ anuvyklack/nvim-keymap-amend : amend the exisintg keybinding in Neovim
 christoomey/vim-system-copy : copying / pasting text to the os specific clipboard
 ironhouzi/starlite-nvim : Expedient and simple text highlighting using built in Neovim commands: `*`, `g*`, `#`, `g#`
 ryvnf/readline.vim : a library used for implementing line editing across many command-line tools
+gukz/ftft.nvim : same with as native f|t|F|T but with useful highlights

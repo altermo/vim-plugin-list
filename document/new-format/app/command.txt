@@ -12,3 +12,4 @@ dbeniamine/vim-mail : a small helper for writing mail from vim
 https://gitlab.com/dbeniamine/vim-mail : a small helper for writing mail from vim
 moll/vim-bbye : delete buffers without closing your windows or messing up your layout
 cespare/vim-sbd : Close buffers smartly [archived]
+inkarkat/vim-advancedsorters : Dose sorting block wise instead of line wise

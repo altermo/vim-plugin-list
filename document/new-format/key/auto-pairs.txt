@@ -7,3 +7,4 @@ shougo/neopairs.vim : Auto insert pairs when complete done
 vim-scripts/delimitmate.vim : automatic closing of quotes, parenthesis, brackets
 jiangmiao/auto-pairs : Insert or delete brackets, parens, quotes in pair
 rstacruz/vim-closer : Closes brackets
+kana/vim-smartinput : Provide smart input assistant

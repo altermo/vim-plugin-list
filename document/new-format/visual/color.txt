@@ -1,3 +1,4 @@
 m00qek/baleia.nvim : Colorize text with ANSI escape sequences
 tjdevries/colorbuddy.nvim : A colorscheme maker for Neovim
 rktjmp/lush.nvim : colorscheme creation aid for Neovim
+lifepillar/vim-colortemplate : makes it easy to develop color schemes

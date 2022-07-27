@@ -5,3 +5,4 @@ david-kunz/jester : A Neovim plugin to easily run and debug Jest tests
 stsewd/sphinx.nvim : Sphinx integrations for Neovim
 crispgm/nvim-go : A minimal implementation of Golang development plugin written in Lua for Neovim
 elixir-editors/vim-elixir : Elixir support for vim
+guns/vim-slamhound : Slamhound integration for vim

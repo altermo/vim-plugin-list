@@ -118,3 +118,8 @@ tweekmonster/startuptime.vim :  breaks down the output of `--startuptime`
 shohi/neva : Neovim version manager [archived]
 hyiltiz/vim-plugins-profile : a profiler for your vim plugins
 skywind3000/quickmenu.vim : open up a `quickmenu` with often used commands
+ncm2/float-preview.nvim : Completion preview window based on neovim's floating window
+esensar/nvim-dev-container : provide functionality similar to VSCode's remote container development plugin
+ntbbloodbath/rest.nvim : fast Neovim http client written in Lua
+shadmansaleh/irc.nvim : Irc client for neovim
+meznaric/conmenu : Powerful but minimal context menu for neovim
