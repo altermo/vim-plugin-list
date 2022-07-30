@@ -8,3 +8,4 @@ vim-scripts/delimitmate.vim : automatic closing of quotes, parenthesis, brackets
 jiangmiao/auto-pairs : Insert or delete brackets, parens, quotes in pair
 rstacruz/vim-closer : Closes brackets
 kana/vim-smartinput : Provide smart input assistant
+rrethy/nvim-treesitter-endwise : wisely add "end" in ruby, Lua, Vimscript, etc

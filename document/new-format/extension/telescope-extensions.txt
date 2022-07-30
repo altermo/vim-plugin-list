@@ -29,3 +29,4 @@ tamago324/telescope-openbrowser.nvim : Integration for open-browser.vim with tel
 tc72/telescope-tele-tabby.nvim : A tab switcher extension for Telescope
 zane-/howdoi.nvim : telescope extension for previewing howdoi results
 elpiloto/telescope-vimwiki.nvim : Look for your vimwiki pages using telescope
+zane-/cder.nvim : A telescope.nvimextension for quickly changing your working directory

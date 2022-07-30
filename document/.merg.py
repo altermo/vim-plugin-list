@@ -22,9 +22,10 @@ def merg(data:dict):
     for mainname in os.listdir('new-format'):
         for subname in os.listdir(os.path.join('new-format/',mainname)):
             if subname=='other.txt':
-                data[mainname]=extract(subname,os.path.join('new-format/',mainname))
+                name=mainname
             else:
-                data[subname.removesuffix('.txt')]=extract(subname,os.path.join('new-format/',mainname))
+                name=subname.removesuffix('.txt')
+            data.setdefault(name,[]).extend(extract(subname,os.path.join('new-format/',mainname)))
 def extract(file:str,path:str)->list:
     out=[]
     with open(os.path.join(path,file)) as f:

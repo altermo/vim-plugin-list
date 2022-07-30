@@ -32,3 +32,9 @@ christoomey/vim-system-copy : copying / pasting text to the os specific clipboar
 ironhouzi/starlite-nvim : Expedient and simple text highlighting using built in Neovim commands: `*`, `g*`, `#`, `g#`
 ryvnf/readline.vim : a library used for implementing line editing across many command-line tools
 gukz/ftft.nvim : same with as native f|t|F|T but with useful highlights
+tommcdo/vim-express : Define your own operators that apply either a VimL expression or a substitution to any motion or text object
+triglav/vim-visual-increment : adds the ability to do increasing and decreasing  ofnumber or letter sequences on multiple lines via visual mode
+ur4ltz/surround.nvim : surround text using sandwich or surround style
+junegunn/vim-peekaboo : extends `"` and `@` in normal mode and `<CTRL-R>` in insert mode so you can see the contents of the registers
+ironhouzi/vim-stim : aims to improve the built in star-command
+rhysd/vim-operator-surround : provides Vim operator mappings to deal with surrounds

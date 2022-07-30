@@ -13,3 +13,5 @@ https://gitlab.com/dbeniamine/vim-mail : a small helper for writing mail from vi
 moll/vim-bbye : delete buffers without closing your windows or messing up your layout
 cespare/vim-sbd : Close buffers smartly [archived]
 inkarkat/vim-advancedsorters : Dose sorting block wise instead of line wise
+felipec/notmuch-vim : provides a fully usable mail client interface, utilizing the notmuch framework
+duane9/nvim-rg : allows you to run ripgrep from Neovim or Vim

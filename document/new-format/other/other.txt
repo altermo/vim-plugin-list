@@ -123,3 +123,25 @@ esensar/nvim-dev-container : provide functionality similar to VSCode's remote co
 ntbbloodbath/rest.nvim : fast Neovim http client written in Lua
 shadmansaleh/irc.nvim : Irc client for neovim
 meznaric/conmenu : Powerful but minimal context menu for neovim
+pianocomposer321/project-templates.nvim : create project templates
+johmsalas/text-case.nvim : An all in one plugin for converting text case in Neovim
+nvim-lua/popup.nvim : An implementation of the Popup API from vim in Neovim
+jakergrossman/tagurl.vim : Copy the URL for a help tag on vimhelp.org or neovim.io to the clipboard
+tenfyzhong/tagbar-makefile.vim : makefile for tagbar [archived]
+rrethy/vim-tranquille : searching without moving the cursor
+thirtythreeforty/lessspace.vim : strip the trailing whitespace from the file you are editing
+shougo/vimproc.vim : a great asynchronous execution library for Vim
+ray-x/guihua.lua : library for nvim plugins
+lilydjwg/fcitx.vim : Keep and restore fcitx state for each buffer separately when leaving/re-entering insert mode or search mode
+tpope/vim-fireplace : There's a REPL in Fireplace, but you probably wouldn't have noticed if I hadn't told you
+macthecadillac/vimdo : execute external commands asynchronously
+axieax/urlview.nvim : a Neovim plugin which displays links from a variety of contexts
+ntbbloodbath/cheovim : Neovim configuration switcher written in Lua
+zenbro/mirror.vim : make it quick to do remote actions for each environment of project you working with
+beeender/comrade : Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup
+weilbith/nvim-code-action-menu : provides a handy pop-up menu for code actions
+rraks/pyro : neovim interface to write simple list manipulating python snippets
+jameshiew/nvim-magic : pluggable framework for integrating AI code assistance into Neovim
+samjwill/nvim-unception : leverages Neovim's native client-serverfeature to make opening files from within Neovim's terminal emulator without experiencing weird behavior easier and completely automatic
+rrethy/vim-indexor : adding indices to a list of items
+yegappan/mru : provides an easy access to a list of recently opened/edited files

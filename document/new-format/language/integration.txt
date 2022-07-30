@@ -1,8 +1,10 @@
 racer-rust/vim-racer : allows vim to use Racer for Rust code completion and navigation
 rust-lang/rust.vim : Vim plugin that provides Rust file detection, syntax highlighting, formatting, Syntastic integration, and more
 guns/vim-clojure-static : clojure and ClojureScript highlighting/indentation/Basic insert mode completion
-david-kunz/jester : A Neovim plugin to easily run and debug Jest tests
 stsewd/sphinx.nvim : Sphinx integrations for Neovim
+david-kunz/jester : A Neovim plugin to easily run and debug Jest tests
 crispgm/nvim-go : A minimal implementation of Golang development plugin written in Lua for Neovim
 elixir-editors/vim-elixir : Elixir support for vim
 guns/vim-slamhound : Slamhound integration for vim
+jose-elias-alvarez/typescript.nvim : minimal `typescript-language-serverintegration` plugin to set up the language server via nvim-lspconfigand add commands for convenience
+sakhnik/nvim-gdb : Gdb, LLDB, pdb/pdb++ and BASHDB integration with NeoVim

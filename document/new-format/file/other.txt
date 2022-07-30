@@ -6,3 +6,10 @@ tobys/pdv : your tool of choice for generating PHP doc blocks
 weirongxu/plantuml-previewer.vim : Vim/NeoVim plugin for preview PlantUML
 donraphaco/neotex : compiles latex files asynchronously while edditing [archived]
 dokwork/vim-hp : Helps to write a help
+mtth/scratch.vim : Unobtrusive scratch window
+reedes/vim-wordy : Uncover usage problems in your writing
+chrsm/impulse.nvim : a neovim plugin for viewing Notion.so pages
+previm/previm : Vim plugin for preview
+jghauser/follow-md-links.nvim : allows you to follow markdown links by pressing enter when the cursor is positioned on a link
+stevearc/gkeep.nvim : Neovim integration for Google Keep, built using gkeepapi
+vim-scripts/scratch.vim : create a temporary scratch buffer to store and edit text that will be discarded

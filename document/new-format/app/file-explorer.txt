@@ -9,3 +9,8 @@ ptzz/lf.vim : lf integration in vim and neovim
 vifm/neovim-vifm : Integration between vifm (the vi file manager) and vim [archived]
 vifm/vifm.vim : provides integration with Vifm
 timuntersberger/neofs : file manager for neovim written in lua
+ripxorip/bolt.nvim : Filter-as-you-type file manager for Neovim
+luukvbaal/nnn.nvim : File manager for Neovim powered by nnnp
+nvim-neo-tree/neo-tree.nvim : Neovim plugin to browse the file system and other tree like structures
+preservim/nerdtree : a file system explorer for the Vim editor
+shougo/vimfiler.vim : powerful file explorer implemented in Vim script [no development]

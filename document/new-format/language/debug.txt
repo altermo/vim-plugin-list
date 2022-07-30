@@ -3,3 +3,5 @@ pocco81/dap-buddy.nvim : Dap Buddy allows you to manage debuggers provided by nv
 mfussenegger/nvim-dap : Debug Adapter Protocol client implementation for Neovim
 dbgx/lldb.nvim : provides LLDB debugger integration for Neovim [no maintain]
 tweekmonster/exception.vim : tracing exceptions thrown by VimL scripts
+sidorares/node-vim-debugger : Node.js debugger client and vim driver
+vim-vdebug/vdebug : a new, fast, powerful debugger client for Vim

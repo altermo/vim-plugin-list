@@ -5,4 +5,3 @@ hkupty/runes.nvim : Lua test framework for neovim plugins
 p00f/cphelper.nvim : automating tasks in competitive programming like downloading test cases, compiling and testing
 janko-m/vim-test : A Vim wrapper for running tests on different granularities
 thinca/vim-themis : testing framework for Vim script
-vim-vdebug/vdebug : a new, fast, powerful debugger client for Vim

@@ -1,2 +1,2 @@
 bagrat/vim-buffet : takes your buffers and tabs, and shows them combined in the tabline
-jose-elias-alvarez/buftabline.nvim : A low-config, minimalistic buffer tabline Neovim plugin written in Lua,
+jose-elias-alvarez/buftabline.nvim : A low-config, minimalistic buffer tabline Neovim plugin written in Lua, [archived]

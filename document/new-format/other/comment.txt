@@ -5,3 +5,6 @@ glepnir/prodoc.nvim : comment and annotation plugin using coroutine
 tyru/caw.vim : Comment plugin: Operator/Dot-repeatable/300+ filetypes
 ludopinelli/comment-box.nvim : giving you easy boxes and lines the way you want them to be
 winston0410/commented.nvim : A commenting plugin written in Lua that actually works
+tomtom/tcomment_vim : provides easy to use, file-type sensible comments for Vim
+b3nj5m1n/kommentary : Neovim plugin to comment text in and out, written in lua
+numtostr/comment.nvim : Smart and Powerful commenting plugin for neovim

@@ -16,3 +16,5 @@ jimmyhuang454/easycompleteyou : Easily complete you "Keep It Simple, Stupid."
 ackyshake/vimcompletesme : super simple, super minimal, super light-weight tab-completion plugin
 lifepillar/vim-mucomplete : minimalist autocompletion plugin for Vim
 shawncplus/phpcomplete.vim : Improved PHP omni-completion
+shougo/neocomplcache.vim : provides keyword completion system by maintaining a cache of keywords in the current buffer
+roxma/nvim-completion-manager : A Completion Framework for Neovim [archived]

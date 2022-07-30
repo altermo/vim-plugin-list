@@ -34,3 +34,14 @@ crusj/hierarchy-tree-go.nvim : Hierarchy ui tree for go
 jpalardy/vim-slime : type text in a file, send it to a live REPL,
 chiel92/vim-autoformat : Format code with one button press (or automatically on save).
 arp242/runbuf.vim : makes it easy to run the contents of a buffer
+stephpy/vim-php-cs-fixer : will execute the `php-cs-fixercommand` on the directory or file
+nfischer/vim-rainbows : Vim runtime files for my own language, Rainbows
+arnaud-lb/vim-php-namespace : a vim plugin for inserting "use" statements automatically
+shinglyu/vim-codespell : checking the spelling for source code
+mhinz/vim-crates : When maintaining Rust projects, this plugin helps with updating the dependencies in `Cargo.toml` files
+dahu/asif : uns a list of commands against a block of text (a list of lines) in a scratch buffer of a given filetype
+vim-denops/denops.vim : An ecosystem of Vim/Neovim which allows developers to write plugins in Deno
+scalameta/nvim-metals : provide a better experience while using Metals
+mhinz/vim-mix-format : makes it easy to run elixirs `mix format` asynchronously
+olical/aniseed : bridges the gap between Fennel and Neovim
+jaawerth/fennel-nvim : adding native fennel support to nvim by utilizing neovim's native Lua support

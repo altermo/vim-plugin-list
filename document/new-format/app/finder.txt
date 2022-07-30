@@ -22,3 +22,7 @@ tzachar/fuzzy.nvim : An abstraction layer on top of fzf and fzy
 svermeulen/nvim-marksman : lightweight file finder
 samoshkin/vim-find-files : Search for files and show results in a quickfix list, a new buffer
 fiatjaf/neuron.vim : Manage your Zettelkasten with the help of neuron
+liuchengxu/vim-clap : modern generic interactive finder and dispatcher, based on the newly feature: floating_win of neovim or popup of vim
+mhinz/vim-grepper : Use your favorite grep tool to start an asynchronous search
+gfanto/fzf-lsp.nvim : search for symbols using the neovim builtin lsp
+skywind3000/leaderf-snippet : takes the advantage of the well-known fuzzy finder Leaderf to provide an intuitive way to input snippets

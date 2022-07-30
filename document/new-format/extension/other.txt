@@ -11,3 +11,6 @@ kristijanhusak/defx-icons : Custom implementation of vim-devicons for defx.nvim
 kristijanhusak/defx-git : Git status implementation for defx.nvim
 xuyuanp/nerdtree-git-plugin : A plugin of NERDTree showing git status flags
 vim-airline/vim-airline-themes : official theme repository for vim-airline
+wsdjeg/dein-ui.vim : UI for Shougo's dein.vim
+yamatsum/nvim-nonicons : Collection of configurations for nvim-web-devicons
+haya14busa/incsearch-fuzzy.vim : incremantal fuzzy search extension for incsearch.vim

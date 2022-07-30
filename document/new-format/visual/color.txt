@@ -2,3 +2,5 @@ m00qek/baleia.nvim : Colorize text with ANSI escape sequences
 tjdevries/colorbuddy.nvim : A colorscheme maker for Neovim
 rktjmp/lush.nvim : colorscheme creation aid for Neovim
 lifepillar/vim-colortemplate : makes it easy to develop color schemes
+norcalli/nvim-base16.lua : Programmatic lua library for setting base16 themes in Neovim
+ntbbloodbath/color-converter.nvim : Easily convert your CSS colors

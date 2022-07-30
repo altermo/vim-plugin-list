@@ -34,3 +34,8 @@ nfrid/due.nvim : provides you due for the date string
 thehamsta/nvim-dap-virtual-text : adds virtual text support to nvim-dap
 xolox/vim-lua-inspect : Semantic highlighting for Lua in Vim
 weirdsmiley/bionically : convert text on current buffer into a bionic reading font
+powerman/vim-plugin-ansiesc : will conceal Ansi escape sequences but will cause subsequent text to be colored as the escape sequence specifies
+pgdouyon/vim-evanesco : automatically clearing Vim's search highlighting whenever the cursor moves or insert mode is entered
+delphinus/vim-auto-cursorline : Show / hide cursorline in connection with cursor moving
+luochen1990/rainbow : Rainbow Parentheses Improved
+narutoxy/dim.lua : dim the unused variables and functions using lsp and treesitter

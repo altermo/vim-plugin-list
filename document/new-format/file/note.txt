@@ -12,3 +12,4 @@ oberblastmeister/neuron.nvim : Make neovim the best note taking application with
 jbyuki/nabla.nvim : Take your scentific notes in Neovim
 xolox/vim-notes : Easy note taking in Vim
 lervag/wiki.vim : This is for writing and maintaining a personal wiki
+boson-joe/yanp : Yes another notetaking plugin which supports recurring topics structure and customisable syntax

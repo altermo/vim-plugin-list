@@ -19,3 +19,5 @@ lukas-reineke/lsp-format.nvim : a wrapper around Neovims native LSP formatting
 ahmedkhalf/lsp-rooter.nvim : change the current working directory to the project's root directory[archived]
 junnplus/nvim-lsp-setup : simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers
 amrbashir/nvim-docs-view : neovim plugin to display lsp hover documentation in a side panel
+nvim-lua/lsp_extensions.nvim : various lsp extensions [archived]
+j-hui/fidget.nvim : Standalone UI for nvim-lsp progress

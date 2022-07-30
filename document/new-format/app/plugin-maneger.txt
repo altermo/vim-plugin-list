@@ -8,3 +8,7 @@ shougo/dein.vim : dark powered Vim/Neovim plugin manager
 gmarik/vundle.vim : short for Vim bundle and is a Vim plugin manager
 savq/paq-nvim : Neovim package manager written in Lua
 kristijanhusak/vim-packager : Yet Another plugin manager for Vim
+shougo/neobundle.vim : a next generation Vim plugin manager [no development]
+faerryn/user.nvim : Well, here's another plugin manager, inspired by Emacs' straight.el and use-package
+faerryn/plogins.nvim : A fast, simple, and elegant Neovim plugin manager written in Lua
+jorengarenar/minplug : Its function is simple: download, update and enable plugins

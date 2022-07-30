@@ -18,3 +18,7 @@ tanvirtin/vgit.nvim : Visual Git Plugin for Neovim to enhance your git experienc
 odie/gitabra : A little Magit in neovim
 mattn/vim-gist : a vimscript for creating gists
 jaxbot/github-issues.vim : Github issue integration in Vim
+iberianpig/tig-explorer.vim : Vim plugin to use Tig as a git client
+sindrets/diffview.nvim : Single tabpage interface for easily cycling through diffs for all modified files for any git rev
+dinhhuy258/git.nvim : is the simple clone of the plugin vim-fugitive which is written in Lua
+int3/vim-extradite : A git commit browser / git log wrapper that extends fugitive.vim

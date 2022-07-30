@@ -6,3 +6,5 @@ rohit-px2/nvui : nvim gui written in cpp
 daa84/neovim-gtk : GTK ui for neovim written in rust using gtk-rs bindings, with ligatures support
 smolck/uivonim : fork of Veonim, written in Electron with WebGL GPU rendering and multithreading
 beeender/glrnvim : really fast & stable neovim GUI could be accelated by GPU
+qvacua/vimr : Neovim GUI for macOS
+rmichelsen/nvy : minimal Neovim client for Windows written in C++
