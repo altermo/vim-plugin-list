@@ -38,3 +38,18 @@ ur4ltz/surround.nvim : surround text using sandwich or surround style
 junegunn/vim-peekaboo : extends `"` and `@` in normal mode and `<CTRL-R>` in insert mode so you can see the contents of the registers
 ironhouzi/vim-stim : aims to improve the built in star-command
 rhysd/vim-operator-surround : provides Vim operator mappings to deal with surrounds
+declancm/cinnamon.nvim : Smooth scrolling for ANY movement command
+vim-scripts/replacewithregister : replace wanted wth registers content
+foosoft/vim-argwrap : an industrial strength argument wrapping and unwrapping extension
+junegunn/vim-oblique : Improved `/`-search for Vim
+vim-scripts/improved-paragraph-motion : A simple utility improve the "}" and "{" motion in normal and visual mode
+osyo-manga/vim-jplus : Join lines inserting characters in between
+bronson/vim-visual-star-search : allows you to select some text using Vim's visual mode, then hit * and # to search for it elsewhere in the file
+hrsh7th/vim-eft : provides f/t/F/T mappings that can be customized by your setting
+yuki-yano/zero.nvim : toggles between ^ and 0 in normal mode
+zegervdv/nrpattern.nvim : Neovim plugin to expand the number formats supported to increment or decrement
+xiyaowong/accelerated-jk.nvim : lua rewrite of {rhysd/accelerated-jk}
+rhysd/accelerated-jk : accelerates j/k mappings' steps while j or k key is repeating
+svermeulen/vim-easyclip : a plugin for Vim which contains a collection of clipboard related functionality [no development]
+anuvyklack/keymap-amend.nvim : allows to amend the exisintg keybinding in Neovim
+sickill/vim-pasta : improve indentation of pasting

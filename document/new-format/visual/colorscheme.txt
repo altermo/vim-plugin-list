@@ -27,3 +27,9 @@ windwp/wind-colors
 yagua/nebulous.nvim
 askfiy/catppuccin
 jaredgorski/spacecamp
+lunarvim/colorschemes : Collection of colorschemes made to be compatible with LunarVim
+yazeed1s/minimal.nvim
+lunarvim/darkplus.nvim
+meliora-theme/neovim
+lewpoly/sherbet.nvim
+rockyzhang24/arctic.nvim

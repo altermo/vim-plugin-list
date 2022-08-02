@@ -19,3 +19,15 @@ glench/vim-jinja2-syntax : Jinja2 syntax file for vim with the ability to detect
 ledger/vim-ledger : Filetype detection, syntax highlighting, auto-formatting, auto-completion, and other tools for working with ledger files
 solarnz/thrift.vim : thrift syntax plugin for vim
 jackguo380/vim-lsp-cxx-highlight : provides C/C++/Cuda/ObjC semantic highlighting using LSP
+groenewege/vim-less : adds syntax highlighting, indenting and autocompletion for the dynamic stylesheet language LESS
+google/vim-jsonnet : Jsonnet filetype plugin for Vim
+milisims/tree-sitter-org : Org grammar for tree-sitter
+kchmck/vim-coffee-script : adds CoffeeScript support to vim
+othree/html5.vim : HTML5 + inline SVG omnicomplete function, indent and syntax for Vim
+stanangeloff/php.vim : An up-to-date Vim syntax for PHP [archived]
+honza/dockerfile.vim : Syntax highlighting for Dockerfiles [archived]
+mxw/vim-jsx : Syntax highlighting and indenting for JSX [deprecated]
+lervag/vimtex : modern Vim filetype and syntax plugin for LaTeX files
+vim-scripts/php.vim--garvin : an updated version of the php.vim syntax file distributed with VIM
+slim-template/vim-slim : slim syntax highlighting for vim
+othree/javascript-libraries-syntax.vim : Syntax file for JavaScript libraries

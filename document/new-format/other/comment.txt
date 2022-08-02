@@ -8,3 +8,4 @@ winston0410/commented.nvim : A commenting plugin written in Lua that actually wo
 tomtom/tcomment_vim : provides easy to use, file-type sensible comments for Vim
 b3nj5m1n/kommentary : Neovim plugin to comment text in and out, written in lua
 numtostr/comment.nvim : Smart and Powerful commenting plugin for neovim
+s1n7ax/nvim-comment-frame : Basically when you give it some text it creates a comment frame like below

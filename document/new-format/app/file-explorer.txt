@@ -14,3 +14,7 @@ luukvbaal/nnn.nvim : File manager for Neovim powered by nnnp
 nvim-neo-tree/neo-tree.nvim : Neovim plugin to browse the file system and other tree like structures
 preservim/nerdtree : a file system explorer for the Vim editor
 shougo/vimfiler.vim : powerful file explorer implemented in Vim script [no development]
+justinmk/vim-dirvish : Path navigator designed to work with Vim's built-in mechanisms and complementary plugins
+troydm/easytree.vim : a simple tree file manager for vim
+is0n/fm-nvim : a Neovim plugin that lets you use your favorite terminal file managers
+ap/vim-readdir : minimal directory browser in ~100 lines of code

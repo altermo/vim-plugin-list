@@ -39,3 +39,12 @@ pgdouyon/vim-evanesco : automatically clearing Vim's search highlighting wheneve
 delphinus/vim-auto-cursorline : Show / hide cursorline in connection with cursor moving
 luochen1990/rainbow : Rainbow Parentheses Improved
 narutoxy/dim.lua : dim the unused variables and functions using lsp and treesitter
+kyazdani42/nvim-web-devicons : lua fork of vim-devicons
+bronson/vim-trailing-whitespace : causes trailing whitespace to be highlighted in red
+m-demare/hlargs.nvim : Highlight arguments' definitions and usages, asynchronously, using Treesitter
+wincent/pinnacle : provides functions for manipulating `:highlight` groups in Vimscript and Lua
+markonm/traces.vim : highlights patterns and ranges for Ex commands in Command-line mode
+vonheikemen/searchbox.nvim : Start your search from a more comfortable place, say the upper right corner
+hood/popui.nvim : NeoVim UI sweetness powered by popfix
+chrisbra/vim-diff-enhanced : A Vim plugin for creating better diffs
+siuoly/typing_speed.vim : Displaying the typing speed

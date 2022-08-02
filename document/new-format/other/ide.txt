@@ -3,3 +3,4 @@ klen/python-mode : a Python IDE for Vim
 wklken/k-vim : Just a Better Vim Config. Keep it Simple.
 nvchad/nvchad : neovim config written in lua aiming to provide a base configuration with very beautiful UI and blazing fast startuptime
 rafaeldelboni/nvim-fennel-lsp-conjure-as-clojure-ide : Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure
+pechorin/any-jump.vim : IDE madness without overhead for 40+ languages

@@ -45,3 +45,29 @@ scalameta/nvim-metals : provide a better experience while using Metals
 mhinz/vim-mix-format : makes it easy to run elixirs `mix format` asynchronously
 olical/aniseed : bridges the gap between Fennel and Neovim
 jaawerth/fennel-nvim : adding native fennel support to nvim by utilizing neovim's native Lua support
+amirrezaask/actions.nvim : defines consistant interface for doing actions for multible languages
+millermedeiros/vim-esformatter : makes it easier to execute esformatter inside vim
+jorengarenar/vim-sbnr : Simple Build&Run for Vim [archived]
+pwntester/codeql.nvim : help writing and testing CodeQL queries
+micmine/jumpwire.nvim : for moving in common File structures (like test and implementation files)
+ray-x/go.nvim : modern go neovim plugin based on treesitter, nvim-lsp and dap debugger
+tweekmonster/hl-goimport.vim : Highlights imported packages in Go
+nanotee/sqls.nvim : Neovim plugin for sqls that leverages the built-in LSP client
+tjdevries/nlua.nvim : Lua Development for Neovim
+olical/conjure : an interactive environment for evaluating code within your running program
+pgdouyon/vim-accio : Accio asynchronously summons build/compiler/linter
+jorengarenar/vim-sql-upper : Uppercase SQL keywords without the need of holding Shift or CAPS LOCK
+stevearc/overseer.nvim : task runner and job management plugin for Neovim
+ledesmablt/vim-run : Run, view, and manage UNIX shell commands with ease
+rescript-lang/vim-rescript : the official vim plugin for ReScript
+code-biscuits/nvim-biscuits : help you get the context of the end of that AST node
+wbthomason/buildit.nvim : A better async project builder for Neovim
+gbprod/phpactor.nvim : Lua version of phpactor nvim plugin
+teal-language/vim-teal : provides Teal language support for Vim
+romgrk/nvim-treesitter-context : Lightweight alternative to context.vim implemented with nvim-treesitter
+pianocomposer321/yabs.nvim : Yet Another Build System for Neovim
+is0n/jaq-nvim : Just Another Quickrun plugin for Neovim that was inspired by quickrun.vim
+cuducos/yaml.nvim : Simple tools to help developers working YAML in Neovim
+tpope/vim-liquid : liquid support for vim
+phpactor/phpactor : aims to provide heavy-lifting refactoring and introspection tools
+vim-scripts/java_getset.vim : automatically add getter/setter

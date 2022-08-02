@@ -5,3 +5,4 @@ joshmcguigan/estream : help you unlock the power of the quickfix window without 
 kevinhwang91/nvim-bqf : makes Neovim's quickfix window better
 stefandtw/quickfix-reflector.vim : edit direcly inside the quickfix window
 gabrielpoca/replacer.nvim : makes a quickfix window editable, allowing changes to both the content of a file as well as its path
+olical/vim-enmasse : Takes a quickfix list and makes it editable

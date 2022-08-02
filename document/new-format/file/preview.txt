@@ -3,3 +3,6 @@ davidgranstrom/nvim-markdown-preview : Markdown preview in the browser using pan
 euclio/vim-markdown-composer : adds asynchronous Markdown preview
 frabjous/knap : live preview LaTeX or markdown (or even just HTML)
 junegunn/vim-xmark : Markdown preview on OS X
+instant-markdown/vim-instant-markdown : shows the compiled markdown in real-time
+untitled-ai/jupyter_ascending : Sync Jupyter Notebooks from any editor
+ellisonleao/glow.nvim : Preview markdown code directly in your neovim terminal

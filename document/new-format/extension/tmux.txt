@@ -3,3 +3,5 @@ preservim/vimux : easily interact with tmux from vim
 shivamashtikar/tmuxjump.vim : A plugin to open file from file paths printed in sibling tmux pane
 aserowy/tmux.nvim : a few features making vim and tmux work beautifully together
 numtostr/navigator.nvim : Smoothly navigate between splits and panes
+nathom/tmux.nvim : lets you seamlessly navigate between tmux panes and vim splits
+tpope/vim-tbone : Basic tmux support for Vim

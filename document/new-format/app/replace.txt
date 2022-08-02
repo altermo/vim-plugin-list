@@ -1,3 +1,4 @@
 dkprice/vim-easygrep : Fast and Easy Find and Replace Across Multiple Files
 eugen0329/vim-esearch : for easy async search and replace across multiple files
 junegunn/vim-fnr : Find-N-Replace in Vim with live preview
+s1n7ax/nvim-search-and-replace : Absolutly minimal plugin to search and replace multiple files in current working directory

@@ -26,3 +26,8 @@ liuchengxu/vim-clap : modern generic interactive finder and dispatcher, based on
 mhinz/vim-grepper : Use your favorite grep tool to start an asynchronous search
 gfanto/fzf-lsp.nvim : search for symbols using the neovim builtin lsp
 skywind3000/leaderf-snippet : takes the advantage of the well-known fuzzy finder Leaderf to provide an intuitive way to input snippets
+loricandre/fzterm.nvim : a fuzzy finder plugin, using a floating terminal and basically nothing else [depreciated]
+mileszs/ack.vim : Run your favorite search tool from Vim, with an enhanced results list
+vim-scripts/grep.vim : integrates the grep, fgrep, egrep, and agrep tools with Vim
+tamago324/leaderf-neosnippet : LeaderF support for neosnippet
+gaborvecsei/memento.nvim : remembers where you've been

@@ -4,3 +4,4 @@ kaile256/vim-foldpeek : peek at folds
 lambdalisue/readablefold.vim : improve `foldtext` for better looks
 pseewald/vim-anyfold : Generic folding mechanism and motion based on indentation
 leafcage/foldcc.vim : Provides a function to display the fold text `'foldtext'` in a nice way
+kalekundert/vim-coiled-snake : Python Folding for Vim

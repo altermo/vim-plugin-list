@@ -7,3 +7,5 @@ r1ri/suffer : simple bufferline plugin, in less the 30 lines of lua
 fmoralesc/worldslice : minimalistic statusline and tabline configuration
 glepnir/galaxyline.nvim : light-weight and Super Fast statusline plugin
 bluz71/vim-mistfly-statusline : a simple, fast and informative statusline for Vim
+rrethy/nvim-hotline : Minimal Lua wrappers for setting your 'statusline' and 'tabline'
+liuchengxu/eleline.vim : Another elegant statusline for vim

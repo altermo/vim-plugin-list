@@ -1,0 +1,10 @@
+shougo/context_filetype.vim : Context filetype library for Vim script
+glts/vim-magnum : big integer library for Vim plugins written entirely in Vim script
+furkanzmc/options.nvim : A small library to create custom options for your plugins or your configuration
+bkoropoff/bex.nvim : Lua to Ex bridge library
+shougo/vimproc : a great asynchronous execution library for Vim
+ray-x/guihua.lua : library for nvim plugins
+tomtom/tlib_vim : This library provides some utility functions
+xolox/vim-misc : Miscellaneous auto-load Vim scripts
+google/vim-maktaba : a vimscript plugin library
+iron-e/nvim-libmodal : a rewite of vim-libmodal using Neovim's Lua API

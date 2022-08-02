@@ -5,3 +5,5 @@ dbgx/lldb.nvim : provides LLDB debugger integration for Neovim [no maintain]
 tweekmonster/exception.vim : tracing exceptions thrown by VimL scripts
 sidorares/node-vim-debugger : Node.js debugger client and vim driver
 vim-vdebug/vdebug : a new, fast, powerful debugger client for Vim
+jodosha/vim-godebug : Go debugging for Vim
+pocco81/dapinstall.nvim : Debug Adapter Protocol manager for Neovim

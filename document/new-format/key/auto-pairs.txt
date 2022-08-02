@@ -9,3 +9,5 @@ jiangmiao/auto-pairs : Insert or delete brackets, parens, quotes in pair
 rstacruz/vim-closer : Closes brackets
 kana/vim-smartinput : Provide smart input assistant
 rrethy/nvim-treesitter-endwise : wisely add "end" in ruby, Lua, Vimscript, etc
+windwp/nvim-ts-closetag : Use treesitter to autoclose and autorename html tag
+eluum/vim-autopair : very simple vim plugin for autocompleting the paired characters

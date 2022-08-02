@@ -8,3 +8,7 @@ kana/vim-textobj-line : select a portion of the current line
 nvim-treesitter/nvim-treesitter-textobjects : Syntax aware text-objects, select, move, swap, and peek support
 reedes/vim-textobj-quote : Extending Vim to better support typographic (‘curly’) quote characters
 jeetsukumaran/vim-indentwise : provides for motions based on indent depths or levels
+junegunn/vim-after-object : Defines text objects to target text after the designated characters
+rbtnn/vim-textobj-verbatimstring : provide text objects (a@ and i@ by default) to select a verbatim string
+rbtnn/vim-textobj-vimfunctionname : provide text objects to select a vim function name
+machakann/vim-sandwich : a set of operator and textobject plugins to add/delete/replace surroundings of a sandwiched textobject

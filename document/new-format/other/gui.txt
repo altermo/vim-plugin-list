@@ -8,3 +8,5 @@ smolck/uivonim : fork of Veonim, written in Electron with WebGL GPU rendering an
 beeender/glrnvim : really fast & stable neovim GUI could be accelated by GPU
 qvacua/vimr : Neovim GUI for macOS
 rmichelsen/nvy : minimal Neovim client for Windows written in C++
+vhakulinen/gnvim : Rich Neovim GUI without any web bloat
+yqlbu/neovim-server : A containerized IDE-like text editor that runs on a web server

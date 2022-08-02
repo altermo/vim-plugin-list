@@ -13,3 +13,6 @@ previm/previm : Vim plugin for preview
 jghauser/follow-md-links.nvim : allows you to follow markdown links by pressing enter when the cursor is positioned on a link
 stevearc/gkeep.nvim : Neovim integration for Google Keep, built using gkeepapi
 vim-scripts/scratch.vim : create a temporary scratch buffer to store and edit text that will be discarded
+vim-pandoc/vim-pandoc : provides facilities to integrate Vim with the pandoc document converter and work with documents written in its markdown variant
+bourgeoisbear/vim-rsvp : Why move your eyes to read when computers can move the words for us
+ron89/thesaurus_query.vim : plugin for user to lookupsynonyms of any word

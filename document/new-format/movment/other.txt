@@ -6,3 +6,7 @@ haya14busa/vim-asterisk : provides improved * motions
 zirrostig/vim-schlepp : allow the movement of lines (or blocks) of text around easily
 haya14busa/is.vim : incremental search improved
 mhinz/vim-lookup : jumps to definitions of variables, functions, and commands as if tags were used, without needing a tags file
+harrisoncramer/jump-tag : extremely lightweight Neovim plugin that enables jumping to parent, sibling, and child tags
+jorengarenar/vim-mvvis : Move visually selected text
+acksld/nvim-anywise-reg.lua : paste a function somewhere else
+hrsh7th/vim-feeling-move : do you ever wish to be able to move only by feeling.

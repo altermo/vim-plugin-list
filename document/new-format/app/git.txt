@@ -22,3 +22,13 @@ iberianpig/tig-explorer.vim : Vim plugin to use Tig as a git client
 sindrets/diffview.nvim : Single tabpage interface for easily cycling through diffs for all modified files for any git rev
 dinhhuy258/git.nvim : is the simple clone of the plugin vim-fugitive which is written in Lua
 int3/vim-extradite : A git commit browser / git log wrapper that extends fugitive.vim
+dm1try/git_fastfix : Neovim plugin for applying "fast git fixups"(using UI) to the current development branch
+christoomey/vim-conflicted : aids in resolving git merge and rebase conflicts
+lambdalisue/gina.vim : asynchronously control git repositories
+idanarye/vim-merginal : aims to provide a nice interface for dealing with Git branches
+braxtons12/blame_line.nvim : A simple and configurable git blame line using virtual text for Neovim
+bobrown101/git_blame.nvim : An unapologetic ripoff of vim-fugitives GBlame .... but written in lua
+ruifm/gitlinker.nvim : generate shareable file permalinks (with line ranges) for several git web frontend hosts
+tveskag/nvim-blame-line : uses neovims virtual text to print git blame info
+ipod825/igit.nvim : A git plugin for neovim
+f-person/git-blame.nvim : git blame plugin for Neovim

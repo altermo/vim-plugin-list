@@ -1,2 +1,3 @@
 mhinz/vim-startify : the fancy start screen for vim
 startup-nvim/startup.nvim : The fully customizable greeter for neovim
+chaitanyabsprip/present.nvim : A Presentation plugin written for Neovim

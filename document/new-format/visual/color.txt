@@ -4,3 +4,6 @@ rktjmp/lush.nvim : colorscheme creation aid for Neovim
 lifepillar/vim-colortemplate : makes it easy to develop color schemes
 norcalli/nvim-base16.lua : Programmatic lua library for setting base16 themes in Neovim
 ntbbloodbath/color-converter.nvim : Easily convert your CSS colors
+themercorp/themer.lua : THEMER - AN ORGANISED COLORSCHEME WORLD
+rrethy/vim-hexokinase : The fastest (Neo)Vim plugin for asynchronously displaying the colours
+xiyaowong/nvim-transparent : Remove all background colors to make nvim transparent

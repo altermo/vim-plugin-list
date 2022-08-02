@@ -15,3 +15,14 @@ cespare/vim-sbd : Close buffers smartly [archived]
 inkarkat/vim-advancedsorters : Dose sorting block wise instead of line wise
 felipec/notmuch-vim : provides a fully usable mail client interface, utilizing the notmuch framework
 duane9/nvim-rg : allows you to run ripgrep from Neovim or Vim
+vim-scripts/tagbar : vim plugin for browsing the tags of source code files
+ rrethy/vim-spotlight : `:Spotlight` and that's it.
+will133/vim-dirdiff : If you like Vim's diff mode, you would love to do this recursively on two directories
+yehuohan/popc : Popc in layer manager,including layers of buffer, bookmark, worksapce.....
+qpkorr/vim-bufkill : trying to unload, delete or wipe a buffer without closing the window or split? You'll like this
+tyru/capture.vim : Show Ex command output in a buffer
+d0n9x1n/quickrun.vim : Yet, just another quickrun plugin for vim
+kkoomen/vim-doge : will generate a proper documentation skeleton based on certain expressions
+crag666/code_runner.nvim : Code Runner for Neovim written in pure lua
+stevearc/aerial.nvim : code outline window for skimming and quick navigation
+uga-rosa/translate.nvim : nvim plugin to translate text

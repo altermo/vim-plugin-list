@@ -10,3 +10,7 @@ pianocomposer321/consolation.nvim : A general-perpose terminal wrapper and manag
 voldikss/vim-floaterm : Use vim terminal in the floating/popup window
 jlesquembre/nterm.nvim : neovim plugin to interact with the terminal emulator, with notifications
 caenrique/nvim-toggle-terminal : Toggle terminal buffer or create new one if there is none
+loricandre/oneterm : One terminal plugin to rule them all (eventually)
+numtostr/fterm.nvim : No-nonsense floating terminal plugin for neovim
+toniz4/vim-stt : Simple Togglable Terminal
+oberblastmeister/termwrapper.nvim : a wrapper for neovim's terminal features to make them more user friendly

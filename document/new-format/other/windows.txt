@@ -3,3 +3,5 @@ smithbm2316/centerpad.nvim : Center your single lonely buffer easily
 szw/vim-maximizer : Maximizes and restores the current window
 mrjones2014/smart-splits.nvim : Smart, directional Neovim split resizing and navigation
 declancm/windex.nvim : neovim plugin for cleeean neovim window (and tmux pane) functions
+dm1try/golden_size : automatically resizing the active window to the "golden" size
+camspiers/lens.vim : Vim Automatic Window Resizing Plugin

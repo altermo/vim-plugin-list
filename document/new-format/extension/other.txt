@@ -14,3 +14,8 @@ vim-airline/vim-airline-themes : official theme repository for vim-airline
 wsdjeg/dein-ui.vim : UI for Shougo's dein.vim
 yamatsum/nvim-nonicons : Collection of configurations for nvim-web-devicons
 haya14busa/incsearch-fuzzy.vim : incremantal fuzzy search extension for incsearch.vim
+arkav/lualine-lsp-progress : Information provided by active lsp clients from the $/progress endpoint as a statusline component for lualine.nvim
+philrunninger/nerdtree-visual-selection : defines key mappings that will work on nodes contained in a Visual selection in NERDTree
+lambdalisue/battery.vim : a statusline or tablinecomponent for vim
+kristijanhusak/vim-dirvish-git : Plugin for dirvish.vim that shows git status flags
+haya14busa/incsearch-easymotion.vim : Integration between {haya14busa/incsearch.vim} and {easymotion/vim-easymotion}
