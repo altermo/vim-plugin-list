@@ -33,3 +33,5 @@ lunarvim/darkplus.nvim
 meliora-theme/neovim
 lewpoly/sherbet.nvim
 rockyzhang24/arctic.nvim
+gruvbox-community/gruvbox
+everblush/everblush.nvim

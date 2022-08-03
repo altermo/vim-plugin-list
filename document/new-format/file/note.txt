@@ -13,3 +13,5 @@ jbyuki/nabla.nvim : Take your scentific notes in Neovim
 xolox/vim-notes : Easy note taking in Vim
 lervag/wiki.vim : This is for writing and maintaining a personal wiki
 boson-joe/yanp : Yes another notetaking plugin which supports recurring topics structure and customisable syntax
+ahmedkhalf/jupyter-nvim : Read jupyter notebooks in neovim
+gu-fan/riv.vim : Notes and wiki in rst

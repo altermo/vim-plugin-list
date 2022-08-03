@@ -31,3 +31,6 @@ lervag/vimtex : modern Vim filetype and syntax plugin for LaTeX files
 vim-scripts/php.vim--garvin : an updated version of the php.vim syntax file distributed with VIM
 slim-template/vim-slim : slim syntax highlighting for vim
 othree/javascript-libraries-syntax.vim : Syntax file for JavaScript libraries
+iron-e/vim-ungrammar : syntax for Ungrammar filetype
+aklt/plantuml-syntax : Vim PlantUML Syntax/Plugin/FTDetect
+stephpy/vim-yaml : Syntax file for yaml

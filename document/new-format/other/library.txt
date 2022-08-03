@@ -8,3 +8,6 @@ tomtom/tlib_vim : This library provides some utility functions
 xolox/vim-misc : Miscellaneous auto-load Vim scripts
 google/vim-maktaba : a vimscript plugin library
 iron-e/nvim-libmodal : a rewite of vim-libmodal using Neovim's Lua API
+raimondi/vimregstyle : a Regular Expression Pattern Library
+sunjon/stylish.nvim : A collection of Stylish UI components for Neovim
+shougo/vimproc.vim : great asynchronous execution library for Vim

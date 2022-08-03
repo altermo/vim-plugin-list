@@ -10,3 +10,4 @@ qvacua/vimr : Neovim GUI for macOS
 rmichelsen/nvy : minimal Neovim client for Windows written in C++
 vhakulinen/gnvim : Rich Neovim GUI without any web bloat
 yqlbu/neovim-server : A containerized IDE-like text editor that runs on a web server
+lyude/neovim-gtk : GTK ui for neovim written in rust using gtk-rs bindings

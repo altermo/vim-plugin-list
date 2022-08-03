@@ -10,3 +10,5 @@ harrisoncramer/jump-tag : extremely lightweight Neovim plugin that enables jumpi
 jorengarenar/vim-mvvis : Move visually selected text
 acksld/nvim-anywise-reg.lua : paste a function somewhere else
 hrsh7th/vim-feeling-move : do you ever wish to be able to move only by feeling.
+hrsh7th/vim-foolish-move : foolishly speed across the window with the cursor
+fedepujol/move.nvim : Gain the power to move lines and blocks

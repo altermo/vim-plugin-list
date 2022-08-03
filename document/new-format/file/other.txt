@@ -16,3 +16,6 @@ vim-scripts/scratch.vim : create a temporary scratch buffer to store and edit te
 vim-pandoc/vim-pandoc : provides facilities to integrate Vim with the pandoc document converter and work with documents written in its markdown variant
 bourgeoisbear/vim-rsvp : Why move your eyes to read when computers can move the words for us
 ron89/thesaurus_query.vim : plugin for user to lookupsynonyms of any word
+sidofc/mkdx : reduce the time you spend formatting your markdown documents
+jamessan/vim-gnupg : implements transparent editing of gpg encrypted files
+fmoralesc/nlanguagetool.nvim : Stupid simple language tool plugin for nvim

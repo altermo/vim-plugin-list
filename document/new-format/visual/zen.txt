@@ -1,3 +1,5 @@
 pocco81/truezen.nvim : Clean and elegant distraction-free writing
 junegunn/limelight.vim : Hyperfocus-writing in Vim
 henriquehbr/ataraxis.lua : absence of mental stress or anxiety, a state of serene calmness
+junegunn/goyo.vim : Distraction-free writing in Vim
+koenverburg/peepsight.nvim : just focus on one function at the time

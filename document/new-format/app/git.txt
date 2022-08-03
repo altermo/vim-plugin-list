@@ -32,3 +32,6 @@ ruifm/gitlinker.nvim : generate shareable file permalinks (with line ranges) for
 tveskag/nvim-blame-line : uses neovims virtual text to print git blame info
 ipod825/igit.nvim : A git plugin for neovim
 f-person/git-blame.nvim : git blame plugin for Neovim
+lambdalisue/gin.vim : handle git repository from Vim
+cohama/agit.vim : Yet another gitk clone for Vim
+theprimeagen/git-worktree.nvim : simple wrapper around git worktree operations, create, switch, and delete

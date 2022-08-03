@@ -6,3 +6,4 @@ tzachar/cmp-fuzzy-buffer : nvim-cmp source for fuzzy matched items from using th
 tzachar/cmp-fuzzy-path : nvim-cmp source for filesystem paths, employing `fd` and regular expressions to find files
 dmitmel/cmp-cmdline-history : nvim-cmp source for getting completions from command-line or search histories.
 hrsh7th/cmp-vsnip : nvim-cmp source for vim-vsnip
+andersevenrud/cmp-tmux : Tmux completion source for nvim-cmp

@@ -7,3 +7,6 @@ uplus/deoplete-solargraph : deoplete.nvim source for Ruby with solargraph
 deoplete-plugins/deoplete-jedi : deoplete.nvim source for jedi
 deoplete-plugins/deoplete-clang : C/C++/Objective-C/Objective-C++ source for deoplete.nvim
 callmekohei/deoplete-fsharp : deoplete.nvim source for F#
+deoplete-plugins/deoplete-dictionary : deoplete source for dictionary
+lighttiger2505/deoplete-vim-lsp : deoplete source for vim-lsp
+deoplete-plugins/deoplete-lsp : LSP Completion source for deoplete

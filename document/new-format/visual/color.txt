@@ -7,3 +7,7 @@ ntbbloodbath/color-converter.nvim : Easily convert your CSS colors
 themercorp/themer.lua : THEMER - AN ORGANISED COLORSCHEME WORLD
 rrethy/vim-hexokinase : The fastest (Neo)Vim plugin for asynchronously displaying the colours
 xiyaowong/nvim-transparent : Remove all background colors to make nvim transparent
+rbtnn/vim-coloredit : provides to edit RGB and HSL
+tjdevries/colorbuddy.vim : A colorscheme helper for Neovim
+amadeus/vim-convert-color-to : simple and easy to use plugin that can convert various color strings to different formats
+jeaye/color_coded : semantic highlighting with vim

@@ -4,3 +4,4 @@ caenrique/swap-buffers.nvim : swap buffers easily between split windows without 
 tklepzig/vim-buffer-navigator : Display buffers as tree in a separate window
 kwkarlwang/bufresize.nvim : keep your buffers width and height in proportion when the terminal window is resized
 natdm/bswap : easily rearrange or navigate buffers in split windows
+numtostr/bufonly.nvim : Delete all the buffers except the current

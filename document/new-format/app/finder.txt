@@ -31,3 +31,9 @@ mileszs/ack.vim : Run your favorite search tool from Vim, with an enhanced resul
 vim-scripts/grep.vim : integrates the grep, fgrep, egrep, and agrep tools with Vim
 tamago324/leaderf-neosnippet : LeaderF support for neosnippet
 gaborvecsei/memento.nvim : remembers where you've been
+roosta/fzf-folds.vim : lets you fuzzy search for folds in a file
+everduin94/nvim-quick-switcher : Quickly navigate to related/alternate files/extensions based on the current file name
+wincent/command-t : provides an extremely fast "fuzzy" mechanism
+mrjones2014/dash.nvim : Query Dash.app within Neovim with your fuzzy finder
+ctrlpvim/ctrlp.vim : Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
+junegunn/fzf.vim : Things you can do with fzf and Vim

@@ -6,3 +6,4 @@ ranjithshegde/orgwiki.nvim : implements a subset of features from the popular vi
 jceb/vim-orgmode : Text outlining and task management for Vim based on Emacs’ Org-Mode
 axvr/org.vim : Org mode and Outline mode syntax highlighting for Vim
 preservim/vim-markdown : Syntax highlighting, matching rules and mappings for the original Markdown and extensions
+ixru/nvim-markdown : Fork of vim-markdown with extra functionality

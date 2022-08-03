@@ -13,3 +13,4 @@ dhruvasagar/vim-prosession : handle sessions like a pro
 tpope/vim-projectionist : provides granular project configuration using "projections"
 rmagatti/session-lens : extends auto-session through Telescope.nvim, creating a simple session switcher with fuzzy finding capabilities
 tpope/vim-obsession : automatically run `:mksession` on exit
+folke/persistence.nvim : simple lua plugin for automated session management

@@ -13,3 +13,4 @@ faerryn/plogins.nvim : A fast, simple, and elegant Neovim plugin manager written
 jorengarenar/minplug : Its function is simple: download, update and enable plugins
 vundlevim/vundle.vim : is short for Vim bundle and is a Vim plugin manager
 junegunn/vim-plug : minimalist Vim plugin manager
+rbtnn/vim-pkgsync : The minimalist plugin manager for Vim

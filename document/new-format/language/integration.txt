@@ -9,3 +9,4 @@ guns/vim-slamhound : Slamhound integration for vim
 jose-elias-alvarez/typescript.nvim : minimal `typescript-language-serverintegration` plugin to set up the language server via nvim-lspconfigand add commands for convenience
 sakhnik/nvim-gdb : Gdb, LLDB, pdb/pdb++ and BASHDB integration with NeoVim
 jupyter-vim/jupyter-vim : A two-way integration between Vim and Jupyter
+someone-stole-my-name/yaml-companion.nvim : yaml integration for vim

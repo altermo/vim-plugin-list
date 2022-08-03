@@ -21,3 +21,6 @@ junnplus/nvim-lsp-setup : simple wrapper for nvim-lspconfig and nvim-lsp-install
 amrbashir/nvim-docs-view : neovim plugin to display lsp hover documentation in a side panel
 nvim-lua/lsp_extensions.nvim : various lsp extensions [archived]
 j-hui/fidget.nvim : Standalone UI for nvim-lsp progress
+artempyanykh/marksman : Markdown LSP server providing completion, goto, references, diagnostics, and more
+davidhalter/jedi-vim : awesome Python autocompletion with VIM
+weilbith/nvim-lsp-bacomp : NeoVim Language Server Backwards Compatibility

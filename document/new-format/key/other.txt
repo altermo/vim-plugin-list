@@ -53,3 +53,14 @@ rhysd/accelerated-jk : accelerates j/k mappings' steps while j or k key is repea
 svermeulen/vim-easyclip : a plugin for Vim which contains a collection of clipboard related functionality [no development]
 anuvyklack/keymap-amend.nvim : allows to amend the exisintg keybinding in Neovim
 sickill/vim-pasta : improve indentation of pasting
+ap/vim-you-keep-using-that-word : When using word motion with the ccommand, it does not mean what Vim normally thinks it means and this solves that
+svermeulen/vim-cutlass : overrides the delete operations to actually just delete and not affect the current yank
+drmikehenry/vim-fixkey : fixes key codes for console (terminal) Vim
+gbprod/stay-in-place.nvim : Neovim plugin that prevent the cursor from moving when using shift and filter actions
+ervandew/supertab : allows you to use <Tab> for all your insert completion needs
+junegunn/vim-slash : provides a set of mappings for enhancing in-buffer search experience
+nelstrom/vim-cutlass : remove text without overwriting the default register
+kana/vim-repeat : Enable to repeat last change by non built-in commands
+bkad/camelcasemotion : make word motions respect camel case
+rrethy/vim-lacklustertab : Like supertab but not as super
+peterrincker/vim-argumentative : aids with manipulating and moving between function arguments

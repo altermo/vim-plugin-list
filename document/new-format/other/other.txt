@@ -169,3 +169,43 @@ jedrzejboczar/toggletasks.nvim : JSON/YAML + toggleterm.nvim + telescope.nvim
 nvim-treesitter/module-template : repository template to create you own nvim-treesitter module
 iron-e/vim-libmodal : aimed at simplifying the creation of new "modes"
 winston0410/cmd-parser.nvim : help other plugin authors to easily parse the command inputted by users and do awesome tricks with it
+fhill2/floating.nvim : floating windows! [archived]
+bounceme/remote-viewer : vim-dirvish && (cURL || ssh)
+chimay/wheel : file group manager, navigation and refactoring in one
+tami5/sqlite.lua : SQLite/LuaJIT binding and a highly opinionated wrapper for storing, retrieving, caching, and persisting SQLite databases
+szymonmaszke/vimpyter : vim and jupyter [archived] [no maintain]
+osyo-manga/vim-over : preview command line window
+asvetliakov/vscode-neovim : VSCode Neovim Integration
+preservim/vim-pencil : Rethinking Vim as a tool for writers
+andweeb/presence.nvim : Discord Rich Presence plugin for Neovim
+wsdjeg/vim-autohotkey : autohotkey support for vim
+iron-e/vim-tabmode : provides a new mode in vim for managing tabs
+sjl/clam.vim : lightweight Vim plugin to easily run shell commands
+acksld/nvim-pytrize.lua : Helps navigating `pytest.mark.parametrizeentries`
+rrethy/nvim-animator :Neovim plugin for that animates the change in a value for use in animations
+furkanzmc/firvish.nvim : a buffer centric job control plug-in
+keaising/im-select.nvim : Switch Input Method automatically depends on Neovim's edit mode
+md-img-paste-devs/md-img-paste.vim : Yet simple tool to paste images into markdown files
+nvim-lua/neovim-ui : a semi-official prototype for what will become neovim's new UI module
+theprimeagen/vim-apm : keeps track of your APM by counting keystrokes and determining its worth
+nanotee/nvim-lua-guide : Getting started using Lua in Neovim, use this guide
+dstein64/vim-startuptime : viewing vim and nvimstartup event timing information
+henriquehbr/nvim-startup.lua : Displays neovim startup time [archived]
+farmergreg/vim-lastplace : Intelligently reopen files at your last edit position
+asins/vim-dict : VIM dictionary repository
+vim-scripts/autocomplpop : automatically opens popup menu for completions
+rrethy/nvim-carom : macros and caroms
+kevinhwang91/promise-async : port Promise & Async from JavaScript to Lua
+jdonaldson/vaxe : vim bundle for Haxe and Hss
+rbtnn/vim-vimscript_lasterror : provides to jump to the Vim script's last error
+nvim-lsp/try.nvim : repository that contains various example self-contained neovim containers
+jenterkin/vim-autosource : enables per project configuration by finding each Vim configuration file from your $HOME directory to the opened file
+williamboman/mason-lspconfig.nvim : bridges mason.nvim with the lspconfig plugin
+rrethy/nvim-sourcerer : Automatically source your init.lua when it gets modified anywhere
+booperlv/cyclecolo.lua : floating colorscheme selector for neovim
+tpope/vim-dispatch : Leverage the power of Vim's compiler plugins without being bound by synchronicity
+jalvesaq/vimcmdline : Send lines to interpreter
+fsharpasharp/vim-dirvinist : List all files defined by your projections with the Dirvish plugin
+brenopacheco/vim-hydra : allows you to create hydras similar to abo-abo's Emacs plugin
+beloglazov/vim-online-thesaurus : look up words in an online thesaurus
+softinio/scaladex.nvim : provides both Telescope extension that allows you to search the scaladex index and provides a library that you can require and query the scaladex index

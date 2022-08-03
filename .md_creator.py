@@ -81,7 +81,7 @@ This is a list of plugins.
 
 _NOTE: this list may contain: mirrors, extensions to plugins, links that are not working and other things that are not related to vim plugins._
 
-_NOTE: only 80% of the plugins are documented._
+_NOTE: this list was documented over a span of multiple months and has some weirdness (in othe words, it would not be weird to presume that I was high when writing this (I was not))._
 
 _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesome-vim), [awesome-nvim](https://github.com/rockerBOO/awesome-neovim), [neovim-official-list](https://github.com/neovim/neovim/wiki/Related-projects#plugins), [vim-galore](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md), [](https://github.com/astier/vlugins)_
 

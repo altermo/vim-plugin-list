@@ -12,3 +12,4 @@ junegunn/vim-after-object : Defines text objects to target text after the design
 rbtnn/vim-textobj-verbatimstring : provide text objects (a@ and i@ by default) to select a verbatim string
 rbtnn/vim-textobj-vimfunctionname : provide text objects to select a vim function name
 machakann/vim-sandwich : a set of operator and textobject plugins to add/delete/replace surroundings of a sandwiched textobject
+rbtnn/vim-textobj-string : provide text objects to select a string

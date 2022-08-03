@@ -48,3 +48,10 @@ vonheikemen/searchbox.nvim : Start your search from a more comfortable place, sa
 hood/popui.nvim : NeoVim UI sweetness powered by popfix
 chrisbra/vim-diff-enhanced : A Vim plugin for creating better diffs
 siuoly/typing_speed.vim : Displaying the typing speed
+edluffy/hologram.nvim : cross platform terminal image viewer for Neovim
+unblevable/quick-scope : An always-on highlight for a unique character in every word on a line
+ojroques/vim-scrollstatus : A scrollbar for Vim statusline
+frazrepo/vim-rainbow : Rainbow Parentheses Improved
+nvim-treesitter/nvim-treesitter-context : Lightweight alternative to context.vim implemented with nvim-treesitter
+delphinus/auto-cursorline.nvim : Show / hide cursorline in connection with cursor moving
+ameertaweel/todo.nvim : Lua plugin for Neovim to highlight and search for todo comments like TODO, FIXME, BUG

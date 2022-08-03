@@ -26,3 +26,8 @@ kkoomen/vim-doge : will generate a proper documentation skeleton based on certai
 crag666/code_runner.nvim : Code Runner for Neovim written in pure lua
 stevearc/aerial.nvim : code outline window for skimming and quick navigation
 uga-rosa/translate.nvim : nvim plugin to translate text
+sidofc/carbon.nvim : provides a simple tree view of the directory Neovim was opened with/in
+orlp/vim-bunlink : this plugin can delete your buffers without destroying your windows/splits
+mhinz/vim-sayonara : single command that deletes the current buffer and handles the current window in a smart way
+asheq/close-buffers.vim : allows you to quickly bdeleteseveral buffers at once
+echuraev/translate-shell.vim : a plugin for translating text without leaving Vim

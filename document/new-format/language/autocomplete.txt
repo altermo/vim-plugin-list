@@ -18,3 +18,7 @@ lifepillar/vim-mucomplete : minimalist autocompletion plugin for Vim
 shawncplus/phpcomplete.vim : Improved PHP omni-completion
 shougo/neocomplcache.vim : provides keyword completion system by maintaining a cache of keywords in the current buffer
 roxma/nvim-completion-manager : A Completion Framework for Neovim [archived]
+haya14busa/vim-auto-programming : provides statistical whole lines completions for git projects
+furkanzmc/sekme.nvim : a chain-completion plugin that complements Neovim's own completion functions
+shougo/neocomplete.vim : provides keyword completion system by maintaining a cache of keywords in the current buffer [no development]
+mjbrownie/vim-htmldjango_omnicomplete : Vim htmldjango autocomplete

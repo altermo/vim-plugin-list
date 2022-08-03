@@ -56,10 +56,9 @@ amix/vim-2048
 amix/vim-zenroom2
 amopel/vim-log-print
 amrbashir/nvim-docs-view
-andersevenrud/compe-tmux
+andersevenrud/cmp-tmux
 andersevenrud/nordic.nvim
 andreicristianpetcu/vim-van
-andrewferrier/textobj-diagnostic
 andrewradev/linediff.vim
 andrewradev/sideways.vim
 andrewradev/splitjoin.vim
@@ -101,7 +100,6 @@ artur-shaik/vim-javacomplete2
 arzg/vim-substrata
 aserebryakov/vim-todo-lists
 aserowy/tmux.nvim
-asheq/close-buffers
 asheq/close-buffers.vim
 asins/vim-dict
 askfiy/catppuccin
@@ -186,7 +184,6 @@ chaitanyabsprip/present.nvim
 challenger-deep-theme/vim
 chaoren/vim-wordmotion
 chengzeyi/multiterm.vim
-chentau/marks.nvim
 chentoast/marks.nvim
 chiel92/vim-autoformat
 chimay/wheel
@@ -335,7 +332,6 @@ elvessousa/sobrio
 equalsraf/neovim-gui-shim
 equalsraf/neovim-qt
 erietz/vim-terminator
-erryma/vim-expand-region
 ervandew/supertab
 esensar/nvim-dev-container
 esensar/nvim-dev-containera
@@ -371,7 +367,7 @@ filipdutescu/renamer.nvim
 fladson/vim-kitty
 flazz/vim-colorschemes
 floobits/floobits-neovim
-flowtype/vim-flow
+flow/vim-flow
 fmoralesc/nlanguagetool.nvim
 fmoralesc/vim-pad
 fmoralesc/worldslice
@@ -410,7 +406,6 @@ gbprod/yanky.nvim
 gbrlsnchs/telescope-lsp-handlers.nvim
 gcmt/wildfire.vim
 gelguy/wilder.nvim
-gennaro-tedesco/boilit
 gennaro-tedesco/nvim-commaround
 gennaro-tedesco/nvim-jqx
 gennaro-tedesco/nvim-peekup
@@ -633,7 +628,6 @@ junegunn/rainbow_parentheses.vim
 junegunn/seoul256.vim
 junegunn/vader.vim
 junegunn/vim-after-object
-junegunn/vim-carbon-now-sh
 junegunn/vim-cfr
 junegunn/vim-easy-align
 junegunn/vim-emoji
@@ -687,7 +681,6 @@ kevinhwang91/nvim-ufo
 kevinhwang91/promise-async
 kevinhwang91/rnvimr
 kezhenxu94/vim-mysql-plugin
-kien/ctrlp.vim
 kien/rainbow_parentheses.vim
 killthemule/nvimpam
 kkharji/lspsaga.nvim
@@ -800,10 +793,8 @@ lukas-reineke/virt-column.nvim
 lukelbd/vim-tabline
 lunarvim/colorschemes
 lunarvim/darkplus.nvim
-lunarvim/lualine.nvim
 lunarvim/lunarvim
 lunarvim/onedarker.nvim
-lunixbochs/actualvim
 luochen1990/rainbow
 luukvbaal/nnn.nvim
 luukvbaal/stabilize.nvim
@@ -987,6 +978,7 @@ nvim-lsp/try.nvim
 nvim-lua/completion-nvim
 nvim-lua/lsp-status.nvim
 nvim-lua/lsp_extensions.nvim
+nvim-lua/neovim-ui
 nvim-lua/plenary.nvim
 nvim-lua/popup.nvim
 nvim-lualine/lualine.nvim
@@ -1034,6 +1026,7 @@ nyngwang/neononame.lua
 nyngwang/neoroot.lua
 nyngwang/neowell.lua
 nyngwang/neozoom.lua
+obaland/vfiler.vim
 oberblastmeister/neuron.nvim
 oberblastmeister/termwrapper.nvim
 octol/vim-cpp-enhanced-highlight
@@ -1447,7 +1440,6 @@ th3whit3wolf/onebuddy
 th3whit3wolf/space-nvim
 thaerkh/vim-workspace
 theblob42/drex.nvim
-thehamsta/module-template
 thehamsta/nvim-dap-virtual-text
 thehamsta/nvim-treesitter-commonlisp
 thehamsta/nvim-treesitter-pairs
@@ -1646,6 +1638,7 @@ wfxr/minimap.vim
 wgibbs/vim-irblack
 whatyouhide/vim-gotham
 will133/vim-dirdiff
+williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
 williamboman/nvim-lsp-installer
 willthbill/opener.nvim

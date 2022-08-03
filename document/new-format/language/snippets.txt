@@ -8,3 +8,4 @@ dcampos/nvim-snippy : A snippets plugin for Neovim 0.5.0+ written in Lua
 molleweide/luasnip-snippets.nvim : community driven library of LuaSnipsnipets
 quintik/snip : a vim plugin for creating and managing vim abbreviations [archived]
 honza/vim-snippets : contains snippets files for various programming languages
+hauleth/usnip.vim : Minimalistic snippet management for Vim

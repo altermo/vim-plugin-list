@@ -5,3 +5,7 @@ aserowy/tmux.nvim : a few features making vim and tmux work beautifully together
 numtostr/navigator.nvim : Smoothly navigate between splits and panes
 nathom/tmux.nvim : lets you seamlessly navigate between tmux panes and vim splits
 tpope/vim-tbone : Basic tmux support for Vim
+narajaon/onestatus : helps you interact with your tmux
+vimpostor/vim-tpipeline : Embed your vim statusline in the tmux statusline
+roxma/vim-tmux-clipboard : provides seamless integration for vim and tmux's clipboard
+christoomey/vim-tmux-runner : A simple, vimscript only, command runner for sending commands from vim to tmux

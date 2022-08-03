@@ -71,3 +71,22 @@ cuducos/yaml.nvim : Simple tools to help developers working YAML in Neovim
 tpope/vim-liquid : liquid support for vim
 phpactor/phpactor : aims to provide heavy-lifting refactoring and introspection tools
 vim-scripts/java_getset.vim : automatically add getter/setter
+anihm136/importmagic.nvim : automatically import unresolved symbols in python
+noib3/nvim-oxi : provides first-class Rust bindings to the rich API exposed by nvim
+flow/vim-flow : A vim plugin for Flow
+t9md/vim-ruby-xmpfilter : Support rcodetools and seeing_is_believing
+tweekmonster/gofmt.vim : runs gofmtwhen you save
+rafcamlet/nvim-luapad : Interactive neovim scratchpad for lua
+osyo-manga/vim-precious : Set the buffer filetype based on the code block the cursor currently resides in
+pangloss/vim-javascript : JavaScript bundle for vim
+rafaelsq/nvim-goc.lua : easy go coverage
+jose-elias-alvarez/nvim-lsp-ts-utils : Utilities to improve the TypeScript development experience for Neovim's built-in LSP client [archived]
+hanschen/vim-ipython-cell : Seamlessly run Python code from Vim in IPython
+tpope/vim-rake : a plugin leveraging projectionist.vim to enable you to use all those parts of rails.vim that you wish you could use on your other Ruby projects
+wsdjeg/vim-assembly : Vim mode for assembly languages
+aldantas/vim-povray : povray filetype enhancement for vim
+tweekmonster/django-plus.vim : improves django development
+erietz/vim-terminator : runs your current file
+mhartington/formatter.nvim : A format runner for Neovim
+neomake/neomake : plugin for Vim to asynchronously run programs
+dccsillag/magma-nvim : NeoVim plugin for running code interactively with Jupyter

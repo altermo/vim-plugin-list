@@ -18,3 +18,6 @@ justinmk/vim-dirvish : Path navigator designed to work with Vim's built-in mecha
 troydm/easytree.vim : a simple tree file manager for vim
 is0n/fm-nvim : a Neovim plugin that lets you use your favorite terminal file managers
 ap/vim-readdir : minimal directory browser in ~100 lines of code
+obaland/vfiler.vim : File explorer plugin for Vim
+tamago324/lir.nvim : A simple file explorer
+ipod825/vim-netranger : not just a tree file manager

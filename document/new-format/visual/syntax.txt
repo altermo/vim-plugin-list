@@ -4,3 +4,4 @@ dagwieers/asciidoc-vim : AsciiDoc syntax highlighting
 junegunn/vim-journal : syntax for journal file type
 othree/es.next.syntax.vim : This syntax file is for ECMAScript future syntax
 pboettch/vim-cmake-syntax : Vim syntax highlighting rules for modern CMakeLists.txt
+nathanalderson/yang.vim : YANG syntax highlighting and other niceties for VIM
