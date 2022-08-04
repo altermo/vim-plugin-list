@@ -7,3 +7,4 @@ dm1try/golden_size : automatically resizing the active window to the "golden" si
 camspiers/lens.vim : Vim Automatic Window Resizing Plugin
 dstein64/vim-win : a Vim plugin for managing windows
 stevearc/stickybuf.nvim : Neovim plugin for locking a buffer to a window
+camspiers/animate.vim : A Vim Window Animation Library

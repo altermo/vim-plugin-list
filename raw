@@ -169,6 +169,7 @@ caenrique/nvim-toggle-terminal
 caenrique/swap-buffers.nvim
 callmekohei/deoplete-fsharp
 camgraff/telescope-tmux.nvim
+camspiers/animate.vim
 camspiers/lens.vim
 camspiers/snap
 cankolay3499/cnvim
