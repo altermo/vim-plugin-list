@@ -934,6 +934,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [maxbrunsfeld/vim-yankstack](https://github.com/maxbrunsfeld/vim-yankstack)
   * [shougo/neoyank.vim](https://github.com/shougo/neoyank.vim) : Saves yank history
   * [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink)
+  * [vim-scripts/yankring.vim](https://github.com/vim-scripts/yankring.vim) : allows the user to configure the number of yanked, deleted and changed text
   * [yazgoo/yank-history](https://github.com/yazgoo/yank-history) : historize vim yanks and allow to search and paste from history based on FZF
 ## textobject
   * [adriaanzon/vim-textobj-blade-directive](https://github.com/adriaanzon/vim-textobj-blade-directive) : textobject for blade directive
