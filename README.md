@@ -14,7 +14,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
     * [tabline](#tabline)
     * [syntax](#syntax)
     * [statusline](#statusline)
-    * [scroolbar](#scroolbar)
+    * [scrollbar](#scrollbar)
     * [visual](#visual)
     * [highlight](#highlight)
     * [colorscheme](#colorscheme)
@@ -210,7 +210,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [tpope/vim-flagship](https://github.com/tpope/vim-flagship)
   * [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
   * [windwp/windline.nvim](https://github.com/windwp/windline.nvim)
-## scroolbar
+## scrollbar
   * [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) : Neovim plugin that displays interactive vertical scrollbars
   * [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) : displays decorated scrollbars
   * [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) : Extensible Neovim Scrollbar
