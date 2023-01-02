@@ -7,3 +7,4 @@ tzachar/cmp-fuzzy-path : nvim-cmp source for filesystem paths, employing `fd` an
 dmitmel/cmp-cmdline-history : nvim-cmp source for getting completions from command-line or search histories.
 hrsh7th/cmp-vsnip : nvim-cmp source for vim-vsnip
 andersevenrud/cmp-tmux : Tmux completion source for nvim-cmp
+amarakon/nvim-cmp-buffer-lines : provides a source for all the lines in the current buffer

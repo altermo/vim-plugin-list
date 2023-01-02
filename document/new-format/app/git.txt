@@ -35,3 +35,4 @@ f-person/git-blame.nvim : git blame plugin for Neovim
 lambdalisue/gin.vim : handle git repository from Vim
 cohama/agit.vim : Yet another gitk clone for Vim
 theprimeagen/git-worktree.nvim : simple wrapper around git worktree operations, create, switch, and delete
+akinsho/git-conflict.nvim : A plugin to visualise and resolve conflicts

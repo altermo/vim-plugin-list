@@ -1,6 +1,0 @@
-wis6991/llite.im : lays rated llbars
-ein64/im-llview : vim gin at lays active ical llbars
-rtriho/im-llbar : nsible vim llbar
-vkoff/m-oll-acle :  llbar r m n e inal
-uanp/llbar.im : llbar r vim
-tnn/m-sbar : ides at ch dow s  llbar

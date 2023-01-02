@@ -64,3 +64,4 @@ kana/vim-repeat : Enable to repeat last change by non built-in commands
 bkad/camelcasemotion : make word motions respect camel case
 rrethy/vim-lacklustertab : Like supertab but not as super
 peterrincker/vim-argumentative : aids with manipulating and moving between function arguments
+chrisgrieser/nvim-recorder : Simplifying and improving how you interact with macros

@@ -35,3 +35,4 @@ lewpoly/sherbet.nvim
 rockyzhang24/arctic.nvim
 gruvbox-community/gruvbox
 everblush/everblush.nvim
+bluz71/vim-nightfly-colors

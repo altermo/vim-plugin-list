@@ -209,3 +209,5 @@ fsharpasharp/vim-dirvinist : List all files defined by your projections with the
 brenopacheco/vim-hydra : allows you to create hydras similar to abo-abo's Emacs plugin
 beloglazov/vim-online-thesaurus : look up words in an online thesaurus
 softinio/scaladex.nvim : provides both Telescope extension that allows you to search the scaladex index and provides a library that you can require and query the scaladex index
+acksld/swenv.nvim : quickly switch python virtual environments from within neovim
+brendalf/mix.nvim : A Mix (Elixir) wrapper for Neovim

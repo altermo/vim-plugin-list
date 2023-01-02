@@ -37,3 +37,5 @@ wincent/command-t : provides an extremely fast "fuzzy" mechanism
 mrjones2014/dash.nvim : Query Dash.app within Neovim with your fuzzy finder
 ctrlpvim/ctrlp.vim : Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 junegunn/fzf.vim : Things you can do with fzf and Vim
+cbochs/grapple.nvim : aims to provide immediate navigation to important files
+conweller/findr.vim : An incremental narrowing engine

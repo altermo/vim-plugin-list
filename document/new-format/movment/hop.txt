@@ -5,3 +5,4 @@ osyo-manga/vim-hopping : This is a plugin that incrementally narrows down buffer
 mfussenegger/nvim-ts-hint-textobject : Treesitter hint textobject
 haya14busa/vim-easyoperator-phrase : provides a much simpler way to use some operator for phrase than vim-easymotion
 haya14busa/vim-easyoperator-line : provides a much simpler way to use some operator for line in Vim
+cbochs/portal.nvim : aims to build upon and enhance existing jumplist motions

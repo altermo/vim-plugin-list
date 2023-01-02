@@ -13,3 +13,4 @@ rbtnn/vim-textobj-verbatimstring : provide text objects (a@ and i@ by default) t
 rbtnn/vim-textobj-vimfunctionname : provide text objects to select a vim function name
 machakann/vim-sandwich : a set of operator and textobject plugins to add/delete/replace surroundings of a sandwiched textobject
 rbtnn/vim-textobj-string : provide text objects to select a string
+chrisgrieser/nvim-various-textobjs : Bundle of more than a dozen new text objects

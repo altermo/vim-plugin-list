@@ -31,3 +31,4 @@ orlp/vim-bunlink : this plugin can delete your buffers without destroying your w
 mhinz/vim-sayonara : single command that deletes the current buffer and handles the current window in a smart way
 asheq/close-buffers.vim : allows you to quickly bdeleteseveral buffers at once
 echuraev/translate-shell.vim : a plugin for translating text without leaving Vim
+chrisgrieser/nvim-genghis : Convenience file operations for neovim

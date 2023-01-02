@@ -14,3 +14,4 @@ jorengarenar/minplug : Its function is simple: download, update and enable plugi
 vundlevim/vundle.vim : is short for Vim bundle and is a Vim plugin manager
 junegunn/vim-plug : minimalist Vim plugin manager
 rbtnn/vim-pkgsync : The minimalist plugin manager for Vim
+chiyadev/dep : A versatile, declarative and correct neovim package manager

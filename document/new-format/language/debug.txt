@@ -7,3 +7,4 @@ sidorares/node-vim-debugger : Node.js debugger client and vim driver
 vim-vdebug/vdebug : a new, fast, powerful debugger client for Vim
 jodosha/vim-godebug : Go debugging for Vim
 pocco81/dapinstall.nvim : Debug Adapter Protocol manager for Neovim
+andrewferrier/debugprint.nvim : simply print debug messages
