@@ -24,3 +24,5 @@ j-hui/fidget.nvim : Standalone UI for nvim-lsp progress
 artempyanykh/marksman : Markdown LSP server providing completion, goto, references, diagnostics, and more
 davidhalter/jedi-vim : awesome Python autocompletion with VIM
 weilbith/nvim-lsp-bacomp : NeoVim Language Server Backwards Compatibility
+muniftanjim/prettier.nvim : Prettier plugin for Neovim's built-in LSP client
+ranjithshegde/ccls.nvim : neovim plugin to configure ccls language server

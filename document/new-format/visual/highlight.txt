@@ -3,3 +3,8 @@ guns/vim-clojure-highlight : Extend builtin syntax highlighting to local, referr
 galicarnax/vim-regex-syntax : Syntax highlight for regular expressions
 numirias/semshi : provides semantic highlighting for Python in Neovim
 lfv89/vim-interestingwords : Word highlighting and navigation throughout out the buffer
+kasama/nvim-custom-diagnostic-highlight : apply a highlight group to unused variables and functions using LSP
+lcheylus/overlength.nvim : highlight the part of a line that doesn't fit into textwidth
+melkster/modicator.nvim : changes the foreground color of the CursorLineNr highlight based on the current Vim mode
+nyngwang/murmur.lua : Cursorword highlighting with callbacks support
+zbirenbaum/neodim : dimming the highlights of unused functions, variables, parameters, and more

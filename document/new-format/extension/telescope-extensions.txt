@@ -34,3 +34,6 @@ ethanjwright/vs-tasks.nvim : Telescope plugin to load and run tasks in a project
 runiq/telescope-trouble.nvim : see trouble info from telescope
 edolphin-ydf/goimpl.nvim : telescope extension for goimlp
 debugloop/telescope-undo.nvim : Visualize your undo tree in telescope
+desdic/telescope-rooter.nvim : changes the working directory to the to the project/root path
+axkirillov/easypick.nvim : easily create Telescope pickers
+otavioschwanck/telescope-alternate.nvim : Alternate between common files using pre-defined regexp

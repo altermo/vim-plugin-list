@@ -22,3 +22,4 @@ haya14busa/vim-auto-programming : provides statistical whole lines completions f
 furkanzmc/sekme.nvim : a chain-completion plugin that complements Neovim's own completion functions
 shougo/neocomplete.vim : provides keyword completion system by maintaining a cache of keywords in the current buffer [no development]
 mjbrownie/vim-htmldjango_omnicomplete : Vim htmldjango autocomplete
+zbirenbaum/copilot.lua : pure lua replacement for {github/copilot.vim}

@@ -12,3 +12,4 @@ acksld/nvim-anywise-reg.lua : paste a function somewhere else
 hrsh7th/vim-feeling-move : do you ever wish to be able to move only by feeling.
 hrsh7th/vim-foolish-move : foolishly speed across the window with the cursor
 fedepujol/move.nvim : Gain the power to move lines and blocks
+hrsh7th/nvim-gtd : LSP's Go To Definition plugin for neovim

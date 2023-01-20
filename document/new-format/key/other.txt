@@ -65,3 +65,6 @@ bkad/camelcasemotion : make word motions respect camel case
 rrethy/vim-lacklustertab : Like supertab but not as super
 peterrincker/vim-argumentative : aids with manipulating and moving between function arguments
 chrisgrieser/nvim-recorder : Simplifying and improving how you interact with macros
+nexmean/caskey.nvim : Declarative cascade key mappings configuration
+wansmer/treesj : for splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc
+weissle/easy-action : execute an action, such as yank and delete, but keeps your cursor position

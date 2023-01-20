@@ -118,6 +118,7 @@ astronvim/astronvim
 asvetliakov/vscode-neovim
 autozimu/languageclient-neovim
 axieax/urlview.nvim
+axkirillov/easypick.nvim
 axkirillov/telescope-changed-files
 axlebedev/footprints
 axvr/org.vim
@@ -439,7 +440,6 @@ gbrlsnchs/telescope-lsp-handlers.nvim
 gcmt/wildfire.vim
 gelguy/wilder.nvim
 gen740/smoothcursor.nvim
-gennaro-tedesco/boilit
 gennaro-tedesco/nvim-commaround
 gennaro-tedesco/nvim-jqx
 gennaro-tedesco/nvim-peekup
@@ -524,9 +524,15 @@ hrsh7th/cmp-path
 hrsh7th/cmp-vsnip
 hrsh7th/nvim-cmp
 hrsh7th/nvim-compe
+hrsh7th/nvim-dansa
+hrsh7th/nvim-gtd
+hrsh7th/nvim-insx
+hrsh7th/nvim-pasta
+hrsh7th/vim-candle
 hrsh7th/vim-eft
 hrsh7th/vim-feeling-move
 hrsh7th/vim-foolish-move
+hrsh7th/vim-gindent
 hrsh7th/vim-insert-point
 hrsh7th/vim-lamp
 hrsh7th/vim-seak
@@ -548,6 +554,7 @@ iberianpig/tig-explorer.vim
 ibhagwan/fzf-lua
 icymind/neosolarized
 idanarye/vim-merginal
+ido-nvim/ido.nvim
 imbacraft/dusk.nvim
 inkarkat/vim-advancedsorters
 inkarkat/vim-enhancedjumps
@@ -987,7 +994,6 @@ nekonako/xresources-nvim
 nelstrom/vim-cutlass
 neoclide/coc.nvim
 neomake/neomake
-neovim.io/logos
 neovim/go-client
 neovim/nvim-lspconfig
 neovimhaskell/haskell-vim
@@ -995,7 +1001,6 @@ nexmean/caskey.nvim
 nfischer/vim-rainbows
 nfrid/due.nvim
 nfrid/markdown-togglecheck
-nfrid/treesitter-utils
 nguyenvukhang/nvim-toggler
 nickhutchinson/vim-cmake-syntax
 nightsense/cosmic_latte
@@ -1033,7 +1038,6 @@ numtostr/comment.nvim
 numtostr/fterm.nvim
 numtostr/navigator.nvim
 nvchad/nvchad
-nvchad/nvim-colorizer.lua
 nvie/vim-flake8
 nvim-colortils/colortils.nvim
 nvim-lsp/try.nvim
@@ -1367,7 +1371,6 @@ savq/paq-nvim
 sbdchd/neoformat
 scalameta/nvim-metals
 scjangra/files-nvim
-scrooloose/nerdtree
 scrooloose/nerdtree-project-plugin
 scrooloose/vim-slumlord
 seandewar/killersheep.nvim
@@ -1425,6 +1428,7 @@ sidofc/carbon.nvim
 sidofc/mkdx
 sidorares/node-vim-debugger
 siduck76/nvchad
+sigmasd/deno-nvim
 simnalamburt/vim-mundo
 simonefranza/nvim-conv
 simrat39/rust-tools.nvim
@@ -1745,7 +1749,6 @@ wesq3/vim-windowswap
 wfxr/minimap.vim
 wgibbs/vim-irblack
 whatyouhide/vim-gotham
-whynothugo/lsp_lines.nvim
 will133/vim-dirdiff
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
@@ -1756,7 +1759,6 @@ wincent/ferret
 wincent/pinnacle
 windwp/nvim-autopairs
 windwp/nvim-projectconfig
-windwp/nvim-spectre
 windwp/nvim-ts-autotag
 windwp/nvim-ts-closetag
 windwp/wind-colors
@@ -1801,6 +1803,7 @@ yamatsum/nvim-cursorline
 yamatsum/nvim-nonicons
 yaocccc/nvim-hlchunk
 yaocccc/nvim-lines.lua
+yaocccc/vim-hlchunk
 yashguptaz/calvera-dark.nvim
 yatli/fvim
 yazeed1s/minimal.nvim

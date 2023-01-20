@@ -36,3 +36,13 @@ rockyzhang24/arctic.nvim
 gruvbox-community/gruvbox
 everblush/everblush.nvim
 bluz71/vim-nightfly-colors
+folke/styler.nvim : set a different colorscheme per filetype
+gbprod/nord.nvim
+kvrohit/mellow.nvim
+mofiqul/adwaita.nvim
+ofirgall/ofirkai.nvim
+olivercederborg/poimandres.nvim
+rakr/vim-one
+ramojus/mellifluous.nvim
+ray-x/starry.nvim
+yazeed1s/oh-lucy.nvim

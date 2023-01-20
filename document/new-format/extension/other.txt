@@ -22,3 +22,4 @@ haya14busa/incsearch-easymotion.vim : Integration between {haya14busa/incsearch.
 tpope/vim-vinegar : enhances netrw, partially in an attempt to mitigate the need for more disruptive "project drawer" style plugins
 roginfarrer/vim-dirvish-dovish : The file manipulation commands for vim-dirvish that you've always wanted
 weirongxu/coc-explorer : Explorer extension for coc.nvim
+ofirgall/goto-breakpoints.nvim : cycle between nvim-dap's breakpoints

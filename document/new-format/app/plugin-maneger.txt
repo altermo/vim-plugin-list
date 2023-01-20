@@ -15,3 +15,5 @@ vundlevim/vundle.vim : is short for Vim bundle and is a Vim plugin manager
 junegunn/vim-plug : minimalist Vim plugin manager
 rbtnn/vim-pkgsync : The minimalist plugin manager for Vim
 chiyadev/dep : A versatile, declarative and correct neovim package manager
+folke/lazy.nvim : modern plugin manager for Neovim
+rktjmp/pact.nvim : a semver focused, pessimistic plugin manager for Neovim

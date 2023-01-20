@@ -1,0 +1,6 @@
+dstein64/nvim-scrollview : displays interactive vertical scrollbars
+lewis6991/satellite.nvim : displays decorated scrollbars
+petertriho/nvim-scrollbar : Extensible Neovim Scrollbar
+rbtnn/vim-winsbar : provides that each window has a scrollbar
+sslivkoff/vim-scroll-barnacle : a scrollbar for vim in the terminal
+xuyuanp/scrollbar.nvim : scrollbar for neovim

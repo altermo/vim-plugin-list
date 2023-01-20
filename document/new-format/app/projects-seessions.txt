@@ -14,3 +14,6 @@ tpope/vim-projectionist : provides granular project configuration using "project
 rmagatti/session-lens : extends auto-session through Telescope.nvim, creating a simple session switcher with fuzzy finding capabilities
 tpope/vim-obsession : automatically run `:mksession` on exit
 folke/persistence.nvim : simple lua plugin for automated session management
+gnikdroy/projections.nvim : A tiny project + sessions manager for neovim
+nyngwang/suave.lua : a quasi-acronym of "Session in LUA for Vim Enthusiasts."
+pluffie/neoproj : Small yet powerful project manager

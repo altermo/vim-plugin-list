@@ -3,3 +3,4 @@ junegunn/limelight.vim : Hyperfocus-writing in Vim
 henriquehbr/ataraxis.lua : absence of mental stress or anxiety, a state of serene calmness
 junegunn/goyo.vim : Distraction-free writing in Vim
 koenverburg/peepsight.nvim : just focus on one function at the time
+shortcuts/no-neck-pain.nvim : center the currently focused buffer to the middle of the screen

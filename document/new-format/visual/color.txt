@@ -12,3 +12,4 @@ tjdevries/colorbuddy.vim : A colorscheme helper for Neovim
 amadeus/vim-convert-color-to : simple and easy to use plugin that can convert various color strings to different formats
 jeaye/color_coded : semantic highlighting with vim
 brenoprata10/nvim-highlight-colors : Highlight colors with neovim
+uga-rosa/ccc.nvim : Create Color Code

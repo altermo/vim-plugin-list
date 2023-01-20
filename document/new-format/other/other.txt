@@ -211,3 +211,19 @@ beloglazov/vim-online-thesaurus : look up words in an online thesaurus
 softinio/scaladex.nvim : provides both Telescope extension that allows you to search the scaladex index and provides a library that you can require and query the scaladex index
 acksld/swenv.nvim : quickly switch python virtual environments from within neovim
 brendalf/mix.nvim : A Mix (Elixir) wrapper for Neovim
+desdic/greyjoy.nvim : a pluggable pattern/file based launcher
+gorbit99/codewindow.nvim : a minimap plugin for neovim
+jayp0521/mason-null-ls.nvim : bridges mason.nvim with the null-ls plugin
+jayp0521/mason-nvim-dap.nvim : bridges mason.nvim with the nvim-dap plugin
+hrsh7th/vim-candle : Any candidates listing engine for vim/nvim built on yaegi
+jghauser/papis.nvim : companion plugin for the bibliography manager papis
+julian/lean.nvim : support for the Lean Theorem Prover
+kabbamine/gulp-vim : a simple gulp wrapper for vim
+kiran94/s3edit.nvim : Edit files from S3 directly from Neovim
+massolari/forem.nvim : integrates Neovim with Forem platforms
+muniftanjim/exrc.nvim : Local config file with confirmation for Neovim [archived]
+ofirgall/open.nvim : Open the current word (or other text) with custom openers
+ray-x/web-tools.nvim : Neovim Wrapper for heart browser-sync
+samodostal/image.nvim : Image Viewer as ASCII Art
+smzm/hydrovim : runs Pythoncode and displays the result
+svermeulen/vim-macrobatics : the goal of making vim macros easier to use

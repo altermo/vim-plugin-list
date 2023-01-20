@@ -8,3 +8,5 @@ axvr/org.vim : Org mode and Outline mode syntax highlighting for Vim
 preservim/vim-markdown : Syntax highlighting, matching rules and mappings for the original Markdown and extensions
 ixru/nvim-markdown : Fork of vim-markdown with extra functionality
 acksld/nvim-femaco.lua : Catalyze your Fenced Markdown Code-block editing
+toppair/peek.nvim : Markdown preview plugin for Neovim
+vim-latex/vim-latex : provides a rich tool of features for editing latex files

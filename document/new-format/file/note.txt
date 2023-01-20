@@ -15,3 +15,6 @@ lervag/wiki.vim : This is for writing and maintaining a personal wiki
 boson-joe/yanp : Yes another notetaking plugin which supports recurring topics structure and customisable syntax
 ahmedkhalf/jupyter-nvim : Read jupyter notebooks in neovim
 gu-fan/riv.vim : Notes and wiki in rst
+epwalsh/obsidian.nvim : writing and navigating an Obsidian vault
+ostralyan/scribe.nvim : convenient way to find and take notes
+phaazon/mind.nvim : a new take on note taking and task workflows

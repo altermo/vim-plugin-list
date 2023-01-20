@@ -92,3 +92,8 @@ neomake/neomake : plugin for Vim to asynchronously run programs
 dccsillag/magma-nvim : NeoVim plugin for running code interactively with Jupyter
 benekastah/neomake : asynchronously run programs
 civitasv/cmake-tools.nvim : CMake Tools for Neovim
+kovisoft/slimv : Superior Lisp Interaction Mode for Vim
+krady21/compiler-explorer.nvim : compiler explorer inside neovim
+potamides/pantran.nvim : use your favorite machine translation engines without having to leave
+shatur/neovim-tasks : provides a stateful task system
+sigmasd/deno-nvim : improve deno experience

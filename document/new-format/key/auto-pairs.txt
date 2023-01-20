@@ -13,3 +13,5 @@ windwp/nvim-ts-closetag : Use treesitter to autoclose and autorename html tag
 eluum/vim-autopair : very simple vim plugin for autocompleting the paired characters
 rrethy/vim-impiared : a pair plugin
 cohama/lexima.vim : Auto close parentheses and repeat by dot dot dot
+hrsh7th/nvim-insx : Flexible insert-mode key mapping manager
+m4xshen/autoclose.nvim : minimalist autoclose plugin

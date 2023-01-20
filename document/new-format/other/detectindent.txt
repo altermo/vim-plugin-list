@@ -5,3 +5,4 @@ raimondi/yaifa : try to detect the kind of indentation used in your file and set
 conormcd/matchindent.vim : scans through a file when it's opened and attempts to guess which style of indentation is being used
 ldx/vim-indentfinder : vim plugin for automatically detecting indentation
 nmac427/guess-indent.nvim : Blazing fast indentation style detection for Neovim written in Lua
+hrsh7th/nvim-dansa : Guess the indent from lines of around.

@@ -39,3 +39,6 @@ ctrlpvim/ctrlp.vim : Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 junegunn/fzf.vim : Things you can do with fzf and Vim
 cbochs/grapple.nvim : aims to provide immediate navigation to important files
 conweller/findr.vim : An incremental narrowing engine
+shoumodip/helm.nvim : The completion framework for love and life
+ido-nvim/ido.nvim : Emacs inspired narrowing system
+x3ero0/dired.nvim : file browser inspired from Emacs Dired

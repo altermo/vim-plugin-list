@@ -58,3 +58,12 @@ ameertaweel/todo.nvim : Lua plugin for Neovim to highlight and search for todo c
 acksld/messages.nvim : Capture and show any messages in a customisable floating window
 adelarsq/image_preview.nvim : Neovim plugin for image previews
 anuvyklack/animation.nvim : An OOP library to create animations in Neovim
+emileferreira/nvim-strict : Strictly enforce configurable, best-practice code style
+folke/noice.nvim : completely replaces the UI for messages, cmdline and the popupmenu
+gen740/smoothcursor.nvim : add sub-cursor to show scroll direction
+nvim-tree/nvim-web-devicons : lua fork of vim-devicons
+nvim-zh/colorful-winsep.nvim : configurable window separtor
+smjonas/live-command.nvim : Preview macros, the :norm command & more
+utilyre/barbecue.nvim : VS Code like winbar that uses nvim-navic
+yaocccc/nvim-hlchunk : hignlight chunk signcolumn plug of nvim
+yaocccc/vim-hlchunk : hignlight chunk signcolumn plug of vim

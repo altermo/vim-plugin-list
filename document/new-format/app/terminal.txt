@@ -16,3 +16,4 @@ toniz4/vim-stt : Simple Togglable Terminal
 oberblastmeister/termwrapper.nvim : a wrapper for neovim's terminal features to make them more user friendly
 akinsho/nvim-toggleterm.lua : A neovim plugin to persist and toggle multiple terminals during an editing session
 itmecho/bufterm.nvim : simple neovim plugin to manage a terminal buffer for your session
+nyngwang/neoterm.lua : Attach a terminal for each buffer

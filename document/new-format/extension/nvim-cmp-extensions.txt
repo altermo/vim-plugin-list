@@ -8,3 +8,5 @@ dmitmel/cmp-cmdline-history : nvim-cmp source for getting completions from comma
 hrsh7th/cmp-vsnip : nvim-cmp source for vim-vsnip
 andersevenrud/cmp-tmux : Tmux completion source for nvim-cmp
 amarakon/nvim-cmp-buffer-lines : provides a source for all the lines in the current buffer
+dmitmel/cmp-digraphs : nvim-cmp source for completing digraphs
+paterjason/cmp-conjure : nvim-cmp source for conjure

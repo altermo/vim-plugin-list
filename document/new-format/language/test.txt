@@ -8,3 +8,4 @@ thinca/vim-themis : testing framework for Vim script
 vim-test/vim-test : Vim wrapper for running tests on different granularities
 wsdjeg/javaunit.vim : test the current methond
 junegunn/vader.vim : I use Vader to test Vimscript
+vim-php/vim-phpunit : allows you to run PHP Unit tests easily

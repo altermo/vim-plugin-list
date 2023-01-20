@@ -5,3 +5,7 @@ nvchad/nvchad : neovim config written in lua aiming to provide a base configurat
 rafaeldelboni/nvim-fennel-lsp-conjure-as-clojure-ide : Basic config to transform your NVIM in a powerful Clojure IDE using fennel, clojure-lsp and conjure
 pechorin/any-jump.vim : IDE madness without overhead for 40+ languages
 folke/lua-dev.nvim :  setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API
+jonathandion/web-dev.nvim : Small, fast, simple, flexible
+ldelossa/nvim-ide : complete IDE layer for Neovim
+nvim-lua/kickstart.nvim : A starting point for Neovim
+otavioschwanck/mood-nvim : a configuration

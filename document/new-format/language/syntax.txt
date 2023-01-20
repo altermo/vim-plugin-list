@@ -34,3 +34,4 @@ othree/javascript-libraries-syntax.vim : Syntax file for JavaScript libraries
 iron-e/vim-ungrammar : syntax for Ungrammar filetype
 aklt/plantuml-syntax : Vim PlantUML Syntax/Plugin/FTDetect
 stephpy/vim-yaml : Syntax file for yaml
+towolf/vim-helm : vim syntax for helm templates
