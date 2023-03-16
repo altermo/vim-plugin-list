@@ -19,3 +19,7 @@ ron89/thesaurus_query.vim : plugin for user to lookupsynonyms of any word
 sidofc/mkdx : reduce the time you spend formatting your markdown documents
 jamessan/vim-gnupg : implements transparent editing of gpg encrypted files
 fmoralesc/nlanguagetool.nvim : Stupid simple language tool plugin for nvim
+lunarvim/bigfile.nvim : disables certain features when opening big files
+panozzaj/vim-autocorrect : add typo correctint abbreviations
+preservim/vim-litecorrect : add type correctint abbreviations
+vim-scripts/wordlist.vim : autocorrection of words

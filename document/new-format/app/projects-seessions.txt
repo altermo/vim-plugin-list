@@ -17,3 +17,4 @@ folke/persistence.nvim : simple lua plugin for automated session management
 gnikdroy/projections.nvim : A tiny project + sessions manager for neovim
 nyngwang/suave.lua : a quasi-acronym of "Session in LUA for Vim Enthusiasts."
 pluffie/neoproj : Small yet powerful project manager
+https://gitlab.com/nvpm/nvpm : Neovim Project Manager

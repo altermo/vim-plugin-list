@@ -15,3 +15,4 @@ rrethy/vim-impiared : a pair plugin
 cohama/lexima.vim : Auto close parentheses and repeat by dot dot dot
 hrsh7th/nvim-insx : Flexible insert-mode key mapping manager
 m4xshen/autoclose.nvim : minimalist autoclose plugin
+altermo/ultimate-autopair.nvim : Aims to have all the auto-pairing fetures

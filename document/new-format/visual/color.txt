@@ -13,3 +13,4 @@ amadeus/vim-convert-color-to : simple and easy to use plugin that can convert va
 jeaye/color_coded : semantic highlighting with vim
 brenoprata10/nvim-highlight-colors : Highlight colors with neovim
 uga-rosa/ccc.nvim : Create Color Code
+preservim/vim-thematic : have themes for vim

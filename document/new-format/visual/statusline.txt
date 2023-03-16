@@ -10,3 +10,5 @@ bluz71/vim-mistfly-statusline : a simple, fast and informative statusline for Vi
 rrethy/nvim-hotline : Minimal Lua wrappers for setting your 'statusline' and 'tabline'
 liuchengxu/eleline.vim : Another elegant statusline for vim
 yaocccc/nvim-lines.lua : simple statusline & tabline
+roobert/statusline-action-hints.nvim : shows statusline information on the current word
+tamago324/vim-gaming-line : animated gaming statusline

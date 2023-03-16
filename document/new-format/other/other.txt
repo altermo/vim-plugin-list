@@ -227,3 +227,8 @@ ray-x/web-tools.nvim : Neovim Wrapper for heart browser-sync
 samodostal/image.nvim : Image Viewer as ASCII Art
 smzm/hydrovim : runs Pythoncode and displays the result
 svermeulen/vim-macrobatics : the goal of making vim macros easier to use
+hkupty/impromptu.nvim : quickly create prompts
+jeffkreeftmeijer/vim-numbertoggle : switch to absolute line number automatically when relative numbers don't make sense
+mickael-menu/shadowvim : Neovim inside Xcode
+sunaku/vim-dasht : dasht integration
+tek/chromatin.nvim : provides management for plugins built with ribos and distributed over pypi

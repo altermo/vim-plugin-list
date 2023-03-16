@@ -21,3 +21,4 @@ ap/vim-readdir : minimal directory browser in ~100 lines of code
 obaland/vfiler.vim : File explorer plugin for Vim
 tamago324/lir.nvim : A simple file explorer
 ipod825/vim-netranger : not just a tree file manager
+scrooloose/nerdtree : a file system Explorer for the vim editor

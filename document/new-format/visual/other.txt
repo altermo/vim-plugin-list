@@ -67,3 +67,7 @@ smjonas/live-command.nvim : Preview macros, the :norm command & more
 utilyre/barbecue.nvim : VS Code like winbar that uses nvim-navic
 yaocccc/nvim-hlchunk : hignlight chunk signcolumn plug of nvim
 yaocccc/vim-hlchunk : hignlight chunk signcolumn plug of vim
+dbmrq/vim-redacted : Just redact some text
+hiphish/nvim-ts-rainbow2 : rainbow parentheses
+mawkler/modicator.nvim : Cursor line mode indicator
+tummetott/reticle.nvim : disable cursor line for not used windows

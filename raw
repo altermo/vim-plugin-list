@@ -151,6 +151,7 @@ bi0ha2ard/telescope-ros.nvim
 bkad/camelcasemotion
 bkegley/gloombuddy
 bkoropoff/bex.nvim
+blindfs/vim-translator
 bling/vim-bufferline
 blueshirts/darcula
 blueyed/vim-diminactive
@@ -554,6 +555,7 @@ hrsh7th/vim-searchx
 hrsh7th/vim-vsnip
 https://gitlab.com/dbeniamine/vim-mail
 https://gitlab.com/groctel/jobsplit.nvim
+https://gitlab.com/hiphish/repl.nvim
 https://gitlab.com/nvpm/nvpm
 https://gitlab.com/yorickpeterse/nvim-grey
 https://gitlab.com/yorickpeterse/nvim-pqf
@@ -781,6 +783,7 @@ kristijanhusak/vim-dadbod-completion
 kristijanhusak/vim-dadbod-ui
 kristijanhusak/vim-dirvish-git
 kristijanhusak/vim-packager
+kshenoy/vim-origami
 kshenoy/vim-signature
 kuznetsss/meadow-nvim
 kvrohit/mellow.nvim
@@ -990,7 +993,6 @@ muniftanjim/exrc.nvim
 muniftanjim/nui.nvim
 muniftanjim/prettier.nvim
 mxw/vim-jsx
-my/supercoolplugin
 myusuf3/numbers.vim
 mzlogin/vim-markdown-toc
 nacro90/numb.nvim
@@ -1201,8 +1203,6 @@ pkazmier/java_getset.vim
 plan9-for-vimspace/acme-colors
 plasticboy/vim-markdown
 pluffie/neoproj
-plugin/commentary.vim
-plugin/rsi.vim
 pocco81/abbrevman.nvim
 pocco81/autosave.nvim
 pocco81/dap-buddy.nvim
@@ -1487,6 +1487,7 @@ siuoly/typing_speed.vim
 sjl/clam.vim
 sjl/gundo.vim
 sjl/vitality.vim
+skanehira/denops-translate.vim
 skywind3000/asyncrun.vim
 skywind3000/asynctasks.vim
 skywind3000/gutentags_plus
@@ -1768,6 +1769,7 @@ vim/killersheep
 vimjas/vim-python-pep8-indent
 vimpostor/vim-tpipeline
 vimwiki/vimwiki
+vincentcordobes/vim-translate
 voldikss/vim-browser-search
 voldikss/vim-floaterm
 voldikss/vim-translator

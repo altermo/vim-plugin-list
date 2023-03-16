@@ -1,3 +1,5 @@
 throughnothing/vimchat : do instant messaging from within the vim text editor
 vim-chat/vim-chat : chat in neovim and vim8
 wsdjeg/vim-chat : The chatting client for vim
+jackmort/chatgpt.nvim : allows you to interact with Open AI's GPT-3
+terror/chatgpt.nvim : lest you query ChatGPT

@@ -9,3 +9,4 @@ jonathandion/web-dev.nvim : Small, fast, simple, flexible
 ldelossa/nvim-ide : complete IDE layer for Neovim
 nvim-lua/kickstart.nvim : A starting point for Neovim
 otavioschwanck/mood-nvim : a configuration
+usuim/usuim : Neovim configured to look like Visual Studio Code

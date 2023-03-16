@@ -97,3 +97,15 @@ krady21/compiler-explorer.nvim : compiler explorer inside neovim
 potamides/pantran.nvim : use your favorite machine translation engines without having to leave
 shatur/neovim-tasks : provides a stateful task system
 sigmasd/deno-nvim : improve deno experience
+blindfs/vim-translator : A translation tool
+dbmrq/vim-dialect : quickly add to spellfile
+gaodean/autolist.nvim : Automatic list continuation and formatting
+jdelkins/vim-correction : automatically correct spelling
+justinmk/nvim-repl : a minimal REPL plugin
+https://gitlab.com/hiphish/repl.nvim : The universal, extendible and configurable REPL plugin
+justinmk/vim-printf : turn a line into a printf-style statment
+preservim/vim-lexical : a bunch of spellchecker improvments
+rest-nvim/rest.nvim : fast http client
+skanehira/denops-translate.vim : A translation tool using denops
+valpackett/intero.nvim : really fast omnicomplete for haskell
+vincentcordobes/vim-translate : A tiny translate-shell wrapper

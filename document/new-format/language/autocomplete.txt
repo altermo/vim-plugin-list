@@ -23,3 +23,4 @@ furkanzmc/sekme.nvim : a chain-completion plugin that complements Neovim's own c
 shougo/neocomplete.vim : provides keyword completion system by maintaining a cache of keywords in the current buffer [no development]
 mjbrownie/vim-htmldjango_omnicomplete : Vim htmldjango autocomplete
 zbirenbaum/copilot.lua : pure lua replacement for {github/copilot.vim}
+haorenw1025/completion-nvim : an auto completion framework

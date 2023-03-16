@@ -4,3 +4,4 @@ junegunn/vim-fnr : Find-N-Replace in Vim with live preview
 s1n7ax/nvim-search-and-replace : Absolutly minimal plugin to search and replace multiple files in current working directory
 romgrk/searchreplace.vim : search thru multiple files and replace the search
 ray-x/sad.nvim : project wide find and replace
+cshuaimin/ssr.nvim : Structural search and replace

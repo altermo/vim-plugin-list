@@ -37,3 +37,4 @@ debugloop/telescope-undo.nvim : Visualize your undo tree in telescope
 desdic/telescope-rooter.nvim : changes the working directory to the to the project/root path
 axkirillov/easypick.nvim : easily create Telescope pickers
 otavioschwanck/telescope-alternate.nvim : Alternate between common files using pre-defined regexp
+danielfalk/smart-open.nvim : provide the best possible suggestions for quickly opening files

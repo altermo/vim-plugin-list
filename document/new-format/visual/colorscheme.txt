@@ -46,3 +46,6 @@ rakr/vim-one
 ramojus/mellifluous.nvim
 ray-x/starry.nvim
 yazeed1s/oh-lucy.nvim
+felipec/vim-felipec
+kyazdani42/nvim-palenight.lua
+preservim/vim-colors-pencil

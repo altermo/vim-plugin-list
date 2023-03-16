@@ -10,3 +10,5 @@ andersevenrud/cmp-tmux : Tmux completion source for nvim-cmp
 amarakon/nvim-cmp-buffer-lines : provides a source for all the lines in the current buffer
 dmitmel/cmp-digraphs : nvim-cmp source for completing digraphs
 paterjason/cmp-conjure : nvim-cmp source for conjure
+dcampos/cmp-snippy : nvim-snippy source for nvim-cmp
+roobert/tailwindcss-colorizer-cmp.nvim : Add vs-code-stile TailwindCss color hints to nvim-cmp

@@ -68,3 +68,4 @@ chrisgrieser/nvim-recorder : Simplifying and improving how you interact with mac
 nexmean/caskey.nvim : Declarative cascade key mappings configuration
 wansmer/treesj : for splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc
 weissle/easy-action : execute an action, such as yank and delete, but keeps your cursor position
+preservim/vim-wordchipper : improve text shredding in insert mode

@@ -14,6 +14,6 @@ def main()->None:
         doc=sum(data.values(),[])
     print('Frequency of first letters:')
     first_letter(raw)
-    print(f'Documented: {len(doc)}/{len(raw)}={len(doc)*1000//len(raw)/10}%')
+    print(f'Documented: {len(doc)}/{len(raw)}={len(doc)*100/len(raw):.1f}%')
 if __name__=='__main__':
     main()

@@ -13,3 +13,6 @@ hrsh7th/vim-feeling-move : do you ever wish to be able to move only by feeling.
 hrsh7th/vim-foolish-move : foolishly speed across the window with the cursor
 fedepujol/move.nvim : Gain the power to move lines and blocks
 hrsh7th/nvim-gtd : LSP's Go To Definition plugin for neovim
+haya14busa/vim-edgemotion : like `jk` but stops at edge only
+phsix/faster.nvim : accelerate j or k moving
+preservim/vim-wheel : Screen-anchored cursor movement

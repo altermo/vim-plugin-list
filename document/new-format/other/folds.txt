@@ -6,3 +6,5 @@ pseewald/vim-anyfold : Generic folding mechanism and motion based on indentation
 leafcage/foldcc.vim : Provides a function to display the fold text `'foldtext'` in a nice way
 kalekundert/vim-coiled-snake : Python Folding for Vim
 konfekt/foldtext : shows a modification of the CustomFoldText function by Christian Brabandt that is more amenable to syntax folds
+dbmrq/vim-chalk : auto add fold text
+kshenoy/vim-origami : Plugin to satisfy all your folding needs
