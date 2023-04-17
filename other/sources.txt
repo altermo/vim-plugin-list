@@ -1,0 +1,3 @@
+https://github.com/phaazon/this-week-in-neovim-contents
+https://github.com/neurosnap/neovimcraft
+https://github.com/rockerBOO/awesome-neovim
