@@ -16,3 +16,6 @@ cohama/lexima.vim : Auto close parentheses and repeat by dot dot dot
 hrsh7th/nvim-insx : Flexible insert-mode key mapping manager
 m4xshen/autoclose.nvim : minimalist autoclose plugin
 altermo/ultimate-autopair.nvim : Aims to have all the auto-pairing fetures
+andrewradev/tagalong.vim : automatically rename closing html/xml tags
+lunarwatcher/auto-pairs : a simple auto-pairing plugin
+eraserhd/parinfer-rust : lisp auto-pairs written in rust

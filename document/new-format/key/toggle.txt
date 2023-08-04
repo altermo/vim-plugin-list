@@ -4,3 +4,4 @@ nfrid/markdown-togglecheck : toggles task list check boxes in markdown
 nguyenvukhang/nvim-toggler : Invert text in vim, purely with lua
 wansmer/binary-swap.nvim : swap operands in binary expressions
 wansmer/sibling-swap.nvim : swaps closest siblings with Tree-Sitter
+ecthelionvi/neoswap.nvim : easily swap words

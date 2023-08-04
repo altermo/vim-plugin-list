@@ -36,3 +36,8 @@ lambdalisue/gin.vim : handle git repository from Vim
 cohama/agit.vim : Yet another gitk clone for Vim
 theprimeagen/git-worktree.nvim : simple wrapper around git worktree operations, create, switch, and delete
 akinsho/git-conflict.nvim : A plugin to visualise and resolve conflicts
+dundargoc/gh.nvim : gh in neovim
+neogitorg/neogit : magit clone for neovim
+rawnly/gist.nvim : create gist from the current file
+almo7aya/openingh.nvim : Open the current file in github
+topaxi/gh-actions.nvim : do github actions from neovim

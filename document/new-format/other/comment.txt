@@ -10,3 +10,4 @@ b3nj5m1n/kommentary : Neovim plugin to comment text in and out, written in lua
 numtostr/comment.nvim : Smart and Powerful commenting plugin for neovim
 s1n7ax/nvim-comment-frame : Basically when you give it some text it creates a comment frame like below
 terrortylor/nvim-comment : Toggle comments in Neovim
+lucastavaresa/singlecomment.nvim : singe line commenting

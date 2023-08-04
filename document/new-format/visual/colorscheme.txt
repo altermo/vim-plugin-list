@@ -49,3 +49,36 @@ yazeed1s/oh-lucy.nvim
 felipec/vim-felipec
 kyazdani42/nvim-palenight.lua
 preservim/vim-colors-pencil
+cocopon/iceberg.vim
+decaycs/decay.nvim
+dundargoc/fakedonalds.nvim
+alexis12119/nightly.nvim
+embark-theme/vim
+jeffkreeftmeijer/vim-dim : improved vim default colorscheme
+jesseleite/nvim-noirbuddy
+2nthony/vitesse.nvim
+alexvzyl/nordic.nvim
+antonk52/lake.nvim
+askfiy/visual_studio_code
+lifepillar/vim-gruvbox8
+max397574/omega-themes
+max397574/tomato.nvim
+maxmx03/fluoromachine.nvim
+neanias/everforest-nvim
+nightsense/snow
+nightsense/stellarized
+norflin321/bicolors
+nyngwang/nvimgelion
+nyoom-engineering/oxocarbon.nvim
+romgrk/doom-one.vim
+savq/melange-nvim
+svermeulen/text-to-colorscheme : generate colorschemes from text
+svrana/neosolarized.nvim
+tyrannicaltoucan/vim-deep-space
+uloco/bluloco.nvim
+w0ng/vim-hybrid
+wuelnerdotexe/vim-enfocado
+xero/miasma.nvim
+xiyaowong/transparent.nvim : remove background color to make transparent
+zaldih/themery.nvim : switch between themes easy
+zootedb0t/citruszest.nvim

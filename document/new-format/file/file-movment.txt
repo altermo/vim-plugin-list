@@ -2,3 +2,6 @@ nyngwang/neoroot.lua : toggle between own defined root and cwd of file
 notjedi/nvim-rooter.lua : change your working directory to the project root
 ygm2/rooter.nvim : changes current working directory to project root of the file opened in current buffer [archived] [no maintain]
 jedi2610/nvim-rooter.lua : high performance plugin to change your working directory to the project root when you open a file
+jinzhongjia/ps_manager.nvim : auto change pwd in project
+leonheidelbach/trailblazer.nvim : seamlessly move through project marks
+oscarcreator/rsync.nvim : Async transfer files with `rsync` on save

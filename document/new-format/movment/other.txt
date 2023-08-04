@@ -16,3 +16,9 @@ hrsh7th/nvim-gtd : LSP's Go To Definition plugin for neovim
 haya14busa/vim-edgemotion : like `jk` but stops at edge only
 phsix/faster.nvim : accelerate j or k moving
 preservim/vim-wheel : Screen-anchored cursor movement
+ggandor/flit.nvim : `f`/`t` on steroids
+jinh0/eyeliner.nvim : unique `f` indicator for each word
+liangxianzhe/nap.nvim : quickly jump between and previous buffer/tab/file/...
+smiteshp/nvim-navbuddy : easily navigate objects in a list
+willothy/moveline.nvim : move lines easy
+ziontee113/selectease : easily select and jump between ts queries

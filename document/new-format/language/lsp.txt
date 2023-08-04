@@ -26,3 +26,12 @@ davidhalter/jedi-vim : awesome Python autocompletion with VIM
 weilbith/nvim-lsp-bacomp : NeoVim Language Server Backwards Compatibility
 muniftanjim/prettier.nvim : Prettier plugin for Neovim's built-in LSP client
 ranjithshegde/ccls.nvim : neovim plugin to configure ccls language server
+dnlhc/glance.nvim : preview, navigate and edit LSP locations
+aznhe21/actions-preview.nvim : preview lsp actions
+idanarye/nvim-buffls : a {jose-elias-alvarez/null-ls.nvim} source
+jinzhongjia/lspui.nvim : UI that wraps lsp operations
+jmbuhr/otter.nvim : lsp for embedded code
+linrongbin16/lsp-progress.nvim : performant lsp progress status
+creativenull/diagnosticls-configs-nvim : a list of diagnostic configs for diagnostic-langaugeserver
+niuiic/part-edit.nvim : create a separate buffer for codeblocks to with with lsp
+vonheikemen/lsp-zero.nvim : "boilerplate code" to make cmp and lspconf work

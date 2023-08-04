@@ -8,3 +8,4 @@ kalekundert/vim-coiled-snake : Python Folding for Vim
 konfekt/foldtext : shows a modification of the CustomFoldText function by Christian Brabandt that is more amenable to syntax folds
 dbmrq/vim-chalk : auto add fold text
 kshenoy/vim-origami : Plugin to satisfy all your folding needs
+anuvyklack/fold-preview.nvim : preview closed folds

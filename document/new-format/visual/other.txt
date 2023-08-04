@@ -71,3 +71,34 @@ dbmrq/vim-redacted : Just redact some text
 hiphish/nvim-ts-rainbow2 : rainbow parentheses
 mawkler/modicator.nvim : Cursor line mode indicator
 tummetott/reticle.nvim : disable cursor line for not used windows
+bekaboo/deadcolumn.nvim : assist maintaining a maximum code width
+eandrju/cellular-automaton.nvim : Do animation with code in buffer
+ecthelionvi/neocolumn.nvim : highlight character at specific column
+folke/drop.nvim : fun little screen saver
+jceb/blinds.nvim : shade the other windows
+joeytwiddle/sexy_scroller.vim : smooth cursor and page movement
+johnfrankmorgan/whitespace.nvim : highlight/remove trailing whitespace
+jxstxs/conceal.nvim : conceals typical boiler code using treesitter
+ktunprasert/gui-font-resize.nvim : easily resize gui fonts
+levouh/tint.nvim : tint inactive windows
+lucastavaresa/simpleindentguides.nvim : indentation guide
+luukvbaal/statuscol.nvim : provides a configurable and clickable statuscolumn
+m4xshen/smartcolumn.nvim : hide colorcolumn if no character nearby
+max397574/footprints.nvim : highlights recently changed lines
+ashfinal/qfview.nvim : make quickfix window look better 
+hiphish/rainbow-delimiters.nvim : rainbow-delimiters
+kaitlynethylia/treepin : pin code to always stay on screen
+malbertzard/inline-fold.nvim : easily define patterns that get concealed inline
+max397574/mark-ray.nvim : show context of marks
+maximilianlloyd/ascii.nvim : collection of ascii art
+niuiic/divider.nvim : dividers for neovim
+rainbowhxch/beacon.nvim : flash when big jump
+segeljakt/vim-silicon : your selected code to a pretty picture
+shellraining/hlchunk.nvim : highlight that chunck
+tenxsoydev/tabs-vs-spaces.nvim : highlights when the wrong indentation char is used
+tobinpalmer/rayso.nvim : Create code snippets using ray.so
+tzachar/highlight-undo.nvim : highlight undo
+utilyre/sentiment.nvim : better matchparen for neovim
+vidocqh/lsp-lens.nvim : display reference and definitions with lsp
+yaocccc/nvim-foldsign : display folds on sign column
+yaocccc/nvim-hl-mdcodeblock.lua : just do highlight markdown codeblock

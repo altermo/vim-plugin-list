@@ -4,3 +4,4 @@ henriquehbr/ataraxis.lua : absence of mental stress or anxiety, a state of seren
 junegunn/goyo.vim : Distraction-free writing in Vim
 koenverburg/peepsight.nvim : just focus on one function at the time
 shortcuts/no-neck-pain.nvim : center the currently focused buffer to the middle of the screen
+pocco81/true-zen.nvim : Clean and elegant distraction-free writing

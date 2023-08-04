@@ -1,0 +1,9 @@
+rhysd/reply.vim : make editing buffers with REPLs nicely
+jpalardy/vim-slime : type text in a file, send it to a live REPL,
+justinmk/nvim-repl : a minimal REPL plugin
+https://gitlab.com/hiphish/repl.nvim : The universal, extendible and configurable REPL plugin
+milanglacier/yarepl.nvim : yet another REPL
+luk400/vim-jukit : REPL plugin and Jupyter-Notebook alternative for Vim
+hiphish/repl.nvim : REPL for nvim
+tpope/vim-fireplace : There's a REPL in Fireplace, but you probably wouldn't have noticed if I hadn't told you
+gcballesteros/notebooknavigator.nvim : manipulate and send code ceels to REPL

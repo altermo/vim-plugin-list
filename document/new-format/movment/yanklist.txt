@@ -2,3 +2,4 @@ shougo/neoyank.vim : Saves yank history
 yazgoo/yank-history : historize vim yanks and allow to search and paste from history based on FZF
 vim-scripts/yankring.vim : allows the user to configure the number of yanked, deleted and changed text
 hrsh7th/nvim-pasta : The yank/paste enhancement plugin for neovim
+tenxsoydev/karen-yank.nvim : yanks your way

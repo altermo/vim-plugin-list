@@ -38,3 +38,7 @@ desdic/telescope-rooter.nvim : changes the working directory to the to the proje
 axkirillov/easypick.nvim : easily create Telescope pickers
 otavioschwanck/telescope-alternate.nvim : Alternate between common files using pre-defined regexp
 danielfalk/smart-open.nvim : provide the best possible suggestions for quickly opening files
+desdic/agrolens.nvim : runs custom tree-sitter queries
+lukaspietzschmann/telescope-tabs : list and select tabs in telescope
+prochri/telescope-all-recent.nvim : Frecency algorthim for sorting telescope pickers
+tsakirist/telescope-lazy.nvim : browse plugins installed with lazy.nvim

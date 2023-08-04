@@ -22,3 +22,7 @@ obaland/vfiler.vim : File explorer plugin for Vim
 tamago324/lir.nvim : A simple file explorer
 ipod825/vim-netranger : not just a tree file manager
 scrooloose/nerdtree : a file system Explorer for the vim editor
+dinhhuy258/sfm.nvim : simple tree viewer
+kelly-lin/ranger.nvim : ranger integration
+lmburns/lf.nvim : plugin for the `lf` file manager
+stevearc/oil.nvim : vim-vinegar like file explorer

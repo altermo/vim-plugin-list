@@ -10,3 +10,5 @@ stevearc/stickybuf.nvim : Neovim plugin for locking a buffer to a window
 camspiers/animate.vim : A Vim Window Animation Library
 anuvyklack/windows.nvim : make the current window automatically bigger
 simeji/winresizer : easily resizing windows
+delphinus/dwm.nvim : lua port of {spolu/dwm.vim}
+spolu/dwm.vim : tiled window manager for vim

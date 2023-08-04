@@ -37,3 +37,4 @@ stephpy/vim-yaml : Syntax file for yaml
 towolf/vim-helm : vim syntax for helm templates
 leafgarland/typescript-vim : typeScript syntax for vim
 nickeb96/fish.vim : fish syntax for vim
+tetralux/odin.vim : syntax highlite for Odin

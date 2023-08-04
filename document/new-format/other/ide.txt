@@ -10,3 +10,16 @@ ldelossa/nvim-ide : complete IDE layer for Neovim
 nvim-lua/kickstart.nvim : A starting point for Neovim
 otavioschwanck/mood-nvim : a configuration
 usuim/usuim : Neovim configured to look like Visual Studio Code
+charleschiugit/nvimdots.lua : Neovim config
+frans-johansson/lazy-nvim-starter : minimal neovim config
+ibnyusrat/vimcode : make vim look/work like vs code
+lazyvim/lazyvim : the IDE for the lazy.nvim
+linrongbin16/lin.nvim : highly configurable distribution
+lvim-tech/lvim : modular neovim configuration
+max397574/ignis-nvim : Bloat but Blazing
+max397574/omega-nvim : a refactor of ignis-nvim
+normalnvim/normalnvim : the most normal neovim config
+nvimdev/dope : the dopest config
+pakrohk-dotfiles/nvpak : provide the defaults to the newest neovim
+tenxsoydev/nxvim : leverages 100 extensions to make fast and structured
+theory-of-everything/nii-nvim : no-nonsense neovim config

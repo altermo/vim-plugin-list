@@ -24,3 +24,5 @@ shougo/neocomplete.vim : provides keyword completion system by maintaining a cac
 mjbrownie/vim-htmldjango_omnicomplete : Vim htmldjango autocomplete
 zbirenbaum/copilot.lua : pure lua replacement for {github/copilot.vim}
 haorenw1025/completion-nvim : an auto completion framework
+exafunction/codeium.vim : free ai autocompletion
+folke/neodev.nvim : adds full signature support for autocompletion of vim

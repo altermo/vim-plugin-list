@@ -3,3 +3,5 @@ vim-syntastic/syntastic : Syntastic is a syntax checking plugin for Vim [no main
 mfussenegger/nvim-lint : An asynchronous linter plugin for Neovim
  nvie/vim-flake8 : runs the currently open file through Flake8, a static syntax and style checker for Python source code
 dense-analysis/ale : Asynchronous Lint Engine
+creativenull/efmls-configs-nvim : a list of lint configs for efm-langserver
+nvimdev/guard.nvim : Async format and lint

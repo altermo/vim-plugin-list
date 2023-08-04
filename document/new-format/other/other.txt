@@ -127,7 +127,6 @@ tenfyzhong/tagbar-makefile.vim : makefile for tagbar [archived]
 rrethy/vim-tranquille : searching without moving the cursor
 thirtythreeforty/lessspace.vim : strip the trailing whitespace from the file you are editing
 lilydjwg/fcitx.vim : Keep and restore fcitx state for each buffer separately when leaving/re-entering insert mode or search mode
-tpope/vim-fireplace : There's a REPL in Fireplace, but you probably wouldn't have noticed if I hadn't told you
 macthecadillac/vimdo : execute external commands asynchronously
 axieax/urlview.nvim : a Neovim plugin which displays links from a variety of contexts
 ntbbloodbath/cheovim : Neovim configuration switcher written in Lua
@@ -232,3 +231,58 @@ jeffkreeftmeijer/vim-numbertoggle : switch to absolute line number automatically
 mickael-menu/shadowvim : Neovim inside Xcode
 sunaku/vim-dasht : dasht integration
 tek/chromatin.nvim : provides management for plugins built with ribos and distributed over pypi
+0oastro/silicon.lua : generate beautiful images of code using silicon
+bekaboo/dropbar.nvim : A polished winbar
+ckolkey/ts-node-action : framework for running function on tsnodes
+cpea2506/relative-toggle.nvim : automatically toggle between relative and absolute line number
+danielo515/haxe-nvim : write neovim scripts in haxe
+antonk52/bad-practices.nvim : plugin to help you break bad practices
+dhananjaylatkar/cscope_maps.nvim : reimplements removed cscope in neovim
+doctorfree/nvim-lazyman : manage multiple configurations
+ferrine/md-img-paste.vim : paste images into markdown
+folke/neoconf.nvim : manage global/local configs
+arsham/arshamiser.nvim : status bar, colour scheme, foldtext and tabline
+fredeeb/alias.nvim : make terminal execute nvim functions
+gioele/vim-autoswap : auto handle swap file messages
+google/executor.nvim : run command line task in the background
+idanarye/nvim-channelot : operate jobs from lua coroutine
+idanarye/nvim-moonicipal : a task runner
+jcdickinson/http.nvim : HTTP client
+junegunn/vim-carbon-now-sh : open selected content in carbon.now.sh
+justinhj/battery.nvim : get battery power level in nvim
+kiran94/edit-markdown-table.nvim : updates markdown tables depending on context
+kiran94/maim.nvim : take screenshot from neovim using maim
+lewis6991/hover.nvim : framework for context aware hover providers
+m4xshen/hardtime.nvim : helpe you establish good command habits
+marchamamji/runner.nvim : run code inside neovim
+mattn/webapi-vim : Interface to web API
+max397574/dyn_help.nvim : display help in float window
+max397574/healthy.nvim : stay healthy, even while coding
+00sapo/visual.nvim : kak like keymaps
+max397574/neovim-lua-plugin-template : a plugin template
+max397574/selection_popup.nvim : the neorg popup in separate file
+michaelb/do-nothing.vim : this does nothing
+misanthropicbit/decipher.nvim : cipher text with codex
+mrcjkb/haskell-snippets.nvim : collection of haskell snippets
+mvaldes14/terraform.nvim : see the stat of terraform manifest objects
+neovim/node-client : node client for neovim
+nfrid/treesitter-utils : some ts based utils
+niuiic/cp-image.nvim : pase images path without problem
+equilibris/nx.nvim : nx for neovim
+nvim-neorocks/luarocks-tag-release : auto releas to luarock
+nvimdev/template.nvim : a plugin template
+rhysd/vim-startuptime : measures startuptime
+romgrk/kui.nvim : uses Kitty graphics protocol to build interface
+sbulav/jump-ray.nvim : keep that eye on the jumplist in floating window
+shougo/pum.vim : implement original popup menu completion
+subnut/nvim-ghost.nvim : nvim version of vim-ghost
+t-troebst/perfanno.nvim : highlite lines from pref
+tenxsoydev/nx.nvim : nvim utility library to n^x
+tokiory/neovim-boilerplate : simple template for configs
+tomasky/bookmarks.nvim : bookmarks with global file store
+tomiis4/hypersonic.nvim : for regex writing/testing
+uga-rosa/utf8.nvim : utf8 for neovim
+vonheikemen/fine-cmdline.nvim : a better cmdline
+willothy/flatten.nvim : open files from nvim embedded terminal
+willothy/veil.nvim : fast, animated, configurable dashboard
+yagiziskirik/airsupport.nvim : write shortcut reminders and forget them

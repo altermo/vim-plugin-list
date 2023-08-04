@@ -12,3 +12,5 @@ dmitmel/cmp-digraphs : nvim-cmp source for completing digraphs
 paterjason/cmp-conjure : nvim-cmp source for conjure
 dcampos/cmp-snippy : nvim-snippy source for nvim-cmp
 roobert/tailwindcss-colorizer-cmp.nvim : Add vs-code-stile TailwindCss color hints to nvim-cmp
+jcdickinson/codeium.nvim : native Codeium autocompletion for nvim-cmp
+max397574/cmp-greek : nvim-cmp source for greek letters

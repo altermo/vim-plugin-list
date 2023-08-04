@@ -11,3 +11,5 @@ rmichelsen/nvy : minimal Neovim client for Windows written in C++
 vhakulinen/gnvim : Rich Neovim GUI without any web bloat
 yqlbu/neovim-server : A containerized IDE-like text editor that runs on a web server
 lyude/neovim-gtk : GTK ui for neovim written in rust using gtk-rs bindings
+neovide/neovide : simple gui for neovim
+tk-shirasaka/envim : neovim gui written in electron

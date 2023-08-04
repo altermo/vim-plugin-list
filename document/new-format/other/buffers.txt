@@ -6,3 +6,6 @@ kwkarlwang/bufresize.nvim : keep your buffers width and height in proportion whe
 natdm/bswap : easily rearrange or navigate buffers in split windows
 numtostr/bufonly.nvim : Delete all the buffers except the current
 j-morano/buffer_manager.nvim : easily manage Neovim buffers
+axkirillov/hbac.nvim : close unneeded buffers if to many
+chrisgrieser/nvim-early-retirement : close unneeded buffers after some time
+sqve/bufignore.nvim : auto unlist specific buffers

@@ -69,3 +69,13 @@ nexmean/caskey.nvim : Declarative cascade key mappings configuration
 wansmer/treesj : for splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc
 weissle/easy-action : execute an action, such as yank and delete, but keeps your cursor position
 preservim/vim-wordchipper : improve text shredding in insert mode
+antonk52/markdowny.nvim : markdown like keybindings
+bennypowers/splitjoin.nvim : Split-joint list like syntax constructs
+chrisgrieser/nvim-spider : move by sub-word and ignore useless punctuation
+ecthelionvi/neocomposer.nvim : makes macros easier
+cassin01/wf.nvim : a which-key like plugin
+nvimdev/dyninput.nvim : auto change input depending on context
+rutatang/compter.nvim : customize ctrl-a and ctrl-x
+tpope/vim-capslock : toggle temporary caps lock
+wansmer/langmapper.nvim : make better for non English input methods
+zdcthomas/yop.nvim : easily make operators

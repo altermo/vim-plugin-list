@@ -9,3 +9,6 @@ iqxd/vim-mine-sweeping : mine sweeping game in vim
 theprimeagen/vim-be-good : designed to make you better at vim by creating a game to practice basic movements in
 rktjmp/shenzhen-solitaire.nvim : is a bit like FreeCell
 sunjon/extmark-toy.nvim : experimental demos and games
+alanfortlink/blackjack.nvim : A simple game of blackjack
+jim-fx/sudoku.nvim : a game of sudoku
+max397574/hangman.nvim : a game of hangman

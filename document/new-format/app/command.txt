@@ -32,3 +32,10 @@ mhinz/vim-sayonara : single command that deletes the current buffer and handles 
 asheq/close-buffers.vim : allows you to quickly bdeleteseveral buffers at once
 echuraev/translate-shell.vim : a plugin for translating text without leaving Vim
 chrisgrieser/nvim-genghis : Convenience file operations for neovim
+koenverburg/cmd-palette.nvim : a simple command pallet
+apeoplescalendar/apc.nvim : A people's Calender in neovim
+max397574/markdownhelp.nvim : Helps with markdown
+max397574/vmath.nvim : neovim version of vmath
+niuiic/translate.nvim : translator for neovim
+saverio976/music.nvim : play music with mpv in nvim
+skanehira/google-map.vim : open google map in neovim

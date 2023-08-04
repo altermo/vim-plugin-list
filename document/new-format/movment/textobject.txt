@@ -17,3 +17,5 @@ chrisgrieser/nvim-various-textobjs : Bundle of more than a dozen new text object
 xxiaoa/ns-textobject.nvim : A textobejct plugin with nvim-surround
 preservim/vim-textobj-quote :  better support for typographic quote characters
 preservim/vim-textobj-sentence : better sentence textobject
+andrewferrier/textobj-diagnostic.nvim : textobj for diagnostics [no maintain]
+vim-scripts/argtextobj.vim : provides a as argument textobject

@@ -18,3 +18,10 @@ gnikdroy/projections.nvim : A tiny project + sessions manager for neovim
 nyngwang/suave.lua : a quasi-acronym of "Session in LUA for Vim Enthusiasts."
 pluffie/neoproj : Small yet powerful project manager
 https://gitlab.com/nvpm/nvpm : Neovim Project Manager
+charludo/projectmgr.nvim : projects and startup tasks
+ecthelionvi/neoview.nvim : save and restore views and cursor across sessions
+gennaro-tedesco/nvim-possession : no-nonsense session manager
+niuiic/multiple-session.nvim : multiple session manager
+rutatang/spectacle.nvim : easily work with multiple sessions
+stevearc/resession.nvim : replacement for :mksession with better api
+timotheesai/git-sessions.nvim : Make :mksession work with keeping in sync git branch

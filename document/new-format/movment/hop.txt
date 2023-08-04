@@ -7,3 +7,5 @@ haya14busa/vim-easyoperator-phrase : provides a much simpler way to use some ope
 haya14busa/vim-easyoperator-line : provides a much simpler way to use some operator for line in Vim
 cbochs/portal.nvim : aims to build upon and enhance existing jumplist motions
 woosaaahh/sj.nvim : Search based navigation combined with quick jump features
+atusy/leap-search.nvim : leap oto a search pattern
+folke/flash.nvim : navigate your code faster

@@ -10,3 +10,4 @@ vimpostor/vim-tpipeline : Embed your vim statusline in the tmux statusline
 roxma/vim-tmux-clipboard : provides seamless integration for vim and tmux's clipboard
 christoomey/vim-tmux-runner : A simple, vimscript only, command runner for sending commands from vim to tmux
 otavioschwanck/tmux-awesome-manager.nvim : provides a pack of functionalities to work with TMUX
+sourproton/tunnell.nvim : send tunnel text to tmux pane

@@ -1,1 +1,2 @@
 rktjmp/hotpot.nvim : Seamless Fennel inside Neovim
+olical/nfnl : better fennel inside neovim

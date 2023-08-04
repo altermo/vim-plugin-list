@@ -8,3 +8,4 @@ gabrielpoca/replacer.nvim : makes a quickfix window editable, allowing changes t
 olical/vim-enmasse : Takes a quickfix list and makes it editable
 romainl/vim-qlist : make the results of "include-search" and "definition-search" easier to navigate and more persistent by using the quickfix list instead of the default list-like interface
 romainl/vim-quicklist : Persist the result of list-like Ex commands to the quickfix list
+ten3roberts/qf.nvim : qf and localist manager fo neovim

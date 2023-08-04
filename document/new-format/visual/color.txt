@@ -14,3 +14,7 @@ jeaye/color_coded : semantic highlighting with vim
 brenoprata10/nvim-highlight-colors : Highlight colors with neovim
 uga-rosa/ccc.nvim : Create Color Code
 preservim/vim-thematic : have themes for vim
+4e554c4c/darkman.nvim : change the background depending on the Freedesktop Dark-mode standard
+dharmx/nvim-colo : theming utils
+f-person/auto-dark-mode.nvim : change editor appearance based on macOS system settings
+folke/paint.nvim : add additional highlighting to buffer

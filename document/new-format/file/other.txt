@@ -23,3 +23,8 @@ lunarvim/bigfile.nvim : disables certain features when opening big files
 panozzaj/vim-autocorrect : add typo correctint abbreviations
 preservim/vim-litecorrect : add type correctint abbreviations
 vim-scripts/wordlist.vim : autocorrection of words
+ecthelionvi/neosave.nvim : auto save file
+mrshmllow/open-handlers.nvim : extend gx while allowing default behavior
+okuuva/auto-save.nvim : auto save file when change
+richardbizik/nvim-toc : generate ToC for markdown
+tmillr/sos.nvim : never manually save again

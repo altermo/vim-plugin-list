@@ -5,3 +5,7 @@ s1n7ax/nvim-search-and-replace : Absolutly minimal plugin to search and replace 
 romgrk/searchreplace.vim : search thru multiple files and replace the search
 ray-x/sad.nvim : project wide find and replace
 cshuaimin/ssr.nvim : Structural search and replace
+acksld/muren.nvim : do multiple search and replace with ease
+chrisgrieser/nvim-alt-substitute : search using lua patterns instead of vim regex
+roobert/search-replace.nvim : supercharge search and replace
+windwp/nvim-spectre : search and replace panel

@@ -17,3 +17,5 @@ oberblastmeister/termwrapper.nvim : a wrapper for neovim's terminal features to 
 akinsho/nvim-toggleterm.lua : A neovim plugin to persist and toggle multiple terminals during an editing session
 itmecho/bufterm.nvim : simple neovim plugin to manage a terminal buffer for your session
 nyngwang/neoterm.lua : Attach a terminal for each buffer
+chomosuke/term-edit.nvim : edit commands in the terminal like any other buffer
+skywind3000/vim-terminal-help : make working with terminal easier

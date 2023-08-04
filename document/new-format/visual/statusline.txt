@@ -12,3 +12,6 @@ liuchengxu/eleline.vim : Another elegant statusline for vim
 yaocccc/nvim-lines.lua : simple statusline & tabline
 roobert/statusline-action-hints.nvim : shows statusline information on the current word
 tamago324/vim-gaming-line : animated gaming statusline
+freddiehaddad/feline.nvim : minimal statusline, statuscolumn, and winbar
+nvimdev/whiskyline.nvim : async, lsp, event driven statusline
+strash/everybody-wants-that-line.nvim : minimal, informative, elegant statusline

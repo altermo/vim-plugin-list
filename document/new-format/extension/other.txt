@@ -24,3 +24,10 @@ roginfarrer/vim-dirvish-dovish : The file manipulation commands for vim-dirvish 
 weirongxu/coc-explorer : Explorer extension for coc.nvim
 ofirgall/goto-breakpoints.nvim : cycle between nvim-dap's breakpoints
 roobert/surround-ui.nvim : change the key combos for {kylechui/nvim-surround}
+ggandor/leap-ast.nvim : jump, select, operate on ast node via {ggandor/leap.nvim}
+ggandor/leap-spooky.nvim : remote operations via {ggandor/leap.nvim}
+jistr/vim-nerdtree-tabs : make NERDTree a true panel, independent of tabs [no maintain]
+antoinemadec/coc-fzf : fzf with coc.nvim
+mengelbrecht/lightline-bufferline : add bufferline functionality for lightline
+neoclide/coc-pairs : auto pairs for coc
+shougo/ddu-ui-filer : File list plugin for ddu.vim

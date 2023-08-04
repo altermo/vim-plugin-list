@@ -8,3 +8,6 @@ lcheylus/overlength.nvim : highlight the part of a line that doesn't fit into te
 melkster/modicator.nvim : changes the foreground color of the CursorLineNr highlight based on the current Vim mode
 nyngwang/murmur.lua : Cursorword highlighting with callbacks support
 zbirenbaum/neodim : dimming the highlights of unused functions, variables, parameters, and more
+mr-lllll/interestingwords.nvim : highlights word with differing colors
+nvchad/nvim-colorizer.lua : high-performance color highlighter
+pocco81/high-str.nvim : highlight selected

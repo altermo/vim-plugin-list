@@ -1,3 +1,5 @@
 pacha/vem-tabline : a lightweight Vim plugin to display your tabs and buffers at the top of your screen
 webdevel/tabulous : Lightweight Vim plugin to enhance the tabline including numbered tab page labels
 lukelbd/vim-tabline : providing a simple black-and-white "tabline"
+koenverburg/minimal-tabline.nvim : minimal tabline
+tomiis4/buffertabs.nvim : simple, fancy tabline
