@@ -1332,6 +1332,7 @@ nvchad/nvchad
 nvchad/nvim-colorizer.lua
 nvie/vim-flake8
 nvim-colortils/colortils.nvim
+nvim-focus/focus.nvim
 nvim-lsp/try.nvim
 nvim-lua/completion-nvim
 nvim-lua/kickstart.nvim
@@ -1540,6 +1541,7 @@ qvacua/vimr
 qxxxb/vim-searchhi
 r1ri/suffer
 raafatturki/corn.nvim
+raafatturki/hex.nvim
 racer-rust/vim-racer
 rafaeldelboni/nvim-fennel-lsp-conjure-as-clojure-ide
 rafaelsq/nvim-goc.lua
@@ -1692,6 +1694,7 @@ rrethy/vim-indexor
 rrethy/vim-lacklustertab
 rrethy/vim-spotlight
 rrethy/vim-tranquille
+rshkarin/mason-nvim-lint
 rsms/sublime-theme
 rstacruz/vim-closer
 ruifm/gitlinker.nvim
@@ -2099,6 +2102,7 @@ vifm/neovim-vifm
 vifm/vifm.vim
 vigoux/azy.nvim
 vigoux/complementree.nvim
+vigoux/notifier.nvim
 vigoux/oak
 vijaymarupudi/nvim-fzf
 vijaymarupudi/nvim-fzf-commands
