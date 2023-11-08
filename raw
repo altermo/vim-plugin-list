@@ -3,31 +3,11 @@
 0styx0/abbreinder.nvim
 0styx0/abbremand.nvim
 1995parham/naz.vim
-2KAbhishek/nerdy.nvim
+2kabhishek/nerdy.nvim
 2nthony/vitesse.nvim
 4e554c4c/darkman.nvim
 907th/vim-auto-save
 9seconds/repolink.nvim
-Ajnasz/nvim-rfind
-DNLHC/glance.nvim
-David-Kunz/gen.nvim
-Gelio/cmp-natdat/
-Iron-E/nvim-highlite
-JMarkin/gentags.lua
-JoosepAlviste/nvim-ts-context-commentstring
-KingMichaelPark/age.nvim
-L3MON4D3/LuaSnip
-LintaoAmons/scratch.nvim
-Lunarvim/lualine.nvim
-NormalNvim/NormalNvim
-NvChad/nvim-colorizer.lua
-RRethy/vim-illuminate
-SalOrak/whaler.nvim
-Shougo/neocomplete.vim
-SmiteshP/nvim-navic
-Tastyep/structlog.nvim
-VidocqH/data-viewer.nvim
-Vonr/align.nvim
 aarondiel/spread.nvim
 aaronhallaert/advanced-git-search.nvim
 aasim-a/scrolleof.nvim
@@ -63,6 +43,7 @@ airblade/vim-gitgutter
 airblade/vim-rooter
 airodactyl/neovim-ranger
 ajh17/vimcompletesme
+ajnasz/nvim-rfind
 akinsho/bufferline.nvim
 akinsho/flutter-tools.nvim
 akinsho/git-conflict.nvim
@@ -199,8 +180,8 @@ bagrat/vim-buffet
 base16-project/base16-vim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
-beeender/ComradeNeovim
 beeender/comrade
+beeender/comradeneovim
 beeender/glrnvim
 bekaboo/deadcolumn.nvim
 bekaboo/dropbar.nvim
@@ -228,6 +209,7 @@ bluz71/vim-moonfly-colors
 bluz71/vim-nightfly-colors
 bluz71/vim-nightfly-guicolors
 bobrown101/git_blame.nvim
+boltlessengineer/smart-tab.nvim
 booperlv/cyclecolo.lua
 booperlv/nvim-gomove
 boson-joe/yanp
@@ -247,6 +229,7 @@ bronson/vim-visual-star-search
 bronzehedwick/vim-primary-terminal
 brookhong/cscope.vim
 brooth/far.vim
+brymer-meneses/grammar-guard.nvim
 c0r73x/neotags.lua
 c0r73x/neotags.nvim
 cademichael/zig.nvim
@@ -264,6 +247,8 @@ cappyzawa/trim.nvim
 carlitux/deoplete-ternjs
 carlosrocha/chrome-remote.nvim
 cassin01/wf.nvim
+catgoose/angler.nvim
+catgoose/do-the-needful
 cathywu/vim-todo
 catppuccin/nvim
 cbochs/grapple.nvim
@@ -333,6 +318,7 @@ code-biscuits/nvim-biscuits
 coderifous/textobj-word-column.vim
 codybuell/cmp-lbdb
 coffebar/neovim-project
+coffebar/transfer.nvim
 cohama/agit.vim
 cohama/lexima.vim
 cometsong/commentframe.vim
@@ -377,9 +363,11 @@ danilamihailov/beacon.nvim
 danymat/neogen
 darazaki/indent-o-matic
 dasgandlaf/cmp-nvim-autohotkey
+dasupradyumna/launch.nvim
 databases/neoclip.sqlite3
 datwaft/bubbly.nvim
 david-kunz/cmp-npm
+david-kunz/gen.nvim
 david-kunz/jester
 david-kunz/markid
 davidgranstrom/nvim-markdown-preview
@@ -422,6 +410,7 @@ desdic/greyjoy.nvim
 desdic/macrothis.nvim
 desdic/telescope-rooter.nvim
 devjoe/vim-codequery
+dgagn/diagflow.nvim
 dhananjaylatkar/cscope_maps.nvim
 dhanus3133/leetbuddy.nvim
 dharmx-lua/nvim
@@ -494,6 +483,7 @@ edluffy/specs.nvim
 edolphin-ydf/goimpl.nvim
 egalpin/apt-vim
 egzvor/vimproviser
+ej-shafran/compile-mode.nvim
 ekickx/clipboard-image.nvim
 el-iot/buffer-tree
 el-iot/buffer-tree-explorer
@@ -617,6 +607,7 @@ gbrlsnchs/telescope-lsp-handlers.nvim
 gcballesteros/notebooknavigator.nvim
 gcmt/wildfire.vim
 gelguy/wilder.nvim
+gelio/cmp-natdat/
 gen740/smoothcursor.nvim
 gennaro-tedesco/nvim-commaround
 gennaro-tedesco/nvim-jqx
@@ -662,6 +653,7 @@ groenewege/vim-less
 gruvbox-community/gruvbox
 gsuuon/llm.nvim
 gsuuon/note.nvim
+gsuuon/tshjkl.nvim
 gu-fan/riv.vim
 gukz/ftft.nvim
 guns/vim-clojure-highlight
@@ -741,6 +733,8 @@ hrsh7th/vim-lamp
 hrsh7th/vim-seak
 hrsh7th/vim-searchx
 hrsh7th/vim-vsnip
+https://git.sr.ht/~swaits/thethethe.nvim
+https://git.sr.ht/~swaits/zellij-nav.nvim
 https://github.com/wbthomason/packer.nvim
 https://gitlab.com/dbeniamine/vim-mail
 https://gitlab.com/groctel/jobsplit.nvim
@@ -761,6 +755,7 @@ ibhagwan/fzf-lua
 ibhagwan/smartyank.nvim
 ibnyusrat/vimcode
 icymind/neosolarized
+idanarye/nvim-blunder
 idanarye/nvim-buffls
 idanarye/nvim-channelot
 idanarye/nvim-moonicipal
@@ -870,6 +865,7 @@ jistr/vim-nerdtree-tabs
 jlanzarotta/bufexplorer
 jlesquembre/nterm.nvim
 jmarkin/cmp-diag-codes
+jmarkin/gentags.lua
 jmbuhr/otter.nvim
 jmcantrell/vim-virtualenv
 jmcomets/vim-pony
@@ -904,6 +900,7 @@ jrychn/modulevim
 jsborjesson/vim-uppercase-sql
 jsfaint/gen_tags.vim
 jsit/toast.vim
+jsongerber/nvim-px-to-rem
 jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
 judaew/ronny.nvim
@@ -994,6 +991,7 @@ kevinhwang91/rnvimr
 kezhenxu94/vim-mysql-plugin
 kien/rainbow_parentheses.vim
 killthemule/nvimpam
+kingmichaelpark/age.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/maim.nvim
 kiran94/s3edit.nvim
@@ -1106,6 +1104,7 @@ linguini1/pulse.nvim/tree/main
 linrongbin16/fzfx.nvim
 linrongbin16/lin.nvim
 linrongbin16/lsp-progress.nvim
+lintaoamons/scratch.nvim
 linty-org/key-menu.nvim
 linty-org/readline.nvim
 lionc/nest.nvim
@@ -1128,7 +1127,6 @@ lucastavaresa/singlecomment.nvim
 luchermitte/lh-brackets
 luchermitte/lh-cpp
 luchermitte/vimfold4c
-luckasRanarison/clear-action.nvim
 luckasranarison/clear-action.nvim
 luckasranarison/nvim-devdocs
 ludopinelli/comment-box.nvim
@@ -1149,6 +1147,7 @@ lunarvim/colorgen-nvim
 lunarvim/colorschemes
 lunarvim/darkplus.nvim
 lunarvim/horizon.nvim
+lunarvim/lualine.nvim
 lunarvim/lunar.nvim
 lunarvim/lunarvim
 lunarvim/lvim-themes
@@ -1182,6 +1181,7 @@ madskjeldgaard/reaper-nvim
 magicmonty/sonicpi.nvim
 majutsushi/tagbar
 malbertzard/inline-fold.nvim
+mangelozzi/rgflow.nvim
 mangeshrex/uwu.vim
 maralla/completor.vim
 marchamamji/runner.nvim
@@ -1272,6 +1272,8 @@ michamos/vim-bepo
 mickael-menu/shadowvim
 mickael-menu/zk-nvim
 micmine/jumpwire.nvim
+miguelcrespo/scratch-buffer.nvim
+miikanissi/modus-themes.nvim
 mikesmithgh/kitty-scrollback.nvim
 milanglacier/yarepl.nvim
 mileszs/ack.vim
@@ -1282,6 +1284,7 @@ misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
 miversen33/import.nvim
 miversen33/netman.nvim
+miversen33/sunglasses.nvim
 mizlan/iswap.nvim
 mizlan/termbufm
 mjbrownie/vim-htmldjango_omnicomplete
@@ -1301,12 +1304,15 @@ mordechaihadad/bob
 mordechaihadad/nvim-papadark
 morhetz/gruvbox
 mr-lllll/interestingwords.nvim
+mrcjkb/ferris.nvim
 mrcjkb/haskell-snippets.nvim
 mrcjkb/haskell-tools.nvim
 mrcjkb/kickstart-nix.nvim
+mrcjkb/rustaceanvim
 mrjones2014/dash.nvim
 mrjones2014/legendary.nvim
 mrjones2014/smart-splits.nvim
+mrquantumcodes/bufferchad.nvim
 mrquantumcodes/retrospect.nvim
 mrshmllow/open-handlers.nvim
 ms-jpq/chadtree
@@ -1315,9 +1321,11 @@ msanders/snipmate.vim
 mtoohey31/cmp-fish
 mtth/scratch.vim
 muniftanjim/exrc.nvim
+muniftanjim/nougat.nvim
 muniftanjim/nui.nvim
 muniftanjim/prettier.nvim
 mvaldes14/terraform.nvim
+mvllow/modes.nvim
 mvllow/stand.nvim
 mxw/vim-jsx
 myusuf3/numbers.vim
@@ -1383,6 +1391,7 @@ niuiic/git-log.nvim
 niuiic/multiple-session.nvim
 niuiic/part-edit.nvim
 niuiic/remote.nvim
+niuiic/terminal.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
 nkakouros-original/numbers.nvim
@@ -1415,7 +1424,6 @@ ntbbloodbath/nvenv
 ntbbloodbath/rest.nvim
 ntbbloodbath/zig-tools.nvim
 ntpeters/vim-better-whitespace
-numToStr/Comment.nvim
 numirias/semshi
 numtostr/bufonly.nvim
 numtostr/comment.nvim
@@ -1481,6 +1489,7 @@ nvim-zh/colorful-winsep.nvim
 nvimdev/dope
 nvimdev/dyninput.nvim
 nvimdev/guard.nvim
+nvimdev/hlsearch.nvim
 nvimdev/indentmini.nvim
 nvimdev/template.nvim
 nvimdev/whiskyline.nvim
@@ -1543,6 +1552,7 @@ othree/javascript-libraries-syntax.vim
 othree/yajs.vim
 overcache/neosolarized
 owickstrom/vim-colors-paramount
+oxfist/night-owl.nvim
 p00f/cphelper.nvim
 p00f/godbolt.nvim
 p00f/nvim-ts-rainbow
@@ -1670,6 +1680,7 @@ ray-x/lsp_signature.nvim
 ray-x/navigator.lua
 ray-x/sad.nvim
 ray-x/starry.nvim
+ray-x/telescope-ast-grep.nvim
 ray-x/web-tools.nvim
 rbgrouleff/bclose.vim
 rbong/vim-buffest
@@ -1839,7 +1850,7 @@ sbulav/jump-ray.nvim
 scalameta/nvim-metals
 scheisa/relpointers.nvim
 scjangra/files-nvim
-scottmckendry/Windots
+scottmckendry/windots
 scrooloose/nerdtree
 scrooloose/nerdtree-project-plugin
 scrooloose/vim-slumlord
@@ -1854,6 +1865,8 @@ shadyalfred/electric-quotes.nvim
 shaeinst/penvim
 shaeinst/roshnivim
 shaeinst/roshnivim-cs
+sharonex/edit-list.nvim/tree/main
+sharonex/grape.nvim
 shatur/neovim-ayu
 shatur/neovim-session-manager
 shatur/neovim-tasks
@@ -1864,7 +1877,6 @@ shaunsingh/seoul256.nvim
 shaunsingh/solarized.nvim
 shawncplus/phpcomplete.vim
 sheerun/vim-polyglot
-shellRaining/hlchunk.nvim
 shellraining/hlchunk.nvim
 sheodox/projectlaunch.nvim
 shinglyu/vim-codespell
@@ -1956,8 +1968,10 @@ softmotions/vim-dark-frost-theme
 solarnz/thrift.vim
 someone-stole-my-name/yaml-companion.nvim
 sontungexpt/stcursorword
+sontungexpt/stinvim
 sontungexpt/sttusline
 sontungexpt/url-open
+soulis-1256/hoverhints.nvim
 sourcegraph/sg.nvim
 sourproton/tunnell.nvim
 spacevim/gtags.vim
@@ -2220,6 +2234,8 @@ verf/deepwhite.nvim
 vhakulinen/gnvim
 vhda/verilog_systemverilog.vim
 vi-tality/neovitality
+vidocqh/auto-indent.nvim
+vidocqh/data-viewer.nvim
 vidocqh/lsp-lens.nvim
 vifm/neovim-vifm
 vifm/vifm.vim
@@ -2288,6 +2304,7 @@ vuciv/vim-bujo
 vuki656/package-info.nvim
 vundlevim/vundle.vim
 vv-vim/vv
+vxpm/ferris.nvim
 w0ng/vim-hybrid
 w0rp/ale
 wakatime/vim-wakatime
@@ -2346,6 +2363,7 @@ winston0410/commented.nvim
 winston0410/range-highlight.nvim
 wittyjudge/gruvbox-material.nvim
 wklken/k-vim
+wojciech-kulik/xcodebuild.nvim
 woosaaahh/sj.nvim
 wsdjeg/dein-ui.vim
 wsdjeg/flygrep.vim
@@ -2405,6 +2423,7 @@ yioneko/nvim-yati
 yong1le/darkplus.nvim
 yonlu/omni.vim
 yorickpeterse/nvim-pqf
+yorickpeterse/nvim-window
 yqlbu/neovim-server
 yssl/qfenter
 yuki-yano/fuzzy-motion.vim
@@ -2413,6 +2432,7 @@ yuki-yano/zero.nvim
 yuratomo/w3m.vim
 yuttie/comfortable-motion.vim
 yuttie/hydrangea-vim
+zadirion/unreal.nvim
 zaldih/themery.nvim
 zane-/cder.nvim
 zane-/howdoi.nvim
@@ -2426,6 +2446,7 @@ zefei/vim-wintabs
 zegervdv/nrpattern.nvim
 zeioth/compiler.nvim
 zeioth/dooku.nvim
+zeioth/garbage-day.nvim
 zeioth/markmap.nvim
 zenbro/mirror.vim
 zgpio/brew.nvim
