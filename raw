@@ -175,6 +175,7 @@ b0o/mapx.nvim
 b0o/schemastore.nvim
 b3nj5m1n/kommentary
 babab/vim-magickey
+backdround/improved-ft.nvim
 backdround/improved-search.nvim
 badhi/nvim-treesitter-cpp-tools
 bagrat/vim-buffet
@@ -246,7 +247,7 @@ camspiers/lens.vim
 camspiers/snap
 cankolay3499/cnvim
 cappyzawa/trim.nvim
-carbon-steel/detour.nvim/tree/main
+carbon-steel/detour.nvim
 carlitux/deoplete-ternjs
 carlosrocha/chrome-remote.nvim
 cassin01/wf.nvim
@@ -324,6 +325,7 @@ coffebar/neovim-project
 coffebar/transfer.nvim
 cohama/agit.vim
 cohama/lexima.vim
+comatory/gh-co.nvim
 cometsong/commentframe.vim
 configs/nvim-dap.lua
 conormcd/matchindent.vim
@@ -455,6 +457,7 @@ dracula/vim
 dradtke/vim-dap
 drmikehenry/vim-fixkey
 drmingdrmer/xptemplate
+dronakurl/injectme.nvim
 drybalka/tree-climber.nvim
 drzel/vim-repo-edit
 drzel/vim-split-line
@@ -508,7 +511,7 @@ eluum/vim-autopair
 elvessousa/sobrio
 embark-theme/vim
 emileferreira/nvim-strict
-emmanueltouzery/elixir-extras.nvim/tree/main
+emmanueltouzery/elixir-extras.nvim
 epwalsh/obsidian.nvim
 equalsraf/neovim-gui-shim
 equalsraf/neovim-qt
@@ -613,10 +616,11 @@ gbprod/stay-in-place.nvim
 gbprod/substitute.nvim
 gbprod/yanky.nvim
 gbrlsnchs/telescope-lsp-handlers.nvim
+gcballesteros/jupytext.nvim
 gcballesteros/notebooknavigator.nvim
 gcmt/wildfire.vim
 gelguy/wilder.nvim
-gelio/cmp-natdat/
+gelio/cmp-natdat
 gen740/smoothcursor.nvim
 gennaro-tedesco/nvim-commaround
 gennaro-tedesco/nvim-jqx
@@ -656,7 +660,7 @@ google/vim-maktaba
 goolord/alpha-nvim
 gorbit99/codewindow.nvim
 gpanders/editorconfig.nvim
-graphql/graphiql/tree/main/packages/graphql-language-service-cli
+graphql/graphiql
 gregsexton/gitv
 groenewege/vim-less
 gruvbox-community/gruvbox
@@ -756,6 +760,7 @@ https://gitlab.com/yorickpeterse/nvim-window
 https://gitlab.com/yorickpeterse/vim-paper
 huawenyu/neogdb.vim
 huawenyu/vimgdb
+hubro/nvim-splitrun
 hupfdule/refactorvim
 hyiltiz/vim-plugins-profile
 iamcco/coc-spell-checker
@@ -968,6 +973,7 @@ kaitlynethylia/treepin
 kaiuri/nvim-juliana
 kaiuri/nvim-mariana
 kalekundert/vim-coiled-snake
+kamalsacranie/nvim-mapper
 kamou/gpt-vim
 kamykn/spelunker.vim
 kana/vim-operator-user
@@ -1113,7 +1119,8 @@ linarcx/telescope-env.nvim
 linarcx/telescope-ports.nvim
 linarcx/telescope-scriptnames.nvim
 linden-project/linny.vim
-linguini1/pulse.nvim/tree/main
+linguini1/pulse.nvim
+linrongbin16/colorbox.nvim
 linrongbin16/fzfx.nvim
 linrongbin16/gitlinker.nvim
 linrongbin16/lin.nvim
@@ -1839,6 +1846,7 @@ rutatang/quicknote.nvim
 rutatang/spectacle.nvim
 ryanoasis/vim-devicons
 ryvnf/readline.vim
+s1m0n38/dante.nvim
 s1n7ax/nvim-comment-frame
 s1n7ax/nvim-lazy-inner-block
 s1n7ax/nvim-search-and-replace
@@ -1884,7 +1892,7 @@ shadyalfred/electric-quotes.nvim
 shaeinst/penvim
 shaeinst/roshnivim
 shaeinst/roshnivim-cs
-sharonex/edit-list.nvim/tree/main
+sharonex/edit-list.nvim
 sharonex/grape.nvim
 shatur/neovim-ayu
 shatur/neovim-session-manager
