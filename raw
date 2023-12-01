@@ -276,6 +276,7 @@ chip/telescope-software-licenses.nvim
 chipsenkbeil/distant.nvim
 chiyadev/dep
 chomosuke/term-edit.nvim
+chomosuke/typst-preview.nvim
 chrboesch/vim-tabline
 chrisbra/changesplugin
 chrisbra/colorizer
@@ -476,6 +477,7 @@ e-cal/askgpt
 eandrju/cellular-automaton.nvim
 easymotion/vim-easymotion
 echasnovski/mini.clue
+echasnovski/mini.completion
 echasnovski/mini.nvim
 echasnovski/mini.operators
 echasnovski/mini.pick
@@ -513,6 +515,7 @@ embark-theme/vim
 emileferreira/nvim-strict
 emmanueltouzery/elixir-extras.nvim
 epwalsh/obsidian.nvim
+epwalsh/pomo.nvim
 equalsraf/neovim-gui-shim
 equalsraf/neovim-qt
 equilibris/nx.nvim
@@ -955,9 +958,14 @@ jupyter-vim/jupyter-vim
 justinhj/battery.nvim
 justinmk/nvim-repl
 justinmk/vim-dirvish
+justinmk/vim-dirvish.git
 justinmk/vim-gtfo
+justinmk/vim-gtfo.git
+justinmk/vim-ipmotion
+justinmk/vim-ipmotion.git
 justinmk/vim-printf
 justinmk/vim-sneak
+justinmk/vim-sneak.git
 jvgrootveld/telescope-zoxide
 jwalton512/vim-blade
 jxstxs/conceal.nvim
@@ -1091,6 +1099,7 @@ lervag/vim-rainbow-lists
 lervag/vimtex
 lervag/wiki.vim
 levouh/tint.nvim
+lewis6991/fileline.nvim
 lewis6991/gitsigns.nvim
 lewis6991/hover.nvim
 lewis6991/impatient.nvim
@@ -1750,6 +1759,7 @@ rhysd/vim-grammarous
 rhysd/vim-operator-surround
 rhysd/vim-startuptime
 rhysd/vim-textobj-anyblock
+ribru17/bamboo.nvim
 richardbizik/nvim-toc
 rickhowe/diffchar.vim
 rileytwo/kiss
