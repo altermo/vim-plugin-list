@@ -199,6 +199,7 @@ bfredl/nvim-luadev
 bfredl/nvim-miniyank
 bfrg/vim-qf-preview
 bi0ha2ard/telescope-ros.nvim
+birdeehub/nixcats-nvim
 bkad/camelcasemotion
 bkegley/gloombuddy
 bkoropoff/bex.nvim
@@ -612,6 +613,7 @@ gaodean/autolist.nvim
 garbas/vim-snipmate
 garyhurtz/cmp_bulma.nvim
 garyhurtz/cmp_kitty
+garymjr/nvim-snippets
 gbprod/cutlass.nvim
 gbprod/nord.nvim
 gbprod/phpactor.nvim
@@ -984,6 +986,7 @@ kalekundert/vim-coiled-snake
 kamalsacranie/nvim-mapper
 kamou/gpt-vim
 kamykn/spelunker.vim
+kana/vim-niceblock
 kana/vim-operator-user
 kana/vim-repeat
 kana/vim-smartinput
@@ -1092,6 +1095,7 @@ leafcage/foldcc.vim
 leafgarland/typescript-vim
 ledesmablt/vim-run
 ledger/vim-ledger
+leet0rz/modified-moonlight.nvim
 lenovsky/nuake
 leonheidelbach/trailblazer.nvim
 lervag/lists.vim
@@ -1152,6 +1156,7 @@ lotabout/skim.vim
 lourenci/github-colors
 lpinilla/vim-codepainter
 luc-tielen/telescope_hoogle
+lucario387/nvim-ts-format
 lucastavaresa/simpleindentguides.nvim
 lucastavaresa/singlecomment.nvim
 luchermitte/lh-brackets
@@ -1559,6 +1564,7 @@ ojroques/vim-scrollstatus
 okuuva/auto-save.nvim
 olacin/telescope-cc.nvim
 olacin/telescope-gitmoji.nvim
+oleggulevskyy/better-ts-errors.nvim
 olexsmir/gopher.nvim
 olical/aniseed
 olical/conjure
