@@ -359,6 +359,7 @@ cshuaimin/ssr.nvim
 cstsunfu/.sea.nvim
 ctrlpvim/ctrlp.vim
 cuducos/yaml.nvim
+cvigilv/esqueleto.nvim
 cyansprite/extract
 d0n9x1n/quickrun.vim
 d4ku/vim-pushover
@@ -541,6 +542,7 @@ eugen0329/vim-esearch
 evanquan/vim-textobj-delimiters
 everblush/everblush.nvim
 everduin94/nvim-quick-switcher
+evesdropper/luasnip-latex-snippets.nvim
 exafunction/codeium.vim
 f-person/auto-dark-mode.nvim
 f-person/git-blame.nvim
@@ -721,6 +723,7 @@ henriquehbr/nvim-startup.lua
 heraldofsolace/nisha-vim
 herringtondarkholme/yats.vim
 hesiod-au/fastkeywins.nvim
+hiberabyss/bzlops.vim
 hinell/duplicate.nvim
 hinell/lsp-timeout.nvim
 hiphish/nvim-cmp-vlime
@@ -779,6 +782,7 @@ https://gitlab.com/yorickpeterse/vim-paper
 huawenyu/neogdb.vim
 huawenyu/vimgdb
 hubro/nvim-splitrun
+huggingface/llm.nvim
 hupfdule/refactorvim
 hyiltiz/vim-plugins-profile
 iamcco/coc-spell-checker
@@ -799,9 +803,11 @@ imbacraft/dusk.nvim
 indianboy42/tree-sitter-just
 inkarkat/vim-advancedsorters
 inkarkat/vim-enhancedjumps
+inkarkat/vim-ingo-librar
 inkarkat/vim-mark
 inkarkat/vim-patterncomplete
 inkarkat/vim-spellcheck
+inkarkat/vim-visualrepeat
 instant-markdown/vim-instant-markdown
 int3/vim-extradite
 ipod825/igit.nvim
@@ -909,6 +915,7 @@ jnurmine/zenburn
 jodosha/vim-godebug
 joeytwiddle/sexy_scroller.vim
 johann2357/nvim-smartbufs
+johanw123/avalonia.nvim
 johmsalas/text-case.nvim
 johnfrankmorgan/whitespace.nvim
 jonathandion/web-dev.nvim
@@ -1334,7 +1341,9 @@ milanglacier/yarepl.nvim
 mileszs/ack.vim
 milisims/nvim-luaref
 milisims/tree-sitter-org
+milkypostman/vim-togglelist
 millermedeiros/vim-esformatter
+miragiancycle/oviwrite
 misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
 miversen33/import.nvim
@@ -1492,6 +1501,7 @@ nvchad/ui
 nvie/vim-flake8
 nvim-colortils/colortils.nvim
 nvim-focus/focus.nvim
+nvim-java/nvim-java
 nvim-lsp/try.nvim
 nvim-lua/completion-nvim
 nvim-lua/kickstart.nvim
@@ -1594,6 +1604,7 @@ olimorris/onedark.nvim
 olimorris/onedarkpro.nvim
 olimorris/persisted.nvim
 olivercederborg/poimandres.nvim
+omerxx/tmux-sessionx
 onsails/diaglist.nvim
 onsails/lspkind-nvim
 onsails/lspkind.nvim
@@ -1819,6 +1830,7 @@ rockerboo/boo-colorscheme-nvim
 rockyzhang24/arctic.nvim
 roginfarrer/vim-dirvish-dovish
 rohit-px2/nvui
+rolv-apneseth/tfm.nvim
 romainl/apprentice
 romainl/flattened
 romainl/vim-bruin
@@ -1883,6 +1895,7 @@ rust-lang/rust.vim
 rutatang/compter.nvim
 rutatang/quicknote.nvim
 rutatang/spectacle.nvim
+ryanmsnyder/toggleterm-manager.nvim
 ryanoasis/vim-devicons
 ryvnf/readline.vim
 s1m0n38/dante.nvim
@@ -1988,6 +2001,7 @@ simaxme/java.nvim
 simeji/winresizer
 simnalamburt/vim-mundo
 simonefranza/nvim-conv
+simonmclean/triptych.nvim
 simrat39/rust-tools.nvim
 simrat39/symbols-outline.nvim
 sindrets/diffview.nvim
@@ -2236,6 +2250,7 @@ tpope/vim-pathogen
 tpope/vim-projectionist
 tpope/vim-rails
 tpope/vim-rake
+tpope/vim-repea
 tpope/vim-repeat
 tpope/vim-rhubarb
 tpope/vim-rsi
@@ -2257,6 +2272,7 @@ troydm/easytree.vim
 tsakirist/telescope-lazy.nvim
 tummetott/reticle.nvim
 turbio/bracey.vim
+tvaintrob/bicep.vim
 tversteeg/registers.nvim
 tveskag/nvim-blame-line
 tweekmonster/braceless.vim
@@ -2539,32 +2555,3 @@ zootedb0t/citruszest.nvim
 zotlann/docker-nvim
 zsaberlv0/completeparameter_generic.vim
 zsugabubus/crazy8.nvim
-https://github.com/nvim-java/nvim-java
-https://github.com/Johanw123/avalonia.nvim
-https://github.com/jpmcb/nvim-llama
-https://github.com/Wansmer/symbol-usage.nvim
-https://github.com/ray-x/cmp-treesitter
-https://github.com/omerxx/tmux-sessionx
-https://github.com/omerxx/tmux-sessionx
-https://github.com/MunifTanjim/nougat.nvim
-https://github.com/MunifTanjim/nougat.nvim
-https://github.com/willothy/veil.nvim
-https://github.com/chrisgrieser/nvim-recorder
-https://github.com/cbochs/grapple.nvim
-https://github.com/quangnguyen30192/cmp-nvim-ultisnips
-https://github.com/glts/vim-radical
-https://github.com/is0n/jaq-nvim
-https://github.com/chrisgrieser/nvim-tinygit
-https://github.com/chrisgrieser/nvim-tinygit
-https://github.com/benfowler/telescope-luasnip.nvim
-https://github.com/TobinPalmer/Tip.nvim
-https://github.com/TobinPalmer/Tip.nvim
-https://github.com/MiragianCycle/OVIWrite
-https://github.com/Konfekt/FastFold
-https://github.com/simonmclean/triptych.nvim
-https://github.com/ryvnf/readline.vim
-https://github.com/tsakirist/telescope-lazy.nvim
-https://github.com/antosha417/nvim-lsp-file-operations
-https://github.com/Rolv-Apneseth/tfm.nvim
-https://github.com/Rolv-Apneseth/tfm.nvim
-https://github.com/cvigilv/esqueleto.nvim
