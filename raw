@@ -1,4 +1,5 @@
 00sapo/visual.nvim
+0ihsan/neuron.vim
 0oastro/silicon.lua
 0styx0/abbreinder.nvim
 0styx0/abbremand.nvim
@@ -57,6 +58,7 @@ aklt/plantuml-syntax
 akz92/vim-ionic2
 alanfortlink/blackjack.nvim
 alaviss/nim.nvim
+albingroen/quick.nvim
 aldantas/vim-povray
 alec-gibson/nvim-tetris
 alessandroyorba/despacio
@@ -69,6 +71,7 @@ allendang/nvim-expand-expr
 almo7aya/openingh.nvim
 aloussase/telescope-gradle.nvim
 aloussase/telescope-maven-search
+alpha2phi/modern-neovim
 altercation/vim-colors-solarized
 altermo/ultimate-autopair.nvim
 alvan/vim-closetag
@@ -116,6 +119,7 @@ anuvyklack/help-vsplit.nvim
 anuvyklack/hydra.nvim
 anuvyklack/keymap-amend.nvim
 anuvyklack/keymap-layer.nvim
+anuvyklack/middleclass
 anuvyklack/nvim-keymap-amend
 anuvyklack/pretty-fold.nvim
 anuvyklack/windows.nvim
@@ -138,6 +142,8 @@ arp242/batchy.vim
 arp242/jumpy.vim
 arp242/runbuf.vim
 arsham/arshamiser.nvim
+arsham/arshlib.nvim
+arsham/indent-tools.nvim
 artart222/codeart
 artempyanykh/marksman
 arthurealike/vim-j
@@ -159,6 +165,7 @@ aspeddro/cmp-pandoc.nvim
 astronvim/astronvim
 asvetliakov/vscode-neovim
 atusy/leap-search.nvim
+atusy/tsnode-marker.nvim
 autozimu/languageclient-neovim
 axelvc/template-string.nvim
 axieax/urlview.nvim
@@ -179,8 +186,10 @@ b3nj5m1n/kommentary
 babab/vim-magickey
 backdround/improved-ft.nvim
 backdround/improved-search.nvim
+backdround/neowords.nvim
 badhi/nvim-treesitter-cpp-tools
 bagrat/vim-buffet
+barklan/capslock.nvim
 base16-project/base16-vim
 beauwilliams/focus.nvim
 beauwilliams/statusline.lua
@@ -193,6 +202,7 @@ beloglazov/vim-online-thesaurus
 benekastah/neomake
 benfowler/telescope-luasnip.nvim
 benlubas/molten-nvim
+benlubas/wrapping-paper.nvim
 bennypowers/changesets.nvim
 bennypowers/nvim-regexplainer
 bennypowers/splitjoin.nvim
@@ -265,6 +275,7 @@ cbochs/grapple.nvim
 cbochs/portal.nvim
 ccchapman/watson.nvim
 cdelledonne/vim-cmake
+cdelledonne/vim-utest
 cespare/vim-sbd
 cespare/vim-toml
 chadcat7/prism
@@ -286,6 +297,7 @@ chomosuke/typst-preview.nvim
 chrboesch/vim-tabline
 chrisbra/changesplugin
 chrisbra/colorizer
+chrisbra/csv.vim
 chrisbra/dynamicsigns
 chrisbra/improvedft
 chrisbra/nrrwrgn
@@ -303,6 +315,7 @@ chrisgrieser/nvim-rulebook
 chrisgrieser/nvim-spider
 chrisgrieser/nvim-tinygit
 chrisgrieser/nvim-various-textobjs
+chrishrb/gx.nvim
 chriskempson/base16-vim
 chriskempson/vim-tomorrow-theme
 christianchiarulli/bookmark.nvim
@@ -389,6 +402,7 @@ davidgranstrom/nvim-markdown-preview
 davidgranstrom/osc.nvim
 davidgranstrom/scnvim
 davidhalter/jedi-vim
+davidosomething/format-ts-errors.nvim
 davidsierradz/cmp-conventionalcommits
 dawsers/navigator.nvim
 dax89/automaton.nvim
@@ -485,8 +499,10 @@ dzhou121/gonvim
 e-cal/askgpt
 eandrju/cellular-automaton.nvim
 easymotion/vim-easymotion
+echasnovski/mini.ai
 echasnovski/mini.clue
 echasnovski/mini.completion
+echasnovski/mini.indentscope
 echasnovski/mini.nvim
 echasnovski/mini.operators
 echasnovski/mini.pick
@@ -548,6 +564,7 @@ f-person/auto-dark-mode.nvim
 f-person/git-blame.nvim
 f3fora/cmp-spell
 fabianwirth/search.nvim
+fabijanzulj/blame.nvim
 faerryn/plogins.nvim
 faerryn/user.nvim
 famiu/bufdelete.nvim
@@ -716,6 +733,7 @@ haya14busa/vim-auto-programming
 haya14busa/vim-easyoperator-line
 haya14busa/vim-easyoperator-phrase
 haya14busa/vim-edgemotion
+haydenmeade/neotest-jest
 heavenshell/vim-pydocstring
 hedyhli/outline.nvim
 henriquehbr/ataraxis.lua
@@ -828,6 +846,7 @@ ishan9299/nvim-solarized-lua
 itchyny/calendar.vim
 itchyny/lightline.vim
 itchyny/vim-cursorword
+itchyny/vim-highlighturl
 itchyny/vim-qfedit
 itmecho/bufterm.nvim
 itmecho/neoterm.nvim
@@ -996,6 +1015,7 @@ jwalton512/vim-blade
 jxstxs/conceal.nvim
 jyscao/ventana.nvim
 k-takata/minpac
+kaarmu/typst.vim
 kabbamine/gulp-vim
 kabbamine/lazylist.vim
 kabbamine/vcoolor.vim
@@ -1023,6 +1043,7 @@ kassio/neoterm
 kawre/leetcode.nvim
 kazhala/close-buffers.nvim
 kchmck/vim-coffee-script
+kdesp73/project-starter.nvim
 kdheepak/cmp-latex-symbols
 kdheepak/lazygit.nvim
 kdheepak/monochrome.nvim
@@ -1223,6 +1244,7 @@ luukvbaal/nnn.nvim
 luukvbaal/stabilize.nvim
 luukvbaal/statuscol.nvim
 lvim-tech/lvim
+lvimuser/lsp-inlayhints.nvim
 lyude/neovim-gtk
 lyuts/vim-rtags
 m-demare/attempt.nvim
@@ -1267,6 +1289,7 @@ mattn/vim-gist
 mattn/vim-molder
 mattn/webapi-vim
 matze/vim-move
+mawkler/friendly-snippets
 mawkler/modicator.nvim
 mawkler/onedark.nvim
 max-0406/autoclose.nvim
@@ -1313,6 +1336,7 @@ mfussenegger/nvim-ts-hint-textobject
 mg979/tabline.nvim
 mg979/tasks.vim
 mg979/vim-visual-multi
+mhanberg/output-panel.nvim
 mhartington/formatter.nvim
 mhartington/nvim-typescript
 mhartington/oceanic-next
@@ -1341,6 +1365,7 @@ milanglacier/yarepl.nvim
 mileszs/ack.vim
 milisims/nvim-luaref
 milisims/tree-sitter-org
+milkias17/reloader.nvim
 milkypostman/vim-togglelist
 millermedeiros/vim-esformatter
 miragiancycle/oviwrite
@@ -1348,6 +1373,7 @@ misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
 miversen33/import.nvim
 miversen33/netman.nvim
+miversen33/netman.nvim/tree/v1.15
 miversen33/sunglasses.nvim
 mizlan/iswap.nvim
 mizlan/termbufm
@@ -1392,6 +1418,7 @@ murtaza-u/ez.nvim
 mvaldes14/terraform.nvim
 mvllow/modes.nvim
 mvllow/stand.nvim
+mxsdev/nvim-dap-vscode-js
 mxw/vim-jsx
 myusuf3/numbers.vim
 mzlogin/vim-markdown-toc
@@ -1744,6 +1771,7 @@ rakr/vim-two-firewatch
 ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
 ranjithshegde/orgwiki.nvim
+rareitems/printer.nvim
 rasukarusan/nvim-select-multi-line
 rawnly/gist.nvim
 ray-x/aurora
@@ -1802,12 +1830,15 @@ ribru17/bamboo.nvim
 richardbizik/nvim-toc
 rickhowe/diffchar.vim
 rileytwo/kiss
+rimuhrimu/runthis.nvim
 rip-rip/clang_complete
 ripxorip/aerojump.nvim
 ripxorip/bolt.nvim
 rishabhrd/gruvy
+rishabhrd/nvim-cheat.sh
 rishabhrd/nvim-lsputils
 rishabhrd/nvim-rdark
+rishabhrd/popfix
 rktjmp/fwatch.nvim
 rktjmp/highlight-current-n.nvim
 rktjmp/hotpot.nvim
@@ -2004,6 +2035,7 @@ simonefranza/nvim-conv
 simonmclean/triptych.nvim
 simrat39/rust-tools.nvim
 simrat39/symbols-outline.nvim
+sinabyr/analogue.nvim
 sindrets/diffview.nvim
 sindrets/winshift.nvim
 sirver/ultisnips
@@ -2264,6 +2296,7 @@ tpope/vim-tbone
 tpope/vim-unimpaired
 tpope/vim-vinegar
 tpope/vim-vividchalk
+traap/nvims
 tracyone/neomake-multiprocess
 trapd00r/vidir
 triglav/vim-visual-increment
