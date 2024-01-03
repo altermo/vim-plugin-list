@@ -1054,6 +1054,7 @@ karb94/neoscroll.nvim
 kasama/nvim-custom-diagnostic-highlight
 kassio/neoterm
 kawre/leetcode.nvim
+kawre/neotab.nvim
 kazhala/close-buffers.nvim
 kchmck/vim-coffee-script
 kdesp73/project-starter.nvim
@@ -1387,6 +1388,7 @@ milkias17/reloader.nvim
 milkypostman/vim-togglelist
 millermedeiros/vim-esformatter
 miragiancycle/oviwrite
+mireq/luasnip-snippets
 misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
 miversen33/import.nvim
