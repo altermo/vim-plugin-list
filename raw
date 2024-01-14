@@ -37,6 +37,7 @@ adisen99/codeschool.nvim
 adoy/vim-php-refactoring-toolbox
 adriaanzon/vim-textobj-blade-directive
 adriaanzon/vim-textobj-matchit
+agusdolard/backout.nvim
 ahmedkhalf/jupyter-nvim
 ahmedkhalf/lsp-rooter.nvim
 ahmedkhalf/notif.nvim
@@ -47,6 +48,7 @@ airblade/vim-rooter
 airodactyl/neovim-ranger
 ajh17/vimcompletesme
 ajnasz/nvim-rfind
+ajnasz/telescope-runcmd.nvim
 akinsho/bufferline.nvim
 akinsho/flutter-tools.nvim
 akinsho/git-conflict.nvim
@@ -322,6 +324,7 @@ chrisgrieser/nvim-origami
 chrisgrieser/nvim-puppeteer
 chrisgrieser/nvim-recorder
 chrisgrieser/nvim-rulebook
+chrisgrieser/nvim-scissors
 chrisgrieser/nvim-spider
 chrisgrieser/nvim-tinygit
 chrisgrieser/nvim-various-textobjs
@@ -945,6 +948,7 @@ jinh0/eyeliner.nvim
 jinzhongjia/lspui.nvim
 jinzhongjia/ps_manager.nvim
 jistr/vim-nerdtree-tabs
+jjshoots/betterf.nvim/tree/main
 jlanzarotta/bufexplorer
 jlesquembre/nterm.nvim
 jmarkin/cmp-diag-codes
@@ -1720,6 +1724,7 @@ phpactor/phpactor
 phsix/faster.nvim
 phsix/nvim-hybrid
 pianocomposer321/consolation.nvim
+pianocomposer321/officer.nvim
 pianocomposer321/project-templates.nvim
 pianocomposer321/yabs.nvim
 piersolenski/telescope-import.nvim
@@ -1769,6 +1774,7 @@ preservim/vimux
 prettier/vim-prettier
 previm/previm
 prochri/telescope-all-recent.nvim
+prochri/telescope-picker-history-action
 projekt0n/github-nvim-theme
 protex/better-digraphs.nvim
 pseewald/vim-anyfold
@@ -1923,6 +1929,7 @@ romgrk/kui.nvim
 romgrk/nvim-treesitter-context
 romgrk/searchreplace.vim
 ron89/thesaurus_query.vim
+ronylee11/gitcontrib.nvim
 roobert/action-hints.nvim
 roobert/activate.nvim
 roobert/bufferline-cycle-windowless.nvim
@@ -1980,6 +1987,7 @@ s1n7ax/nvim-window-picker
 saadparwaiz1/cmp_luasnip
 saccarosium/neomarks
 saecki/crates.nvim
+sahlte/timed-highlight.nvim
 saifulapm/chartoggle.nvim
 sainnhe/edge
 sainnhe/everforest
@@ -2195,6 +2203,7 @@ t9md/vim-quickhl
 t9md/vim-ruby-xmpfilter
 t9md/vim-smalls
 t9md/vim-textmanip
+ta-tikoma/php.easy.nvim
 tadaa/vimade
 tadmccorkle/markdown.nvim
 takac/vim-hardtime
@@ -2391,6 +2400,7 @@ uga-rosa/denippet.vim
 uga-rosa/translate.nvim
 uga-rosa/utf8.nvim
 uloco/bluloco.nvim
+umlx5h/gtrash
 unblevable/quick-scope
 untitled-ai/jupyter_ascending
 uplus/deoplete-solargraph
@@ -2502,6 +2512,7 @@ weirongxu/coc-explorer
 weirongxu/plantuml-previewer.vim
 weissle/easy-action
 weissle/persistent-breakpoints.nvim
+weizheheng/ror.nvim
 wellle/context.vim
 wellle/targets.vim
 wellle/tmux-complete.vim
