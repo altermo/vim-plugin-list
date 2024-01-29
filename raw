@@ -4,6 +4,7 @@
 0styx0/abbreinder.nvim
 0styx0/abbremand.nvim
 0x5a4/oogway.nvim
+0xadk/full_visual_line.nvim
 1995parham/naz.vim
 2kabhishek/nerdy.nvim
 2nthony/vitesse.nvim
@@ -37,6 +38,7 @@ adisen99/codeschool.nvim
 adoy/vim-php-refactoring-toolbox
 adriaanzon/vim-textobj-blade-directive
 adriaanzon/vim-textobj-matchit
+agoodshort/telescope-git-submodules.nvim
 agusdolard/backout.nvim
 ahmedkhalf/jupyter-nvim
 ahmedkhalf/lsp-rooter.nvim
@@ -67,6 +69,7 @@ alec-gibson/nvim-tetris
 alessandroyorba/despacio
 alexaandru/nvim-lspupdate
 alexis12119/nightly.nvim
+alexshelto/boringcomment.nvim
 alextricity25/nvim_weekly_plugin_configs
 alexvzyl/nordic.nvim
 alfredodeza/coveragepy.vim
@@ -251,6 +254,7 @@ brenton-leighton/multiple-cursors.nvim
 brettanomyces/nvim-editcommand
 brettanomyces/nvim-terminus
 brglng/vim-im-select
+brianaung/yasl.nvim
 briones-gabriel/darcula-solid.nvim
 bronson/vim-trailing-whitespace
 bronson/vim-visual-star-search
@@ -398,6 +402,7 @@ cyansprite/extract
 d0n9x1n/quickrun.vim
 d4ku/vim-pushover
 daa84/neovim-gtk
+daenikon/marknav.nvim
 dag/vim-fish
 dagwieers/asciidoc-vim
 dahu/asif
@@ -598,6 +603,7 @@ famiu/feline.nvim
 fannheyward/telescope-coc.nvim
 farmergreg/vim-lastplace
 fatih/vim-go
+fcancelinha/northern.nvim
 fcying/telescope-ctags-outline.nvim
 fdschmidt93/telescope-egrepify.nvim
 febri-i/auto-require
@@ -924,6 +930,8 @@ jcha0713/cmp-tw2css
 jdelkins/vim-correction
 jdhao/better-escape.vim
 jdonaldson/vaxe
+jdrupal-dev/code-refactor.nvim
+jdrupal-dev/drupal.nvim
 jeaye/color_coded
 jedi2610/nvim-rooter.lua
 jedrzejboczar/exrc.nvim
@@ -935,6 +943,7 @@ jeffkreeftmeijer/vim-dim
 jeffkreeftmeijer/vim-numbertoggle
 jelera/vim-javascript-syntax
 jellyapple102/flote.nvim
+jellydn/hurl.nvim
 jenterkin/vim-autosource
 jesperlundberg/projektgunnar.nvim
 jesseleite/nvim-noirbuddy
@@ -955,7 +964,7 @@ jinh0/eyeliner.nvim
 jinzhongjia/lspui.nvim
 jinzhongjia/ps_manager.nvim
 jistr/vim-nerdtree-tabs
-jjshoots/betterf.nvim/tree/main
+jjshoots/betterf.nvim
 jlanzarotta/bufexplorer
 jlesquembre/nterm.nvim
 jmarkin/cmp-diag-codes
@@ -1237,6 +1246,7 @@ liuchengxu/vista.vim
 llllvvuu/nvim-js-actions
 lmburns/kimbox
 lmburns/lf.nvim
+lopi-py/luau-lsp.nvim
 loricandre/fzterm.nvim
 loricandre/oneterm
 loricandre/oneterm.nvim
@@ -1366,6 +1376,7 @@ mcauley-penney/tidy.nvim
 mcchrish/nnn.vim
 mcchrish/zenbones.nvim
 md-img-paste-devs/md-img-paste.vim
+meanderingprogrammer/py-requirements.nvim
 meliora-theme/neovim
 melkster/modicator.nvim
 mengelbrecht/lightline-bufferline
@@ -1406,7 +1417,7 @@ mickael-menu/zk-nvim
 micmine/jumpwire.nvim
 miguelcrespo/scratch-buffer.nvim
 miikanissi/modus-themes.nvim
-mikeslattery/ax.nvim/
+mikeslattery/ax.nvim
 mikesmithgh/kitty-scrollback.nvim
 milanglacier/yarepl.nvim
 mileszs/ack.vim
@@ -1421,7 +1432,6 @@ misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
 miversen33/import.nvim
 miversen33/netman.nvim
-miversen33/netman.nvim/tree/v1.15
 miversen33/sunglasses.nvim
 mizlan/iswap.nvim
 mizlan/termbufm
@@ -1499,6 +1509,7 @@ ncm2/ncm2
 neanias/everforest-nvim
 nekonako/xresources-nvim
 nelstrom/vim-cutlass
+neoclide/coc-highlight
 neoclide/coc-pairs
 neoclide/coc-tabnine
 neoclide/coc.nvim
@@ -1693,6 +1704,7 @@ osyo-manga/vim-hopping
 osyo-manga/vim-jplus
 osyo-manga/vim-over
 osyo-manga/vim-precious
+otavioschwanck/arrow.nvim
 otavioschwanck/mood-nvim
 otavioschwanck/telescope-alternate.nvim
 otavioschwanck/tmux-awesome-manager.nvim
@@ -1876,6 +1888,7 @@ rescript-lang/vim-rescript
 rest-nvim/rest.nvim
 rexagod/samwise.nvim
 rgroli/other.nvim
+rguruprakash/simple-note.nvim
 rhysd/accelerated-jk
 rhysd/clever-f.vim
 rhysd/committia.vim
@@ -1917,7 +1930,6 @@ rmehri01/onenord.nvim
 rmichelsen/nvy
 robertmeta/nofrils
 robitx/gp.nvim
-robitx/gp.nvim/
 roboron3042/cyberpunk-neon
 rockerboo/boo-colorscheme-nvim
 rockyzhang24/arctic.nvim
@@ -2428,6 +2440,7 @@ utfeight/neoproj
 utfeight/vim-case-change
 utilyre/barbecue.nvim
 utilyre/sentiment.nvim
+vague2k/huez.nvim
 valloric/matchtagalways
 valpackett/intero.nvim
 vappolinario/cmp-clippy
@@ -2671,7 +2684,7 @@ zgpio/tree.nvim
 zhimsel/vim-stay
 zhiyuanlck/smart-pairs
 ziontee113/color-picker.nvim
-ziontee113/deliberate.nvim/
+ziontee113/deliberate.nvim
 ziontee113/icon-picker.nvim
 ziontee113/selectease
 ziontee113/syntax-tree-surfer
