@@ -77,6 +77,7 @@ alexshelto/boringcomment.nvim
 alextricity25/nvim_weekly_plugin_configs
 alexvzyl/nordic.nvim
 alfredodeza/coveragepy.vim
+allaman/emoji.nvim
 allendang/nvim-expand-expr
 almo7aya/openingh.nvim
 aloussase/telescope-gradle.nvim
@@ -103,6 +104,7 @@ andersevenrud/cmp-tmux
 andersevenrud/nordic.nvim
 andersevenrud/nvim_context_vt
 andreicristianpetcu/vim-van
+andrew-george/telescope-themes
 andrewferrier/debugprint.nvim
 andrewferrier/textobj-diagnostic.nvim
 andrewferrier/wrapping.nvim
@@ -264,6 +266,7 @@ brettanomyces/nvim-editcommand
 brettanomyces/nvim-terminus
 brglng/vim-im-select
 brianaung/yasl.nvim
+briangwaltney/paren-hint.nvim
 briones-gabriel/darcula-solid.nvim
 bronson/vim-trailing-whitespace
 bronson/vim-visual-star-search
@@ -507,6 +510,7 @@ dm1try/golden_size
 dmitmel/cmp-cmdline-history
 dmitmel/cmp-digraphs
 dmitmel/cmp-vim-lsp
+dmmulroy/ts-error-translator.nvim
 dmmulroy/tsc.nvim
 dnlhc/glance.nvim
 dobrovolsky/kb-notes.nvim
@@ -542,6 +546,7 @@ duggiefresh/vim-easydir
 dundargoc/fakedonalds.nvim
 dundargoc/gh.nvim
 dunstontc/vim-vscode-theme
+dwrdx/mywords.nvim
 dyng/ctrlsf.vim
 dzfrias/arena.nvim
 dzhou121/gonvim
@@ -804,6 +809,7 @@ hesiod-au/fastkeywins.nvim
 hiberabyss/bzlops.vim
 hinell/duplicate.nvim
 hinell/lsp-timeout.nvim
+hiphish/neotest-busted
 hiphish/nvim-cmp-vlime
 hiphish/nvim-ts-rainbow2
 hiphish/rainbow-delimiters.nvim
@@ -939,6 +945,7 @@ jamessan/vim-gnupg
 jamestthompson3/nvim-remote-containers
 janko-m/vim-test
 jaredgorski/spacecamp
+jasonboyett/goethe.nvim
 jaxbot/github-issues.vim
 jay-babu/mason-nvim-dap.nvim
 jayhowie/crystal-cove
@@ -2077,6 +2084,7 @@ salorak/whaler.nvim
 samharju/synthweave.nvim
 samharju/yeet.nvim
 samjwill/nvim-unception
+sammce/fleeting.nvim
 samodostal/image.nvim
 samoshkin/vim-find-files
 samoshkin/vim-mergetool
@@ -2413,6 +2421,7 @@ tommcdo/vim-fugitive-blame-ext
 tommcdo/vim-lion
 tomtom/tcomment_vim
 tomtom/tlib_vim
+ton/vim-bufsurf
 toniz4/vim-stt
 topaxi/gh-actions.nvim
 toppair/peek.nvim
