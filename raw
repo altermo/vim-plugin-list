@@ -18,6 +18,7 @@ aarondiel/spread.nvim
 aaronhallaert/advanced-git-search.nvim
 aasim-a/scrolleof.nvim
 abecodes/tabout.nvim
+abeldekat/harpoonline
 abeldekat/lazyflex.nvim
 abstract-ide/abstract
 abstract-ide/penvim
@@ -87,8 +88,10 @@ aloussase/telescope-gradle.nvim
 aloussase/telescope-maven-search
 alpha2phi/modern-neovim
 altercation/vim-colors-solarized
+altermo/beacon.nvim
 altermo/iedit.nvim
 altermo/nxwm
+altermo/small.nvim
 altermo/ultimate-autopair.nvim
 alvan/vim-closetag
 alvarosevilla95/luatab.nvim
@@ -162,6 +165,7 @@ arcticicestudio/nord-vim
 ariel-frischer/bmessages.nvim
 arjunmahishi/flow.nvim
 arkav/lualine-lsp-progress
+arminfro/hand-side-fix.nvim
 arnarg/todotxt.nvim
 arnaud-lb/vim-php-namespace
 arp242/batchy.vim
@@ -259,6 +263,8 @@ bloznelis/before.nvim
 blueshirts/darcula
 blueyed/vim-diminactive
 blumaa/octopus.nvim
+blumaa/ohne-accidents
+blumaa/ohne-accidents.nvim
 bluz71/vim-mistfly-statusline
 bluz71/vim-moonfly-colors
 bluz71/vim-nightfly-colors
@@ -288,6 +294,7 @@ bronzehedwick/vim-primary-terminal
 brookhong/cscope.vim
 brooth/far.vim
 brymer-meneses/grammar-guard.nvim
+bullets-vim/bullets.vim
 c0r73x/neotags.lua
 c0r73x/neotags.nvim
 cademichael/gotest.nvim
@@ -602,6 +609,7 @@ ej-shafran/compile-mode.nvim
 ekickx/clipboard-image.nvim
 el-iot/buffer-tree
 el-iot/buffer-tree-explorer
+eldritch-theme/eldritch
 elentok/format-on-save.nvim
 elianiva/gruvy.nvim
 elianiva/icy.nvim
@@ -707,6 +715,7 @@ frabjous/knap
 francoiscabrol/ranger.vim
 frans-johansson/lazy-nvim-starter
 fraserlee/scratchpad
+frayzen/cpp-tools.nvim
 frazrepo/vim-rainbow
 freddiehaddad/feline.nvim
 fredeeb/alias.nvim
@@ -787,6 +796,7 @@ goolord/alpha-nvim
 gorbit99/codewindow.nvim
 gpanders/editorconfig.nvim
 graphql/graphiql
+grapp-dev/nui-components.nvim
 gregorias/coerce.nvim
 gregsexton/gitv
 groenewege/vim-less
@@ -849,6 +859,7 @@ hkupty/impromptu.nvim
 hkupty/iron.nvim
 hkupty/nvimux
 hkupty/runes.nvim
+hoganmcdonald/rails-rspec-toggle.nvim
 honamduong/hybrid.nvim
 honza/dockerfile.vim
 honza/vim-snippets
@@ -888,7 +899,6 @@ hrsh7th/vim-searchx
 hrsh7th/vim-vsnip
 https://git.sr.ht/~swaits/thethethe.nvim
 https://git.sr.ht/~swaits/zellij-nav.nvim
-https://github.com/wbthomason/packer.nvim
 https://gitlab.com/dbeniamine/vim-mail
 https://gitlab.com/groctel/jobsplit.nvim
 https://gitlab.com/hiphish/repl.nvim
@@ -897,6 +907,7 @@ https://gitlab.com/yorickpeterse/nvim-grey
 https://gitlab.com/yorickpeterse/nvim-pqf
 https://gitlab.com/yorickpeterse/nvim-window
 https://gitlab.com/yorickpeterse/vim-paper
+huantrinh1802/m_taskwarrior_d.nvim
 huawenyu/neogdb.vim
 huawenyu/vimgdb
 hubro/nvim-splitrun
@@ -917,6 +928,7 @@ icymind/neosolarized
 idanarye/nvim-blunder
 idanarye/nvim-buffls
 idanarye/nvim-channelot
+idanarye/nvim-days-without
 idanarye/nvim-moonicipal
 idanarye/vim-merginal
 ido-nvim/ido.nvim
@@ -1036,6 +1048,7 @@ jinzhongjia/lspui.nvim
 jinzhongjia/ps_manager.nvim
 jistr/vim-nerdtree-tabs
 jjshoots/betterf.nvim
+jla2000/lazydocs.nvim
 jlanzarotta/bufexplorer
 jlesquembre/nterm.nvim
 jmarkin/cmp-diag-codes
@@ -1050,6 +1063,7 @@ johann2357/nvim-smartbufs
 johanw123/avalonia.nvim
 johmsalas/text-case.nvim
 johnfrankmorgan/whitespace.nvim
+jojomakesgames/git-remote-url.nvim
 jonarrien/telescope-cmdline.nvim
 jonathandion/web-dev.nvim
 jonathanfilip/vim-lucius
@@ -1183,6 +1197,7 @@ kezhenxu94/vim-mysql-plugin
 kiddos/gemini.nvim
 kien/rainbow_parentheses.vim
 kilavila/nvim-bufferlist
+kilavila/nvim-gitignore
 kilavila/nvim-yoink
 killthemule/nvimpam
 kingmichaelpark/age.nvim
@@ -1228,6 +1243,8 @@ krivahtoo/silicon.nvim
 kshenoy/vim-origami
 kshenoy/vim-signature
 ktunprasert/gui-font-resize.nvim
+kungfusheep/i.nvim
+kungfusheep/randomword.nvim
 kuznetsss/delegate.nvim
 kuznetsss/meadow-nvim
 kvrohit/mellow.nvim
@@ -1348,6 +1365,7 @@ luchermitte/lh-cpp
 luchermitte/vimfold4c
 luckasranarison/clear-action.nvim
 luckasranarison/nvim-devdocs
+luckasranarison/tailwind-tools.nvim
 lucobellic/edgy-group.nvim
 ludopinelli/comment-box.nvim
 ludovicchabant/vim-gutentags
@@ -1470,6 +1488,7 @@ mcauley-penney/visual-whitespace.nvim
 mcchrish/nnn.vim
 mcchrish/zenbones.nvim
 md-img-paste-devs/md-img-paste.vim
+meanderingprogrammer/markdown.nvim
 meanderingprogrammer/py-requirements.nvim
 meliora-theme/neovim
 melkster/modicator.nvim
@@ -1522,6 +1541,7 @@ milkypostman/vim-togglelist
 millermedeiros/vim-esformatter
 mimikun/human-rights.nvim
 miragiancycle/oviwrite
+mireq/large_file
 mireq/luasnip-snippets
 misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
@@ -1551,7 +1571,9 @@ mordechaihadad/nvim-papadark
 morhetz/gruvbox
 mpas/marp-nvim
 mr-lllll/interestingwords.nvim
+mr-lllll/lualine-ext.nvim
 mr-lllll/treesitter-outer
+mr-lllll/utilities.nvim
 mrcjkb/ferris.nvim
 mrcjkb/haskell-snippets.nvim
 mrcjkb/haskell-tools.nvim
@@ -1561,6 +1583,7 @@ mrjones2014/dash.nvim
 mrjones2014/legendary.nvim
 mrjones2014/smart-splits.nvim
 mrquantumcodes/bufferchad.nvim
+mrquantumcodes/configpulse
 mrquantumcodes/retrospect.nvim
 mrshmllow/open-handlers.nvim
 ms-jpq/chadtree
@@ -1630,6 +1653,7 @@ nfrid/due.nvim
 nfrid/markdown-togglecheck
 nfrid/treesitter-utils
 nguyenvukhang/nvim-toggler
+nhurlock/clownshow.nvim
 nickeb96/fish.vim
 nickhutchinson/vim-cmake-syntax
 nightsense/cosmic_latte
@@ -1674,6 +1698,7 @@ notomo/cmp-neosnippet
 notomo/gesture.nvim
 novakne/kosmikoa.nvim
 npxbr/gruvbox
+nstefan002/15puzzle.nvim
 nstefan002/2048.nvim
 nstefan002/speedtyper.nvim
 nstefan002/visual-surround.nvim
@@ -1713,6 +1738,7 @@ nvim-neorg/neorg-telescope
 nvim-neorocks/luarocks-tag-release
 nvim-neorocks/rocks.nvim
 nvim-neotest/neotest
+nvim-neotest/nvim-nio
 nvim-orgmode/orgmode
 nvim-pack/nvim-spectre
 nvim-telescope/telescope-arecibo.nvim
@@ -1750,6 +1776,7 @@ nvim-treesitter/nvim-treesitter-refactor
 nvim-treesitter/nvim-treesitter-textobjects
 nvim-treesitter/playground
 nvim-zh/colorful-winsep.nvim
+nvimdev/dashboard-nvim
 nvimdev/dope
 nvimdev/dyninput.nvim
 nvimdev/epo.nvim
@@ -1798,6 +1825,7 @@ olical/aniseed
 olical/conjure
 olical/nfnl
 olical/vim-enmasse
+olimorris/codecompanion.nvim
 olimorris/onedark.nvim
 olimorris/onedarkpro.nvim
 olimorris/persisted.nvim
@@ -1814,6 +1842,7 @@ osyo-manga/vim-jplus
 osyo-manga/vim-over
 osyo-manga/vim-precious
 otavioschwanck/arrow.nvim
+otavioschwanck/cool-substitute.nvim
 otavioschwanck/mood-nvim
 otavioschwanck/telescope-alternate.nvim
 otavioschwanck/telescope-cmdline-word.nvim
@@ -2125,6 +2154,7 @@ rutatang/quicknote.nvim
 rutatang/spectacle.nvim
 ryanmsnyder/toggleterm-manager.nvim
 ryanoasis/vim-devicons
+ryo33/nvim-cmp-rust
 ryvnf/readline.vim
 s1m0n38/dante.nvim
 s1m0n38/love2d.nvim
@@ -2232,6 +2262,7 @@ shougo/vimproc.vim
 shougo/vinarise.vim
 shoumodip/helm.nvim
 shrimpram/vim-stella
+siadat/shell.nvim
 siawkz/nvim-cheatsh
 sickill/vim-monokai
 sickill/vim-pasta
@@ -2350,6 +2381,7 @@ sunjon/extmark-toy.nvim
 sunjon/shade.nvim
 sunjon/stylish.nvim
 sunjon/telescope-arecibo.nvim
+superbo/fugit2.nvim
 suy/vim-context-commentstring
 svermeulen/nvim-lusc
 svermeulen/nvim-marksman
@@ -2368,6 +2400,7 @@ swaits/scratch.nvim
 swaits/thethethe.nvim
 swaits/zellij-nav.nvim
 swalladge/paper.vim
+synic/telescope-dirpicker.nvim
 szw/vim-maximizer
 szymonmaszke/vimpyter
 t-troebst/perfanno.nvim
@@ -2661,6 +2694,7 @@ vincentcordobes/vim-translate
 voldikss/vim-browser-search
 voldikss/vim-floaterm
 voldikss/vim-translator
+volskaya/windovigation.nvim
 vonheikemen/fine-cmdline.nvim
 vonheikemen/lsp-zero.nvim
 vonheikemen/searchbox.nvim
@@ -2710,6 +2744,8 @@ wgibbs/vim-irblack
 whatyouhide/vim-gotham
 wilfreddenton/history.nvim
 will133/vim-dirdiff
+willem-j-an/nvim-dap-powershell
+willem-j-an/visidata.nvim
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
 williamboman/nvim-lsp-installer
@@ -2736,6 +2772,7 @@ winston0410/commented.nvim
 winston0410/range-highlight.nvim
 wittyjudge/gruvbox-material.nvim
 wklken/k-vim
+wllfaria/scheming.nvim
 wojciech-kulik/xcodebuild.nvim
 woosaaahh/sj.nvim
 wsdjeg/dein-ui.vim
@@ -2842,6 +2879,7 @@ zgpio/brew.nvim
 zgpio/tree.nvim
 zhimsel/vim-stay
 zhiyuanlck/smart-pairs
+zidhuss/neotest-minitest
 ziontee113/color-picker.nvim
 ziontee113/deliberate.nvim
 ziontee113/icon-picker.nvim
