@@ -197,6 +197,7 @@ aspeddro/cmp-pandoc.nvim
 aspeddro/lsp_menu.nvim
 astronvim/astronvim
 asvetliakov/vscode-neovim
+atinylittleshell/comment-repl.nvim
 atusy/leap-search.nvim
 atusy/treemonkey.nvim
 atusy/tsnode-marker.nvim
@@ -213,6 +214,7 @@ axvr/photon.vim
 axvr/raider.vim
 ayosec/hltermpaste.vim
 azabiong/vim-highlighter
+azatakmyradov/easyswitch.nvim
 aznhe21/actions-preview.nvim
 b-src/lazy-nix-helper.nvim
 b0o/incline.nvim
@@ -440,6 +442,7 @@ crusj/bookmarks.nvim
 crusj/hierarchy-tree-go.nvim
 crusj/structrue-go.nvim
 cryptomilk/nightcity.nvim
+cseelus/vim-colors-lucid
 cshuaimin/ssr.nvim
 cstsunfu/.sea.nvim
 ctrlpvim/ctrlp.vim
@@ -1315,6 +1318,7 @@ lervag/lists.vim
 lervag/vim-rainbow-lists
 lervag/vimtex
 lervag/wiki.vim
+letieu/btw.nvim
 letieu/hacker.nvim
 letieu/harpoon-lualine
 letieu/jot.lua
@@ -1567,6 +1571,7 @@ milkias17/reloader.nvim
 milkypostman/vim-togglelist
 millermedeiros/vim-esformatter
 mimikun/human-rights.nvim
+minamorl/nvim-clean-paste
 miragiancycle/oviwrite
 mireq/large_file
 mireq/luasnip-snippets
@@ -1633,6 +1638,7 @@ mxsdev/nvim-dap-vscode-js
 mxw/vim-jsx
 myusuf3/numbers.vim
 myzel394/easytables.nvim
+myzel394/jsonfly.nvim
 mzlogin/vim-markdown-toc
 nacro90/numb.nvim
 nagy135/visualmark-nvim
@@ -2612,6 +2618,7 @@ tris203/hawtkeys.nvim
 troydm/easytree.vim
 tsakirist/telescope-lazy.nvim
 tummetott/reticle.nvim
+tummetott/unimpaired.nvim
 turbio/bracey.vim
 tvaintrob/bicep.vim
 tversteeg/registers.nvim
