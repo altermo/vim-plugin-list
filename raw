@@ -11,6 +11,7 @@
 2kabhishek/tdo.nvim
 2kabhishek/termim.nvim
 2nthony/vitesse.nvim
+3rd/image.nvim
 4e554c4c/darkman.nvim
 907th/vim-auto-save
 9seconds/repolink.nvim
@@ -36,8 +37,10 @@ acksld/nvim-trevj.lua
 acksld/swenv.nvim
 ackyshake/vimcompletesme
 ada0l/obsidian
+adaszko/tree_climber_rust.nvim
 adelarsq/image_preview.nvim
 adelarsq/neoline.vim
+adelarsq/snake_cursor.nvim
 adia-dev/cpy_buffers.nvim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
@@ -56,6 +59,7 @@ airblade/vim-gitgutter
 airblade/vim-rooter
 airodactyl/neovim-ranger
 airpods69/yagp.nvim
+aityz/usage.nvim
 ajh17/vimcompletesme
 ajnasz/notify-send.nvim
 ajnasz/nvim-rfind
@@ -253,6 +257,7 @@ bennypowers/changesets.nvim
 bennypowers/nvim-regexplainer
 bennypowers/splitjoin.nvim
 benwr/tuftish
+bergercookie/vim-debugstring
 bfredl/nvim-ipy
 bfredl/nvim-luadev
 bfredl/nvim-miniyank
@@ -263,6 +268,7 @@ birdeehub/nixcats-nvim
 bkad/camelcasemotion
 bkegley/gloombuddy
 bkoropoff/bex.nvim
+bleksak/diffthis.nvim
 blindfs/vim-translator
 bling/vim-bufferline
 bloznelis/before.nvim
@@ -535,6 +541,9 @@ dhananjaylatkar/cscope_maps.nvim
 dhanus3133/leetbuddy.nvim
 dharmx-lua/nvim
 dharmx/nvim-colo
+dharmx/telescope-media.nvim
+dharmx/toml.nvim
+dharmx/track.nvim
 dhruvasagar/packup
 dhruvasagar/vim-audiobox
 dhruvasagar/vim-dotoo
@@ -692,6 +701,7 @@ fdschmidt93/telescope-egrepify.nvim
 febri-i/auto-require
 febri-i/snake.nvim
 fedepujol/move.nvim
+feel-ix-343/markdown-oxide
 feiyoug/command_center.nvim
 feiyoug/commander.nvim
 feline-nvim/feline.nvim
@@ -759,6 +769,7 @@ gaborvecsei/memento.nvim
 gaborvecsei/usage-tracker.nvim
 gabrielelana/vim-markdown
 gabrielpoca/replacer.nvim
+gaelph/logsitter.nvim
 galicarnax/vim-regex-syntax
 gaodean/autolist.nvim
 garbas/vim-snipmate
@@ -1529,6 +1540,7 @@ mcauley-penney/visual-whitespace.nvim
 mcchrish/nnn.vim
 mcchrish/zenbones.nvim
 md-img-paste-devs/md-img-paste.vim
+meain/vim-printer
 meanderingprogrammer/markdown.nvim
 meanderingprogrammer/py-requirements.nvim
 meliora-theme/neovim
@@ -1539,9 +1551,12 @@ metalelf0/jellybeans-nvim
 meuter/lualine-so-fancy.nvim
 meznaric/conmenu
 mfussenegger/nvim-dap
+mfussenegger/nvim-dap-python
+mfussenegger/nvim-fzy
 mfussenegger/nvim-jdtls
 mfussenegger/nvim-lint
 mfussenegger/nvim-lsp-compl
+mfussenegger/nvim-qwahl
 mfussenegger/nvim-treehopper
 mfussenegger/nvim-ts-hint-textobject
 mg979/tabline.nvim
@@ -1614,7 +1629,10 @@ monkoose/neocodeium
 mordechaihadad/bob
 mordechaihadad/nvim-papadark
 morhetz/gruvbox
+moyiz/command-and-cursor.nvim
+moyiz/git-dev.nvim
 mpas/marp-nvim
+mptre/vim-printf
 mr-lllll/interestingwords.nvim
 mr-lllll/lualine-ext.nvim
 mr-lllll/treesitter-outer
@@ -1903,6 +1921,7 @@ othree/yajs.vim
 overcache/neosolarized
 owickstrom/vim-colors-paramount
 oxfist/night-owl.nvim
+oxy2dev/intro.nvim
 p00f/cphelper.nvim
 p00f/godbolt.nvim
 p00f/nvim-ts-rainbow
