@@ -45,3 +45,4 @@ x3ero0/dired.nvim : file browser inspired from Emacs Dired
 aaronhallaert/advanced-git-search.nvim : git search extension for Telescope or fzf-lua
 romgrk/kirby.nvim : picker based on kui.nvim
 vigoux/azy.nvim : fuzzy finder based on fzy
+2kabhishek/nerdy.nvim : search nerd-font icons

@@ -102,3 +102,4 @@ utilyre/sentiment.nvim : better matchparen for neovim
 vidocqh/lsp-lens.nvim : display reference and definitions with lsp
 yaocccc/nvim-foldsign : display folds on sign column
 yaocccc/nvim-hl-mdcodeblock.lua : just do highlight markdown codeblock
+3rd/image.nvim : attempt to add image support to neovim

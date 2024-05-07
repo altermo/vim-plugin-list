@@ -19,3 +19,4 @@ itmecho/bufterm.nvim : simple neovim plugin to manage a terminal buffer for your
 nyngwang/neoterm.lua : Attach a terminal for each buffer
 chomosuke/term-edit.nvim : edit commands in the terminal like any other buffer
 skywind3000/vim-terminal-help : make working with terminal easier
+2kabhishek/termim.nvim : improved terminal usage

@@ -9,3 +9,4 @@ j-morano/buffer_manager.nvim : easily manage Neovim buffers
 axkirillov/hbac.nvim : close unneeded buffers if to many
 chrisgrieser/nvim-early-retirement : close unneeded buffers after some time
 sqve/bufignore.nvim : auto unlist specific buffers
+0x7a7a/bufpin.nvim : pin buffers, or let them be sorted by most recently used

@@ -286,3 +286,5 @@ vonheikemen/fine-cmdline.nvim : a better cmdline
 willothy/flatten.nvim : open files from nvim embedded terminal
 willothy/veil.nvim : fast, animated, configurable dashboard
 yagiziskirik/airsupport.nvim : write shortcut reminders and forget them
+0x5a4/oogway.nvim : get wisdom from Oogway
+9seconds/repolink.nvim : quickly share repo files/line ranges

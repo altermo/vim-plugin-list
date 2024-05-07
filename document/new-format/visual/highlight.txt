@@ -11,3 +11,5 @@ zbirenbaum/neodim : dimming the highlights of unused functions, variables, param
 mr-lllll/interestingwords.nvim : highlights word with differing colors
 nvchad/nvim-colorizer.lua : high-performance color highlighter
 pocco81/high-str.nvim : highlight selected
+0xadk/full_visual_line.nvim : highlight the whole line when in visual_line mode
+aaron-p1/match-visual.nvim : highlight text matching visual selection in all windows
