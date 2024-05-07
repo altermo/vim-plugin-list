@@ -541,6 +541,7 @@ desdic/telescope-rooter.nvim
 dev-cycles/contextive
 devjoe/vim-codequery
 dgagn/diagflow.nvim
+dgox16/oldworld.nvim
 dhananjaylatkar/cscope_maps.nvim
 dhanus3133/leetbuddy.nvim
 dharmx-lua/nvim
@@ -2066,6 +2067,7 @@ raimondi/yaifa
 rainbowhxch/beacon.nvim
 rakr/vim-one
 rakr/vim-two-firewatch
+ramilito/winbar.nvim
 ramojus/mellifluous.nvim
 ranjithshegde/ccls.nvim
 ranjithshegde/orgwiki.nvim
