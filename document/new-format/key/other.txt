@@ -79,3 +79,4 @@ rutatang/compter.nvim : customize ctrl-a and ctrl-x
 tpope/vim-capslock : toggle temporary caps lock
 wansmer/langmapper.nvim : make better for non English input methods
 zdcthomas/yop.nvim : easily make operators
+aarondiel/spread.nvim : spread objects to multiple lines

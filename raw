@@ -1331,6 +1331,7 @@ lambdalisue/neovim-prompt
 lambdalisue/pinkyless.vim
 lambdalisue/readablefold.vim
 lambdalisue/suda.vim
+lambdalisue/vim-gin
 laytan/cloak.nvim
 laytan/tailwind-sorter.nvim
 lazymaniac/wttr.nvim
@@ -2004,6 +2005,7 @@ pocco81/highstr.nvim
 pocco81/noclc.nvim
 pocco81/true-zen.nvim
 pocco81/truezen.nvim
+pogyomo/submode.nvim
 polirritmico/monokai-nightasty.nvim
 polirritmico/telescope-lazy-plugins.nvim
 ponko2/deoplete-fish
@@ -2049,6 +2051,7 @@ puremourning/vimspector
 pwntester/codeql.nvim
 pwntester/octo.nvim
 pygamer0/darc.nvim
+pysan3/pathlib.nvim
 qpkorr/vim-bufkill
 qpkorr/vim-renamer
 quangnguyen30192/cmp-nvim-tags
