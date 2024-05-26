@@ -137,6 +137,7 @@ andrewradev/typewriter.vim
 andweeb/presence.nvim
 andymass/vim-matchup
 andythigpen/nvim-coverage
+anfigeno/mestizo.nvim
 angkeith/telescope-terraform-doc.nvim
 anihm136/importmagic.nvim
 anott03/nvim-lspinstall
@@ -565,6 +566,7 @@ dhruvasagar/vim-highlight-word
 dhruvasagar/vim-prosession
 dhruvasagar/vim-table-mode
 dhruvmanila/telescope-bookmarks.nvim
+diegoulloao/neofusion.nvim
 dilangmb/nightbuddy
 dimmed/brightened.
 dinhhuy258/git.nvim
@@ -674,6 +676,7 @@ elvessousa/sobrio
 embark-theme/vim
 emileferreira/nvim-strict
 emmanueltouzery/code-compass.nvim
+emmanueltouzery/decisive.nvim
 emmanueltouzery/elixir-extras.nvim
 epwalsh/obsidian.nvim
 epwalsh/pomo.nvim
@@ -757,6 +760,7 @@ folke/styler.nvim
 folke/todo-comments.nvim
 folke/tokyonight.nvim
 folke/trouble.nvim
+folke/ts-comments.nvim
 folke/twilight.nvim
 folke/which-key.nvim
 folke/zen-mode.nvim
@@ -1305,6 +1309,7 @@ kovisoft/paredit
 kovisoft/slimv
 kr40/nvim-macros
 krady21/compiler-explorer.nvim
+krischik/vim-backup
 kristijanhusak/defx-git
 kristijanhusak/defx-icons
 kristijanhusak/deoplete-phpactor
@@ -1966,6 +1971,7 @@ overcache/neosolarized
 owickstrom/vim-colors-paramount
 oxfist/night-owl.nvim
 oxy2dev/intro.nvim
+ozthemagician/alpha-cowsays-nvim
 p00f/cphelper.nvim
 p00f/godbolt.nvim
 p00f/nvim-ts-rainbow
@@ -2186,6 +2192,7 @@ rishabhrd/nvim-cheat.sh
 rishabhrd/nvim-lsputils
 rishabhrd/nvim-rdark
 rishabhrd/popfix
+rizwanelansyah/simplyfile.nvim
 rktjmp/fwatch.nvim
 rktjmp/highlight-current-n.nvim
 rktjmp/hotpot.nvim
@@ -3030,6 +3037,7 @@ zeioth/garbage-day.nvim
 zeioth/heirline-components.nvim
 zeioth/makeit.nvim
 zeioth/markmap.nvim
+zeioth/none-ls-autoload.nvim
 zenbro/mirror.vim
 zgpio/brew.nvim
 zgpio/tree.nvim
