@@ -31,3 +31,4 @@ antoinemadec/coc-fzf : fzf with coc.nvim
 mengelbrecht/lightline-bufferline : add bufferline functionality for lightline
 neoclide/coc-pairs : auto pairs for coc
 shougo/ddu-ui-filer : File list plugin for ddu.vim
+abeldekat/lazyflex.nvim : add-on for lazy.nvim that makes it easy to troubleshoot the config

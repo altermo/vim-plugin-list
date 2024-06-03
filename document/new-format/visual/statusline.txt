@@ -15,3 +15,4 @@ tamago324/vim-gaming-line : animated gaming statusline
 freddiehaddad/feline.nvim : minimal statusline, statuscolumn, and winbar
 nvimdev/whiskyline.nvim : async, lsp, event driven statusline
 strash/everybody-wants-that-line.nvim : minimal, informative, elegant statusline
+abeldekat/harpoonline : add harpoon information to the statusline
