@@ -402,6 +402,7 @@ chrisgrieser/nvim-kickstart-python
 chrisgrieser/nvim-origami
 chrisgrieser/nvim-puppeteer
 chrisgrieser/nvim-recorder
+chrisgrieser/nvim-rip-substitute
 chrisgrieser/nvim-rulebook
 chrisgrieser/nvim-scissors
 chrisgrieser/nvim-spider
@@ -819,6 +820,7 @@ gaborvecsei/memento.nvim
 gaborvecsei/usage-tracker.nvim
 gabrielelana/vim-markdown
 gabrielpoca/replacer.nvim
+gabrigutiz/termacro.nvim
 gaelph/logsitter.nvim
 galicarnax/vim-regex-syntax
 gaodean/autolist.nvim
@@ -1203,6 +1205,7 @@ jsfaint/gen_tags.vim
 jsit/toast.vim
 jsongerber/nvim-px-to-rem
 jsongerber/thanks.nvim
+juansalvatore/git-dashboard-nvim
 jubnzv/mdeval.nvim
 jubnzv/virtual-types.nvim
 judaew/ronny.nvim
@@ -1371,6 +1374,7 @@ kyazdani42/nvim-palenight.lua
 kyazdani42/nvim-tree.lua
 kyazdani42/nvim-web-devicons
 kylechui/nvim-surround
+l3k4n/justmake.nvim
 l3mon4d3/cmp-luasnip-choice
 l3mon4d3/luasnip
 ladge/antarctic-vim
@@ -1685,6 +1689,7 @@ misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
 mistgc/pinmd.nvim
 mistricky/codesnap.nvim
+mistweaverco/kulala.nvim
 miversen33/import.nvim
 miversen33/netman.nvim
 miversen33/sunglasses.nvim
@@ -1696,6 +1701,7 @@ mjbrownie/vim-htmldjango_omnicomplete
 mjlbach/lsp_signature.nvim
 mjlbach/onedark.nvim
 mktip/adaptive-theme.nvim
+mluders/comfy-line-numbers.nvim
 mmolhoek/cmp-scss
 mo1ein/vimplayer
 mofiqul/adwaita.nvim
@@ -2022,6 +2028,7 @@ overcache/neosolarized
 owickstrom/vim-colors-paramount
 oxfist/night-owl.nvim
 oxy2dev/intro.nvim
+oxy2dev/markview.nvim
 ozthemagician/alpha-cowsays-nvim
 p00f/cphelper.nvim
 p00f/godbolt.nvim
@@ -2113,6 +2120,7 @@ preservim/vim-thematic
 preservim/vimux
 preservim/vim-wheel
 preservim/vim-wordchipper
+presindent/coddit.nvim
 prettier/vim-prettier
 previm/previm
 prichrd/netrw.nvim
@@ -2147,6 +2155,7 @@ raafatturki/corn.nvim
 raafatturki/hex.nvim
 racer-rust/vim-racer
 rachartier/tiny-devicons-auto-colors.nvim
+rachartier/tiny-inline-diagnostic.nvim
 radioactivepb/vbpreview
 rafaeldelboni/nvim-fennel-lsp-conjure-as-clojure-ide
 rafaelsq/nvim-goc.lua
@@ -2436,6 +2445,7 @@ sheodox/projectlaunch.nvim
 shinglyu/vim-codespell
 shivamashtikar/tmuxjump.vim
 shmerl/neogotham
+shmerl/session-keys
 sho-87/kanagawa-paper.nvim
 shohi/neva
 shortcuts/neovim-plugin-boilerplate
@@ -2569,6 +2579,7 @@ startup-nvim/startup.nvim
 steelsojka/pears.nvim
 stefandtw/quickfix-reflector.vim
 stefanlogue/hydrate.nvim
+stephengunn/sveltecheck.nvim
 stephpy/vim-php-cs-fixer
 stephpy/vim-yaml
 stevanmilic/nvim-lspimport
@@ -2603,6 +2614,7 @@ superbo/fugit2.nvim
 sustech-data/neopyter
 sustech-data/wildfire.nvim
 suy/vim-context-commentstring
+svban/yankassassin.nvim
 svermeulen/nvim-lusc
 svermeulen/nvim-marksman
 svermeulen/nvim-moonmaker
@@ -2978,6 +2990,7 @@ wgibbs/vim-irblack
 whatyouhide/vim-gotham
 wilfreddenton/history.nvim
 will133/vim-dirdiff
+willem-j-an/adopure.nvim
 willem-j-an/nvim-dap-powershell
 willem-j-an/visidata.nvim
 williamboman/mason-lspconfig.nvim
@@ -3120,6 +3133,7 @@ zeioth/markmap.nvim
 zeioth/none-ls-autoload.nvim
 zeioth/none-ls-external-sources.nvim
 zenbro/mirror.vim
+zerochae/telescope-spring.nvim
 zgpio/brew.nvim
 zgpio/tree.nvim
 zhimsel/vim-stay
