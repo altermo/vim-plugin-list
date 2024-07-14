@@ -214,6 +214,7 @@ astronvim/astrolsp
 astronvim/astronvim
 asvetliakov/vscode-neovim
 atinylittleshell/comment-repl.nvim
+atmosuwiryo/vim-winteriscoming
 atusy/leap-search.nvim
 atusy/treemonkey.nvim
 atusy/tsnode-marker.nvim
@@ -283,6 +284,7 @@ bkegley/gloombuddy
 bkoropoff/bex.nvim
 blazkowolf/gruber-darker.nvim
 bleksak/diffthis.nvim
+bleksak/laravel-ide-helper.nvim
 blindfs/vim-translator
 bling/vim-bufferline
 bloznelis/before.nvim
@@ -367,6 +369,7 @@ cdmill/neomodern.nvim
 cespare/vim-sbd
 cespare/vim-toml
 chadcat7/prism
+chaitanyabsprip/fastaction.nvim
 chaitanyabsprip/present.nvim
 challenger-deep-theme/vim
 chaoren/vim-wordmotion
@@ -889,9 +892,11 @@ google/vim-maktaba
 goolord/alpha-nvim
 gorbit99/codewindow.nvim
 gpanders/editorconfig.nvim
+gr3yh4tt3r93/zellij-nav.nvim
 graphql/graphiql
 grapp-dev/nui-components.nvim
 gregorias/coerce.nvim
+gregorias/toggle.nvim
 gregsexton/gitv
 groenewege/vim-less
 gruvbox-community/gruvbox
@@ -1036,6 +1041,7 @@ idanarye/vim-merginal
 ido-nvim/ido.nvim
 ilyasyoy/obs.nvim
 imbacraft/dusk.nvim
+imnel/monorepo.nvim
 indianboy42/tree-sitter-just
 inkarkat/vim-advancedsorters
 inkarkat/vim-enhancedjumps
@@ -1063,6 +1069,7 @@ is0n/jaq-nvim
 isak102/telescope-git-file-history.nvim
 ishan9299/modus-theme-vim
 ishan9299/nvim-solarized-lua
+isrothy/neominimap.nvim
 iswladi/gittory
 itchyny/calendar.vim
 itchyny/lightline.vim
@@ -1288,6 +1295,8 @@ kana/vim-textobj-line
 kana/vim-textobj-user
 kaplanz/deku.nvim
 karb94/neoscroll.nvim
+karshprime/only-tmux.nvim
+karshprime/tmux-compile.nvim
 karvla/term-toggle.nvim
 kasama/nvim-custom-diagnostic-highlight
 kassio/neoterm
@@ -1331,6 +1340,7 @@ kjuq/sixelview.nvim
 kkharji/lspsaga.nvim
 kkharji/sqlite.lua
 kkoomen/vim-doge
+klebster2/cmp-rogets-thesaurus
 klen/nvim-config-local
 klen/nvim-test
 klen/python-mode
@@ -1414,6 +1424,7 @@ leafgarland/typescript-vim
 ledesmablt/vim-run
 ledger/vim-ledger
 leet0rz/modified-moonlight.nvim
+legobeat/l7-devenv
 lenovsky/nuake
 leocus/codeassistant.vim
 leonheidelbach/trailblazer.nvim
@@ -1635,6 +1646,8 @@ md-img-paste-devs/md-img-paste.vim
 meain/vim-printer
 meanderingprogrammer/markdown.nvim
 meanderingprogrammer/py-requirements.nvim
+mei28/luminate.nvim
+mei28/qfc.nvim
 meliora-theme/neovim
 melkster/modicator.nvim
 mengelbrecht/lightline-bufferline
@@ -1721,6 +1734,8 @@ molleweide/luasnip-snippets.nvim
 moll/vim-bbye
 moll/vim-node
 monaqa/dial.nvim
+mong8se/actually.nvim
+mong8se/buffish.nvim
 monkoose/matchparen.nvim
 monkoose/neocodeium
 mordechaihadad/bob
@@ -1770,6 +1785,7 @@ myypo/borrowed.nvim
 myzel394/easytables.nvim
 myzel394/jsonfly.nvim
 mzlogin/vim-markdown-toc
+nabekou29/js-i18n.nvim
 nacro90/numb.nvim
 nagy135/visualmark-nvim
 nanotech/jellybeans.vim
@@ -1883,6 +1899,7 @@ ntbbloodbath/doom-one.nvim
 ntbbloodbath/galaxyline.nvim
 ntbbloodbath/nvenv
 ntbbloodbath/rest.nvim
+ntbbloodbath/sweetie.nvim
 ntbbloodbath/zig-tools.nvim
 ntpeters/vim-better-whitespace
 numirias/semshi
@@ -2092,6 +2109,7 @@ pixelneo/vim-python-docstring
 pkazmier/java_getset.vim
 plan9-for-vimspace/acme-colors
 plasticboy/vim-markdown
+plax-00/endscroll.nvim
 pluffie/neoproj
 pmizio/typescript-tools.nvim
 pocco81/abbrevman.nvim
@@ -2263,6 +2281,7 @@ rhysd/vim-textobj-anyblock
 ribru17/bamboo.nvim
 ricardoramirezr/blade-nav.nvim
 ricardoramirezr/lali-components.nvim
+ricardoramirezr/php-use-sort.nvim
 richardbizik/nvim-toc
 rickhowe/diffchar.vim
 rileytwo/kiss
@@ -2568,6 +2587,7 @@ softoika/ngswitcher.vim
 solarnz/thrift.vim
 someone-stole-my-name/yaml-companion.nvim
 somesover/accidentslipt
+sontungexpt/better-diagnostic-virtual-text
 sontungexpt/buffer-closer
 sontungexpt/nvim-highlight-colors
 sontungexpt/stcursorword
@@ -2629,6 +2649,7 @@ superbo/fugit2.nvim
 sustech-data/neopyter
 sustech-data/wildfire.nvim
 suy/vim-context-commentstring
+svampkorg/moody.nvim
 svban/yankassassin.nvim
 svermeulen/nvim-lusc
 svermeulen/nvim-marksman
@@ -3011,6 +3032,7 @@ willem-j-an/visidata.nvim
 williamboman/mason-lspconfig.nvim
 williamboman/mason.nvim
 williamboman/nvim-lsp-installer
+will-lynas/grapple-line.nvim
 willothy/flatten.nvim
 willothy/moveline.nvim
 willothy/nvim-cokeline
@@ -3040,6 +3062,7 @@ wojciech-kulik/xcodebuild.nvim
 wolfecub/harpeek.nvim
 woosaaahh/sj.nvim
 wordluc/fromcstotypescript_pluginnvim
+wsdjeg/cpicker.nvim
 wsdjeg/dein-ui.vim
 wsdjeg/flygrep.vim
 wsdjeg/github.vim
