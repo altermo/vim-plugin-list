@@ -7,3 +7,4 @@ deifyed/navi : natural language first based development
 dpayne/codegpt.nvim : provides command interface to chat with ChatGPT
 archibate/nvim-gpt : chatgpt and bing-ai in neovim
 martineausimon/nvim-bard : chat with bard
+aaronik/gptmodels.nvim : LLM AI plugin for neovim

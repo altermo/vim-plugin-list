@@ -796,6 +796,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [fredkschott/covim](https://github.com/fredkschott/covim) : Collaborative Editing for Vim
   * [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) : instant.nvim is a collaborative editing plugin for Neovim written in Lua with no dependencies
 ## chat
+  * [aaronik/gptmodels.nvim](https://github.com/aaronik/gptmodels.nvim) : LLM AI plugin for neovim
   * [archibate/nvim-gpt](https://github.com/archibate/nvim-gpt) : chatgpt and bing-ai in neovim
   * [deifyed/navi](https://github.com/deifyed/navi) : natural language first based development
   * [dpayne/codegpt.nvim](https://github.com/dpayne/codegpt.nvim) : provides command interface to chat with ChatGPT
@@ -991,6 +992,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [reedes/vim-lexical](https://github.com/reedes/vim-lexical) : extend vims spellchecker
 ## note
   * [2kabhishek/tdo.nvim](https://github.com/2kabhishek/tdo.nvim) : implement tdo in neovim
+  * [ada0l/obsidian](https://github.com/ada0l/obsidian) : basic interaction with Obsidian
   * [ahmedkhalf/jupyter-nvim](https://github.com/ahmedkhalf/jupyter-nvim) : Read jupyter notebooks in neovim
   * [boson-joe/yanp](https://github.com/boson-joe/yanp) : Yes another notetaking plugin which supports recurring topics structure and customisable syntax
   * [dobrovolsky/kb-notes.nvim](https://github.com/dobrovolsky/kb-notes.nvim) : Yet another note management system for neovim
@@ -1636,7 +1638,9 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) : center the currently focused buffer to the middle of the screen
   * [sunjon/shade.nvim](https://github.com/sunjon/shade.nvim) : dims your inactive windows
 ## colorscheme
+  * [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim)
   * [1995parham/naz.vim](https://github.com/1995parham/naz.vim)
+  * [2giosangmitom/nightfall.nvim](https://github.com/2giosangmitom/nightfall.nvim)
   * [2nthony/vitesse.nvim](https://github.com/2nthony/vitesse.nvim)
   * [abstract-ide/abstract-cs](https://github.com/abstract-ide/abstract-cs)
   * [adisen99/apprentice.nvim](https://github.com/adisen99/apprentice.nvim)
@@ -2395,10 +2399,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
   * [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
 # Not-documented
-  * [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim)
-  * [2giosangmitom/nightfall.nvim](https://github.com/2giosangmitom/nightfall.nvim)
-  * [aaronik/gptmodels.nvim](https://github.com/aaronik/gptmodels.nvim)
-  * [ada0l/obsidian](https://github.com/ada0l/obsidian)
   * [adaszko/tree_climber_rust.nvim](https://github.com/adaszko/tree_climber_rust.nvim)
   * [adeattwood/ivy.nvim](https://github.com/adeattwood/ivy.nvim)
   * [adelarsq/snake_cursor.nvim](https://github.com/adelarsq/snake_cursor.nvim)

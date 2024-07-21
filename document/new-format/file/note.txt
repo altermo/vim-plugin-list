@@ -19,3 +19,4 @@ phaazon/mind.nvim : a new take on note taking and task workflows
 jellyapple102/flote.nvim : easy, minimal notes
 rutatang/quicknote.nvim : quick take that note
 2kabhishek/tdo.nvim : implement tdo in neovim
+ada0l/obsidian : basic interaction with Obsidian

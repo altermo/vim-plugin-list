@@ -83,3 +83,5 @@ xiyaowong/transparent.nvim : remove background color to make transparent
 zaldih/themery.nvim : switch between themes easy
 zootedb0t/citruszest.nvim
 abstract-ide/abstract-cs
+0xstepit/flow.nvim
+2giosangmitom/nightfall.nvim
