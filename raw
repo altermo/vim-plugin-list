@@ -1340,7 +1340,6 @@ kingmichaelpark/age.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/maim.nvim
 kiran94/s3edit.nvim
-kitty-scrollback.nvim
 kizza/actionmenu.nvim
 kjuq/sixelview.nvim
 kkharji/lspsaga.nvim
@@ -1539,7 +1538,6 @@ lunacookies/vim-colors-xcode
 lunarvim/bigfile.nvim
 lunarvim/breadcrumbs.nvim
 lunarvim/colorgen-nvim
-lunarvim/colorgen-nvim?tab=readme-ov-file
 lunarvim/colorschemes
 lunarvim/darkplus.nvim
 lunarvim/horizon.nvim
@@ -2635,7 +2633,6 @@ stephpy/vim-yaml
 stevanmilic/nvim-lspimport
 stevearc/aerial.nvim
 stevearc/conform.nvim
-stevearc/conform.nvim#setup
 stevearc/dressing.nvim
 stevearc/gkeep.nvim
 stevearc/oil.nvim

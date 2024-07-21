@@ -30,7 +30,7 @@ class Assembler:
             uniq.remove(i)
             if not i.islower():
                 raise Exception(f'{i} is not all lowercase')
-            if not re.findall(r'^(?:https://gitlab\.com/)?[a-z0-9_.-]+/[a-z0-9_.-]+$',i):
+            if not re.findall(r'^(?:(?:https://gitlab\.com/)|(?:https://git\.sr\.ht/~))?[a-z0-9_.-]+/[a-z0-9_.-]+$',i):
                 raise Exception(f'{i} does not seem to be a valid plugin')
     def create_jumplist(self)->None:
         doc='# Jump list\n'
