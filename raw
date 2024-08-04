@@ -64,6 +64,7 @@ airblade/vim-gitgutter
 airblade/vim-rooter
 airodactyl/neovim-ranger
 airpods69/yagp.nvim
+aityz/cratesearch.nvim
 aityz/usage.nvim
 ajeetdsouza/zoxide
 ajh17/vimcompletesme
@@ -128,6 +129,7 @@ andersevenrud/cmp-tmux
 andersevenrud/nordic.nvim
 andersevenrud/nvim_context_vt
 andreicristianpetcu/vim-van
+andreluisos/nvim-springutils
 andrewferrier/debugprint.nvim
 andrewferrier/textobj-diagnostic.nvim
 andrewferrier/wrapping.nvim
@@ -327,6 +329,7 @@ bronzehedwick/vim-primary-terminal
 brookhong/cscope.vim
 brooth/far.vim
 brymer-meneses/grammar-guard.nvim
+brymer-meneses/project-config.nvim
 b-src/lazy-nix-helper.nvim
 bullets-vim/bullets.vim
 c0r73x/neotags.lua
@@ -613,6 +616,7 @@ dmitmel/cmp-digraphs
 dmitmel/cmp-vim-lsp
 dmmulroy/tsc.nvim
 dmmulroy/ts-error-translator.nvim
+dmtrkovalenko/caps-word.nvim
 dnlhc/glance.nvim
 dobrovolsky/kb-notes.nvim
 doctorfree/cheatsheet.nvim
@@ -1439,6 +1443,7 @@ ldelossa/vimdark
 ldx/vim-indentfinder
 leafcage/foldcc.vim
 leafgarland/typescript-vim
+leath-dub/snipe.nvim
 ledesmablt/vim-run
 ledger/vim-ledger
 leet0rz/modified-moonlight.nvim
@@ -1592,6 +1597,7 @@ magicduck/grug-far.nvim
 magicmonty/sonicpi.nvim
 majutsushi/tagbar
 makaze/watch.nvim
+makefunstuff/sketchbook.nvim
 malbertzard/inline-fold.nvim
 mangelozzi/rgflow.nvim
 mangeshrex/uwu.vim
@@ -1861,6 +1867,7 @@ nguyenvukhang/nvim-toggler
 nhurlock/clownshow.nvim
 nickeb96/fish.vim
 nickhutchinson/vim-cmake-syntax
+nicoelbers/nv
 nightsense/cosmic_latte
 nightsense/snow
 nightsense/stellarized
@@ -2077,6 +2084,7 @@ othree/yajs.vim
 overcache/neosolarized
 owickstrom/vim-colors-paramount
 oxfist/night-owl.nvim
+oxy2dev/helpview.nvim.git
 oxy2dev/intro.nvim
 oxy2dev/markview.nvim
 oysandvik94/curl.nvim
@@ -2311,6 +2319,7 @@ ricardoramirezr/lali-components.nvim
 ricardoramirezr/php-use-sort.nvim
 richardbizik/nvim-toc
 rickhowe/diffchar.vim
+rics-dev/project-explorer.nvim
 rienovie/basher
 rileytwo/kiss
 rimuhrimu/runthis.nvim
@@ -2385,6 +2394,7 @@ roobert/tabtree.nvim
 roobert/tailwindcss-colorizer-cmp.nvim
 roodolv/markdown-toggle.nvim
 roosta/fzf-folds.vim
+rootiest/astral.nvim
 rorynesbitt/dotfyle-cli
 rose-pine/neovim
 rouge8/neotest-rust
