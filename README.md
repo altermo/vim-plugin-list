@@ -438,6 +438,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [907th/vim-auto-save](https://github.com/907th/vim-auto-save) : automatically saves changes to disk without having to use `:w` [no maintain]
   * [9seconds/repolink.nvim](https://github.com/9seconds/repolink.nvim) : quickly share repo files/line ranges
   * [aasim-a/scrolleof.nvim](https://github.com/aasim-a/scrolleof.nvim) : make scrollof go past end of line
+  * [abdulrahmandev1/nuget.nvim](https://github.com/abdulrahmandev1/nuget.nvim) : manage nuget packages within .NET projects
   * [abstract-ide/penvim](https://github.com/abstract-ide/penvim) : project's root directory and documents indentation detector
   * [acksld/nvim-pytrize.lua](https://github.com/acksld/nvim-pytrize.lua) : Helps navigating `pytest.mark.parametrizeentries`
   * [acksld/swenv.nvim](https://github.com/acksld/swenv.nvim) : quickly switch python virtual environments from within neovim
@@ -1642,6 +1643,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [1995parham/naz.vim](https://github.com/1995parham/naz.vim)
   * [2giosangmitom/nightfall.nvim](https://github.com/2giosangmitom/nightfall.nvim)
   * [2nthony/vitesse.nvim](https://github.com/2nthony/vitesse.nvim)
+  * [ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim)
   * [abstract-ide/abstract-cs](https://github.com/abstract-ide/abstract-cs)
   * [adisen99/apprentice.nvim](https://github.com/adisen99/apprentice.nvim)
   * [adisen99/codeschool.nvim](https://github.com/adisen99/codeschool.nvim)
@@ -2112,6 +2114,7 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [toniz4/vim-stt](https://github.com/toniz4/vim-stt) : Simple Togglable Terminal
   * [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) : Use vim terminal in the floating/popup window
 ## file-explorer
+  * [2hdddg/fex.nvim](https://github.com/2hdddg/fex.nvim) : File explorer inspired by Emacs Dired
   * [ap/vim-readdir](https://github.com/ap/vim-readdir) : minimal directory browser in ~100 lines of code
   * [dinhhuy258/sfm.nvim](https://github.com/dinhhuy258/sfm.nvim) : simple tree viewer
   * [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) : Ranger integration in vim
@@ -2399,9 +2402,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
   * [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
 # Not-documented
-  * [2hdddg/fex.nvim](https://github.com/2hdddg/fex.nvim)
-  * [abdulrahmandev1/nuget.nvim](https://github.com/abdulrahmandev1/nuget.nvim)
-  * [ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim)
   * [adamkali/dotnvim](https://github.com/adamkali/dotnvim)
   * [adamkali/vaporlush](https://github.com/adamkali/vaporlush)
   * [adaszko/tree_climber_rust.nvim](https://github.com/adaszko/tree_climber_rust.nvim)

@@ -26,3 +26,4 @@ dinhhuy258/sfm.nvim : simple tree viewer
 kelly-lin/ranger.nvim : ranger integration
 lmburns/lf.nvim : plugin for the `lf` file manager
 stevearc/oil.nvim : vim-vinegar like file explorer
+2hdddg/fex.nvim : File explorer inspired by Emacs Dired
