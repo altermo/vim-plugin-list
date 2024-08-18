@@ -13,7 +13,10 @@
 2kabhishek/tdo.nvim
 2kabhishek/termim.nvim
 2nthony/vitesse.nvim
+3rd/diagram.nvim
 3rd/image.nvim
+3rd/sqlite.nvim
+3rd/time-tracker.nvim
 4e554c4c/darkman.nvim
 907th/vim-auto-save
 9seconds/repolink.nvim
@@ -1202,6 +1205,7 @@ jinh0/eyeliner.nvim
 jinzhongjia/lspui.nvim
 jinzhongjia/ps_manager.nvim
 jistr/vim-nerdtree-tabs
+jjcxdev/gitsignal
 jjshoots/betterf.nvim
 jla2000/lazydocs.nvim
 jlanzarotta/bufexplorer
@@ -1445,6 +1449,7 @@ lambdalisue/neovim-prompt
 lambdalisue/pinkyless.vim
 lambdalisue/readablefold.vim
 lambdalisue/suda.vim
+lambdalisue/vim-fern
 lambdalisue/vim-gin
 laytan/cloak.nvim
 laytan/tailwind-sorter.nvim
@@ -1670,6 +1675,7 @@ max397574/neovim-lua-plugin-template
 max397574/omega-nvim
 max397574/omega-themes
 max397574/selection_popup.nvim
+max397574/startup.nvim
 max397574/tomato.nvim
 max397574/vmath.nvim
 maxandron/goplements.nvim
@@ -1761,6 +1767,7 @@ misanthropicbit/decipher.nvim
 misanthropicbit/vim-numbers
 mistgc/pinmd.nvim
 mistricky/codesnap.nvim
+mistweaverco/kulala-cmp-graphql.nvim
 mistweaverco/kulala.nvim
 miversen33/import.nvim
 miversen33/netman.nvim
@@ -1776,6 +1783,7 @@ mktip/adaptive-theme.nvim
 mluders/comfy-line-numbers.nvim
 mmolhoek/cmp-scss
 mo1ein/vimplayer
+moaidhathot/dotnet.nvim
 mofiqul/adwaita.nvim
 mofiqul/dracula.nvim
 mofiqul/vim-code-dark
@@ -2108,6 +2116,7 @@ othree/yajs.vim
 overcache/neosolarized
 owickstrom/vim-colors-paramount
 oxfist/night-owl.nvim
+oxy2dev/helpview.nvim
 oxy2dev/helpview.nvim.git
 oxy2dev/intro.nvim
 oxy2dev/markview.nvim
@@ -3194,6 +3203,7 @@ ycm-core/youcompleteme
 yegappan/mru
 yehuohan/cmp-im
 yehuohan/popc
+yetone/avante.nvim
 yggdroot/indentline
 yggdroot/leaderf
 ygm2/rooter.nvim
