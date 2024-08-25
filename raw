@@ -54,6 +54,7 @@ adelarsq/image_preview.nvim
 adelarsq/neoline.vim
 adelarsq/snake_cursor.nvim
 adia-dev/cpy_buffers.nvim
+adigitoleo/haunt.nvim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
 adoy/vim-php-refactoring-toolbox
@@ -567,6 +568,7 @@ deanrumsby/tree-sitter-blade
 deathbeam/autocomplete.nvim
 deathbeam/lspecho.nvim
 deathlyfrantic/vim-textobj-blanklines
+debugloop/layers.nvim
 debugloop/telescope-undo.nvim
 decaycs/decay.nvim
 declancm/cinnamon.nvim
@@ -1142,6 +1144,7 @@ jaxbot/github-issues.vim
 jayanthd04/asctris.nvim
 jay-babu/mason-nvim-dap.nvim
 jayhowie/crystal-cove
+jay-madden/auto-fix-return.nvim
 jayp0521/mason-null-ls.nvim
 jayp0521/mason-nvim-dap.nvim
 jaytyrrell13/static.nvim
@@ -2003,6 +2006,7 @@ nvim-neorocks/nvim-busted-action
 nvim-neorocks/rocks-lazy.nvim
 nvim-neorocks/rocks.nvim
 nvim-neorocks/rocks-scoop
+nvim-neorocks/rocks-treesitter.nvim
 nvim-neotest/neotest
 nvim-neotest/nvim-nio
 nvim-neo-tree/neo-tree.nvim
@@ -2382,6 +2386,7 @@ rktjmp/shenzhen-solitaire.nvim
 rlane/pounce.nvim
 rliang/termedit.nvim
 rlychrisg/keepcursor.nvim
+rlychrisg/truncateline.nvim
 rmagatti/alternate-toggler
 rmagatti/auto-session
 rmagatti/goto-preview
@@ -2486,6 +2491,7 @@ saadparwaiz1/cmp_luasnip
 saccarosium/neomarks
 sachinsenal0x64/hot.nvim
 saecki/crates.nvim
+saecki/live-rename.nvim
 sahlte/timed-highlight.nvim
 saifulapm/chartoggle.nvim
 sainnhe/edge
@@ -2735,6 +2741,7 @@ svban/yankassassin.nvim
 svermeulen/nvim-lusc
 svermeulen/nvim-marksman
 svermeulen/nvim-moonmaker
+svermeulen/tea-leaves
 svermeulen/text-to-colorscheme
 svermeulen/vim-cutlass
 svermeulen/vim-easyclip
@@ -3213,6 +3220,7 @@ yonlu/omni.vim
 yorickpeterse/nvim-pqf
 yorickpeterse/nvim-tree-pairs
 yorickpeterse/nvim-window
+yorickpeterse/vim-paper
 you-n-g/simplegpt.nvim
 yqlbu/neovim-server
 ysmb-wtsg/in-and-out.nvim
@@ -3275,8 +3283,10 @@ ziontee113/selectease
 ziontee113/syntax-tree-surfer
 zirrostig/vim-schlepp
 zjp-cn/nvim-cmp-lsp-rs
+zongben/autocaps.nvim
 zootedb0t/citruszest.nvim
 zotlann/docker-nvim
 zsaberlv0/completeparameter_generic.vim
 zsnails/neoneedskey
 zsugabubus/crazy8.nvim
+zuzmuz/nvimawscli
