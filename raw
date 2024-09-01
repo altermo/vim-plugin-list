@@ -53,6 +53,7 @@ adeattwood/ivy.nvim
 adelarsq/image_preview.nvim
 adelarsq/neoline.vim
 adelarsq/snake_cursor.nvim
+adelowo/dockercomposelogs.nvim
 adia-dev/cpy_buffers.nvim
 adigitoleo/haunt.nvim
 adisen99/apprentice.nvim
@@ -139,6 +140,7 @@ andersevenrud/cmp-tmux
 andersevenrud/nordic.nvim
 andersevenrud/nvim_context_vt
 andreicristianpetcu/vim-van
+andreluisos/nvim-jpagenie
 andreluisos/nvim-springutils
 andrewferrier/debugprint.nvim
 andrewferrier/textobj-diagnostic.nvim
@@ -1117,6 +1119,7 @@ itmecho/neoterm.nvim
 ivanjermakov/troublesum.nvim
 ivyl/vim-bling
 ixru/nvim-markdown
+izelnakri/async.nvim
 jaawerth/fennel-nvim
 jackguo380/vim-lsp-cxx-highlight
 jackielii/neo-tree-harpoon.nvim
@@ -1125,6 +1128,7 @@ jack-rabe/impl.nvim
 jacoborus/tender.vim
 jakemason/ouroboros
 jakergrossman/tagurl.vim
+jake-stewart/multicursor.nvim
 jake-stewart/slide.nvim
 jakewvincent/mkdnflow.nvim
 jakewvincent/texmagic.nvim
@@ -1271,6 +1275,7 @@ juliaeditorsupport/deoplete-julia
 julian/lean.nvim
 julian/vim-textobj-variable-segment
 julienr/vim-cellmode
+julienvincent/clojure-test.nvim
 julienvincent/hunk.nvim
 julienvincent/nvim-paredit
 junegunn/fzf
@@ -1618,6 +1623,7 @@ mackeper/seshmgr.nvim
 macthecadillac/vimdo
 madskjeldgaard/cppman.nvim
 madskjeldgaard/reaper-nvim
+magicalne/nvim.ai
 magicduck/grug-far.nvim
 magicmonty/sonicpi.nvim
 majutsushi/tagbar
@@ -1639,6 +1645,7 @@ marko-cerovac/material.nvim
 markonm/traces.vim
 marskey/telescope-sg
 martineausimon/nvim-bard
+marzeq/command-runner.nvim
 massix/org-checkbox.nvim
 massix/termux.nvim
 massolari/forem.nvim
@@ -1646,6 +1653,7 @@ matarina/nvim_ds_repl
 matbme/jabs.nvim
 mateiadrielrafael/scrap.nvim
 mateuszwieloch/automkdir.nvim
+matkrin/telescope-spell-errors.nvim
 matsui54/defx-sftp
 matsuuu/pinkmare
 mattboehm/vim-accordion
@@ -1663,6 +1671,7 @@ mawkler/demicolon.nvim
 mawkler/friendly-snippets
 mawkler/modicator.nvim
 mawkler/onedark.nvim
+mawkler/refjump.nvim
 max-0406/autoclose.nvim
 max397574/better-escape.nvim
 max397574/cmp-greek
@@ -2235,6 +2244,7 @@ pseewald/vim-anyfold
 psjay/blamer.nvim
 psjay/buffer-closer.nvim
 psliwka/vim-smoothie
+psych3r/vim-remembers
 ptdewey/darkearth-nvim
 ptdewey/pendulum-nvim
 ptdewey/yankbank-nvim
@@ -2524,6 +2534,7 @@ sbulav/nredir.nvim
 scalameta/nvim-metals
 scheisa/relpointers.nvim
 scjangra/files-nvim
+scjangra/table-nvim
 scottmckendry/cyberdream.nvim
 scottmckendry/telescope-resession.nvim
 scottmckendry/windots
@@ -2692,6 +2703,7 @@ spolu/dwm.vim
 sqlait/monoconf.nvim
 sqve/bufignore.nvim
 sqve/sort.nvim
+sschleemilch/slimline.nvim
 sshelll/telescope-gott.nvim
 sshelll/telescope-switch.nvim
 sslivkoff/vim-scroll-barnacle
