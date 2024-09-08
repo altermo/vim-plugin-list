@@ -101,11 +101,14 @@ alessandroyorba/despacio
 alexaandru/nvim-lspupdate
 alexghergh/nvim-tmux-navigation
 alexis12119/nightly.nvim
+alexpasmantier/pymple.nvim
 alexshelto/boringcomment.nvim
 alextricity25/nvim_weekly_plugin_configs
 alexvzyl/nordic.nvim
 alfredodeza/coveragepy.vim
 aliqyan-21/darkvoid.nvim
+aliqyan-21/runta.nvim
+aliqyan-21/wit.nvim
 allaman/emoji.nvim
 allendang/nvim-expand-expr
 almo7aya/openingh.nvim
@@ -222,6 +225,7 @@ ashfinal/qfview.nvim
 ashfinal/vim-colors-paper
 asins/vim-dict
 askfiy/catppuccin
+askfiy/http-client.nvim
 askfiy/nvim
 askfiy/nvim-picgo
 askfiy/visual_studio_code
@@ -267,6 +271,7 @@ badhi/nvim-treesitter-cpp-tools
 bagrat/vim-buffet
 bakks/butterfish.nvim
 barklan/capslock.nvim
+baroldgene/git-links.nvim
 barreiroleo/ltex_extra.nvim
 bartman/history-select.nvim
 bartste/nvim-projectrc
@@ -1383,6 +1388,7 @@ kingmichaelpark/age.nvim
 kiran94/edit-markdown-table.nvim
 kiran94/maim.nvim
 kiran94/s3edit.nvim
+kiyoon/python-import.nvim
 kizza/actionmenu.nvim
 kjuq/sixelview.nvim
 kkharji/lspsaga.nvim
@@ -2129,6 +2135,7 @@ othree/yajs.vim
 overcache/neosolarized
 owickstrom/vim-colors-paramount
 oxfist/night-owl.nvim
+oxy2dev/bars-n-lines.nvim
 oxy2dev/helpview.nvim
 oxy2dev/helpview.nvim.git
 oxy2dev/intro.nvim
@@ -2233,6 +2240,7 @@ preservim/vim-wordchipper
 presindent/coddit.nvim
 prettier/vim-prettier
 previm/previm
+pre-z/telescope-tmuxing.nvim
 prichrd/netrw.nvim
 prichrd/refgo.nvim
 prichrd/vwd.nvim
@@ -2862,6 +2870,7 @@ timeyyy/orchestra.nvim
 timotheesai/git-sessions.nvim
 timuntersberger/neofs
 timuntersberger/neogit
+tingey21/telescope-colorscheme-persist.nvim
 titanzero/zephyrium
 tjdevries/colorbuddy.nvim
 tjdevries/colorbuddy.vim
@@ -3283,6 +3292,7 @@ zeioth/none-ls-autoload.nvim
 zeioth/none-ls-external-sources.nvim
 zenbro/mirror.vim
 zerochae/telescope-spring.nvim
+zerogtiger/targetfile.nvim
 zgpio/brew.nvim
 zgpio/tree.nvim
 zhimsel/vim-stay
