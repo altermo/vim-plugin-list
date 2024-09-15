@@ -914,7 +914,6 @@ gleitz/howdoi
 glench/vim-jinja2-syntax
 glepnir/dashboard-nvim
 glepnir/galaxyline.nvim
-glepnir/indent-guides.nvim
 glepnir/lspsaga.nvim
 glepnir/prodoc.nvim
 glepnir/spaceline.vim

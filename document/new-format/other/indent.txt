@@ -1,7 +1,6 @@
 zsugabubus/crazy8.nvim : NeoVim plugin that automagically configures 'tabstop', 'shiftwidth', 'softtabstop' and 'expandtab'
 vim-scripts/fortran.vim : adds additional indentation rules
 darazaki/indent-o-matic : Dumb automatic fast indentation detection for Neovim written in Lua
-glepnir/indent-guides.nvim : async render indent guides
 nathanaelkane/vim-indent-guides : visually displaying indent levels in Vim [not maintain]
 rbtnn/vim-vimscript_indentexpr : helps with line indentation
 hrsh7th/vim-gindent : General indentexpr plugin

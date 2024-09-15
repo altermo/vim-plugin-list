@@ -843,7 +843,6 @@ _Other BETER vim plugin lists: [awesome-vim](https://github.com/akrawchyk/awesom
   * [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) : automatically adjusts `'shiftwidth'` and `'expandtab'` heuristically based on the current file
 ## indent
   * [darazaki/indent-o-matic](https://github.com/darazaki/indent-o-matic) : Dumb automatic fast indentation detection for Neovim written in Lua
-  * [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) : async render indent guides
   * [hrsh7th/vim-gindent](https://github.com/hrsh7th/vim-gindent) : General indentexpr plugin
   * [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) : visually displaying indent levels in Vim [not maintain]
   * [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) : minimal indentline plugin
