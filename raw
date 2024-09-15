@@ -63,6 +63,7 @@ adriaanzon/vim-textobj-blade-directive
 adriaanzon/vim-textobj-matchit
 agoodshort/telescope-git-submodules.nvim
 agusdolard/backout.nvim
+agusnt/askgemini.nvim
 ahmedkhalf/jupyter-nvim
 ahmedkhalf/lsp-rooter.nvim
 ahmedkhalf/notif.nvim
@@ -379,6 +380,7 @@ catgoose/coderunner.nvim
 catgoose/do-the-needful
 catgoose/do-the-needful.nvim
 catgoose/telescope-helpgrep.nvim
+catgoose/templ-goto-definition
 catgoose/vue-goto-definition.nvim
 cathywu/vim-todo
 catppuccin/nvim
@@ -514,6 +516,7 @@ cshuaimin/ssr.nvim
 cstsunfu/.sea.nvim
 ctrlpvim/ctrlp.vim
 cuducos/yaml.nvim
+cursorless-dev/cursorless
 cvigilv/esqueleto.nvim
 cvigilv/patana.nvim
 cvusmo/linuxunrealbuildtool.nvim
@@ -662,6 +665,7 @@ dpelle/vim-languagetool
 dpzmick/neovim-hackernews
 dracula/vim
 dradtke/vim-dap
+drazil100/dusklight.vim
 drmikehenry/vim-fixkey
 drmingdrmer/xptemplate
 dronakurl/injectme.nvim
@@ -961,6 +965,7 @@ hackorum/vapournvim
 haifengkao/insertleftbracket.nvim
 hajime-suzuki/vuffers.nvim
 hakonharnes/img-clip.nvim
+hands-free-vim/cursorless.nvim
 hanschen/vim-ipython-cell
 haorenw1025/completion-nvim
 hardenedapple/vsh
@@ -1080,6 +1085,7 @@ idanarye/nvim-impairative
 idanarye/nvim-moonicipal
 idanarye/vim-merginal
 ido-nvim/ido.nvim
+iguanacucumber/highlight-actions.nvim
 ilyasyoy/obs.nvim
 imbacraft/dusk.nvim
 imnel/monorepo.nvim
@@ -1767,6 +1773,7 @@ mike-jl/harpoonex
 mikeslattery/ax.nvim
 mikesmithgh/git-prompt-string-lualine.nvim
 mikesmithgh/kitty-scrollback.nvim
+mikew/nvim-drawer
 milanglacier/minuet-ai.nvim
 milanglacier/yarepl.nvim
 mileszs/ack.vim
@@ -1923,6 +1930,7 @@ nihancj/plugin-switcher.nvim
 nikvdp/neomux
 nil70n/floating-help
 nilsboy/vim-textobj-cindent
+nitrosniper/autowrite.nvim
 niuiic/code-shot.nvim
 niuiic/core.nvim
 niuiic/cp-image.nvim
@@ -2527,6 +2535,7 @@ samoshkin/vim-find-files
 samoshkin/vim-mergetool
 sam-programs/cmdline-hl.nvim
 sam-programs/expand.nvim
+samsze0/fzf.nvim
 sanhajio/synonyms.vim
 sarrisv/readermode.nvim
 sathishmanohar/quick-buffer-jump
@@ -2980,6 +2989,7 @@ tweekmonster/impsort.vim
 tweekmonster/startuptime.vim
 twistoy/luasnip-snippets
 tyler-barham/floating-help.nvim
+typed-rocks/ts-worksheet-neovim
 tyrannicaltoucan/vim-deep-space
 tyru/capture.vim
 tyru/caw.vim
