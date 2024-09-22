@@ -257,6 +257,7 @@ ayosec/hltermpaste.vim
 azabiong/vim-highlighter
 azatakmyradov/easyswitch.nvim
 aznhe21/actions-preview.nvim
+azratul/live-share.nvim
 b0o/incline.nvim
 b0o/lavi.nvim
 b0o/mapx.nvim
@@ -746,6 +747,7 @@ emmanueltouzery/code-compass.nvim
 emmanueltouzery/decisive.nvim
 emmanueltouzery/elixir-extras.nvim
 eoh-bse/minintro.nvim
+epilande/checkbox-cycle.nvim
 epwalsh/obsidian.nvim
 epwalsh/pomo.nvim
 e-q/okcolors.nvim
@@ -1440,6 +1442,7 @@ ktunprasert/gui-font-resize.nvim
 kungfusheep/i.nvim
 kungfusheep/randomquote.nvim
 kungfusheep/randomword.nvim
+kurama622/llm.nvim
 kutiny/colors.nvim
 kuznetsss/delegate.nvim
 kuznetsss/meadow-nvim
@@ -1766,6 +1769,7 @@ michamos/vim-bepo
 mickael-menu/shadowvim
 mickael-menu/zk-nvim
 micmine/jumpwire.nvim
+midobb/nvim-quicktype
 miguelcrespo/scratch-buffer.nvim
 mihaifm/bufstop
 miikanissi/modus-themes.nvim
@@ -2094,6 +2098,7 @@ odie/gitabra
 ofirgall/goto-breakpoints.nvim
 ofirgall/ofirkai.nvim
 ofirgall/open.nvim
+oflisback/describe-command.nvim
 ojroques/nvim-bufbar
 ojroques/nvim-bufdel
 ojroques/nvim-hardline
@@ -2463,6 +2468,7 @@ roobert/tailwindcss-colorizer-cmp.nvim
 roodolv/markdown-toggle.nvim
 roosta/fzf-folds.vim
 rootiest/astral.nvim
+rootiest/nvim-updater.nvim
 rorynesbitt/dotfyle-cli
 rose-pine/neovim
 rouge8/neotest-rust
@@ -2560,6 +2566,7 @@ scrooloose/vim-slumlord
 seandewar/killersheep.nvim
 seandewar/nvimesweeper
 segeljakt/vim-silicon
+selectnull/plugin-readme.nvim
 selyss/mind.nvim
 serenevoid/kiwi.nvim
 sergioribera/cmp-dotenv
