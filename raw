@@ -1162,6 +1162,7 @@ jackielii/neo-tree-harpoon.nvim
 jackmort/chatgpt.nvim
 jack-rabe/impl.nvim
 jacoborus/tender.vim
+jaimecgomezz/here.term
 jakemason/ouroboros
 jakergrossman/tagurl.vim
 jake-stewart/multicursor.nvim
@@ -2512,6 +2513,7 @@ rootiest/astral.nvim
 rootiest/nvim-updater.nvim
 rorynesbitt/dotfyle-cli
 rose-pine/neovim
+rosesecurity/atmos.nvim
 rouge8/neotest-rust
 roxma/nvim-ascript
 roxma/nvim-completion-manager
