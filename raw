@@ -292,6 +292,7 @@ bekaboo/dropbar.nvim
 beloglazov/vim-online-thesaurus
 benekastah/neomake
 benfowler/telescope-luasnip.nvim
+benlubas/cmp2lsp
 benlubas/image-save.nvim
 benlubas/molten-nvim
 benlubas/wrapping-paper.nvim
@@ -307,9 +308,11 @@ bfrg/vim-qf-preview
 bgaillard/readonly.nvim
 bi0ha2ard/telescope-ros.nvim
 birdeehub/nixcats-nvim
+bjarneo/lazyvim-cheatsheet.nvim
 bkad/camelcasemotion
 bkegley/gloombuddy
 bkoropoff/bex.nvim
+blanktiger/aqf.nvim
 blazkowolf/gruber-darker.nvim
 bleksak/diffthis.nvim
 bleksak/laravel-ide-helper.nvim
@@ -912,6 +915,7 @@ gbrlsnchs/telescope-lsp-handlers.nvim
 gcballesteros/jupytext.nvim
 gcballesteros/notebooknavigator.nvim
 gcmt/cmdfix.nvim
+gcmt/vessel.nvim
 gcmt/wildfire.vim
 gczcn/antonym.nvim
 geg2102/nvim-python-repl
@@ -997,6 +1001,8 @@ hardselius/warlock
 haringsrob/nvim_context_vt
 harrisoncramer/gitlab.nvim
 harrisoncramer/jump-tag
+hat0uma/doxygen-previewer.nvim
+hat0uma/prelive.nvim
 hauleth/usnip.vim
 haya14busa/incsearch-easymotion.vim
 haya14busa/incsearch-fuzzy.vim
@@ -1090,6 +1096,7 @@ hubro/nvim-splitrun
 huggingface/llm.nvim
 hupfdule/refactorvim
 huynle/ogpt.nvim
+hwblx/vsnt
 hyiltiz/vim-plugins-profile
 iabdelkareem/csharp.nvim
 iamcco/coc-spell-checker
@@ -1178,6 +1185,7 @@ jameshiew/nvim-magic
 jamessan/vim-gnupg
 jamestthompson3/nvim-remote-containers
 janko-m/vim-test
+jannotjarks/tflint.nvim
 jaredgorski/spacecamp
 jasonboyett/goethe.nvim
 javahello/spring-boot.nvim
@@ -1936,6 +1944,7 @@ ncm2/ncm2
 neanias/everforest-nvim
 nedra1998/nvim-mdlink
 nekonako/xresources-nvim
+nekowasabi/aider.vim
 nelstrom/vim-cutlass
 neoclide/coc-highlight
 neoclide/coc.nvim
@@ -1966,6 +1975,7 @@ nightsense/cosmic_latte
 nightsense/snow
 nightsense/stellarized
 nihancj/plugin-switcher.nvim
+nikitarevenco/instant-lsp.nvim
 nikvdp/neomux
 nil70n/floating-help
 nilsboy/vim-textobj-cindent
@@ -2032,6 +2042,7 @@ numtostr/bufonly.nvim
 numtostr/comment.nvim
 numtostr/fterm.nvim
 numtostr/navigator.nvim
+nvchad/minty
 nvchad/nvchad
 nvchad/nvim-colorizer.lua
 nvchad/ui
@@ -2957,6 +2968,7 @@ tobinpalmer/rayso.nvim
 tobinpalmer/tip.nvim
 tobys/pdv
 tokiory/neovim-boilerplate
+tokisuno/vling
 tom-anders/telescope-vim-bookmarks.nvim
 tomasiser/vim-code-dark
 tomasky/bookmarks.nvim
@@ -3254,6 +3266,7 @@ wsdjeg/vim-cheat
 wsdjeg/vim-fetch
 wsdjeg/vim-todo
 wuelnerdotexe/vim-enfocado
+wurli/cobalt.nvim
 wyattjsmith1/weather.nvim
 x3ero0/dired.nvim
 xeluxee/competitest.nvim
