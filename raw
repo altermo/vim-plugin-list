@@ -108,6 +108,7 @@ alexpasmantier/pymple.nvim
 alexshelto/boringcomment.nvim
 alextricity25/nvim_weekly_plugin_configs
 alexvzyl/nordic.nvim
+alexxgmz/player.nvim
 alfredodeza/coveragepy.vim
 aliqyan-21/darkvoid.nvim
 aliqyan-21/runta.nvim
@@ -307,6 +308,7 @@ bfredl/nvim-miniyank
 bfrg/vim-qf-preview
 bgaillard/readonly.nvim
 bi0ha2ard/telescope-ros.nvim
+birdeehub/lze
 birdeehub/nixcats-nvim
 bjarneo/lazyvim-cheatsheet.nvim
 bkad/camelcasemotion
@@ -550,6 +552,7 @@ dahu/asif
 dahu/vim-fanfingtastic
 dahu/vimple
 daic0r/dap-helper.nvim
+daic0r/hashtags.nvim
 dam9000/kickstart-modular.nvim
 dan7h3x/chatter.nvim
 danielfalk/smart-open.nvim
@@ -647,6 +650,7 @@ dinhhuy258/git.nvim
 dinhhuy258/sfm.nvim
 diogo-ss/42-header.nvim
 diogo-ss/five-server.nvim
+divagueame/lacasitos.nvim
 djancyp/better-comments.nvim
 dkarter/bullets.vim
 dkendal/nvim-kitty
@@ -791,6 +795,7 @@ evanquan/vim-textobj-delimiters
 everblush/everblush.nvim
 everduin94/nvim-quick-switcher
 evesdropper/luasnip-latex-snippets.nvim
+evwilson/spelunk.nvim
 exafunction/codeium.vim
 f3fora/cmp-spell
 f3fora/nvim-texlabconfig
@@ -1061,6 +1066,7 @@ hrsh7th/cmp-nvim-lua
 hrsh7th/cmp-omni
 hrsh7th/cmp-path
 hrsh7th/cmp-vsnip
+hrsh7th/nvim-automa
 hrsh7th/nvim-cmp
 hrsh7th/nvim-compe
 hrsh7th/nvim-dansa
@@ -1118,6 +1124,7 @@ idanarye/nvim-moonicipal
 idanarye/vim-merginal
 ido-nvim/ido.nvim
 iguanacucumber/highlight-actions.nvim
+iguanacucumber/magazine.nvim
 ilyasyoy/obs.nvim
 imbacraft/dusk.nvim
 imnel/monorepo.nvim
@@ -1159,6 +1166,7 @@ itchyny/vim-highlighturl
 itchyny/vim-qfedit
 itmecho/bufterm.nvim
 itmecho/neoterm.nvim
+itsvinayak/nvim-notes.nvim
 ivanjermakov/troublesum.nvim
 ivyl/vim-bling
 ixru/nvim-markdown
@@ -1818,6 +1826,7 @@ mikeslattery/ax.nvim
 mikesmithgh/git-prompt-string-lualine.nvim
 mikesmithgh/kitty-scrollback.nvim
 mikew/nvim-drawer
+mikew/nvrh
 milanglacier/minuet-ai.nvim
 milanglacier/yarepl.nvim
 mileszs/ack.vim
@@ -1837,6 +1846,7 @@ misanthropicbit/vim-numbers
 mistgc/pinmd.nvim
 mistricky/codesnap.nvim
 mistweaverco/kulala-cmp-graphql.nvim
+mistweaverco/kulala-ls
 mistweaverco/kulala.nvim
 miversen33/import.nvim
 miversen33/netman.nvim
@@ -2042,6 +2052,7 @@ numtostr/bufonly.nvim
 numtostr/comment.nvim
 numtostr/fterm.nvim
 numtostr/navigator.nvim
+nvchad/menu
 nvchad/minty
 nvchad/nvchad
 nvchad/nvim-colorizer.lua
@@ -2074,6 +2085,7 @@ nvim-lua/popup.nvim
 nvim-neorg/neorg
 nvim-neorg/neorg-telescope
 nvim-neorocks/luarocks-tag-release
+nvim-neorocks/lz.n
 nvim-neorocks/nvim-busted-action
 nvim-neorocks/rocks-lazy.nvim
 nvim-neorocks/rocks.nvim
@@ -2580,6 +2592,7 @@ saccarosium/neomarks
 sachinsenal0x64/hot.nvim
 saecki/crates.nvim
 saecki/live-rename.nvim
+saghen/blink.cmp
 sahlte/timed-highlight.nvim
 saifulapm/chartoggle.nvim
 sainnhe/edge
