@@ -10,6 +10,7 @@
 2giosangmitom/nightfall.nvim
 2hdddg/fex.nvim
 2kabhishek/nerdy.nvim
+2kabhishek/octohub.nvim
 2kabhishek/tdo.nvim
 2kabhishek/termim.nvim
 2nthony/vitesse.nvim
@@ -553,6 +554,7 @@ dahu/vim-fanfingtastic
 dahu/vimple
 daic0r/dap-helper.nvim
 daic0r/hashtags.nvim
+daliusd/ghlite.nvim
 dam9000/kickstart-modular.nvim
 dan7h3x/chatter.nvim
 danielfalk/smart-open.nvim
@@ -561,6 +563,7 @@ danielpieper/telescope-tmuxinator.nvim
 daniilrozanov/cmake.nvim
 danilamihailov/beacon.nvim
 danilshvalov/org-modern.nvim
+danwlker/toolbox.nvim
 danymat/neogen
 dapc11/telescope-yaml.nvim
 darazaki/indent-o-matic
@@ -1000,6 +1003,7 @@ hajime-suzuki/vuffers.nvim
 hakonharnes/img-clip.nvim
 hands-free-vim/cursorless.nvim
 hanschen/vim-ipython-cell
+hanspinckaers/zap.nvim
 haorenw1025/completion-nvim
 hardenedapple/vsh
 hardselius/warlock
@@ -1175,6 +1179,7 @@ jaawerth/fennel-nvim
 jackguo380/vim-lsp-cxx-highlight
 jackielii/neo-tree-harpoon.nvim
 jackmort/chatgpt.nvim
+jackmort/tide.nvim
 jack-rabe/impl.nvim
 jacoborus/tender.vim
 jaimecgomezz/here.term
@@ -1761,6 +1766,7 @@ maxmx03/schemecraft
 maxst/flatcolor
 mayorbyrne/dart-checkforsdkupdates.nvim
 mbbill/undotree
+mcauley-penney/ice-cave.nvim
 mcauley-penney/tidy.nvim
 mcauley-penney/visual-whitespace.nvim
 mcchrish/nnn.vim
@@ -1956,6 +1962,7 @@ nedra1998/nvim-mdlink
 nekonako/xresources-nvim
 nekowasabi/aider.vim
 nelstrom/vim-cutlass
+neo451/feed.nvim
 neoclide/coc-highlight
 neoclide/coc.nvim
 neoclide/coc-pairs
@@ -2009,6 +2016,7 @@ niuiic/track.nvim
 niuiic/translate.nvim
 niuiic/typst-preview.nvim
 nivek77pur/midi-input.nvim
+njayman/season.nvim
 nkakouros-original/numbers.nvim
 nkakouros-original/scrollofffraction.nvim
 nmac427/guess-indent.nvim
@@ -2642,6 +2650,7 @@ selyss/mind.nvim
 serenevoid/kiwi.nvim
 sergioribera/cmp-dotenv
 sergioribera/codeshot.nvim
+sethen/line-number-change-mode.nvim
 severin-lemaignan/vim-minimap
 sgauvin/ctest-telescope.nvim
 sgur/vim-editorconfig
