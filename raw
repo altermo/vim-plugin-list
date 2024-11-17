@@ -62,6 +62,7 @@ adia-dev/cpy_buffers.nvim
 adigitoleo/haunt.nvim
 adisen99/apprentice.nvim
 adisen99/codeschool.nvim
+adiy00/copy-tree.nvim
 adoyle-h/one.nvim
 adoy/vim-php-refactoring-toolbox
 adriaanzon/vim-textobj-blade-directive
@@ -873,6 +874,7 @@ folke/neodev.nvim
 folke/noice.nvim
 folke/paint.nvim
 folke/persistence.nvim
+folke/snacks.nvim
 folke/styler.nvim
 folke/todo-comments.nvim
 folke/tokyonight.nvim
@@ -986,6 +988,7 @@ gr3yh4tt3r93/zellij-nav.nvim
 graphql/graphiql
 grapp-dev/nui-components.nvim
 gregorias/coerce.nvim
+gregorias/coop.nvim
 gregorias/toggle.nvim
 gregsexton/gitv
 groenewege/vim-less
@@ -1330,6 +1333,7 @@ jpmcb/nvim-llama
 jpo/vim-railscasts-theme
 jrasmusbm/vim-peculiar
 jreybert/vimagit
+jrop/u.nvim
 jrychn/modulevim
 jsborjesson/vim-uppercase-sql
 jsfaint/gen_tags.vim
@@ -1348,6 +1352,7 @@ julienr/vim-cellmode
 julienvincent/clojure-test.nvim
 julienvincent/hunk.nvim
 julienvincent/nvim-paredit
+junaydb/md-img-insert.nvim
 junegunn/fzf
 junegunn/fzf.vim
 junegunn/goyo.vim
@@ -1504,6 +1509,7 @@ kungfusheep/i.nvim
 kungfusheep/randomquote.nvim
 kungfusheep/randomword.nvim
 kurama622/llm.nvim
+kurama622/profile.nvim
 kutiny/colors.nvim
 kuznetsss/delegate.nvim
 kuznetsss/meadow-nvim
@@ -1512,6 +1518,7 @@ kvrohit/rasmus.nvim
 kvrohit/substrata.nvim
 kwkarlwang/bufjump.nvim
 kwkarlwang/bufresize.nvim
+kyallanum/ndi.nvim
 kyazdani42/blue-moon
 kyazdani42/nvim-palenight.lua
 kyazdani42/nvim-tree.lua
@@ -1802,6 +1809,7 @@ metakirby5/codi.vim
 metalelf0/jellybeans-nvim
 meuter/lualine-so-fancy.nvim
 meznaric/conmenu
+meznaric/key-analyzer.nvim
 mfussenegger/nvim-dap
 mfussenegger/nvim-dap-python
 mfussenegger/nvim-fzy
@@ -2157,6 +2165,9 @@ nvim-treesitter/nvim-treesitter-textobjects
 nvim-treesitter/playground
 nvim-zh/colorful-winsep.nvim
 nvoid-lua/nvoid
+nvzone/menu
+nvzone/minty
+nvzone/volt
 nxvu699134/vn-night.nvim
 nyngwang/murmur.lua
 nyngwang/neononame.lua
@@ -2173,6 +2184,8 @@ oberblastmeister/neuron.nvim
 oberblastmeister/termwrapper.nvim
 observeroftime/notifications.nvim
 observeroftime/nvimcord
+oclay1st/gradle.nvim
+oclay1st/maven.nvim
 octaltree/cmp-look
 octol/vim-cpp-enhanced-highlight
 odie/gitabra
