@@ -689,6 +689,7 @@ domsch1988/mattern.nvim
 donraphaco/neotex
 doom-neovim/doom-nvim
 dorage/ts-manual-import.nvim
+doriancmore/practice.nvim
 dosimple/workspace.vim
 dosx001/cmp-commit
 doums/barow
@@ -892,6 +893,7 @@ f-person/git-blame.nvim
 frabjous/knap
 francoiscabrol/ranger.vim
 franespeche/strawberry
+franespeche/teleport.nvim
 frankroeder/parrot.nvim
 frans-johansson/lazy-nvim-starter
 fraserlee/scratchpad
@@ -1101,6 +1103,7 @@ hrsh7th/vim-lamp
 hrsh7th/vim-seak
 hrsh7th/vim-searchx
 hrsh7th/vim-vsnip
+h-tiwari-kusho/api-test-generator
 https://gitlab.com/dbeniamine/vim-mail
 https://gitlab.com/groctel/jobsplit.nvim
 https://gitlab.com/hiphish/repl.nvim
@@ -1438,6 +1441,7 @@ keith/swift.vim
 kelly-lin/ranger.nvim
 kelly-lin/telescope-ag
 kento-ogata/cmp-tsnip
+kesor/clangd-unfurl.nvim
 kethku/neovide
 kevinhwang91/nvim-bqf
 kevinhwang91/nvim-ffhighlight
@@ -1509,6 +1513,7 @@ kungfusheep/i.nvim
 kungfusheep/randomquote.nvim
 kungfusheep/randomword.nvim
 kurama622/llm.nvim
+kurama622/markdown-org
 kurama622/profile.nvim
 kutiny/colors.nvim
 kuznetsss/delegate.nvim
@@ -2066,6 +2071,7 @@ nstefan002/donut.nvim
 nstefan002/screenkey.nvim
 nstefan002/speedtyper.nvim
 nstefan002/visual-surround.nvim
+nstefan002/wormhole.nvim
 ntbbloodbath/cheovim
 ntbbloodbath/color-converter.nvim
 ntbbloodbath/doom-nvim
@@ -2490,6 +2496,7 @@ rhysd/vim-startuptime
 rhysd/vim-syntax-christmas-tree
 rhysd/vim-textobj-anyblock
 ribru17/bamboo.nvim
+ribru17/ts_query_ls
 ricardoramirezr/blade-nav.nvim
 ricardoramirezr/lali-components.nvim
 ricardoramirezr/php-use-sort.nvim
@@ -3330,6 +3337,7 @@ wuelnerdotexe/vim-enfocado
 wurli/cobalt.nvim
 wyattjsmith1/weather.nvim
 x3ero0/dired.nvim
+xavierchanth/arbor.nvim
 xeluxee/competitest.nvim
 xero/miasma.nvim
 xiantang/darcula-dark.nvim
@@ -3362,6 +3370,7 @@ yaocccc/nvim-hlchunk
 yaocccc/nvim-hl-mdcodeblock.lua
 yaocccc/nvim-lines.lua
 yaocccc/vim-hlchunk
+yarospace/lua-console.nvim
 yashguptaz/calvera-dark.nvim
 yatli/fvim
 yazeed1s/minimal.nvim
@@ -3437,6 +3446,7 @@ zerochae/telescope-spring.nvim
 zerogtiger/targetfile.nvim
 zgpio/brew.nvim
 zgpio/tree.nvim
+zgs225/gomodifytags.nvim
 zhimsel/vim-stay
 zhiyuanlck/smart-pairs
 zidhuss/neotest-minitest
@@ -3454,3 +3464,4 @@ zsaberlv0/completeparameter_generic.vim
 zsnails/neoneedskey
 zsugabubus/crazy8.nvim
 zuzmuz/nvimawscli
+zvnoob/heirline-cmdline
