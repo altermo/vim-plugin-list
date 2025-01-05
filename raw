@@ -245,6 +245,7 @@ askfiy/http-client.nvim
 askfiy/nvim
 askfiy/nvim-picgo
 askfiy/visual_studio_code
+asmorris/line_notes.nvim
 aspeddro/cmp-pandoc.nvim
 aspeddro/lsp_menu.nvim
 astronvim/astrolsp
@@ -252,6 +253,7 @@ astronvim/astronvim
 asvetliakov/vscode-neovim
 atiladefreitas/dooing
 atiladefreitas/lazyclip
+atiladefreitas/tinyunit
 atinylittleshell/comment-repl.nvim
 atlj/pixie.nvim
 atmosuwiryo/vim-winteriscoming
@@ -260,6 +262,7 @@ atusy/treemonkey.nvim
 atusy/tsnode-marker.nvim
 ausgefuchster/quickselect.nvim
 autozimu/languageclient-neovim
+aweis89/aider.nvim
 axelf4/vim-strip-trailing-whitespace
 axelvc/template-string.nvim
 axieax/urlview.nvim
@@ -768,6 +771,7 @@ edluffy/hologram.nvim
 edluffy/specs.nvim
 edolphin-ydf/goimpl.nvim
 edte/normal-colon.nvim
+eero-lehtinen/oklch-color-picker.nvim
 efueyo/td.nvim
 egalpin/apt-vim
 egzvor/vimproviser
@@ -2339,6 +2343,7 @@ pianocomposer321/consolation.nvim
 pianocomposer321/officer.nvim
 pianocomposer321/project-templates.nvim
 pianocomposer321/yabs.nvim
+pieces-app/plugin_neovim
 piersolenski/telescope-import.nvim
 piersolenski/wtf.nvim
 piotr1215/toggler.nvim
@@ -2880,6 +2885,7 @@ spacevim/gtags.vim
 spacevim/spacevim
 speelbarrow/splauncher.nvim
 sphamba/smear-cursor.nvim
+spinalshock/spotify.nvim
 spolu/dwm.vim
 sqlait/monoconf.nvim
 sqve/bufignore.nvim
